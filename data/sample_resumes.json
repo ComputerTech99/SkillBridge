@@ -10,5 +10,11 @@
     "target_role": "Backend Python Developer",
     "default_city": "Bengaluru, Karnataka, India",
     "resume_text": "Priya Nair\nJunior Backend Developer | 1.5 Years Experience | Bengaluru, India\n\nSUMMARY\nBackend developer experienced in building RESTful web services, relational database schemas, and data-processing scripts in Python.\n\nTECHNICAL SKILLS\nLanguages: Python 3, SQL\nFrameworks: Flask, Django REST Framework\nDatabases: PostgreSQL, SQLite\nTools & Practices: Git, Linux, REST API, Agile\n\nEXPERIENCE\nJunior Software Engineer, FinLedger Tech (Jul 2024 - Present)\n- Developed and maintained REST API endpoints in Flask and Django for invoice reconciliation.\n- Wrote optimized PostgreSQL queries and schema migrations handling 100k+ monthly records.\n- Collaborated in Agile sprints using Git pull requests and code reviews.\n\nPROJECTS\nExpense Tracker API (Python, Flask, PostgreSQL)\n- Built JWT-authenticated CRUD endpoints with input validation and structured error responses."
+  },
+  {
+    "name": "Data Science Graduate (Data Analyst)",
+    "target_role": "Data Analyst",
+    "default_city": "Mumbai, Maharashtra, India",
+    "resume_text": "Rohan Deshmukh\nB.Sc. Data Science & Analytics | Mumbai, India\n\nSUMMARY\nEntry-level Data Analyst skilled in exploratory data analysis, SQL querying, spreadsheet modeling, and interactive BI dashboards.\n\nTECHNICAL SKILLS\nLanguages & Libraries: Python, SQL, Pandas, NumPy\nBI & Reporting: Tableau, Microsoft Excel\n\nPROJECTS\nRetail Revenue & Cohort Retention Analysis (Python, Pandas, SQL, Tableau)\n- Analyzed 250k+ e-commerce transactions using SQL window functions and Pandas to identify churn drivers.\n- Built an interactive Tableau story tracking monthly recurring revenue and category margins.\n\nOperations KPI Tracker (Excel, Python)\n- Automated weekly spreadsheet cleanup using Python scripts and pivot tables."
   }
 ]

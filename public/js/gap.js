@@ -1,6 +1,7 @@
 /**
  * Shared ROI gap ranking, job readiness classification, and What-If simulation engine.
  * Pure ESM with zero Node/DOM dependencies so both server and browser share identical math.
+ * Computes both total market demand (jobs_unlocked) and marginal net_ready_unlocked per gap.
  */
 
 function computeJobCoverage(jobSkillsSet, effectiveSkillsSet) {
@@ -20,7 +21,31 @@ function computeJobCoverage(jobSkillsSet, effectiveSkillsSet) {
   };
 }
 
-function buildMissingGaps(demandList, effectiveSkillsSet) {
+function isJobReady(coverage, missingCount) {
+  return coverage >= 0.75 || missingCount <= 1;
+}
+
+function countMarginalReadyUnlocks(jobs, effectiveSkillsSet, candidateSkill) {
+  const augmented = new Set(effectiveSkillsSet);
+  augmented.add(candidateSkill);
+  let newlyReady = 0;
+
+  for (const job of jobs || []) {
+    const jobSkills = new Set(job.extracted_skills || []);
+    if (jobSkills.size === 0 || !jobSkills.has(candidateSkill)) continue;
+
+    const before = computeJobCoverage(jobSkills, effectiveSkillsSet);
+    if (isJobReady(before.coverage, before.missingCount)) continue;
+
+    const after = computeJobCoverage(jobSkills, augmented);
+    if (isJobReady(after.coverage, after.missingCount)) {
+      newlyReady += 1;
+    }
+  }
+  return newlyReady;
+}
+
+function buildMissingGaps(demandList, effectiveSkillsSet, jobs) {
   const missingDemands = (demandList || []).filter(
     (d) => !effectiveSkillsSet.has(d.skill)
   );
@@ -30,15 +55,24 @@ function buildMissingGaps(demandList, effectiveSkillsSet) {
       Array.isArray(demand.unlocked_job_ids) && demand.unlocked_job_ids.length > 0
         ? demand.unlocked_job_ids.length
         : Number(demand.job_count || 0);
+    const netReadyUnlocked = countMarginalReadyUnlocks(
+      jobs,
+      effectiveSkillsSet,
+      demand.skill
+    );
     return {
       skill: demand.skill,
       jobs_unlocked: unlocked,
+      net_ready_unlocked: netReadyUnlocked,
       demand_pct: Math.round(Number(demand.demand_pct || 0) * 10) / 10,
     };
   });
 
   scored.sort((a, b) => {
     if (b.jobs_unlocked !== a.jobs_unlocked) return b.jobs_unlocked - a.jobs_unlocked;
+    if (b.net_ready_unlocked !== a.net_ready_unlocked) {
+      return b.net_ready_unlocked - a.net_ready_unlocked;
+    }
     if (b.demand_pct !== a.demand_pct) return b.demand_pct - a.demand_pct;
     return a.skill.localeCompare(b.skill);
   });
@@ -76,7 +110,7 @@ export function analyzeSkillGaps({
     .sort();
   matchedSkills.push(...extraMatched);
 
-  const missingGaps = buildMissingGaps(demandList, effectiveSkills);
+  const missingGaps = buildMissingGaps(demandList, effectiveSkills, jobs);
 
   const readyCandidates = [];
   const almostCandidates = [];
@@ -89,7 +123,7 @@ export function analyzeSkillGaps({
     const { coverage, missingCount } = computeJobCoverage(jobSkills, effectiveSkills);
     coverages.push(coverage);
 
-    if (coverage >= 0.75 || missingCount <= 1) {
+    if (isJobReady(coverage, missingCount)) {
       readyCandidates.push({ coverage, missingCount, idx, job });
     } else if (missingCount >= 2 && missingCount <= 3) {
       almostCandidates.push({ coverage, missingCount, idx, job });

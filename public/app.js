@@ -4,6 +4,7 @@ const state = {
   presets: [],
   cities: [],
   activeResult: null,
+  toolkitData: null,
   simulatedSkills: new Set(),
   demandStatusFilter: "All",
   jobFilterQuery: "",
@@ -14,6 +15,7 @@ const state = {
 const els = {
   quickStudentBtn: document.getElementById("quickStudentBtn"),
   quickBackendBtn: document.getElementById("quickBackendBtn"),
+  quickAnalystBtn: document.getElementById("quickAnalystBtn"),
   sourceRadios: document.querySelectorAll('input[name="resumeSource"]'),
   presetPanel: document.getElementById("presetInputPanel"),
   pdfPanel: document.getElementById("pdfInputPanel"),
@@ -25,8 +27,10 @@ const els = {
   pastedResumeInput: document.getElementById("pastedResumeInput"),
   targetRoleInput: document.getElementById("targetRoleInput"),
   citySelect: document.getElementById("citySelect"),
+  useCacheCheckbox: document.getElementById("useCacheCheckbox"),
   analyzeLiveBtn: document.getElementById("analyzeLiveBtn"),
   loadOfflineBtn: document.getElementById("loadOfflineBtn"),
+  cacheStatsBadge: document.getElementById("cacheStatsBadge"),
   sidebarSkillsSection: document.getElementById("sidebarSkillsSection"),
   sidebarSkillsPills: document.getElementById("sidebarSkillsPills"),
   modeChip: document.getElementById("modeChip"),
@@ -71,6 +75,10 @@ const els = {
   filterBtns: document.querySelectorAll(".sb-filter-btn"),
   downloadCsvBtn: document.getElementById("downloadCsvBtn"),
   rawDemandTbody: document.getElementById("rawDemandTbody"),
+  atsBulletsList: document.getElementById("atsBulletsList"),
+  copyBulletsBtn: document.getElementById("copyBulletsBtn"),
+  runToolkitBtn: document.getElementById("runToolkitBtn"),
+  toolkitResultsWrap: document.getElementById("toolkitResultsWrap"),
 };
 
 function escapeHtml(value) {
@@ -80,6 +88,12 @@ function escapeHtml(value) {
     .replace(/>/g, "&gt;")
     .replace(/"/g, "&quot;")
     .replace(/'/g, "&#39;");
+}
+
+function updateCacheBadge(cacheStats) {
+  if (!cacheStats || typeof cacheStats.totalFiles !== "number") return;
+  const kb = Math.round((cacheStats.totalBytes || 0) / 1024);
+  els.cacheStatsBadge.textContent = `Cache DB: ${cacheStats.totalFiles} saved queries (${kb} KB)`;
 }
 
 function renderPillsHtml(skills, variant = "matched") {
@@ -121,6 +135,7 @@ function setLoading(isLoading, message = "Scanning live job market & extracting 
   els.loadOfflineBtn.disabled = isLoading;
   els.quickStudentBtn.disabled = isLoading;
   els.quickBackendBtn.disabled = isLoading;
+  if (els.quickAnalystBtn) els.quickAnalystBtn.disabled = isLoading;
 }
 
 function applySelectedPreset(index) {
@@ -150,7 +165,8 @@ async function runAnalysis(mode, overridePayload = null) {
       const source = getSelectedSource();
       const role = els.targetRoleInput.value.trim();
       const location = els.citySelect.value;
-      payload = { mode, role, location };
+      const useCache = els.useCacheCheckbox ? els.useCacheCheckbox.checked : true;
+      payload = { mode, role, location, useCache };
 
       if (source === "preset") {
         const idx = Number(els.personaSelect.value || 0);
@@ -176,16 +192,76 @@ async function runAnalysis(mode, overridePayload = null) {
     }
 
     state.activeResult = data;
+    state.toolkitData = null;
     state.simulatedSkills.clear();
     state.jobFilterQuery = "";
     state.onlyUnlocked = false;
     els.jobFilterInput.value = "";
     els.onlyUnlockedToggle.checked = false;
+    updateCacheBadge(data.cacheStats);
     renderDashboard();
   } catch (err) {
     showError(err instanceof Error ? err.message : String(err));
   } finally {
     setLoading(false);
+  }
+}
+
+async function loadCoursesOnDemand(skill, buttonEl) {
+  const data = state.activeResult;
+  if (!data) return;
+  buttonEl.disabled = true;
+  buttonEl.textContent = "Loading tutorials...";
+  try {
+    const res = await fetch("/api/courses", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ skill, role: data.role }),
+    });
+    const payload = await res.json();
+    if (!res.ok) throw new Error(payload.error || "Failed to fetch courses");
+    data.coursesBySkill[skill] = {
+      ...(data.coursesBySkill[skill] || { skill }),
+      courses: payload.courses || [],
+      mini_project_idea: payload.mini_project_idea || "",
+    };
+    updateCacheBadge(payload.cacheStats);
+    renderDashboard();
+  } catch (err) {
+    showError(err instanceof Error ? err.message : String(err));
+    buttonEl.disabled = false;
+    buttonEl.textContent = "Load Courses & Mini-Project";
+  }
+}
+
+async function runCareerToolkit() {
+  const data = state.activeResult;
+  if (!data) return;
+  els.runToolkitBtn.disabled = true;
+  els.runToolkitBtn.textContent = "Benchmarking 3 Roles & Remote...";
+
+  try {
+    const mode = data.analysisMode === "offline_demo" ? "offline" : "quick";
+    const res = await fetch("/api/toolkit", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        resumeText: data.resumeText || "Python SQL JavaScript React Git",
+        role: data.role,
+        location: data.location,
+        mode,
+      }),
+    });
+    const toolkit = await res.json();
+    if (!res.ok) throw new Error(toolkit.error || "Toolkit benchmark failed");
+    state.toolkitData = toolkit;
+    updateCacheBadge(toolkit.cacheStats);
+    renderToolkitTab();
+  } catch (err) {
+    showError(err instanceof Error ? err.message : String(err));
+  } finally {
+    els.runToolkitBtn.disabled = false;
+    els.runToolkitBtn.textContent = "Refresh Benchmark";
   }
 }
 
@@ -196,7 +272,6 @@ function renderDashboard() {
   els.onboardingView.classList.add("hidden");
   els.dashboardView.classList.remove("hidden");
 
-  // Header mode chip & sidebar skills
   const modeLabel = data.analysisMode === "offline_demo" ? "Offline Demo" : "Live Market";
   els.modeChip.textContent = `${data.role} · ${data.location} · ${modeLabel}`;
   els.modeChip.classList.remove("hidden");
@@ -272,10 +347,12 @@ function renderDashboard() {
   els.simulatorCheckboxes.innerHTML = top5
     .map((gap) => {
       const checked = state.simulatedSkills.has(gap.skill);
+      const readyHint =
+        gap.net_ready_unlocked > 0 ? ` · +${gap.net_ready_unlocked} ready now` : "";
       return `
-        <label class="sb-sim-option ${checked ? "active" : ""}" title="Present in ${gap.demand_pct.toFixed(0)}% of scanned openings">
+        <label class="sb-sim-option ${checked ? "active" : ""}" title="Present in ${gap.demand_pct.toFixed(0)}% of scanned openings${readyHint}">
           <input type="checkbox" data-sim-skill="${escapeHtml(gap.skill)}" ${checked ? "checked" : ""} />
-          <span>${escapeHtml(gap.skill)} (+${gap.jobs_unlocked})</span>
+          <span>${escapeHtml(gap.skill)} (+${gap.jobs_unlocked}${readyHint})</span>
         </label>
       `;
     })
@@ -300,6 +377,7 @@ function renderDashboard() {
   renderGapsTab(data, current, selectedSim);
   renderJobsTab(data, current, selectedSim);
   renderRawDemandTab(data, selectedSim);
+  renderToolkitTab();
 }
 
 function renderGapsTab(data, current, selectedSim) {
@@ -371,27 +449,37 @@ function renderGapsTab(data, current, selectedSim) {
               .filter(Boolean)
               .map(escapeHtml)
               .join(" · ");
+            const ctaText =
+              course.source === "Google Search" ? "Open Official Guide" : "Watch Tutorial";
             return `
               <div class="sb-course-card">
                 ${thumb}
                 <a class="sb-course-title" href="${escapeHtml(course.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(course.title)}</a>
                 <div class="sb-caption">${meta}</div>
-                <a class="sb-btn sb-btn-secondary sb-btn-sm" href="${escapeHtml(course.url)}" target="_blank" rel="noopener noreferrer">Watch Tutorial</a>
+                <a class="sb-btn sb-btn-secondary sb-btn-sm" href="${escapeHtml(course.url)}" target="_blank" rel="noopener noreferrer">${ctaText}</a>
               </div>
             `;
           })
           .join("")}</div>`;
-      } else if (gap.priority_rank <= 4) {
-        coursesHtml =
-          '<p class="sb-caption">No live video courses loaded for this skill (offline demo mode or SerpApi key not configured).</p>';
       } else {
-        coursesHtml =
-          '<p class="sb-caption">Course recommendations are preloaded for your top 4 highest-impact skill gaps to conserve API quota.</p>';
+        coursesHtml = `
+          <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:0.6rem;">
+            <span class="sb-caption">Tutorials for this skill were not preloaded yet.</span>
+            <button class="sb-btn sb-btn-secondary sb-btn-sm" data-load-course="${escapeHtml(gap.skill)}" type="button">
+              Load Courses &amp; Docs
+            </button>
+          </div>
+        `;
       }
+
+      const marginalTag =
+        gap.net_ready_unlocked > 0
+          ? ` · Flips +${gap.net_ready_unlocked} job${gap.net_ready_unlocked === 1 ? "" : "s"} to Ready Today`
+          : "";
 
       return `
         <details class="sb-expander" ${gap.priority_rank === 1 ? "open" : ""}>
-          <summary>#${gap.priority_rank} ${escapeHtml(gap.skill)} — Unlocks ${gap.jobs_unlocked} job${gap.jobs_unlocked === 1 ? "" : "s"} (${gap.demand_pct.toFixed(1)}% demand)</summary>
+          <summary>#${gap.priority_rank} ${escapeHtml(gap.skill)} — Required in ${gap.jobs_unlocked} job${gap.jobs_unlocked === 1 ? "" : "s"} (${gap.demand_pct.toFixed(1)}% demand${marginalTag})</summary>
           <div class="sb-expander-body">
             ${projectHtml}
             ${coursesHtml}
@@ -400,6 +488,13 @@ function renderGapsTab(data, current, selectedSim) {
       `;
     })
     .join("");
+
+  els.learningRoadmap.querySelectorAll("[data-load-course]").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const skill = btn.getAttribute("data-load-course");
+      loadCoursesOnDemand(skill, btn);
+    });
+  });
 }
 
 function renderJobCardHtml(job, effectiveSet, simSet, isReady, newlyUnlocked) {
@@ -416,6 +511,7 @@ function renderJobCardHtml(job, effectiveSet, simSet, isReady, newlyUnlocked) {
     ? '<span class="sb-badge-unlocked">Unlocked by What-If</span>'
     : "";
   const salaryHtml = job.salary_text ? ` · ${escapeHtml(job.salary_text)}` : "";
+  const remoteHtml = job.work_from_home ? " · Remote" : "";
 
   const qualsList = (job.qualifications || []).slice(0, 5);
   const snippet = (job.description || "").trim();
@@ -426,7 +522,7 @@ function renderJobCardHtml(job, effectiveSet, simSet, isReady, newlyUnlocked) {
       <div class="sb-job-head">
         <div>
           <div class="sb-job-title">${escapeHtml(job.title)}</div>
-          <div class="sb-job-meta">${escapeHtml(job.company)} · ${escapeHtml(job.location)}${salaryHtml}</div>
+          <div class="sb-job-meta">${escapeHtml(job.company)} · ${escapeHtml(job.location)}${remoteHtml}${salaryHtml}</div>
         </div>
         <div class="sb-badge-group">${unlockedHtml}${badgeHtml}</div>
       </div>
@@ -552,6 +648,90 @@ function renderRawDemandTab(data, selectedSim) {
     .join("");
 }
 
+function renderToolkitTab() {
+  const data = state.activeResult;
+  if (!data) return;
+
+  const bullets = Array.isArray(data.atsBullets) ? data.atsBullets : [];
+  els.atsBulletsList.innerHTML = bullets.length
+    ? bullets.map((b) => `<li>${escapeHtml(b)}</li>`).join("")
+    : '<li class="sb-caption">Run a scan to generate tailored ATS resume bullets.</li>';
+
+  if (!state.toolkitData) {
+    els.toolkitResultsWrap.innerHTML =
+      '<div class="sb-caption">Click <strong>Run Multi-Role &amp; Remote Benchmark</strong> above to compare your resume against <em>Frontend Developer</em>, <em>Backend Python Developer</em>, and <em>Data Analyst</em> plus <em>Local vs. Remote</em> demand.</div>';
+    return;
+  }
+
+  const { multiRole, localVsRemote } = state.toolkitData;
+  const evals = multiRole?.evaluations || [];
+  const bestRole = multiRole?.best_fit_role;
+
+  const rolesHtml = `
+    <h4 class="sb-snapshot-label">Multi-Role Fit Comparison (Shortest Path to Employment)</h4>
+    <div class="sb-role-grid">
+      ${evals
+        .map((ev) => {
+          const isBest = ev.role === bestRole;
+          const badge = isBest
+            ? '<span class="sb-badge-ready">Best Fit / Shortest Path</span>'
+            : '<span class="sb-badge-almost">Adjacent Track</span>';
+          const gaps = (ev.top_gaps || []).map((g) => g.skill);
+          return `
+            <div class="sb-role-card ${isBest ? "best-fit" : ""}">
+              <div class="sb-job-head">
+                <strong>${escapeHtml(ev.role)}</strong>
+                ${badge}
+              </div>
+              <div class="sb-metric-value">${ev.readiness_score.toFixed(1)}%</div>
+              <div class="sb-caption">Ready Today: <strong>${ev.ready_jobs_count}/${ev.jobs_scanned}</strong> · Almost Ready: <strong>${ev.almost_ready_count}</strong></div>
+              <div class="sb-job-label">Top Missing Skills</div>
+              <div class="sb-pills-wrap">${renderPillsHtml(gaps, "missing") || '<span class="sb-caption">None</span>'}</div>
+            </div>
+          `;
+        })
+        .join("")}
+    </div>
+  `;
+
+  const loc = localVsRemote?.local;
+  const rem = localVsRemote?.remote;
+  const locVsRemHtml =
+    loc && rem
+      ? `
+    <h4 class="sb-snapshot-label">Local City vs. Remote Market Demand (${escapeHtml(data.role)})</h4>
+    <div class="sb-loc-grid">
+      <div class="sb-role-card">
+        <div class="sb-job-head">
+          <strong>Local: ${escapeHtml(loc.location)}</strong>
+          <span class="sb-badge-unlocked">Readiness: ${loc.readiness_score.toFixed(1)}%</span>
+        </div>
+        <div class="sb-caption">Ready Jobs: <strong>${loc.ready_jobs_count}</strong> · #1 Gap: <strong>${escapeHtml(loc.top_gap)}</strong></div>
+        <div class="sb-job-label">Top Demanded Local Skills</div>
+        <div class="sb-pills-wrap">${renderPillsHtml(
+          (loc.top_skills || []).map((s) => `${s.skill} (${s.demand_pct.toFixed(0)}%)`),
+          "sim"
+        )}</div>
+      </div>
+      <div class="sb-role-card">
+        <div class="sb-job-head">
+          <strong>Remote Openings</strong>
+          <span class="sb-badge-unlocked">Readiness: ${rem.readiness_score.toFixed(1)}%</span>
+        </div>
+        <div class="sb-caption">Ready Jobs: <strong>${rem.ready_jobs_count}</strong> · #1 Gap: <strong>${escapeHtml(rem.top_gap)}</strong></div>
+        <div class="sb-job-label">Top Demanded Remote Skills</div>
+        <div class="sb-pills-wrap">${renderPillsHtml(
+          (rem.top_skills || []).map((s) => `${s.skill} (${s.demand_pct.toFixed(0)}%)`),
+          "sim"
+        )}</div>
+      </div>
+    </div>
+  `
+      : "";
+
+  els.toolkitResultsWrap.innerHTML = rolesHtml + locVsRemHtml;
+}
+
 function downloadDemandCsv() {
   const data = state.activeResult;
   if (!data) return;
@@ -583,9 +763,10 @@ function downloadDemandCsv() {
 
 async function init() {
   const res = await fetch("/api/presets");
-  const { presets, cities } = await res.json();
+  const { presets, cities, cache } = await res.json();
   state.presets = presets;
   state.cities = cities;
+  updateCacheBadge(cache);
 
   els.personaSelect.innerHTML = presets
     .map((p, idx) => `<option value="${idx}">${escapeHtml(p.label)}</option>`)
@@ -595,7 +776,6 @@ async function init() {
     .join("");
   applySelectedPreset(0);
 
-  // Wire listeners
   els.sourceRadios.forEach((radio) => {
     radio.addEventListener("change", () => setSelectedSource(getSelectedSource()));
   });
@@ -619,20 +799,19 @@ async function init() {
     reader.readAsDataURL(file);
   });
 
-  els.quickStudentBtn.addEventListener("click", () => {
+  const triggerQuickPreset = (idx) => {
     setSelectedSource("preset");
-    applySelectedPreset(0);
-    const p = state.presets[0];
+    const safeIdx = idx < state.presets.length ? idx : 0;
+    applySelectedPreset(safeIdx);
+    const p = state.presets[safeIdx];
     runAnalysis("quick", { mode: "quick", role: p.role, location: p.city, resumeText: p.text });
-  });
+  };
 
-  els.quickBackendBtn.addEventListener("click", () => {
-    setSelectedSource("preset");
-    const idx = state.presets.length > 1 ? 1 : 0;
-    applySelectedPreset(idx);
-    const p = state.presets[idx];
-    runAnalysis("quick", { mode: "quick", role: p.role, location: p.city, resumeText: p.text });
-  });
+  els.quickStudentBtn.addEventListener("click", () => triggerQuickPreset(0));
+  els.quickBackendBtn.addEventListener("click", () => triggerQuickPreset(1));
+  if (els.quickAnalystBtn) {
+    els.quickAnalystBtn.addEventListener("click", () => triggerQuickPreset(2));
+  }
 
   els.analyzeLiveBtn.addEventListener("click", () => runAnalysis("live"));
   els.loadOfflineBtn.addEventListener("click", () => runAnalysis("offline"));
@@ -681,6 +860,20 @@ async function init() {
   });
 
   els.downloadCsvBtn.addEventListener("click", downloadDemandCsv);
+  els.runToolkitBtn.addEventListener("click", runCareerToolkit);
+  els.copyBulletsBtn.addEventListener("click", async () => {
+    const bullets = state.activeResult?.atsBullets || [];
+    if (!bullets.length) return;
+    try {
+      await navigator.clipboard.writeText(bullets.map((b) => `• ${b}`).join("\n"));
+      els.copyBulletsBtn.textContent = "Copied!";
+      setTimeout(() => {
+        els.copyBulletsBtn.textContent = "Copy Bullets";
+      }, 1500);
+    } catch {
+      // Clipboard API may be blocked in non-HTTPS contexts
+    }
+  });
 }
 
 init().catch((err) => showError(err instanceof Error ? err.message : String(err)));

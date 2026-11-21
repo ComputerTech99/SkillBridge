@@ -1,0 +1,7 @@
+{
+  "bullets": [
+    "Engineered scalable REST API endpoints using Python, Django, and FastAPI, reducing system response time by 35% for 100k+ monthly active users.",
+    "Migrated monolithic backend modules to high-performance microservices using Flask and Docker, improving deployment frequency by 50%.",
+    "Integrated LLM-powered automation pipelines into existing Python backends, accelerating document processing workflows by 40%."
+  ]
+}

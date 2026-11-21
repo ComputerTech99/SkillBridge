@@ -1,0 +1,638 @@
+{
+  "search_metadata": {
+    "id": "6b016b6b60cbef7cf8995d39",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/vfPBNRfkEGdXw_nlQtYEhVmMuBl5d2qwX1pPd6epsMk/6b016b6b60cbef7cf8995d39.json",
+    "markdown_endpoint": "https://serpapi.com/searches/vfPBNRfkEGdXw_nlQtYEhVmMuBl5d2qwX1pPd6epsMk/6b016b6b60cbef7cf8995d39.md",
+    "created_at": "2026-11-21 09:59:07 UTC",
+    "processed_at": "2026-11-21 09:59:07 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Analyst&hl=en&gl=in&udm=8&uule=w+CAIQICIZQmVuZ2FsdXJ1LEthcm5hdGFrYSxJbmRpYQ",
+    "raw_html_file": "https://serpapi.com/searches/vfPBNRfkEGdXw_nlQtYEhVmMuBl5d2qwX1pPd6epsMk/6b016b6b60cbef7cf8995d39.html",
+    "total_time_taken": 0.79
+  },
+  "search_parameters": {
+    "q": "Data Analyst",
+    "engine": "google_jobs",
+    "location_requested": "Bengaluru, Karnataka, India",
+    "location_used": "Bengaluru,Karnataka,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXcUck6FE3PBued_Al6_rKB_Dk4OU-jYu8_O8Qve-iFwxCPFlFTxe1MM9i7Q8iIW30cLgDhVyq7TIkdwiMBCmHgbGsORK7Hfup5p3jDpR5gFFFPNvwJpey6H5PCz8etUlUrT6zbxXa0ZhL6F3khHdlGKtQ9Hw",
+        "q": "Data Analyst remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=4fe152f3b2dfa730&hl=en&gl=in&sxsrf=AKL5yDhTGaGmzL_ad5BzONeUd1ZTr0-pzg:1795255148315&q=Data+Analyst+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXcUck6FE3PBued_Al6_rKB_Dk4OU-jYu8_O8Qve-iFwxCPFlFTxe1MM9i7Q8iIW30cLgDhVyq7TIkdwiMBCmHgbGsORK7Hfup5p3jDpR5gFFFPNvwJpey6H5PCz8etUlUrT6zbxXa0ZhL6F3khHdlGKtQ9Hw&udm=8&sa=X&ved=2ahUKEwiRyZXL5piYAxVzRTABHYxrCOwQxKsJKAB6BAgXEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Data+Analyst+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXcUck6FE3PBued_Al6_rKB_Dk4OU-jYu8_O8Qve-iFwxCPFlFTxe1MM9i7Q8iIW30cLgDhVyq7TIkdwiMBCmHgbGsORK7Hfup5p3jDpR5gFFFPNvwJpey6H5PCz8etUlUrT6zbxXa0ZhL6F3khHdlGKtQ9Hw"
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_MRak-_UTcg8V5VUBspOIErJWg99cIpJAESwEfDLnnZVSlhEm-3Cgc6CVzPgLuFWFAhiOq_0sTMXVIut5B0rwB3SWjQS4cOgRB3WjGmL6cN4PQKNk323grL7YG6pVJJqIsk4jgUPmc0NJc2TVpgnRn2YIZF9FjuD8Gx3COnD21VRNFx0BcaIaOkXF5Qxb-zPdtk7n7WdluBuV6QR7dBy6lrA0L1uq6wlL0PrFyXNWQDCHd6vXQ_v66lzb37SD70oMSvtqGA8t8JAL2_C4_owJaSDkBtIG9O726ii9ILzHoVR-Nq5C-Q",
+            "q": "Data Analyst since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=4fe152f3b2dfa730&hl=en&gl=in&sxsrf=AKL5yDhTGaGmzL_ad5BzONeUd1ZTr0-pzg:1795255148315&q=Data+Analyst+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_MRak-_UTcg8V5VUBspOIErJWg99cIpJAESwEfDLnnZVSlhEm-3Cgc6CVzPgLuFWFAhiOq_0sTMXVIut5B0rwB3SWjQS4cOgRB3WjGmL6cN4PQKNk323grL7YG6pVJJqIsk4jgUPmc0NJc2TVpgnRn2YIZF9FjuD8Gx3COnD21VRNFx0BcaIaOkXF5Qxb-zPdtk7n7WdluBuV6QR7dBy6lrA0L1uq6wlL0PrFyXNWQDCHd6vXQ_v66lzb37SD70oMSvtqGA8t8JAL2_C4_owJaSDkBtIG9O726ii9ILzHoVR-Nq5C-Q&udm=8&sa=X&ved=2ahUKEwiRyZXL5piYAxVzRTABHYxrCOwQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Data+Analyst+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_MRak-_UTcg8V5VUBspOIErJWg99cIpJAESwEfDLnnZVSlhEm-3Cgc6CVzPgLuFWFAhiOq_0sTMXVIut5B0rwB3SWjQS4cOgRB3WjGmL6cN4PQKNk323grL7YG6pVJJqIsk4jgUPmc0NJc2TVpgnRn2YIZF9FjuD8Gx3COnD21VRNFx0BcaIaOkXF5Qxb-zPdtk7n7WdluBuV6QR7dBy6lrA0L1uq6wlL0PrFyXNWQDCHd6vXQ_v66lzb37SD70oMSvtqGA8t8JAL2_C4_owJaSDkBtIG9O726ii9ILzHoVR-Nq5C-Q"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXzDxTBVFnXgoIOt0akb5qstG38eiOWbVTWp5Y_He4tQWb6zLQZsVlq_sNF3kFzgIouz1Bxf9yrpyBIg7YXSVe5xpgywiRhYJr0pOg8etL1n-lrqLQzM4Gf8WRaFuAOCizhz8My0XHG9K-Mi8fkxYv230cJgIWxNpLNTC_P3if441xGnXIL44KmSYr3mLGWh_iYcV4MewD2tvOXULYu5i0kbZzqTZWMCuDCV5GLxnMAK-vVcjY6Y7xWEZ7seQ2AwLCzpyqTjcw-5qfc1K9oMQB_ysTiS99kfxREa5h8kYGr7UJRPjJMaxDR_eUr5mnQ-0_Y342fA_r9E3tzStbR3vIZQYz6L8",
+            "q": "Data Analyst in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=4fe152f3b2dfa730&hl=en&gl=in&sxsrf=AKL5yDhTGaGmzL_ad5BzONeUd1ZTr0-pzg:1795255148315&q=Data+Analyst+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXzDxTBVFnXgoIOt0akb5qstG38eiOWbVTWp5Y_He4tQWb6zLQZsVlq_sNF3kFzgIouz1Bxf9yrpyBIg7YXSVe5xpgywiRhYJr0pOg8etL1n-lrqLQzM4Gf8WRaFuAOCizhz8My0XHG9K-Mi8fkxYv230cJgIWxNpLNTC_P3if441xGnXIL44KmSYr3mLGWh_iYcV4MewD2tvOXULYu5i0kbZzqTZWMCuDCV5GLxnMAK-vVcjY6Y7xWEZ7seQ2AwLCzpyqTjcw-5qfc1K9oMQB_ysTiS99kfxREa5h8kYGr7UJRPjJMaxDR_eUr5mnQ-0_Y342fA_r9E3tzStbR3vIZQYz6L8&udm=8&sa=X&ved=2ahUKEwiRyZXL5piYAxVzRTABHYxrCOwQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Data+Analyst+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXzDxTBVFnXgoIOt0akb5qstG38eiOWbVTWp5Y_He4tQWb6zLQZsVlq_sNF3kFzgIouz1Bxf9yrpyBIg7YXSVe5xpgywiRhYJr0pOg8etL1n-lrqLQzM4Gf8WRaFuAOCizhz8My0XHG9K-Mi8fkxYv230cJgIWxNpLNTC_P3if441xGnXIL44KmSYr3mLGWh_iYcV4MewD2tvOXULYu5i0kbZzqTZWMCuDCV5GLxnMAK-vVcjY6Y7xWEZ7seQ2AwLCzpyqTjcw-5qfc1K9oMQB_ysTiS99kfxREa5h8kYGr7UJRPjJMaxDR_eUr5mnQ-0_Y342fA_r9E3tzStbR3vIZQYz6L8"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7qWNmNWayvF4tdjQfO9TvIxUG9XAm7znq7S4RODn-c_3VQi17muxqtiLhX5cdqCUfLd0XxkkRbeNFX73vOv_aTnYAa5cX-2Qwov5jG99fd3NnxYW9De1H8rpUh-xTl4Y0GRT3wupXikQOnR0SAocN3B5TA3gC0RTr11lBKHCqIyWuMA0V-EMVvQdA208IfX7gXJ9zON8Gb0mjFw1W0owrLapeq7Ouxnj-90tf-dOE48MBnMN0fVTI7s1WzXrCYY034q0x6-ufOgJ0JKC8XnLEMZ7zviW-eWIDdsP167KXuHf0aJGWvka14IfNB6QNjrcXkjMLqk",
+            "q": "Data Analyst in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=4fe152f3b2dfa730&hl=en&gl=in&sxsrf=AKL5yDhTGaGmzL_ad5BzONeUd1ZTr0-pzg:1795255148315&q=Data+Analyst+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7qWNmNWayvF4tdjQfO9TvIxUG9XAm7znq7S4RODn-c_3VQi17muxqtiLhX5cdqCUfLd0XxkkRbeNFX73vOv_aTnYAa5cX-2Qwov5jG99fd3NnxYW9De1H8rpUh-xTl4Y0GRT3wupXikQOnR0SAocN3B5TA3gC0RTr11lBKHCqIyWuMA0V-EMVvQdA208IfX7gXJ9zON8Gb0mjFw1W0owrLapeq7Ouxnj-90tf-dOE48MBnMN0fVTI7s1WzXrCYY034q0x6-ufOgJ0JKC8XnLEMZ7zviW-eWIDdsP167KXuHf0aJGWvka14IfNB6QNjrcXkjMLqk&udm=8&sa=X&ved=2ahUKEwiRyZXL5piYAxVzRTABHYxrCOwQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Data+Analyst+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7qWNmNWayvF4tdjQfO9TvIxUG9XAm7znq7S4RODn-c_3VQi17muxqtiLhX5cdqCUfLd0XxkkRbeNFX73vOv_aTnYAa5cX-2Qwov5jG99fd3NnxYW9De1H8rpUh-xTl4Y0GRT3wupXikQOnR0SAocN3B5TA3gC0RTr11lBKHCqIyWuMA0V-EMVvQdA208IfX7gXJ9zON8Gb0mjFw1W0owrLapeq7Ouxnj-90tf-dOE48MBnMN0fVTI7s1WzXrCYY034q0x6-ufOgJ0JKC8XnLEMZ7zviW-eWIDdsP167KXuHf0aJGWvka14IfNB6QNjrcXkjMLqk"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXzBZRpoz3Q0I1UNVbdZ7KA8fIBrSiznJ2vErDT6zrOnx9zeFYG1d9QtmGsRNLe0AZvuPT5PN3_y1mbCIl8hHeHWCZEa3dVQTs4bc1UXfsWzB_7LVK_-q3ezDz3pzv6jPLmFIem9eikg0nmIcGB71037Rw-8oLpC3RB2cLzsod35QkMbQS2KSt7ioAhNNRQFcBtTGGTw7nRo-SsXi5JQzAnnTHQEuCUHc5cekUQQJYNRHJbp71UJ7bOpLaoN9Y18A78lH1PnWAMiz0M9DH214dxtmxSTQKTc6FaXFyV77Ysa78DTphYUJ_oRSfftydsrTjpJthj97ELlSv0MJTh0qrrPgrSr4",
+            "q": "Data Analyst in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=4fe152f3b2dfa730&hl=en&gl=in&sxsrf=AKL5yDhTGaGmzL_ad5BzONeUd1ZTr0-pzg:1795255148315&q=Data+Analyst+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXzBZRpoz3Q0I1UNVbdZ7KA8fIBrSiznJ2vErDT6zrOnx9zeFYG1d9QtmGsRNLe0AZvuPT5PN3_y1mbCIl8hHeHWCZEa3dVQTs4bc1UXfsWzB_7LVK_-q3ezDz3pzv6jPLmFIem9eikg0nmIcGB71037Rw-8oLpC3RB2cLzsod35QkMbQS2KSt7ioAhNNRQFcBtTGGTw7nRo-SsXi5JQzAnnTHQEuCUHc5cekUQQJYNRHJbp71UJ7bOpLaoN9Y18A78lH1PnWAMiz0M9DH214dxtmxSTQKTc6FaXFyV77Ysa78DTphYUJ_oRSfftydsrTjpJthj97ELlSv0MJTh0qrrPgrSr4&udm=8&sa=X&ved=2ahUKEwiRyZXL5piYAxVzRTABHYxrCOwQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Data+Analyst+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXzBZRpoz3Q0I1UNVbdZ7KA8fIBrSiznJ2vErDT6zrOnx9zeFYG1d9QtmGsRNLe0AZvuPT5PN3_y1mbCIl8hHeHWCZEa3dVQTs4bc1UXfsWzB_7LVK_-q3ezDz3pzv6jPLmFIem9eikg0nmIcGB71037Rw-8oLpC3RB2cLzsod35QkMbQS2KSt7ioAhNNRQFcBtTGGTw7nRo-SsXi5JQzAnnTHQEuCUHc5cekUQQJYNRHJbp71UJ7bOpLaoN9Y18A78lH1PnWAMiz0M9DH214dxtmxSTQKTc6FaXFyV77Ysa78DTphYUJ_oRSfftydsrTjpJthj97ELlSv0MJTh0qrrPgrSr4"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_MRak-_UTcg8V5VUBspOIErJWg99cIpJAESwEfDLnnZVSlhEm-3Cgc6CVzPgLuFWFAhiOq_0sTMXVIut5B0rwB3SWjQS4cOgRB3WjGmL6cN4PQKNk323grL7YG6pVJJqIsk4jgUPmc0NJc2TVpgnRn2YIZF9FjuD8Gx3COnD21VRNFx0BcaIaOkXF5Qxb-zPdtk7n7WdluBuV6QR7dBy6lrA0L1uq6wlL0PrFyXNWQDCHd6vXQ_v66lzb37SD70oMSvtqGA8t8JAL2_C4_owJaSDkBtIG9O726ii9ILzHoVR-Nq5C-Q",
+            "q": "Data Analyst since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=4fe152f3b2dfa730&hl=en&gl=in&sxsrf=AKL5yDhTGaGmzL_ad5BzONeUd1ZTr0-pzg:1795255148315&q=Data+Analyst+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_MRak-_UTcg8V5VUBspOIErJWg99cIpJAESwEfDLnnZVSlhEm-3Cgc6CVzPgLuFWFAhiOq_0sTMXVIut5B0rwB3SWjQS4cOgRB3WjGmL6cN4PQKNk323grL7YG6pVJJqIsk4jgUPmc0NJc2TVpgnRn2YIZF9FjuD8Gx3COnD21VRNFx0BcaIaOkXF5Qxb-zPdtk7n7WdluBuV6QR7dBy6lrA0L1uq6wlL0PrFyXNWQDCHd6vXQ_v66lzb37SD70oMSvtqGA8t8JAL2_C4_owJaSDkBtIG9O726ii9ILzHoVR-Nq5C-Q&udm=8&sa=X&ved=2ahUKEwiRyZXL5piYAxVzRTABHYxrCOwQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Data+Analyst+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_MRak-_UTcg8V5VUBspOIErJWg99cIpJAESwEfDLnnZVSlhEm-3Cgc6CVzPgLuFWFAhiOq_0sTMXVIut5B0rwB3SWjQS4cOgRB3WjGmL6cN4PQKNk323grL7YG6pVJJqIsk4jgUPmc0NJc2TVpgnRn2YIZF9FjuD8Gx3COnD21VRNFx0BcaIaOkXF5Qxb-zPdtk7n7WdluBuV6QR7dBy6lrA0L1uq6wlL0PrFyXNWQDCHd6vXQ_v66lzb37SD70oMSvtqGA8t8JAL2_C4_owJaSDkBtIG9O726ii9ILzHoVR-Nq5C-Q"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXzDxTBVFnXgoIOt0akb5qstG38eiOWbVTWp5Y_He4tQWb6zLQZsVlq_sNF3kFzgIouz1Bxf9yrpyBIg7YXSVe5xpgywiRhYJr0pOg8etL1n-lrqLQzM4Gf8WRaFuAOCizhz8My0XHG9K-Mi8fkxYv230cJgIWxNpLNTC_P3if441xGnXIL44KmSYr3mLGWh_iYcV4MewD2tvOXULYu5i0kbZzqTZWMCuDCV5GLxnMAK-vVcjY6Y7xWEZ7seQ2AwLCzpyqTjcw-5qfc1K9oMQB_ysTiS99kfxREa5h8kYGr7UJRPjJMaxDR_eUr5mnQ-0_Y342fA_r9E3tzStbR3vIZQYz6L8",
+            "q": "Data Analyst in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=4fe152f3b2dfa730&hl=en&gl=in&sxsrf=AKL5yDhTGaGmzL_ad5BzONeUd1ZTr0-pzg:1795255148315&q=Data+Analyst+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXzDxTBVFnXgoIOt0akb5qstG38eiOWbVTWp5Y_He4tQWb6zLQZsVlq_sNF3kFzgIouz1Bxf9yrpyBIg7YXSVe5xpgywiRhYJr0pOg8etL1n-lrqLQzM4Gf8WRaFuAOCizhz8My0XHG9K-Mi8fkxYv230cJgIWxNpLNTC_P3if441xGnXIL44KmSYr3mLGWh_iYcV4MewD2tvOXULYu5i0kbZzqTZWMCuDCV5GLxnMAK-vVcjY6Y7xWEZ7seQ2AwLCzpyqTjcw-5qfc1K9oMQB_ysTiS99kfxREa5h8kYGr7UJRPjJMaxDR_eUr5mnQ-0_Y342fA_r9E3tzStbR3vIZQYz6L8&udm=8&sa=X&ved=2ahUKEwiRyZXL5piYAxVzRTABHYxrCOwQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Data+Analyst+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXzDxTBVFnXgoIOt0akb5qstG38eiOWbVTWp5Y_He4tQWb6zLQZsVlq_sNF3kFzgIouz1Bxf9yrpyBIg7YXSVe5xpgywiRhYJr0pOg8etL1n-lrqLQzM4Gf8WRaFuAOCizhz8My0XHG9K-Mi8fkxYv230cJgIWxNpLNTC_P3if441xGnXIL44KmSYr3mLGWh_iYcV4MewD2tvOXULYu5i0kbZzqTZWMCuDCV5GLxnMAK-vVcjY6Y7xWEZ7seQ2AwLCzpyqTjcw-5qfc1K9oMQB_ysTiS99kfxREa5h8kYGr7UJRPjJMaxDR_eUr5mnQ-0_Y342fA_r9E3tzStbR3vIZQYz6L8"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7qWNmNWayvF4tdjQfO9TvIxUG9XAm7znq7S4RODn-c_3VQi17muxqtiLhX5cdqCUfLd0XxkkRbeNFX73vOv_aTnYAa5cX-2Qwov5jG99fd3NnxYW9De1H8rpUh-xTl4Y0GRT3wupXikQOnR0SAocN3B5TA3gC0RTr11lBKHCqIyWuMA0V-EMVvQdA208IfX7gXJ9zON8Gb0mjFw1W0owrLapeq7Ouxnj-90tf-dOE48MBnMN0fVTI7s1WzXrCYY034q0x6-ufOgJ0JKC8XnLEMZ7zviW-eWIDdsP167KXuHf0aJGWvka14IfNB6QNjrcXkjMLqk",
+            "q": "Data Analyst in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=4fe152f3b2dfa730&hl=en&gl=in&sxsrf=AKL5yDhTGaGmzL_ad5BzONeUd1ZTr0-pzg:1795255148315&q=Data+Analyst+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7qWNmNWayvF4tdjQfO9TvIxUG9XAm7znq7S4RODn-c_3VQi17muxqtiLhX5cdqCUfLd0XxkkRbeNFX73vOv_aTnYAa5cX-2Qwov5jG99fd3NnxYW9De1H8rpUh-xTl4Y0GRT3wupXikQOnR0SAocN3B5TA3gC0RTr11lBKHCqIyWuMA0V-EMVvQdA208IfX7gXJ9zON8Gb0mjFw1W0owrLapeq7Ouxnj-90tf-dOE48MBnMN0fVTI7s1WzXrCYY034q0x6-ufOgJ0JKC8XnLEMZ7zviW-eWIDdsP167KXuHf0aJGWvka14IfNB6QNjrcXkjMLqk&udm=8&sa=X&ved=2ahUKEwiRyZXL5piYAxVzRTABHYxrCOwQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Data+Analyst+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7qWNmNWayvF4tdjQfO9TvIxUG9XAm7znq7S4RODn-c_3VQi17muxqtiLhX5cdqCUfLd0XxkkRbeNFX73vOv_aTnYAa5cX-2Qwov5jG99fd3NnxYW9De1H8rpUh-xTl4Y0GRT3wupXikQOnR0SAocN3B5TA3gC0RTr11lBKHCqIyWuMA0V-EMVvQdA208IfX7gXJ9zON8Gb0mjFw1W0owrLapeq7Ouxnj-90tf-dOE48MBnMN0fVTI7s1WzXrCYY034q0x6-ufOgJ0JKC8XnLEMZ7zviW-eWIDdsP167KXuHf0aJGWvka14IfNB6QNjrcXkjMLqk"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXzBZRpoz3Q0I1UNVbdZ7KA8fIBrSiznJ2vErDT6zrOnx9zeFYG1d9QtmGsRNLe0AZvuPT5PN3_y1mbCIl8hHeHWCZEa3dVQTs4bc1UXfsWzB_7LVK_-q3ezDz3pzv6jPLmFIem9eikg0nmIcGB71037Rw-8oLpC3RB2cLzsod35QkMbQS2KSt7ioAhNNRQFcBtTGGTw7nRo-SsXi5JQzAnnTHQEuCUHc5cekUQQJYNRHJbp71UJ7bOpLaoN9Y18A78lH1PnWAMiz0M9DH214dxtmxSTQKTc6FaXFyV77Ysa78DTphYUJ_oRSfftydsrTjpJthj97ELlSv0MJTh0qrrPgrSr4",
+            "q": "Data Analyst in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=4fe152f3b2dfa730&hl=en&gl=in&sxsrf=AKL5yDhTGaGmzL_ad5BzONeUd1ZTr0-pzg:1795255148315&q=Data+Analyst+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXzBZRpoz3Q0I1UNVbdZ7KA8fIBrSiznJ2vErDT6zrOnx9zeFYG1d9QtmGsRNLe0AZvuPT5PN3_y1mbCIl8hHeHWCZEa3dVQTs4bc1UXfsWzB_7LVK_-q3ezDz3pzv6jPLmFIem9eikg0nmIcGB71037Rw-8oLpC3RB2cLzsod35QkMbQS2KSt7ioAhNNRQFcBtTGGTw7nRo-SsXi5JQzAnnTHQEuCUHc5cekUQQJYNRHJbp71UJ7bOpLaoN9Y18A78lH1PnWAMiz0M9DH214dxtmxSTQKTc6FaXFyV77Ysa78DTphYUJ_oRSfftydsrTjpJthj97ELlSv0MJTh0qrrPgrSr4&udm=8&sa=X&ved=2ahUKEwiRyZXL5piYAxVzRTABHYxrCOwQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Data+Analyst+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXzBZRpoz3Q0I1UNVbdZ7KA8fIBrSiznJ2vErDT6zrOnx9zeFYG1d9QtmGsRNLe0AZvuPT5PN3_y1mbCIl8hHeHWCZEa3dVQTs4bc1UXfsWzB_7LVK_-q3ezDz3pzv6jPLmFIem9eikg0nmIcGB71037Rw-8oLpC3RB2cLzsod35QkMbQS2KSt7ioAhNNRQFcBtTGGTw7nRo-SsXi5JQzAnnTHQEuCUHc5cekUQQJYNRHJbp71UJ7bOpLaoN9Y18A78lH1PnWAMiz0M9DH214dxtmxSTQKTc6FaXFyV77Ysa78DTphYUJ_oRSfftydsrTjpJthj97ELlSv0MJTh0qrrPgrSr4"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSUsOwjvnYPNAX-fNyYIOPZofwItKxmKwARh7K1EMozYMB4VF3D3UPNoQiX3GIk0IB4JwhkfImrV7OmkFvqJH03GhtqBxn6tCN9I2S9CIRVKgmHVQAaynawKCFlULxk9AeeI0eno5_xxgbWEePQpAKhj_QH_h9t4c-J52COba0-edF7AOdv_ggOL9FAjrHdQS8MYe2jZ7oIQrHCv5TRHJiT9FEIZRgYYE-I_ztQgkrLMOO_YPAc5pd6m3M1OpAt_C4zaXiwas8aA9D2BWKfb85rncWM6OA",
+            "q": "Data Analyst full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=4fe152f3b2dfa730&hl=en&gl=in&sxsrf=AKL5yDhTGaGmzL_ad5BzONeUd1ZTr0-pzg:1795255148315&q=Data+Analyst+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSUsOwjvnYPNAX-fNyYIOPZofwItKxmKwARh7K1EMozYMB4VF3D3UPNoQiX3GIk0IB4JwhkfImrV7OmkFvqJH03GhtqBxn6tCN9I2S9CIRVKgmHVQAaynawKCFlULxk9AeeI0eno5_xxgbWEePQpAKhj_QH_h9t4c-J52COba0-edF7AOdv_ggOL9FAjrHdQS8MYe2jZ7oIQrHCv5TRHJiT9FEIZRgYYE-I_ztQgkrLMOO_YPAc5pd6m3M1OpAt_C4zaXiwas8aA9D2BWKfb85rncWM6OA&udm=8&sa=X&ved=2ahUKEwiRyZXL5piYAxVzRTABHYxrCOwQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Data+Analyst+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSUsOwjvnYPNAX-fNyYIOPZofwItKxmKwARh7K1EMozYMB4VF3D3UPNoQiX3GIk0IB4JwhkfImrV7OmkFvqJH03GhtqBxn6tCN9I2S9CIRVKgmHVQAaynawKCFlULxk9AeeI0eno5_xxgbWEePQpAKhj_QH_h9t4c-J52COba0-edF7AOdv_ggOL9FAjrHdQS8MYe2jZ7oIQrHCv5TRHJiT9FEIZRgYYE-I_ztQgkrLMOO_YPAc5pd6m3M1OpAt_C4zaXiwas8aA9D2BWKfb85rncWM6OA"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSW0yYKkGQUk5-mGwwxCna6SvFHTv_qVtgL5cwVG-lxTrXCxIKpJZJfau1B1jU_IbQGRBUubihKkKJWuRA3-s4nxcyfBsoattEkisw54URO3a7IkwCLJVxyjBSXLFMFJ16TMyKaNxwordUyBm5wUqS_rGF53svaImvRLk7n7BLl_G-UpeJPC3hsJfeVPq-bmccgYjfBVX2FJX3MvQ19lbBGEmLjm45rPoc6qsXnMAG94QQhHMHxG5SuVmcytUxcjhkWUtAh58HXy7VTDpbvLQXFGCVtTeA",
+            "q": "Data Analyst part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=4fe152f3b2dfa730&hl=en&gl=in&sxsrf=AKL5yDhTGaGmzL_ad5BzONeUd1ZTr0-pzg:1795255148315&q=Data+Analyst+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSW0yYKkGQUk5-mGwwxCna6SvFHTv_qVtgL5cwVG-lxTrXCxIKpJZJfau1B1jU_IbQGRBUubihKkKJWuRA3-s4nxcyfBsoattEkisw54URO3a7IkwCLJVxyjBSXLFMFJ16TMyKaNxwordUyBm5wUqS_rGF53svaImvRLk7n7BLl_G-UpeJPC3hsJfeVPq-bmccgYjfBVX2FJX3MvQ19lbBGEmLjm45rPoc6qsXnMAG94QQhHMHxG5SuVmcytUxcjhkWUtAh58HXy7VTDpbvLQXFGCVtTeA&udm=8&sa=X&ved=2ahUKEwiRyZXL5piYAxVzRTABHYxrCOwQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Data+Analyst+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSW0yYKkGQUk5-mGwwxCna6SvFHTv_qVtgL5cwVG-lxTrXCxIKpJZJfau1B1jU_IbQGRBUubihKkKJWuRA3-s4nxcyfBsoattEkisw54URO3a7IkwCLJVxyjBSXLFMFJ16TMyKaNxwordUyBm5wUqS_rGF53svaImvRLk7n7BLl_G-UpeJPC3hsJfeVPq-bmccgYjfBVX2FJX3MvQ19lbBGEmLjm45rPoc6qsXnMAG94QQhHMHxG5SuVmcytUxcjhkWUtAh58HXy7VTDpbvLQXFGCVtTeA"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXXnuF0zrIfZkP-EgDUt2bj2ozkpC-RyhaxRlfna80Wsf2YHxH6cghgD9WEO6s9HfeeAl8bHuRMzQQW9Q_Lh1OWM-sVXfbJBXIN1Ugo18fhNMEC4jRUNa2IWJ5npkh1WIRZEbhCPG9pHJOSRDqPxURcnVPg6AZLexZ-8kqgQF0ViYQ42fP6DV4eTPS9XZkht1rAsKYMCR9kb935PXgfYBfkNH1zvsBV0tny917Mf_UiMY3FhIzG7VrUSW_kpOBvx52hj-es5tzJwCDtQxdMKDCy891r9zVNZJZ_bWakyhTE0SxSDxx",
+            "q": "Data Analyst contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=4fe152f3b2dfa730&hl=en&gl=in&sxsrf=AKL5yDhTGaGmzL_ad5BzONeUd1ZTr0-pzg:1795255148315&q=Data+Analyst+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXnuF0zrIfZkP-EgDUt2bj2ozkpC-RyhaxRlfna80Wsf2YHxH6cghgD9WEO6s9HfeeAl8bHuRMzQQW9Q_Lh1OWM-sVXfbJBXIN1Ugo18fhNMEC4jRUNa2IWJ5npkh1WIRZEbhCPG9pHJOSRDqPxURcnVPg6AZLexZ-8kqgQF0ViYQ42fP6DV4eTPS9XZkht1rAsKYMCR9kb935PXgfYBfkNH1zvsBV0tny917Mf_UiMY3FhIzG7VrUSW_kpOBvx52hj-es5tzJwCDtQxdMKDCy891r9zVNZJZ_bWakyhTE0SxSDxx&udm=8&sa=X&ved=2ahUKEwiRyZXL5piYAxVzRTABHYxrCOwQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Data+Analyst+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXnuF0zrIfZkP-EgDUt2bj2ozkpC-RyhaxRlfna80Wsf2YHxH6cghgD9WEO6s9HfeeAl8bHuRMzQQW9Q_Lh1OWM-sVXfbJBXIN1Ugo18fhNMEC4jRUNa2IWJ5npkh1WIRZEbhCPG9pHJOSRDqPxURcnVPg6AZLexZ-8kqgQF0ViYQ42fP6DV4eTPS9XZkht1rAsKYMCR9kb935PXgfYBfkNH1zvsBV0tny917Mf_UiMY3FhIzG7VrUSW_kpOBvx52hj-es5tzJwCDtQxdMKDCy891r9zVNZJZ_bWakyhTE0SxSDxx"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXRgyF4_5hLB4nGB35VpnK_fPhqby3xJMludcuFFyq0hsQlWWb3FrBgXUqqumRuDHQ8vnTpeBqyJL1LOYYulVfv5nNXOJUDAqTf-Wd77iEkr-Ks7OWsxggMztojhNejJ_bawBhHYn1LtgbRwNgXi6lTxVhGCmK6_F7iuR9CcFlncx1QadQsbxJDMF7WlQnRLmdxvgPFwS4gP8xmIqdvm6srHdEwQj48e56O_PRquRzIHPAEwePB8OyVru2xwQQblxHU8-_uQX8eqi5c3ghxVPKGCFCdteXWSqdKXFBmdYVQUYfo_Gt",
+            "q": "Data Analyst internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=4fe152f3b2dfa730&hl=en&gl=in&sxsrf=AKL5yDhTGaGmzL_ad5BzONeUd1ZTr0-pzg:1795255148315&q=Data+Analyst+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXRgyF4_5hLB4nGB35VpnK_fPhqby3xJMludcuFFyq0hsQlWWb3FrBgXUqqumRuDHQ8vnTpeBqyJL1LOYYulVfv5nNXOJUDAqTf-Wd77iEkr-Ks7OWsxggMztojhNejJ_bawBhHYn1LtgbRwNgXi6lTxVhGCmK6_F7iuR9CcFlncx1QadQsbxJDMF7WlQnRLmdxvgPFwS4gP8xmIqdvm6srHdEwQj48e56O_PRquRzIHPAEwePB8OyVru2xwQQblxHU8-_uQX8eqi5c3ghxVPKGCFCdteXWSqdKXFBmdYVQUYfo_Gt&udm=8&sa=X&ved=2ahUKEwiRyZXL5piYAxVzRTABHYxrCOwQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Data+Analyst+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXRgyF4_5hLB4nGB35VpnK_fPhqby3xJMludcuFFyq0hsQlWWb3FrBgXUqqumRuDHQ8vnTpeBqyJL1LOYYulVfv5nNXOJUDAqTf-Wd77iEkr-Ks7OWsxggMztojhNejJ_bawBhHYn1LtgbRwNgXi6lTxVhGCmK6_F7iuR9CcFlncx1QadQsbxJDMF7WlQnRLmdxvgPFwS4gP8xmIqdvm6srHdEwQj48e56O_PRquRzIHPAEwePB8OyVru2xwQQblxHU8-_uQX8eqi5c3ghxVPKGCFCdteXWSqdKXFBmdYVQUYfo_Gt"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSUsOwjvnYPNAX-fNyYIOPZofwItKxmKwARh7K1EMozYMB4VF3D3UPNoQiX3GIk0IB4JwhkfImrV7OmkFvqJH03GhtqBxn6tCN9I2S9CIRVKgmHVQAaynawKCFlULxk9AeeI0eno5_xxgbWEePQpAKhj_QH_h9t4c-J52COba0-edF7AOdv_ggOL9FAjrHdQS8MYe2jZ7oIQrHCv5TRHJiT9FEIZRgYYE-I_ztQgkrLMOO_YPAc5pd6m3M1OpAt_C4zaXiwas8aA9D2BWKfb85rncWM6OA",
+            "q": "Data Analyst full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=4fe152f3b2dfa730&hl=en&gl=in&sxsrf=AKL5yDhTGaGmzL_ad5BzONeUd1ZTr0-pzg:1795255148315&q=Data+Analyst+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSUsOwjvnYPNAX-fNyYIOPZofwItKxmKwARh7K1EMozYMB4VF3D3UPNoQiX3GIk0IB4JwhkfImrV7OmkFvqJH03GhtqBxn6tCN9I2S9CIRVKgmHVQAaynawKCFlULxk9AeeI0eno5_xxgbWEePQpAKhj_QH_h9t4c-J52COba0-edF7AOdv_ggOL9FAjrHdQS8MYe2jZ7oIQrHCv5TRHJiT9FEIZRgYYE-I_ztQgkrLMOO_YPAc5pd6m3M1OpAt_C4zaXiwas8aA9D2BWKfb85rncWM6OA&udm=8&sa=X&ved=2ahUKEwiRyZXL5piYAxVzRTABHYxrCOwQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Data+Analyst+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSUsOwjvnYPNAX-fNyYIOPZofwItKxmKwARh7K1EMozYMB4VF3D3UPNoQiX3GIk0IB4JwhkfImrV7OmkFvqJH03GhtqBxn6tCN9I2S9CIRVKgmHVQAaynawKCFlULxk9AeeI0eno5_xxgbWEePQpAKhj_QH_h9t4c-J52COba0-edF7AOdv_ggOL9FAjrHdQS8MYe2jZ7oIQrHCv5TRHJiT9FEIZRgYYE-I_ztQgkrLMOO_YPAc5pd6m3M1OpAt_C4zaXiwas8aA9D2BWKfb85rncWM6OA"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSW0yYKkGQUk5-mGwwxCna6SvFHTv_qVtgL5cwVG-lxTrXCxIKpJZJfau1B1jU_IbQGRBUubihKkKJWuRA3-s4nxcyfBsoattEkisw54URO3a7IkwCLJVxyjBSXLFMFJ16TMyKaNxwordUyBm5wUqS_rGF53svaImvRLk7n7BLl_G-UpeJPC3hsJfeVPq-bmccgYjfBVX2FJX3MvQ19lbBGEmLjm45rPoc6qsXnMAG94QQhHMHxG5SuVmcytUxcjhkWUtAh58HXy7VTDpbvLQXFGCVtTeA",
+            "q": "Data Analyst part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=4fe152f3b2dfa730&hl=en&gl=in&sxsrf=AKL5yDhTGaGmzL_ad5BzONeUd1ZTr0-pzg:1795255148315&q=Data+Analyst+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSW0yYKkGQUk5-mGwwxCna6SvFHTv_qVtgL5cwVG-lxTrXCxIKpJZJfau1B1jU_IbQGRBUubihKkKJWuRA3-s4nxcyfBsoattEkisw54URO3a7IkwCLJVxyjBSXLFMFJ16TMyKaNxwordUyBm5wUqS_rGF53svaImvRLk7n7BLl_G-UpeJPC3hsJfeVPq-bmccgYjfBVX2FJX3MvQ19lbBGEmLjm45rPoc6qsXnMAG94QQhHMHxG5SuVmcytUxcjhkWUtAh58HXy7VTDpbvLQXFGCVtTeA&udm=8&sa=X&ved=2ahUKEwiRyZXL5piYAxVzRTABHYxrCOwQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Data+Analyst+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSW0yYKkGQUk5-mGwwxCna6SvFHTv_qVtgL5cwVG-lxTrXCxIKpJZJfau1B1jU_IbQGRBUubihKkKJWuRA3-s4nxcyfBsoattEkisw54URO3a7IkwCLJVxyjBSXLFMFJ16TMyKaNxwordUyBm5wUqS_rGF53svaImvRLk7n7BLl_G-UpeJPC3hsJfeVPq-bmccgYjfBVX2FJX3MvQ19lbBGEmLjm45rPoc6qsXnMAG94QQhHMHxG5SuVmcytUxcjhkWUtAh58HXy7VTDpbvLQXFGCVtTeA"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXXnuF0zrIfZkP-EgDUt2bj2ozkpC-RyhaxRlfna80Wsf2YHxH6cghgD9WEO6s9HfeeAl8bHuRMzQQW9Q_Lh1OWM-sVXfbJBXIN1Ugo18fhNMEC4jRUNa2IWJ5npkh1WIRZEbhCPG9pHJOSRDqPxURcnVPg6AZLexZ-8kqgQF0ViYQ42fP6DV4eTPS9XZkht1rAsKYMCR9kb935PXgfYBfkNH1zvsBV0tny917Mf_UiMY3FhIzG7VrUSW_kpOBvx52hj-es5tzJwCDtQxdMKDCy891r9zVNZJZ_bWakyhTE0SxSDxx",
+            "q": "Data Analyst contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=4fe152f3b2dfa730&hl=en&gl=in&sxsrf=AKL5yDhTGaGmzL_ad5BzONeUd1ZTr0-pzg:1795255148315&q=Data+Analyst+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXnuF0zrIfZkP-EgDUt2bj2ozkpC-RyhaxRlfna80Wsf2YHxH6cghgD9WEO6s9HfeeAl8bHuRMzQQW9Q_Lh1OWM-sVXfbJBXIN1Ugo18fhNMEC4jRUNa2IWJ5npkh1WIRZEbhCPG9pHJOSRDqPxURcnVPg6AZLexZ-8kqgQF0ViYQ42fP6DV4eTPS9XZkht1rAsKYMCR9kb935PXgfYBfkNH1zvsBV0tny917Mf_UiMY3FhIzG7VrUSW_kpOBvx52hj-es5tzJwCDtQxdMKDCy891r9zVNZJZ_bWakyhTE0SxSDxx&udm=8&sa=X&ved=2ahUKEwiRyZXL5piYAxVzRTABHYxrCOwQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Data+Analyst+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXnuF0zrIfZkP-EgDUt2bj2ozkpC-RyhaxRlfna80Wsf2YHxH6cghgD9WEO6s9HfeeAl8bHuRMzQQW9Q_Lh1OWM-sVXfbJBXIN1Ugo18fhNMEC4jRUNa2IWJ5npkh1WIRZEbhCPG9pHJOSRDqPxURcnVPg6AZLexZ-8kqgQF0ViYQ42fP6DV4eTPS9XZkht1rAsKYMCR9kb935PXgfYBfkNH1zvsBV0tny917Mf_UiMY3FhIzG7VrUSW_kpOBvx52hj-es5tzJwCDtQxdMKDCy891r9zVNZJZ_bWakyhTE0SxSDxx"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXRgyF4_5hLB4nGB35VpnK_fPhqby3xJMludcuFFyq0hsQlWWb3FrBgXUqqumRuDHQ8vnTpeBqyJL1LOYYulVfv5nNXOJUDAqTf-Wd77iEkr-Ks7OWsxggMztojhNejJ_bawBhHYn1LtgbRwNgXi6lTxVhGCmK6_F7iuR9CcFlncx1QadQsbxJDMF7WlQnRLmdxvgPFwS4gP8xmIqdvm6srHdEwQj48e56O_PRquRzIHPAEwePB8OyVru2xwQQblxHU8-_uQX8eqi5c3ghxVPKGCFCdteXWSqdKXFBmdYVQUYfo_Gt",
+            "q": "Data Analyst internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=4fe152f3b2dfa730&hl=en&gl=in&sxsrf=AKL5yDhTGaGmzL_ad5BzONeUd1ZTr0-pzg:1795255148315&q=Data+Analyst+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXRgyF4_5hLB4nGB35VpnK_fPhqby3xJMludcuFFyq0hsQlWWb3FrBgXUqqumRuDHQ8vnTpeBqyJL1LOYYulVfv5nNXOJUDAqTf-Wd77iEkr-Ks7OWsxggMztojhNejJ_bawBhHYn1LtgbRwNgXi6lTxVhGCmK6_F7iuR9CcFlncx1QadQsbxJDMF7WlQnRLmdxvgPFwS4gP8xmIqdvm6srHdEwQj48e56O_PRquRzIHPAEwePB8OyVru2xwQQblxHU8-_uQX8eqi5c3ghxVPKGCFCdteXWSqdKXFBmdYVQUYfo_Gt&udm=8&sa=X&ved=2ahUKEwiRyZXL5piYAxVzRTABHYxrCOwQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Data+Analyst+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXRgyF4_5hLB4nGB35VpnK_fPhqby3xJMludcuFFyq0hsQlWWb3FrBgXUqqumRuDHQ8vnTpeBqyJL1LOYYulVfv5nNXOJUDAqTf-Wd77iEkr-Ks7OWsxggMztojhNejJ_bawBhHYn1LtgbRwNgXi6lTxVhGCmK6_F7iuR9CcFlncx1QadQsbxJDMF7WlQnRLmdxvgPFwS4gP8xmIqdvm6srHdEwQj48e56O_PRquRzIHPAEwePB8OyVru2xwQQblxHU8-_uQX8eqi5c3ghxVPKGCFCdteXWSqdKXFBmdYVQUYfo_Gt"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Senior Data Analyst-MS excel (Bangalore Urban)",
+      "company_name": "SWITS DIGITAL Private",
+      "location": "Bengaluru, Karnataka",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=WokUZmvleyokCM-pAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOQQqCQBRAaesRWv1lRWoEbWqlCCIVBBot5Tt81Jr-l5kxbNcdOksX6iTZ5m0eD573mXhpTtyKgQQdQsSon9b5xxxoUKRhFiPXqMUQnE2FPIfv6w1XqcASGtWAMKQitabprnGus9swtFYHtXXoWhUouYfCVMkQjpH9o7QNGuo0OirXm9UQdFwv_PySFTkkWZoV0QFOpn2MHlqGmP4DvemXsEfD4-UNf8F4Sv-4AAAA&shmds=v1_Ac3VAox2HQCid0SNJmYgPxf7b54gAHSIyJ65e8o0gViUtpPq_g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=WokUZmvleyokCM-pAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b016b6b60cbef7cf8995d39/images/fazFcEmvR12QsOeFILNeqdGNOiZQVCDtWf0bHwb6rzA.jpg",
+      "extensions": [
+        "1 day ago",
+        "Full–time"
+      ],
+      "detected_extensions": {
+        "posted_at": "1 day ago",
+        "schedule_type": "Full–time"
+      },
+      "source_link": "https://www.shine.com/jobs/senior-data-analyst-ms-excel-bangalore-urban/swits-digital-private/20102645",
+      "job_title": "Senior Data Analyst-MS excel (Bangalore Urban)",
+      "description": "Senior Data Analyst-MS excel (Bangalore Urban)\n\nCompany: SWITS DIGITAL Private\nJob Location: Bengaluru, Karnataka, India\nEmployment Type: Full-time\nExperience Required: 5+ years\n\nJob Title- Sr. Data Analyst-MS Excel\n\nExperience-5+ years\n\nLocation -Bangalore\n\nJob Summary\n\nWe are looking for an experienced Financial Reporting & MIS Analyst with robust hands-on expertise in Advanced Microsoft Excel and Power Query. The ideal candidate should have a good understanding of business processes, financial reporting, cost centre management, and Work Breakdown Structure (WBS).\n\nThe candidate will be responsible for handling complex financial data, consolidating information from multiple sources, transforming data using Power Query, and preparing accurate reports to support business decisions.\n\nKey Responsibilities\n\n Develop, maintain, and automate financial reports using Advanced Microsoft Excel.\n Work with large financial datasets, reporting sheets, and business information to ensure accuracy and consistency.\n Use Power Query for data extraction, cleansing, transformation, consolidation, and analysis.\n Prepare and maintain financial reports related to cost centres, budgets, expenses, and business performance.\n Understand and analyze business processes, financial data, cost centre structures, and Work Breakdown Structure (WBS).\n Consolidate data from multiple sources and convert complex information into meaningful reports.\n Perform data validation, reconciliation, and quality checks to ensure reporting accuracy.\n Analyze financial and business data, identify trends and discrepancies, and provide actionable insights.\n Prepare dashboards, summaries, and management reports for business stakeholders.\n Collaborate with Finance, Operations, and other business teams to understand reporting requirements.\n Present analytical findings and communicate insights effectively to stakeholders.\n Identify opportunities to improve reporting processes and reduce manual effort through Excel and Power Query automation.\n\nRequired Skills & Experience\n\n Minimum 5+ years of experience working with Advanced Microsoft Excel\n Hands-on experience with Power Query for data transformation, cleansing, merging, appending, and consolidation.\n Strong understanding of business processes and financial reporting.\n Experience working with financial data, reporting sheets, and management reports.\n Knowledge of Cost Centre reporting and Work Breakdown Structure (WBS).\n Strong analytical, problem-solving, and data interpretation skills.\n Ability to consolidate and present complex business and financial data effectively.\n Excellent stakeholder communication and business understanding. .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/senior-data-analyst-ms-excel-bangalore-urban/swits-digital-private/20102645?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/768031859740246016?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0LU1TIGV4Y2VsIChCYW5nYWxvcmUgVXJiYW4pIiwiY29tcGFueV9uYW1lIjoiU1dJVFMgRElHSVRBTCBQcml2YXRlIiwiaHRpZG9jaWQiOiJXb2tVWm12bGV5b2tDTS1wQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdpMDBSMUpWY25FMGRFTlhTbTVxVWpGUU5WcGZSalZuUkhKSWQwTnNiM1pPU0ROMVpGZDBTVFpmV2xKdkxYbFVRbWN6U0ZVeVJIcGFSR05GVmtFemFIWnFPRGgyUkZGSGJWcDRia3BDVUdadldVNXVUMjB4ZHpsdmFreDNibEp4YzNkS2FVWlZUbkpCY21oTU5VOXNNWEpNVTJWWFZ6Y3hhelU1YTJOVVRHUTJOMjlrUzNRU0YySkhjMEpoTlVocVJYWlBTM2RpYTFCcVRtVm9ORUUwR2lKQlNFNHdSVGRGVTNkT1pHVlJaMjVSTUVwblNGRlpjVEZyVDB4aWNVSkxiV2xCIiwiZmN2IjoiMyIsImZjX2lkIjoiV29rVVptdmxleW9rQ00tcEFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Analytics Analyst II",
+      "company_name": "TGBPL TP India - IBU",
+      "location": "Bengaluru, Karnataka",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=JegBpvWfYDYZrZJSAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWOMQrCQBAAsc0TrLaWmJOAjVYGIRxapIh12MTjknjuhdsNxM4_-AD_5kuM2AzTDEz0XkTpEQXhQOge0jX8NxbQGj7PF_S-BjYYmhY8Qe69dWa5b0UG3inF7BLLgnOZNP6uPJnaT2qO-IeKWwxmcCimSrebKRnIruIyz4ozlAVounYIa9DZBTqCzJBFN4YxhhMGmrdu-AXKqydCogAAAA&shmds=v1_Ac3VAox_nbL2_s0ozI-fO3qA55fWg-UAKRSrWoq2PJJAL_4-TQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=JegBpvWfYDYZrZJSAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAYFBMVEX___8AAAD-_v5MTEzf398ZGRnz8_Pi4uJvb2_Ozs4EBARmZmaGhobm5ub4-PjW1taqqqp8fHwRERGamppCQkKwsLAeHh42NjbGxsakpKS_v790dHSNjY2UlJRdXV1VVVVOIakWAAABa0lEQVRIie3W2XaDIBAAUEDjguLe1iy1__-XRVBZFBlsT586L-FwcjPDklGEzoPI8HzLBflHODwYASN-ln2TJ6uG-xyLGHomCw-BVNqWoXBI6azvKAyqaGcJtAbkErw9JsS9AVXlcqTvgQVxbJwt2UbIhGQHIwVJlayx_AR361z1ZkFcq0rZrbuJwExKDotl6t12uNQqZd0ymW51RDuwxkelakXpcj0gEDO1kwTFUoLgqG0qlx2_VhwiP2z0Y-bVdiJjMOQ5KRDezYxineEZRaTafTqBD9sRVLOg49BORfWGkwuQHEAEyPjcLdEIN8wvwsHTd5ywvgQpfp0X6sxY-JwDZv6-akKKRUP-BDRHBTmRz4Co9qHDUrMR1sN1SKfXmCDgE2eD9pUGw_gf_hYkfw5_sMYhDD6mqRDxhQMztvafAgjJIikNhQSV27tbGBTyErQlcHOEbC_AfbXwCzDLJlujrMBvqFZPcnSob0M2DK58YnFHAAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "3 days ago",
+        "Full–time"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full–time"
+      },
+      "source_link": "https://www.simplyhired.co.in/job/lGKZzxwxOPMQmtOXEkJ7QH5bExFFeELDeEXaQ5liNOUOp79V4Ncejw",
+      "job_title": "Data Analytics Analyst II",
+      "description": "Join Teleperformance – Where Excellence Meets Opportunity!\n\n\nTeleperformance is a leading provider of customer experience management, offering premier omnichannel support to top global companies. Our diverse service locations, including on-site and work-at-home programs, ensure flexibility and broad reach.\n\n\n\n\nWhy Choose Teleperformance?\n\n\nWe emphasize the importance of our employees, fostering enduring relationships within our teams and communities. Our dedication to employee satisfaction distinguishes us.\n\n\nUtilize advanced support technologies and processes engineered to achieve outstanding results.\n\n\nWe cultivate lasting client relationships and make positive contributions to our local communities.\n\n\n\n\nBecome Part of an Exceptional Team!\n\n\nJoin Teleperformance, where our world-class workforce and innovative solutions drive success. Experience a workplace that values your development, supports your goals, and celebrates your accomplishments.\n\n\n\n\nJob Description\n\n\nResponsible for performing general analytics and statistical modeling on existing data sets in various areas of the business (e.g., Market Economics, Supply Chain, Marketing/Advertising, Financial Services, Scientific Research, etc.). Activities include: defining data requirements, data collection, processing, cleaning, analysis, modeling and visualization. Examines and identifies data patterns and trends to help answer business questions and improve decision making. Provides inputs for complex Data Science and Big Data Mining projects. Identifies areas to increase efficiency and automation of data analysis processes.\n\n\nPositions on this level have comprehensive knowledge of the specific discipline or the broader area in which the position operates. Executes specialized projects and activities and typically works according to set principles. Usually generates and initiates own workload and doesn't need instructions or guidelines. Might supervise work of less experienced professionals providing professional expertise and taking responsibility for the end-product. Positions at this level are expected to significantly improve the day-to-day activities/processes.\n\n\nManages and oversees the implementation of short-term activities within the team. Decisions are of an operational nature within a defined scope. Positions on this level delivers their share of professional responsibilities focusing on professional excellence. Typically manages a team of Individual Contributor co-workers.\n\n\n\n\nBe One of Our People:\n\nIt is our mission to always provide an environment where our employees feel valued, inspired, and supported, so that they can bring their best selves to work every day. We believe that when employees are happy and healthy, they are more productive, creative, and engaged. We are committed to providing a workplace that is conducive to happiness and a healthy work-life balance. We also believe that to be our best selves, we need to be surrounded by people who are positive, supportive, and challenging. We are committed to creating a culture of inclusion and diversity, where everyone feels welcome and valued. Teleperformance is an Equal Opportunity Employer\n\n\n\n\nJob Application Accommodation:\n\nIf you have questions or need an accommodation for any disability during this application, please contact your local Teleperformance location for assistance.",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/lGKZzxwxOPMQmtOXEkJ7QH5bExFFeELDeEXaQ5liNOUOp79V4Ncejw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/jv?jl=1010329924371&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/data-analytics-analyst-ii--bengaluru--ec41beb771b83b10de0fc2264261fc9c1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://in.trabajo.org/job-4111-172aad9c3d3a833fbbd7e5c615fcb636?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/8837949335007133696?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/353969427/data-analytics-analyst-ii-bengaluru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5dGljcyBBbmFseXN0IElJIiwiY29tcGFueV9uYW1lIjoiVEdCUEwgVFAgSW5kaWEgLSBJQlUiLCJodGlkb2NpZCI6IkplZ0JwdldmWURZWnJaSlNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWVV0TlRXeHJkVEJOYVhKalVua3dRalZmTFdNdFlWRmZTMEUzVXpjNVFsVmhXVTR4YWxSeVlqQkVRVmxXWnpVeGJIVkdRVVpLUVdkbmNuZE1abWhyWkc5Q1VqUlNSakZUUjBjMlZGOTFNV3B5WDJGaGNVOWxla0o1TkdWRVpHMVpWRFozUWpaMExXWmhiamxRVjFodmVrOVhiWG80UWs4NU0yYzRTMk5PTTJkbExYQjJaRVlTRjJKSGMwSmhOVWhxUlhaUFMzZGlhMUJxVG1Wb05FRTBHaUpCU0U0d1JUZEdVM1J0YWxCTk1FWm1kamxhUWpaWlVtNU9kR3hVVFhKVlgwbFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJKZWdCcHZXZllEWVpyWkpTQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Sr. Data Analyst - Qliksense Job",
+      "company_name": "Yash Technologies",
+      "location": "Bengaluru, Karnataka",
+      "via": "Jobs At YASH Technologies",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=g_GF1MpB6irP3CYrAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOMQoCMRAAsb0nWG2raCKChVopgqCVaGMle8eSxIu7RzYHZ-cffII_8yWezUw1MMVnUCzPycAOM8KGMT41wxROMdRKrAQHKeH7esO9txKmyoMw7EVcpOHa59zoylrVaJxmzKEylTysMJXS2T7SP27qMVETMdNtvph1pmE3Hl1RPVyo8ixRXCCFwLAldhjb1E7giIn7rRp_ng6oyaYAAAA&shmds=v1_Ac3VAoxISTYWpgzahNWm9MsspBPBVNwmeWRLJ7zMhSp3JoE9rA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=g_GF1MpB6irP3CYrAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b016b6b60cbef7cf8995d39/images/3kF2Fh7JNgplqPfBmNUSM0BZVJ4ampXSwJKQpZnccWA.png",
+      "extensions": [
+        "5 days ago",
+        "Full–time"
+      ],
+      "detected_extensions": {
+        "posted_at": "5 days ago",
+        "schedule_type": "Full–time"
+      },
+      "source_link": "https://careers.yash.com/job/Bangalore-Sr_-Data-Analyst-Qliksense-Job-KA/1370423866/",
+      "job_title": "Sr. Data Analyst - Qliksense Job",
+      "description": "YASH Technologies is a leading technology integrator specializing in helping clients reimagine operating models, enhance competitiveness, optimize costs, foster exceptional stakeholder experiences, and drive business transformation.   At YASH, we’re a cluster of the brightest stars working with cutting-edge technologies. Our purpose is anchored in a single truth – bringing real positive changes in an increasingly virtual world and it drives us beyond generational gaps and disruptions of the future.   We are looking forward to hire Qliksense Professionals in the following areas :   Job description:   Experience required: 2-5 years    The Contractor will support the ongoing maintenance, enhancement, and evolution of the M-Smart Germany analytics platform.  The primary area of responsibility is the development, support, and optimization of Qlik Sense applications and data models that form the core of the M-Smart Germany reporting landscape.  In addition, the Contractor will design and implement new analytics and data integration solutions using Snowflake, dbt Cloud, Qlik Cloud (SaaS), and Jomash Classic (Mashup), including development of data pipelines, database objects, security structures, and cloud-based analytical capabilities supporting Healthcare Commercial Analytics.  Responsibilities also include troubleshooting and continuous improvement of existing solutions, technical documentation, estimation and timely delivery of Azure DevOps work items, and collaboration with Product Owners and stakeholders. The Contractor will use their own equipment and access Merck systems through Desktop on Demand services   At YASH, you are empowered to create a career that will take you to where you want to go while working in an inclusive team environment. We leverage career-oriented skilling models and optimize our collective intelligence aided with technology for continuous learning, unlearning, and relearning at a rapid pace and scale.   Our Hyperlearning workplace is grounded upon four principles  Flexible work arrangements, Free spirit, and emotional positivity Agile self-determination, trust, transparency, and open collaboration All Support needed for the realization of business goals, Stable employment with a great atmosphere and ethical corporate culture",
+      "apply_options": [
+        {
+          "title": "Jobs At YASH Technologies",
+          "link": "https://careers.yash.com/job/Bangalore-Sr_-Data-Analyst-Qliksense-Job-KA/1370423866/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/sr-data-analyst-ms-excel-job-at-yash-technologies-4490185304?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/sr-data-analyst-qliksense-job-yash-technologies-bengaluru-bangalore-69877389?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Protocol Jobs",
+          "link": "https://app.protocoljobs.ai/job/details?id=6afbde09460ef1238befe5f5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/sr-data-analyst-qliksense-job--bengaluru--e88ad3efab2ccac7396d07aa506001b98?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/mahe-technologies-private-limited-sr-software-engineer-ibm-cognos-tm1-job-bengaluru-bangalore-karnataka-5-to-7-years-1601585?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://in.talent.com/view?id=646296609039785992&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/sr-data-analyst-ms-excel-job-yash-technologies-bangalore--fj-2469870676?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTci4gRGF0YSBBbmFseXN0IC0gUWxpa3NlbnNlIEpvYiIsImNvbXBhbnlfbmFtZSI6Illhc2ggVGVjaG5vbG9naWVzIiwiaHRpZG9jaWQiOiJnX0dGMU1wQjZpclAzQ1lyQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlrVk1jbmRoWmt0WlJtWkZhbmx0Y1dWbk1sRmtUVVZYZVU5c1dqSkxRbk5wWldveE5FSnVOVE14TlhkemJGZFRhSEp3VlVONWRUUjBPR3hKUTI5cGVHSXdkVVpMZWxaemJYbzNYMFEyTlZrMFExOTBaMHhGWVZkRmRtNWZWM0ZhTUcxRVp6ZFlhMjAzT0ZRNGQwWkpXR050YVVaSFZsSXhVMmM1UkdZd1dHVlZiMlJqYlcwU0YySkhjMEpoTlVocVJYWlBTM2RpYTFCcVRtVm9ORUUwR2lKQlNFNHdSVGRHT1dGdlpGRkJTRU16WlU1TVNIZGtUR016ZW1veVlXZzNiRmgzIiwiZmN2IjoiMyIsImZjX2lkIjoiZ19HRjFNcEI2aXJQM0NZckFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Analyst 3",
+      "company_name": "PRI INDIA IT SERVICES PRIVATE LIMITED",
+      "location": "Bengaluru, Karnataka",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=CbqVkaTqyRg-M4fwAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOPQrCMBhAce0RnL5NEGlEcVEcqg0S_EHa0rV8LSGtxqTkS6Fu3sEzeDFPYl3e8ODBCz6jYBKjR4gM6id5WML39YabLYEkuqoGa-BgrdJyvKm9b2nNGJEOFXn0TRVW9sGskaXt2RDRHwXV6GSr0ctisZr3YWvUdHtNBIhLLCIQGaQ8ycWepzDYPMo4nMRZZDyGxsBOGoW6c90MjujMMHfHH64qxTWoAAAA&shmds=v1_Ac3VAoy38MaWfITSpjpPp4UYoNAQCvG5ubD0RpL-wGTQU3EuYQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=CbqVkaTqyRg-M4fwAAAAAA%3D%3D",
+      "extensions": [
+        "3 days ago",
+        "Full–time"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full–time"
+      },
+      "source_link": "https://in.linkedin.com/jobs/view/data-analyst-3-at-pri-india-it-services-private-limited-4490853619",
+      "job_title": "Data Analyst 3",
+      "description": "Description\n\nResponsibilities:\n\nUnder general supervision, conducts mapping of SDTM and Custom domains.Understands and reviews requirements, creates plans and/or contributes in estimations.Performs planning, mapping domains, review domains and Unit testing on planned releases.Supports and performs defect fix and tracking; coordinates with team.Works closely with testers, Dev Leads/Managers and other project stakeholders.Maintains documentation to assist in debugging and modifying software; analyzes results to ensure existing functionality and recommends corrective action.Coordinates with testing teams in troubleshooting and resolving issues.Regularly documents, tracks and escalates issues as appropriate.Seeks necessary managerial support to discuss/flag risks and mitigation plans.\n\nExperience\n\nIndividual contributor with 2-6 years of experience who works under close supervision.Experience to create SDTM datasets of clinical data from raw dataExperience on Clinical domain is preferred.Experience in any one of ETL tool and concepts is preferred.Good hands on experience in Oracle/SQL.Hands on experience in these tools - Client ALM, JIRA, Synapse RT.\n\nEducation\n\nBachelor's or Master's Degree in Computer Science, Information Technology, Clinical Information Management or equivalent qualifications.\n\nKnowledge\n\nGood Strong understanding of SDLC processes.Good strong understanding of defect lifecycle.Good knowledge on CDISC concepts and deliverablesGood knowledge on end to end clinical data management activitiesGood Understanding on eCRF, protocol & study related documents.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/data-analyst-3-at-pri-india-it-services-private-limited-4490853619?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/zynga-data-analyst-3-bengaluru-bangalore-karnataka-5-to-7-years-1522027?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://in.trabajo.org/job-4112-097c1418cdeb90c16f290ae1d4350bc9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/data-analyst-3-pri-india-it-services-private-limited-bengaluru-karnataka--t7xk-956653132?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/7328627733326462976?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/353969610/data-analyst-3-bengaluru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgMyIsImNvbXBhbnlfbmFtZSI6IlBSSSBJTkRJQSBJVCBTRVJWSUNFUyBQUklWQVRFIExJTUlURUQiLCJodGlkb2NpZCI6IkNicVZrYVRxeVJnLU00ZndBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWVVKUmNFcEtXVnBtZW10NFUyTk9ORW93U0VneFUxWTVjREI0VTBGMFluaExTVlpLVFhFd2JVMWtSMFUwU2xwMU1qTnlVbWhMVUhFeFgyWnlVbkZqVVVSUGVUTkpObTFtWkhoNFNVODBiSEpTTlVOamVtNXVjMXBTYWxGV2NsOUNOblkxVTBaa2NUSnRZbUU1TTBaUlkwc3dTRkpFT1hFd1JpMWpkMnBGVFhGbGExQTFYMm9TRjJKSGMwSmhOVWhxUlhaUFMzZGlhMUJxVG1Wb05FRTBHaUpCU0U0d1JUZElZM1JIYVZka1ZqUTJiMEoyU1RGcE5UVkJaRmwxWjJ0Nk1scFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJDYnFWa2FUcXlSZy1NNGZ3QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Analyst Job ID: 424698",
+      "company_name": "Rentomojo",
+      "location": "Bengaluru, Karnataka",
+      "via": "JobLeads",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=7HRnlZdTv8Pfm7xhAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOMQrCQBAAsc0TrNZWJCchisZKCYja-YGwCccl8bIbbjcQO_8g-EBfYmymGBiY6DOL0hwV4Ujon6Jw5RIueQZpkm73O_i-3tBOSiyGqgYmODM7b-eHWrWXzBgRHztR1KaKK-4Mky15NFMkfxRSY7C9R7VFslmPcU9uubhbUu64ZWgITpYc-iEMK7hhoOnmgT_h1fNHmQAAAA&shmds=v1_Ac3VAozPrg4N89Ks4KoQIPuMyxmHPTRsn3JbV4KM87FMJCOxXg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=7HRnlZdTv8Pfm7xhAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b016b6b60cbef7cf8995d39/images/UefC3b7QXpc6cnBKSJDPcvbIx4QUZ9UTiNGDyBfR8Qg.jpg",
+      "extensions": [
+        "4 days ago",
+        "₹9L–₹15L a year",
+        "Full–time"
+      ],
+      "detected_extensions": {
+        "posted_at": "4 days ago",
+        "salary": "₹9L–₹15L a year",
+        "schedule_type": "Full–time"
+      },
+      "source_link": "https://www.jobleads.com/in/job/data-analyst-job-id-424698--bengaluru--ecf015a94aaa8099e5cc20b9a1a1dd347",
+      "job_title": "Data Analyst Job ID: 424698",
+      "description": "About the RoleData Analyst 2 to 5 years Full Time We are hiring a sharp, analytically rigorous Data Analyst who thrives at the intersection of data engineering, automation, and business storytelling. This is not a pure reporting role. You will architect automated data pipelines, build scalable reporting workflows, and bring a growth marketing mindset to every analysis. If you love turning messy data into clear decisions, this is your seat.\n\nKey ResponsibilitiesSQL and Data InfrastructureDesign and maintain complex, high-performance SQL queries across PostgreSQL, MySQL, and MongoDB that power daily business decisions.Build and own data models that structure raw datasets into clean, analytics ready layers for BI tools and downstream teams.Spot data gaps, anomalies, and inconsistencies proactively and work closely with engineering to resolve them before they become business problems.Automation and Pipeline EngineeringBuild automated reporting workflows that push query outputs directly into Google Sheets, dashboards, or BI tools with minimal manual intervention.Own end to end data delivery from raw query to polished dashboard ensuring real time visibility into business metrics across teams.AI and Smart AutomationUse AI tools thoughtfully to automate insight generation, summarize data trends, and reduce repetitive analytical tasks.Explore automation workflows to surface insights faster and reduce analyst bottlenecks across teams.Apply AI assisted scripting to scheduled or event driven reporting tasks where they add genuine value.Marketing and Growth AnalyticsTrack multi channel campaign performance across paid, organic, and owned channels measuring ROI, attribution, and incremental impact.Analyze audience behavior, funnel drop offs, and conversion patterns to surface actionable growth insights for the marketing team.Support A/B tests, cohort experiments, and growth initiatives defining metrics, setting up tracking, and delivering clear post analysis readouts.Build and maintain marketing dashboards that give the growth team real time visibility into campaign and channel health.Cross Functional Insight DeliveryPartner with Operations, Finance, Product, and Marketing to translate open ended business questions into reliable, reproducible analyses.Own ad hoc and recurring analysis including cohort studies, funnel health, retention trends, LTV modeling, and operational KPIs.Communicate findings clearly and concisely, tailored to the audience whether that is a 5 slide exec summary or a detailed breakdown for a product team.Must Have SkillsAdvanced SQL proficiency across PostgreSQL, MySQL, and similar databases including window functions, CTEs, query optimization, and schema design.Strong experience automating data workflows pushing query outputs to Google Sheets, dashboards, or downstream tools with minimal manual effort.Experience with scheduled and event driven data processing using orchestration tools.Solid understanding of data modeling and structuring datasets for analytics consumption.Comfortable navigating large, messy, and ambiguous datasets to answer open ended business questions.Proficient in Excel and one or more BI tools such as Metabase, Power BI, Tableau, or LookerStrong grasp of business KPIs and ability to derive and communicate insights from raw data with minimal hand holding. Familiarity with AI assisted tools and willingness to use them as a real productivity lever in analytical workflows.",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/data-analyst-job-id-424698--bengaluru--ecf015a94aaa8099e5cc20b9a1a1dd347?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/as-technologies-junior-data-analyst-job-bengaluru-karnataka-india-0-to-2-years-356776?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talents Jobs",
+          "link": "https://talentsjobs.in/product-data-analyst-job-description-talent-it-solutions-amritsar-0-to-8-years-200842?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgSm9iIElEOiA0MjQ2OTgiLCJjb21wYW55X25hbWUiOiJSZW50b21vam8iLCJodGlkb2NpZCI6IjdIUm5sWmRUdjhQZm03eGhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV1MxcVNFMTJUVUp6TFRaVFFWWkpjbEp5U2xwZmVGQkZabWx4UmxFNWNIUk1OSGMwVUVkVmQyUkdRMGRpTVdoeE1HRnNXbUZoUkc1UFNFaE5WbmxZYjI1NFYwUjVVa1pQZEZJeGRrNTRaazFrUldkS05GcFFPWEpSZEdKV2NsOXdiemR1VVVsMVpXVlBiRXhrU0RSUWFWcHhMV0ZXUjNOd05tMXhUSFl3VEZkYU9HdHNiMFFTRjJKSGMwSmhOVWhxUlhaUFMzZGlhMUJxVG1Wb05FRTBHaUpCU0U0d1JUZEhPVkZPWjJSU1dWOVFSQzFGTWpGeGFtcDZVazFqU1dKRlVHSjMiLCJmY3YiOiIzIiwiZmNfaWQiOiI3SFJubFpkVHY4UGZtN3hoQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Analyst - Internship",
+      "company_name": "BXP Support And Solutions Private Limited",
+      "location": "Bengaluru, Karnataka",
+      "via": "Internshala",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=scgRQOIe9VwXf7pUAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOMQ6CQBBFY8sRrKY2CobERiuJiTFakNDYkQE2sLrMbHYGg5138CqeyJOIza_ey_vRZxalB1SEPaF7isIKTqQmkHTWw_f1hhtXIAZD3QETHJlbZ-a7TtXLNklEXNyKoto6rrlPmEzFYzJJ8p9SOgzGO1RTppv1GHtqF_vsmkMxeM9Bp24DBbtBLZNAHuxjYuFie6umAUuQGWrRDWFYwhkDTV_v-APqnuMytwAAAA&shmds=v1_Ac3VAoz0pcPheDDu187H9hpxN7usppXuGe7efzZdI12O7_BSEA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=scgRQOIe9VwXf7pUAAAAAA%3D%3D",
+      "extensions": [
+        "5 days ago",
+        "₹17.5K–₹20.5K a month",
+        "Full–time and Internship"
+      ],
+      "detected_extensions": {
+        "posted_at": "5 days ago",
+        "salary": "₹17.5K–₹20.5K a month",
+        "schedule_type": "Full–time and Internship"
+      },
+      "source_link": "https://internshala.com/internship/detail/data-analyst-internship-in-bangalore-at-bxp-support-and-solutions-private-limited1794826646",
+      "job_title": "Data Analyst - Internship",
+      "description": "About the internship:\n\nSelected intern's day-to-day responsibilities include: \n\n\n\n1. Conduct deep data and variance analytics of the pricing database and assist in creating a summary Excel or Google Sheets.  \n\n2. Articulate findings effectively and support documentation and report drafting.  \n\n3. Present innovative insights from datasets and assist in dashboard preparation.  \n\n4. Generate various reports related to pricing as per the ongoing streams.\n\nWho can apply:\n\nOnly those candidates can apply who:\n\nare available for full time (in-office) internshipcan start the internship between 16th Nov'26 and 21st Dec'26are available for duration of 5 monthshave relevant skills and interests* Women wanting to start/restart their career can also apply.\n\nStipend:\n\nINR₹ 17,500 - 20,500 /month\n\nDeadline:\n\n2026-12-16 23:59:59\n\nOther perks:\n\nLetter of recommendation, 5 days a week\n\nSkills required:\n\nPython, SQL, Data Analytics, MS-Excel, Business Analysis, Power BI and Tableau\n\nOther Requirements:\n\n1. Scores of 80% or more in mathematics or economics in class X & XII (or equivalent).2. First class in graduation is preferable.\n\nAbout Company:\n\nBXP Support and Solutions Private Limited is in the business of support solutions for startups and microenterprises. Currently, we are facilitating a pricing product development for global deployment. We are based out of Bengaluru.",
+      "apply_options": [
+        {
+          "title": "Internshala",
+          "link": "https://internshala.com/internship/detail/data-analyst-internship-in-bangalore-at-bxp-support-and-solutions-private-limited1794826646?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Getmereferred.com",
+          "link": "https://getmereferred.com/job-listing/internship-data-analyst-iidww-airbus-bengaluru-to-3-years-experience-0b93e835-2ff6-44bd-8b15-4ae8e993bef9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgLSBJbnRlcm5zaGlwIiwiY29tcGFueV9uYW1lIjoiQlhQIFN1cHBvcnQgQW5kIFNvbHV0aW9ucyBQcml2YXRlIExpbWl0ZWQiLCJodGlkb2NpZCI6InNjZ1JRT0llOVZ3WGY3cFVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWWkxNmNIaEZNR0ZNT0VrNFJFbFlTa1ZJUmkxaVYycEVhME00UlhVMlRHeGtSblpRY25OdFozRkJPRzUxV1Rjd05WUlBlVWhKYlVsMWVHMTRXbFp6UXpGbVozcGZhVm81T1VST1dVWnBWVWx4TTNScGVrbGlTVlpxUTNsSmRHeGZibEpDTkRKTFV5MVRhVFJLWTBWV2FsbHRiVjlYUm5GeFdHb3lVRVJTZEdsSlExTlFaRTBTRjJKSGMwSmhOVWhxUlhaUFMzZGlhMUJxVG1Wb05FRTBHaUpCU0U0d1JUZEdla3RrWlRVM1owbHlPSEoxU25CR2VGRTBVRzV6TUhCb1RGcDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJzY2dSUU9JZTlWd1hmN3BVQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Sr. Data Analyst (Bengaluru South)",
+      "company_name": "Stanley Black & Decker",
+      "location": "Bengaluru, Karnataka",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=yOVhuivA0z1uzjUBAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_z3OMQrCQBBAUWxzBKupREU2ItiYyhCwsMwBwmQZdmPWmbA7gaTzDt7CY3kStbH53YeXvRZZUUcDFSrCmTHMSWFdEjsMYxyhllH9Bt6PJ9ykhUQYrQdhuIi4QMvCqw7plOcpBeOSonbWWLnnwtTKlH-n9EuTPEYaAio1h-N-MgO7rakVOdAMZUDbwwoqsj1F6Bj-gh1cMfJX1-MH_3u29a0AAAA&shmds=v1_Ac3VAownNrHlwzd3jl7iqqypWdaEMZTfGC1Lz7VXpjEp5lXFXA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=yOVhuivA0z1uzjUBAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAlCAMAAAAgENppAAAAilBMVEX____6-vr_0AD-6J3-6J7_0g3_1gz_0gD_2Az5zxv19fX_1A36-__5zgD45Jz-5pf99NL-__rrxBHIqBHYtBHyyhDgug_97rU3MRN2ZBLQrxaskBKylRO8nxV5aBFqWg-DbxGfhRBcUhWXfhCOeBD-2EBkVRFWShM6Mg1MQhP_3g-Idhb9323-_O_ghD9VAAABBElEQVRIie2W7U7DIBRAaRXKdq2bfGkLrGCxfqDv_3rCOueqv1YTE2MP5HK55IQfQAJaF7NYowLNoljERfxt8WqueH1xJpvtKNZVmakS-_FjNg6HPuYHbkZxhTPAOGAChAogBEBIkWZUMlJjECtIuapTJBiXt-hUrO9E02pl2obpVtpd55iX3mh13ys3KCN14Cytk-oBTURqh6C1CTE8hhBN9NH1Oxm69skb1Tz33cvguxgVlNuJCDxyZ3aWWx-4ttq1PgSjE33UjjmRqt5bT6pXNN2R0NwAcvT7nFKSobmcCzkjuHw7inX5FfhW-WRzco6XZ3D0fnJz_tDrWMR_Ls79A7wDNvoWBeJIFzIAAAAASUVORK5CYII.png",
+      "extensions": [
+        "5 days ago",
+        "Full–time"
+      ],
+      "detected_extensions": {
+        "posted_at": "5 days ago",
+        "schedule_type": "Full–time"
+      },
+      "source_link": "https://www.shine.com/jobs/sr-data-analyst-bengaluru-south/stanley-black-decker/20086386?jobtype=cr&position_in_results=13",
+      "job_title": "Sr. Data Analyst (Bengaluru South)",
+      "description": "Sr. Data Analyst (Bengaluru South)\n\nCompany: Stanley Black & Decker\nJob Location: Bengaluru, Karnataka, India\nEmployment Type: Full-time\nExperience Required: 7+ years\n\nPosition Summary\n\nThe Directed Buy Sr Analyst leads and executes directed buy programs across the supply chain, ensuring alignment between OEM/brand requirements, supplier capabilities, and internal procurement strategies. This role is the primary liaison between commodity teams, engineering, operations, and external suppliers  driving cost, quality, and delivery performance across all active directed buy initiatives.\n\nKey Responsibilities\n\n Identify Directed Buy opportunities at SBD, create a Roadmap and strategy and own the outcomes of the strategy.\n Lead end-to-end management of directed buy programs, including supplier onboarding, contract compliance, and performance tracking.\n Collaborate with commodity managers and engineering teams to align directed buy specifications with sourcing strategies.\n Manage supplier relationships for directed buy components, ensuring adherence to cost targets, quality standards, and delivery schedules.\n Develop and maintain project plans, milestones, and status reporting for all active directed buy initiatives.\n Identify and escalate risks related to supply continuity, cost overruns, or quality deviations.\n Support RFQ/RFP processes for directed buy commodities in coordination with the commodity excellence team.\n Track savings and value realization from directed buy programs and report results to leadership.\n Ensure compliance with USMCA, tariff, and regulatory requirements for directed buy components.\n Drive continuous improvement initiatives within the directed buy process.\n\nQualifications\n\n Bachelor's degree in Supply Chain, Engineering, Business, or a related field.\n 7+ years of experience in procurement, supply chain, and project management.\n 4+ years experience with Directed Buy program.\n Experience with directed buy or OEM-specified sourcing programs preferred.\n Strong project management skills; PMP certification a plus.\n Proficiency in Excel and data analysis tools.\n Excellent communication and stakeholder management skills.\n Ability to manage multiple priorities in a quick-paced environment.\n\nPreferred Skills\n\n Experience in Directed buy program for commodities such as Steel, Resin, packaging etc.\n Familiarity with commodity management frameworks and cost modeling.\n Knowledge of tariff and trade compliance (USMCA, HTS codes).\n\n*We Dont Just Build The World, We Build Innovative Technology Too.*\n\nJoining the Stanley Black & Decker team means working in an innovative, tech-driven and highly collaborative team environment supported by over 43,500 professionals in 60 countries across the globe. Here, youll get the unique chance to impact some of the worlds most iconic brands including STANLEY TOOLS, DEWALT, CRAFTSMAN, MAC TOOLS and Black + Decker. Your ideas and solutions have the potential to reach millions of customers as we work together to write the next chapter in our history. Come build with us and take your career to new heights.\n\nWho We Are\n\nWere the Worlds largest tool company. Were industry visionaries. Were solving problems and advancing the manufacturing trade through innovative technology and our Industry 4.0 Initiative. We are committed to ensuring our state-of-the-art smart factory products and services provide greater quality to our customers & greater environmental and social value to our planet. We are unique in that we have a rich and storied history dating back to 1843, but that hasn't stopped us from evolving into a vibrant, diverse, global growth company.\n\nGlobal Benefits & Perks\n\nYoull be rewarded with a competitive salary plus receive entitlements and benefits unique to your country of hire.\n\nWhat Youll Also Get\n\n Career Opportunity: Career paths arent linear here. Being part of our global company with 60+ brands gives you the chance to grow and develop your skills along multiple career paths.\n Learning & Development: Our lifelong learning philosophy means youll have access to a wealth of state-of-the-art learning resources, including our Lean Academy and online university (where you can get certificates and specializations from renowned colleges and universities).\n Diverse & Inclusive Culture: We pride ourselves on being an awesome place to work. We respect and embrace differences because thats how the best work gets done. Youll find we like to have fun here, too.\n Purpose-Driven Company: Youll help us continue to make positive changes in the local communities where we work and live as well as in the broader world through volunteerism, giving back and sustainable business practices. .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/sr-data-analyst-bengaluru-south/stanley-black-decker/20086386?jobtype=cr&position_in_results=13&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Getmereferred.com",
+          "link": "https://getmereferred.com/in/job-listing/lead-data-insight-analyst-t50028720-albertsons-companies-india-bengaluru-5-to-10-years-experience-0bf0e1ce-b4e4-4653-9b10-48b12afe5911?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://in.trabajo.org/job-4056-50e658f1d6e77bb715c00264f2d14deb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/xylem-procurement-excellence-sr-data-analyst-bengaluru-bangalore-karnataka-4-to-8-years-1024393?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/sr-data-analyst-4b-genpact-bengaluru--ss-in-1l9sqfh?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/7556130226850234368?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobAlert.world",
+          "link": "https://jobalert.world/jobs/sr-data-analyst-4b-at-brightclaim-bangalore-ka-j5114?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTci4gRGF0YSBBbmFseXN0IChCZW5nYWx1cnUgU291dGgpIiwiY29tcGFueV9uYW1lIjoiU3RhbmxleSBCbGFjayBcdTAwMjYgRGVja2VyIiwiaHRpZG9jaWQiOiJ5T1ZodWl2QTB6MXV6alVCQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdub3RaalJCUWtWcmRXUXdVRnBpVDJkVGQxbGZkV2RGUVhZMGFqZEhRa3BNVEdaU1dtbEVWbUpPUlRSamN6azVZMlJPU1ZsM1Z6SlNWM0pSY3pJM1UycFBlRFpTVGxKaGVGUTJiRzVuVDBoV01VaFNTbVZ1YmtWeU9FZFFaa2xsVDBaMldHMW9XRFp6VDNZd1UyTnVRV3BtYWtWaFMzQTRSWE5mTFU5SlUxZEhRVTlWZDBRU0YySkhjMEpoTlVocVJYWlBTM2RpYTFCcVRtVm9ORUUwR2lKQlNFNHdSVGRHU1ZjNFVVVTFNR0ZQV2w5TGRGOUhTRGh3VDBScFUwMXpVVnAzIiwiZmN2IjoiMyIsImZjX2lkIjoieU9WaHVpdkEwejF1empVQkFBQUFBQT09In0="
+    },
+    {
+      "title": "Trainee Data Analyst [M.Sc Statistics]",
+      "company_name": "izmo ltd",
+      "location": "Bengaluru, Karnataka",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=4rA0gSHxleeZ8Et9AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXOMQrCQBBAUWxzBKupRbIi2GghimAhVrETCZN12KxudsLOBKKVd_ACns2TaJrfPfjZZ5StTwl9JIIdKsImYniIwvmYFxYKRfWi3soFvq833LgCIUy2Bo6wZ3aBxqtatZWlMSIhdzIQm1tuDEequDd_JENKqTFRG1CpnC9mfd5GNwH_bBiCXsFH2FJ0GLrUTeGAKf5_7vgDHlq-tqMAAAA&shmds=v1_Ac3VAozsS5h98HfQaDbE630tq8YSYpoOIf8tOGBxjwybHgmprA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=4rA0gSHxleeZ8Et9AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b016b6b60cbef7cf8995d39/images/gIGIT62_0BonN33fS4e6CB3r8w0jEknC3CHdrZEBd6g.jpg",
+      "extensions": [
+        "8 days ago",
+        "Full–time"
+      ],
+      "detected_extensions": {
+        "posted_at": "8 days ago",
+        "schedule_type": "Full–time"
+      },
+      "source_link": "https://in.linkedin.com/jobs/view/trainee-data-analyst-m-sc-statistics-at-izmo-ltd-4490573701",
+      "job_title": "Trainee Data Analyst [M.Sc Statistics]",
+      "description": "# This position is based in Bangalore. Immediate joiners preferred # \n\nTitle: Trainee Data Analyst [M.Sc Statistics]\n\nLocation: JP Nagar, Bangalore\n\nWork Mode: Work From Office (Mon-Fri)\n\nExperience: 0 - 1 Years\n\nAbout The Company\n\nizmocars (www.izmoltd.com / www.izmocars.com) is a leading Interactive Media and Internet Solutions company with a strong presence in the Automotive industry. With Interactive Media studios in Long Beach, CA & Brussels, Europe, we are the largest producers of automotive content in the world. Our products include Interactive Media Solutions for Automotive, Web Platform, CRM, Online Marketing and Virtual Reality Platform for the Automotive industry.\n\nAbout FrogData\n\nFrogData, a leading AI-driven analytics platform, provides deep insights and decision intelligence to automotive dealerships. Our solutions leverage advanced statistical models, machine learning, and big data analytics to optimize business performance. We are looking for passionate MSc Statistics Freshers who can contribute to our data science and analytics team.\n\nWhat You Will DO\n\nWork with large datasets to identify trends, patterns, and insights relevant to automotive dealerships.Develop statistical models, forecasting techniques, and predictive analytics for various business functions.Apply regression analysis, hypothesis testing, time series analysis, and other statistical techniques to solve business problems.Assist in data preprocessing, cleaning, and transformation to ensure high-quality analytics.Generate reports and dashboards using statistical tools and visualization platforms like Python.\n\nRequired Qualifications & Skills\n\nMSc in Statistics from a Tier 1 / reputed university.Strong foundation in statistical concepts, probability, and data analysis techniques.Knowledge of Python (Pandas, NumPy, Scikit-learn, Statsmodels) for data manipulation and statistical modeling.Familiarity with SQL for querying and managing databases.Strong analytical and problem-solving skills with keen attention to detail.Good communication skills to present data-driven insights effectively.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/trainee-data-analyst-m-sc-statistics-at-izmo-ltd-4490573701?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/trainee-data-analyst-msc-statistics-izmo-ltd-bengaluru-south-karnataka--t7xk-942696916?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/353189272/trainee-data-analyst-m-sc-statistics-bengaluru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJUcmFpbmVlIERhdGEgQW5hbHlzdCBbTS5TYyBTdGF0aXN0aWNzXSIsImNvbXBhbnlfbmFtZSI6Iml6bW8gbHRkIiwiaHRpZG9jaWQiOiI0ckEwZ1NIeGxlZVo4RXQ5QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdVVkpXV2RWV0djNFZIRlllbkI0Y2tSWE5qWkRNVVZPWlMwNU5IZHNWVGc0UzBSRFN6WlRjVXhHVlVOeVZtZDRZblF5VmtneU9VRmlNVXhIUkVoVWVHSm5SRUZHTnpSbGFtdGZhbmRsZUU5dmRHRnljRk4wUzFGelJHcGthWFZJZFdKV1NXSkljbms1VjBWWk5VUTRUamxhU25kMFgwTlRaSFZuZG0xVmJHbDViVk16UmpBU0YySkhjMEpoTlVocVJYWlBTM2RpYTFCcVRtVm9ORUUwR2lKQlNFNHdSVGRHU1dONk5FZGFlVXhOVGsxNmQzZE9VVWRzUlhKclJtNVdaekpCIiwiZmN2IjoiMyIsImZjX2lkIjoiNHJBMGdTSHhsZWVaOEV0OUFBQUFBQT09In0="
+    },
+    {
+      "title": "Senior Analyst - Data Analytics",
+      "company_name": "Soteria Reinsurance Ltd.",
+      "location": "Bengaluru, Karnataka",
+      "via": "JobLeads",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=GWTEq8qNGlLiK532AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWOMQrCQBBFsc0RrKYWTYIgiFaKYKGVHiBM1mGzus6EnQnEzjt4Cq_lSYzYfHjwHvzsPcqWZ-IgCTaM8aEGM9ih4R8tOIXP8wVXqUEJk2tAGPYiPtJ43Zi1uioK1Zh7NRz03Mm9EKZa-mKI9DeVNpiojWhUzRdln7fsJ-VZjFJAOFFg7RKyIzjaJYfAsCX2GLvUTeGAiYc_N_wCm1Cr-KwAAAA&shmds=v1_Ac3VAowc_kLoqKB7_LvURqsPkuYeNTGji3f_Mh6KBsItdympZw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=GWTEq8qNGlLiK532AAAAAA%3D%3D",
+      "extensions": [
+        "4 days ago",
+        "₹9L–₹13L a year",
+        "Full–time"
+      ],
+      "detected_extensions": {
+        "posted_at": "4 days ago",
+        "salary": "₹9L–₹13L a year",
+        "schedule_type": "Full–time"
+      },
+      "source_link": "https://www.jobleads.com/in/job/senior-analyst-data-analytics--bengaluru--e4b6590249f3b49405d07fcace2568d74",
+      "job_title": "Senior Analyst - Data Analytics",
+      "description": "Senior Analyst - Data Analytics### Senior Analyst - Data AnalyticsApply:   Bangalore, Karnataka:   Full time:   Posted Today:   End Date: November 20, 2026 (2 days left to apply):   2135766## ## Job Description:**Job Title:****Senior Analyst - Data Analytics**  **The Purpose of This Role**  Fidelity is looking for data analytics professional. Expertise in database development, automation, analytics, performance analysis, and interactive data visualizations, through application of processes and tools/technologies. We are seeking a candidate with a desire for data that can use their consultative, interpersonal, and innovative thinking skills to join the team. Creative and good teammate, helping develop, drive the analytics, and generate insights for the senior management team on the performance of the Business unit.  The Team  We are a distributed team of BI Analysts & Software Engineers that provides BI reporting and Analytics support for the organization. We collaborate with leaders at all levels to understand their information needs and develop solutions to fill those needs. The work we do is broken down into 3 key areas-  Executive Reporting in support of Level 3 and Level 4 leaders. This includes executive scorecards, analysis on critical metric performance, and helping leaders \\\"tell the story “Of what's happening in their organization.Data Analytics & Visualization to facilitate greater self-service. This includes collaborating with the business to learn about their processes and information needs, translating those needs into requirements, improve, build, and deploy interactive reporting solutions to generate greater business insights.Innovation / Strategic Opportunities to improve existing reports, build greater efficiencies, and expand the value we provide. This also includes support for cross-enterprise or WI-wide initiatives.  **The Skills that are key to this role:**  * Skills in visualization, design, and dashboard development (e.g., Tableau, Power BI) preferred* Skills in programming and data sourcing / integration (e.g., SQL, Snowflake, Alteryx, Python) preferred* E2E implementation of Business Intelligence (BI) reports & dashboards* Lifelong learner – natural curiosity with experience and interest in acquiring new skills and capabilities* Analytical mentality with experience in an analytics or business intelligence role preferred* Demonstrated ability to source and synthesize data into relevant, meaningful insights* Proficiency consuming data and developing insights; ability to communicate those insights in simple, repeatable manner* Critical thinking, attention to detail and active listening skills with the confidence to engage with senior leaders* Innovation mentality and look for efficiencies, process improvement opportunities, and other ways to increase value provided to the organization* Empowering leaders and associates with information and insight that directly impact their organizational goals* Demonstrated Proficiency in DevAssist tools like Github Copilot.  **The Value You Deliver**  * Empower leaders and associates with information and insights* Helping the Business Units improve performance results by identifying areas of opportunity* Enabling Senior Leaders to quantify the impact of critical initiatives / projects on performance results  **How Your Work Impacts the Organization**  Business Intelligence & Decision Support (BIDS) in FMR India provides Reporting & Analytics services for various internal and external partners. This group provides services across the life cycle of reporting with a high focus on developing business, data, and technology excellence.**The Expertise we’re looking For**  Graduate/Post-Graduate in Mathematics, Statistics, Computer Science/Engineering or another quantitative field is required. 3 – 5 years of appropriate experience.Location: Bangalore – EGLShift timings: 1:00 pm - 10:00pm",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/senior-analyst-data-analytics--bengaluru--e4b6590249f3b49405d07fcace2568d74?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Remote Jobs",
+          "link": "https://www.iitjobs.com/job/senior-data-analyst-google-data-analytics-bangalore-karnataka-india-475834?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/senior-analyst-data-analytics/fidelity-investments/20101567?jobtype=cr&position_in_results=9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/5595037274935051447?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Olibr",
+          "link": "https://olibr.com/jobs/senior-analyst-data-analytics-fidelity-investments-xl9gl?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Getmereferred.com",
+          "link": "https://getmereferred.com/in/job-listing/senior-analyst-data-analytics-brandsafway-inkabengaluru-10-to-12-years-experience-090aeaa9-2346-4c48-b407-a3ecd13767e6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Exclusive Job Portal For Data & AI Jobs! - Exclusive Job Portal For Data & AI Jobs!",
+          "link": "https://www.dataaijobs.com/job-detail/senior-data-analyst-gtm-analytics-thomson-reuters-5-7-years?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Refer Me",
+          "link": "https://refer.me/job/fidelity-investments-senior-analyst--data-analytics___336886?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5hbHlzdCAtIERhdGEgQW5hbHl0aWNzIiwiY29tcGFueV9uYW1lIjoiU290ZXJpYSBSZWluc3VyYW5jZSBMdGQuIiwiaHRpZG9jaWQiOiJHV1RFcThxTkdsTGlLNTMyQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFltUllNemRpU0VkV1VHZHZSMUpOVUZWeWRVOVJkMlpxZUVSTWJscDZibDlvZDNoV1JGaE9ZVkJFU2pOTk1IRmlUa1ZrY1UxTlNIZHNaWEIxY1VRemNGQjZaRUZUUW5OeGRFWjJlSEU0TUZFdGF6SkNZblZhU25WV2RHcEdWRTh4VnpWNFdrSlhibGg2U0hoTGFsTTFTMUpWVEhoVVlsSlNXa2QwTWpkR1RWWkJTVmw2VDNBU0YySkhjMEpoTlVocVJYWlBTM2RpYTFCcVRtVm9ORUUwR2lKQlNFNHdSVGRHVFMxeVMzY3djRU5PZWpaa1IxZFRkVUYwWW1SeE0zbzFVVEZuIiwiZmN2IjoiMyIsImZjX2lkIjoiR1dURXE4cU5HbExpSzUzMkFBQUFBQT09In0="
+    },
+    {
+      "title": "Project Warranty Data Analyst [RS eLOCO]",
+      "company_name": "Alstom",
+      "location": "Bengaluru, Karnataka",
+      "via": "Jobs At Alstom",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=xz4vXwwJnFFd6AwmAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXOPQrCQBBAYWxzBAuZWiQrgo1WUcFCIaKFhUgYlyE_bnbCzgSSzjt4Ac_mSYzN6z540WcUJafAFVmFK4aAXnvYoSIkHl0vCrfzBeiYbtM7fF9vqPgBQhhsAexhz5w7Gq8L1UZWxoi4OBdFLW1suTbs6cGdGZD8k0mBgRqHStliOe_ixufTSeJEuYbSw4Z8jq4N7QwOGPyw8cQfGZ75dKMAAAA&shmds=v1_Ac3VAoyjNTgoEVvplU1mFxPDgydSH1fyl0oMsGZ1PAhZB6B67w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=xz4vXwwJnFFd6AwmAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAlCAMAAAAgENppAAAAjVBMVEX____YAAC6vcGlqrDu7_AAAAD09PXR09bo6esAACHGycwoOkyzt7zAw8dqc31ia3eRlp2Fi5MAACYAAB3g4uTmf3k8SlkAHDbpjYgAAA6go6n77Ozvr6z0zMsAFTJaZHB0fIXjaWIAABUTK0AeM0bkcGnywsAAITnbIgrxurdMV2QACyzqmZT54N_fSD0bvfORAAABdElEQVRIie2SUZPaIBSFbwAvSCCBBDVLNGGTNesa7f__eQW7tjWdfevDPniGOQNcPjh3BoCnnvp2avf7w9dVXdDkpYjOyl3XY1mEUJQIzeu1bdu4XZpopliA226OTgeX5jkhBoMd32yA5njIsmyCFqqKgJp3j5yraaUiuE7ge4-3zXwbc2aHDcB0gg3MYyfn8f0RtDvo8zuo1kOuPsEp-0j1zcceqnCez8XixS5IVfNPMPbaD_wOpvbgcpmgKrDGBai70eNYAK04ExBhWct71CYdOE3XCALCAtym5H6Ffj28rGS-ehnOqdc8hcyy5nL6EWerPlpfP4ACfzmKKBBS89uaJb8es1Pze8kE_FehAtQUyS2AZn8K7CsClJLcaSyI4JbxgivHNOVKcEYUEtY7rVk8whfYGazkNqA3insDcRgNRAQS_6GxTlELlqIVQcF2gRrJvSTCK0G9o5oLDZxI8MCo10op572LNy5f_FfmL3_qqW-gn70dF9kF7wHAAAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "16 days ago",
+        "Full–time"
+      ],
+      "detected_extensions": {
+        "posted_at": "16 days ago",
+        "schedule_type": "Full–time"
+      },
+      "source_link": "https://jobsearch.alstom.com/job/Bangalore-Project-Warranty-Data-Analyst-RS-eLOCO-KA/1445165933/",
+      "job_title": "Project Warranty Data Analyst [RS eLOCO]",
+      "description": "At Alstom, we understand transport networks and what moves people. From high-speed trains, metros, monorails, and trams, to turnkey systems, services, infrastructure, signalling, and digital mobility, we offer our diverse customers the broadest portfolio in the industry. Every day, 80,000 colleagues lead the way to greener and smarter mobility worldwide, connecting cities as we reduce carbon and replace cars.   Could you be the full-time Project Warranty Data Analyst in Bengaluru we’re looking for?   Your future role Take on a new challenge and apply your data analysis expertise in a new cutting-edge field. You’ll work alongside collaborative, detail-oriented, and innovative teammates. You'll play a key role in ensuring the success of our warranty and performance improvement (PI) activities for metro and locomotive rolling stock. Day-to-day, you’ll work closely with teams across the business (such as engineering, operations, and customer service), analyze technical and financial data, and manage warranty-related information to support decision-making, and much more. You’ll specifically take care of data management and technical analysis, but also provide insights to improve operational efficiency and customer satisfaction. We’ll look to you for:   Managing warranty and performance improvement data for metro and locomotive rolling stock   Conducting technical and financial data analysis to identify trends and actionable insights   Utilizing digital tools such as GSI, Microsoft Office Suite, and SAP for data handling and reporting   Collaborating with cross-functional teams to support warranty activities   Contributing to the development of efficient processes and tools for data management   Providing clear and professional communication to internal and external stakeholders    All about you We value passion and attitude over experience. That’s why we don’t expect you to have every single skill. Instead, we’ve listed some that we think will help you succeed and grow in this role:   Degree in engineering, data analytics, or a related field   1-3 years of experience in metro or locomotive rolling stock warranty or performance improvement activities   Proficiency in data management and analysis   Familiarity with digital tools such as GSI, Microsoft Office Suite, and SAP   Strong interpersonal and communication skills, including English proficiency   Ability to work collaboratively in a team environment   Strong problem-solving and analytical mindset    Things you’ll enjoy Join us on a life-long transformative journey – the rail industry is here to stay, so you can grow and develop new skills and experiences throughout your career. You’ll also:   Enjoy stability, challenges, and a long-term career free from boring daily routines   Work with cutting-edge digital tools for data management and analysis   Collaborate with cross-functional teams and supportive colleagues   Contribute to innovative projects that shape the future of mobility   Utilise our inclusive and dynamic working environment   Steer your career in whatever direction you choose across functions and countries   Benefit from our investment in your development, through award-winning learning   Progress towards senior roles in data analysis, warranty management, or other areas   Benefit from a fair and dynamic reward package that recognises your performance and potential, plus comprehensive and competitive social coverage (life, medical, pension)      You don’t need to be a train enthusiast to thrive with us. We guarantee that when you step onto one of our trains with your friends or family, you’ll be proud. If you’re up for the challenge, we’d love to hear from you!  Important to note As a global business, we’re an equal-opportunity employer that celebrates diversity across the 63 countries we operate in. We’re committed to creating an inclusive workplace for everyone.",
+      "apply_options": [
+        {
+          "title": "Jobs At Alstom",
+          "link": "https://jobsearch.alstom.com/job/Bangalore-Project-Warranty-Data-Analyst-RS-eLOCO-KA/1445165933/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/project-warranty-data-analyst-rs-eloco-at-alstom-4474437662?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/5957709596226502246?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/project-warranty-data-analyst-rs-eloco-alstom-bengaluru-bangalore-69386317?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Apna Jobs",
+          "link": "https://apna.co/job/bengaluru/project-warranty-data-analyst-rs-eloco-1581104063?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Mployee.me",
+          "link": "https://www.mployee.me/jobs/view/project-warranty-data-analyst-rs-eloco-in-bangalore-at-alstom--jid--447443766248773/s1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/jv?jl=1010288403620&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/qJDBOWaHA5CDjsVkUgraEKBI9XJhqixSeufS2u0mPxWqS4OZhUJmuA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQcm9qZWN0IFdhcnJhbnR5IERhdGEgQW5hbHlzdCBbUlMgZUxPQ09dIiwiY29tcGFueV9uYW1lIjoiQWxzdG9tIiwiaHRpZG9jaWQiOiJ4ejR2WHd3Sm5GRmQ2QXdtQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlqWmtWWEpYWlRkT09YaFBPVTVsTW1kUWFtbGpkMncyT0dKbWIyZFlPWEZLV1d0cVRITnZiM0UyUjIwMVZtSkpMWEk1TVVnM1lrcERWR05qZFROb1NIWlJhV0ZvYUY5RlVqSmZhemRQUmw5RGFURklaV1JhT0hoUFpIRlJWek5GWVVseGRGVmlXVlpaTkhCeWRqRkVhR0kxVWtnM2RXaHpPRk4xWjFkalgwNXJURWhFV1hFU0YySkhjMEpoTlVocVJYWlBTM2RpYTFCcVRtVm9ORUUwR2lKQlNFNHdSVGRITTJGTGNFZDVRM1JWWDJSNFZtWlFVV0ZCZUdadmNGQTBZMjVSIiwiZmN2IjoiMyIsImZjX2lkIjoieHo0dlh3d0puRkZkNkF3bUFBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVSRVlsZGxXVEZMZERkVFdGOVhNVnA1TVVKUlgyVkdiRFYzVkRBemEzcFJkWFE0ZEhWV01rTk1lR2d5YzNGUFZqRXRZemsxVkdnNWEwTmtRV2R1Y2pGTk1FNVZkM2w2V0dZeVFrWllMWEpqWW5aVFMzQkNVQzEwV1U1UGEwWlJjR1E0WldaWlExTXRiVmhhZFdoYWJXSlhiRFZvY1hWc1dWWjBaRFYzT0hwc1kxOTJOVFZoYzNaMlJVTkxlbE01UnpoelVIWjBTRXh6V0RKRGFsY3RWbFZ6UmpoYU15MW9TVzlPWW5OS2JTMURkWEpwVG5Cb1VFeHZUMEZSTWpaU1NYSmFhRlJTVEhwS2JrRm5abEpUY3pkMFZYVXpOVkp2UTNoSFIzSjFlRll0YmxjNWEzUnVZMFJNUlRkbkxYWXRVbE54YWtWRVMzQlBkR3hKVG1SU01FaGZVRUZVVVZWbVlYbEpkMjE0WWpCRFRXTkNSSGxTYzNSUVVXRnVibkJLT0RWQlZrZG9jV0ZhUVROdFVDMDJPSHBYVEZSRmRWWnJZWG90V1RJMWMzRnVVVnBEZWtsak9EWk9TbXRVYzB0TlJXUndUMkoxWjB3MFFVUkNjVGhFVTA1dVVFRkRSbEZhYTJOdk1WWXpNSGRNYmt0cU1UZFVkbXB1YTI4eGMzTmtaa1ZNTmsxNVFuSlpOMVZEYkhaa1F6bFNMVFJLZFdOSFZUZGxVR05FYlVaSllqUXhPSGRLVjJZMFNFNXBkVmx2UmtoQmFtaEtRak42ZW01ZmFGTkpVVXBUVldKWGQzRm5WVVYyTFdaT2RUZFdRakZ3UmkxRWNETm5SRzFMY1ZNMlJIY1NGMkpIYzBKaE5VaHFSWFpQUzNkaWExQnFUbVZvTkVFMEdpSkJTRTR3UlRkSWRFcGxUekUzVlVaZmVVMHdZVXBXZW1ab1lXOWlRakl0VDAxUiIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&next_page_token=eyJmYyI6IkVxSUVDdUlEUVVSRVlsZGxXVEZMZERkVFdGOVhNVnA1TVVKUlgyVkdiRFYzVkRBemEzcFJkWFE0ZEhWV01rTk1lR2d5YzNGUFZqRXRZemsxVkdnNWEwTmtRV2R1Y2pGTk1FNVZkM2w2V0dZeVFrWllMWEpqWW5aVFMzQkNVQzEwV1U1UGEwWlJjR1E0WldaWlExTXRiVmhhZFdoYWJXSlhiRFZvY1hWc1dWWjBaRFYzT0hwc1kxOTJOVFZoYzNaMlJVTkxlbE01UnpoelVIWjBTRXh6V0RKRGFsY3RWbFZ6UmpoYU15MW9TVzlPWW5OS2JTMURkWEpwVG5Cb1VFeHZUMEZSTWpaU1NYSmFhRlJTVEhwS2JrRm5abEpUY3pkMFZYVXpOVkp2UTNoSFIzSjFlRll0YmxjNWEzUnVZMFJNUlRkbkxYWXRVbE54YWtWRVMzQlBkR3hKVG1SU01FaGZVRUZVVVZWbVlYbEpkMjE0WWpCRFRXTkNSSGxTYzNSUVVXRnVibkJLT0RWQlZrZG9jV0ZhUVROdFVDMDJPSHBYVEZSRmRWWnJZWG90V1RJMWMzRnVVVnBEZWtsak9EWk9TbXRVYzB0TlJXUndUMkoxWjB3MFFVUkNjVGhFVTA1dVVFRkRSbEZhYTJOdk1WWXpNSGRNYmt0cU1UZFVkbXB1YTI4eGMzTmtaa1ZNTmsxNVFuSlpOMVZEYkhaa1F6bFNMVFJLZFdOSFZUZGxVR05FYlVaSllqUXhPSGRLVjJZMFNFNXBkVmx2UmtoQmFtaEtRak42ZW01ZmFGTkpVVXBUVldKWGQzRm5WVVYyTFdaT2RUZFdRakZ3UmkxRWNETm5SRzFMY1ZNMlJIY1NGMkpIYzBKaE5VaHFSWFpQUzNkaWExQnFUbVZvTkVFMEdpSkJTRTR3UlRkSWRFcGxUekUzVlVaZmVVMHdZVXBXZW1ab1lXOWlRakl0VDAxUiIsImZjdiI6IjMifQ%3D%3D&q=Data+Analyst"
+  }
+}

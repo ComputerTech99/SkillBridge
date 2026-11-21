@@ -12,12 +12,15 @@
     <aside class="sb-sidebar" aria-label="Profile and Target Market Controls">
       <div class="sb-sidebar-section">
         <div class="sb-section-label">Quick Demo Presets</div>
-        <div class="sb-quick-grid">
-          <button id="quickStudentBtn" class="sb-btn sb-btn-secondary" type="button" title="1-click demo: CS Final-Year Student (Frontend)">
+        <div class="sb-quick-grid sb-quick-grid-3">
+          <button id="quickStudentBtn" class="sb-btn sb-btn-secondary sb-btn-sm" type="button" title="1-click demo: CS Final-Year Student (Frontend)">
             Frontend
           </button>
-          <button id="quickBackendBtn" class="sb-btn sb-btn-secondary" type="button" title="1-click demo: Junior Python Developer (Backend)">
+          <button id="quickBackendBtn" class="sb-btn sb-btn-secondary sb-btn-sm" type="button" title="1-click demo: Junior Python Developer (Backend)">
             Backend
+          </button>
+          <button id="quickAnalystBtn" class="sb-btn sb-btn-secondary sb-btn-sm" type="button" title="1-click demo: Data Science Graduate (Data Analyst)">
+            Analyst
           </button>
         </div>
       </div>
@@ -81,6 +84,11 @@
           <select id="citySelect" class="sb-input"></select>
         </div>
 
+        <label class="sb-radio-item sb-cache-toggle" title="Uncheck to force a fresh live SerpApi call bypassing disk cache">
+          <input id="useCacheCheckbox" type="checkbox" checked />
+          <span>Use Credit-Safe Disk Cache</span>
+        </label>
+
         <div class="sb-action-stack">
           <button id="analyzeLiveBtn" class="sb-btn sb-btn-primary" type="button">
             Analyze Live Market
@@ -93,6 +101,10 @@
           >
             Load Offline Demo
           </button>
+        </div>
+
+        <div id="cacheStatsBadge" class="sb-caption sb-cache-badge">
+          Cache DB: loading...
         </div>
       </div>
 
@@ -222,7 +234,7 @@
 
         <hr class="sb-divider" />
 
-        <!-- Three Dashboard Tabs -->
+        <!-- Four Dashboard Tabs -->
         <div class="sb-tabs-bar" role="tablist">
           <button class="sb-tab active" data-tab="gaps" role="tab" aria-selected="true" type="button">
             Impact-Ranked Skill Gaps
@@ -232,6 +244,9 @@
           </button>
           <button class="sb-tab" data-tab="raw" role="tab" aria-selected="false" type="button">
             Market Demand Raw Data
+          </button>
+          <button class="sb-tab" data-tab="toolkit" role="tab" aria-selected="false" type="button">
+            Career Toolkit (Multi-Role, Remote &amp; ATS)
           </button>
         </div>
 
@@ -317,6 +332,41 @@
               </thead>
               <tbody id="rawDemandTbody"></tbody>
             </table>
+          </div>
+        </div>
+
+        <!-- Tab 4: Career Toolkit (Stretch Goals from .md) -->
+        <div id="tab-toolkit" class="sb-tab-panel">
+          <!-- ATS Bullet Rewriter -->
+          <div class="sb-panel-card">
+            <div class="sb-sim-header">
+              <div>
+                <h3 class="sb-panel-title">ATS Resume Bullet Rewriter</h3>
+                <p class="sb-caption">
+                  Tailored STAR-format resume bullets combining your verified skills with high-demand scraped job keywords.
+                </p>
+              </div>
+              <button id="copyBulletsBtn" class="sb-btn sb-btn-secondary sb-btn-sm" type="button">
+                Copy Bullets
+              </button>
+            </div>
+            <ul id="atsBulletsList" class="sb-ats-list"></ul>
+          </div>
+
+          <!-- Multi-Role Fit & Local vs Remote Comparison -->
+          <div class="sb-panel-card">
+            <div class="sb-sim-header">
+              <div>
+                <h3 class="sb-panel-title">Multi-Role Fit &amp; Local vs. Remote Comparison</h3>
+                <p class="sb-caption">
+                  Score your current resume against 3 adjacent roles to find the shortest path to employment, plus compare local city demand against Remote roles.
+                </p>
+              </div>
+              <button id="runToolkitBtn" class="sb-btn sb-btn-primary sb-btn-sm" type="button">
+                Run Multi-Role &amp; Remote Benchmark
+              </button>
+            </div>
+            <div id="toolkitResultsWrap" class="sb-toolkit-results"></div>
           </div>
         </div>
       </section>
