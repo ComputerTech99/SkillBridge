@@ -92,6 +92,41 @@ export function loadSamplePresets() {
   return FALLBACK_PRESETS;
 }
 
+const ROLE_SIGNALS = [
+  {
+    role: "Frontend Developer",
+    keywords: ["frontend", "front-end", "react", "javascript", "typescript", "html", "css", "tailwind", "next.js", "vue", "angular", "figma", "ui"],
+  },
+  {
+    role: "Data Analyst",
+    keywords: ["data analyst", "analytics", "pandas", "numpy", "tableau", "power bi", "excel", "statistics", "dashboard", "machine learning", "sql"],
+  },
+  {
+    role: "Backend Python Developer",
+    keywords: ["backend", "back-end", "python", "django", "flask", "fastapi", "node.js", "express", "postgresql", "mysql", "mongodb", "rest api", "docker", "java", "spring"],
+  },
+];
+
+/** Pick the closest supported target role from resume keywords. */
+export function inferRoleFromResume(resumeText) {
+  const text = ` ${String(resumeText || "").toLowerCase()} `;
+  let best = ROLE_SIGNALS[2];
+  let bestScore = 0;
+  for (const signal of ROLE_SIGNALS) {
+    let score = 0;
+    for (const kw of signal.keywords) {
+      const escaped = kw.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+      const matches = text.match(new RegExp(`(^|[^a-z0-9])${escaped}([^a-z0-9]|$)`, "g"));
+      if (matches) score += matches.length;
+    }
+    if (score > bestScore) {
+      best = signal;
+      bestScore = score;
+    }
+  }
+  return best.role;
+}
+
 async function readJsonBody(req, maxBytes = 10 * 1024 * 1024) {
   const chunks = [];
   let total = 0;
@@ -207,14 +242,10 @@ export function createAppServer() {
 
       if (req.method === "POST" && pathname === "/api/analyze") {
         const body = await readJsonBody(req);
-        const role = String(body.role || "").trim();
+        let role = String(body.role || "").trim();
         const location = String(body.location || CITY_OPTIONS[0]).trim();
         const mode = String(body.mode || "live");
         const useCache = body.useCache !== false;
-
-        if (!role) {
-          return sendJson(res, 400, { error: "Please enter a Target Role." });
-        }
 
         let resumeText = "";
         if (body.pdfBase64) {
@@ -227,8 +258,12 @@ export function createAppServer() {
 
         if (resumeText.length < 20) {
           return sendJson(res, 400, {
-            error: "Please choose a sample preset, paste at least 20 characters, or upload a readable PDF.",
+            error: "We couldn't read text from that file. Please upload a text-based PDF resume.",
           });
+        }
+
+        if (!role) {
+          role = inferRoleFromResume(resumeText);
         }
 
         if (mode === "offline") {

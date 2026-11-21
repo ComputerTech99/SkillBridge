@@ -3,375 +3,80 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>SkillBridge — Live Skill-Gap &amp; Career Navigator</title>
+  <title>SkillBridge</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap"
+    rel="stylesheet"
+  />
   <link rel="stylesheet" href="/styles.css" />
 </head>
 <body>
-  <div class="sb-layout">
-    <!-- Sidebar -->
-    <aside class="sb-sidebar" aria-label="Profile and Target Market Controls">
-      <div class="sb-sidebar-section">
-        <div class="sb-section-label">Quick Demo Presets</div>
-        <div class="sb-quick-grid sb-quick-grid-3">
-          <button id="quickStudentBtn" class="sb-btn sb-btn-secondary sb-btn-sm" type="button" title="1-click demo: CS Final-Year Student (Frontend)">
-            Frontend
-          </button>
-          <button id="quickBackendBtn" class="sb-btn sb-btn-secondary sb-btn-sm" type="button" title="1-click demo: Junior Python Developer (Backend)">
-            Backend
-          </button>
-          <button id="quickAnalystBtn" class="sb-btn sb-btn-secondary sb-btn-sm" type="button" title="1-click demo: Data Science Graduate (Data Analyst)">
-            Analyst
-          </button>
-        </div>
+  <header class="topbar">
+    <a class="brand" href="/">SkillBridge</a>
+    <button id="restartBtn" class="btn btn-ghost hidden" type="button">Upload another CV</button>
+  </header>
+
+  <!-- Step 1: Upload -->
+  <main id="uploadView" class="view upload-view">
+    <p class="eyebrow">Resume → next steps</p>
+    <h1 class="display">Upload your CV.<br />See what to do <em>next</em>.</h1>
+    <p class="lede">
+      We read your skills, compare them with real job openings, and tell you exactly what to learn
+      and where you can apply today.
+    </p>
+
+    <label id="dropZone" class="dropzone" for="cvInput">
+      <input id="cvInput" type="file" accept="application/pdf,.pdf" hidden />
+      <span class="dropzone-icon" aria-hidden="true">
+        <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 16V4"/><path d="m6 10 6-6 6 6"/><path d="M4 20h16"/></svg>
+      </span>
+      <span class="dropzone-title">Drop your CV here, or <u>browse</u></span>
+      <span class="dropzone-hint">PDF only · stays on this server</span>
+    </label>
+
+    <div id="errorBox" class="error hidden" role="alert"></div>
+  </main>
+
+  <!-- Step 2: Working -->
+  <main id="loadingView" class="view loading-view hidden" aria-live="polite">
+    <div class="spinner" aria-hidden="true"></div>
+    <p id="loadingFile" class="mono muted"></p>
+    <ol class="steps">
+      <li data-step="0">Reading your CV</li>
+      <li data-step="1">Finding matching jobs</li>
+      <li data-step="2">Working out what to learn</li>
+    </ol>
+  </main>
+
+  <!-- Step 3: Results -->
+  <main id="resultView" class="view result-view hidden">
+    <section class="summary">
+      <p class="eyebrow" id="resultMeta"></p>
+      <h1 class="display display-sm" id="resultHeadline"></h1>
+      <div class="score">
+        <div class="score-track"><div id="scoreBar" class="score-bar"></div></div>
+        <span id="scoreText" class="mono"></span>
       </div>
+      <div id="yourSkills" class="pills"></div>
+    </section>
 
-      <hr class="sb-divider" />
+    <section class="block">
+      <h2 class="block-title"><span class="num">01</span> What to learn next</h2>
+      <ol id="todoList" class="todo"></ol>
+    </section>
 
-      <div class="sb-sidebar-section">
-        <div class="sb-section-label">Profile &amp; Market</div>
+    <section class="block">
+      <h2 class="block-title"><span class="num">02</span> Apply now <span id="readyCount" class="count"></span></h2>
+      <div id="readyJobs" class="jobs"></div>
+    </section>
 
-        <fieldset class="sb-radio-group">
-          <legend class="sb-field-label">Resume Source</legend>
-          <label class="sb-radio-item">
-            <input type="radio" name="resumeSource" value="preset" checked />
-            <span>1-Click Sample Preset</span>
-          </label>
-          <label class="sb-radio-item">
-            <input type="radio" name="resumeSource" value="pdf" />
-            <span>Upload Resume PDF</span>
-          </label>
-          <label class="sb-radio-item">
-            <input type="radio" name="resumeSource" value="paste" />
-            <span>Paste Resume Text</span>
-          </label>
-        </fieldset>
-
-        <!-- Preset Panel -->
-        <div id="presetInputPanel" class="sb-field-group">
-          <label class="sb-field-label" for="personaSelect">Persona</label>
-          <select id="personaSelect" class="sb-input"></select>
-          <details class="sb-details">
-            <summary>Preview Resume Text</summary>
-            <pre id="presetPreview" class="sb-preview-text"></pre>
-          </details>
-        </div>
-
-        <!-- PDF Upload Panel -->
-        <div id="pdfInputPanel" class="sb-field-group hidden">
-          <label class="sb-field-label" for="pdfFileInput">Resume PDF</label>
-          <input id="pdfFileInput" class="sb-file-input" type="file" accept="application/pdf,.pdf" />
-          <div id="pdfFileName" class="sb-caption">No file chosen</div>
-        </div>
-
-        <!-- Paste Text Panel -->
-        <div id="pasteInputPanel" class="sb-field-group hidden">
-          <label class="sb-field-label" for="pastedResumeInput">Resume Text</label>
-          <textarea
-            id="pastedResumeInput"
-            class="sb-input sb-textarea"
-            rows="5"
-            placeholder="Paste your skills, projects, or work experience..."
-          ></textarea>
-        </div>
-
-        <div class="sb-field-group">
-          <label class="sb-field-label" for="targetRoleInput">Target Role</label>
-          <input id="targetRoleInput" class="sb-input" type="text" placeholder="e.g. Frontend Developer" />
-        </div>
-
-        <div class="sb-field-group">
-          <label class="sb-field-label" for="citySelect">Location</label>
-          <select id="citySelect" class="sb-input"></select>
-        </div>
-
-        <label class="sb-radio-item sb-cache-toggle" title="Uncheck to force a fresh live SerpApi call bypassing disk cache">
-          <input id="useCacheCheckbox" type="checkbox" checked />
-          <span>Use Credit-Safe Disk Cache</span>
-        </label>
-
-        <div class="sb-action-stack">
-          <button id="analyzeLiveBtn" class="sb-btn sb-btn-primary" type="button">
-            Analyze Live Market
-          </button>
-          <button
-            id="loadOfflineBtn"
-            class="sb-btn sb-btn-secondary"
-            type="button"
-            title="Run a deterministic 0-credit local demo snapshot without calling SerpApi or Gemini."
-          >
-            Load Offline Demo
-          </button>
-        </div>
-
-        <div id="cacheStatsBadge" class="sb-caption sb-cache-badge">
-          Cache DB: loading...
-        </div>
-      </div>
-
-      <div id="sidebarSkillsSection" class="sb-sidebar-section hidden">
-        <hr class="sb-divider" />
-        <div class="sb-section-label">Extracted Resume Skills</div>
-        <div id="sidebarSkillsPills" class="sb-pills-wrap"></div>
-      </div>
-    </aside>
-
-    <!-- Main Content -->
-    <main class="sb-main">
-      <!-- Top Header -->
-      <header class="sb-header">
-        <div>
-          <div class="sb-brand-row">
-            <span class="sb-brand-dot"></span>
-            <span class="sb-brand-tag">SkillBridge</span>
-          </div>
-          <h1 class="sb-hero-title">Live Skill-Gap &amp; Career Navigator</h1>
-          <p class="sb-hero-subtitle">
-            Benchmark your resume against live job requirements, prioritize high-ROI skill gaps,
-            and simulate career readiness in real time.
-          </p>
-        </div>
-        <div id="modeChip" class="sb-mode-chip hidden"></div>
-      </header>
-
-      <!-- Error / Loading / Offline Notices -->
-      <div id="errorBanner" class="sb-alert sb-alert-error hidden" role="alert"></div>
-      <div id="loadingBanner" class="sb-alert sb-alert-info hidden">
-        <span class="sb-spinner"></span>
-        <span id="loadingText">Scanning live job market &amp; extracting skills...</span>
-      </div>
-      <div id="offlineNotice" class="sb-alert sb-alert-info hidden"></div>
-
-      <!-- Pre-Analysis Onboarding View -->
-      <section id="onboardingView">
-        <div class="sb-steps-grid">
-          <div class="sb-step-card">
-            <div class="sb-step-num">01 / PROFILE</div>
-            <div class="sb-step-title">Load Your Resume</div>
-            <div class="sb-step-desc">
-              Select a 1-click preset, upload a PDF resume, or paste your raw experience text in the sidebar.
-            </div>
-          </div>
-          <div class="sb-step-card">
-            <div class="sb-step-num">02 / BENCHMARK</div>
-            <div class="sb-step-title">Scan Market Demand</div>
-            <div class="sb-step-desc">
-              Extract canonical technical skills across openings and rank missing skills by jobs unlocked.
-            </div>
-          </div>
-          <div class="sb-step-card">
-            <div class="sb-step-num">03 / SIMULATE</div>
-            <div class="sb-step-title">Close the Gap</div>
-            <div class="sb-step-desc">
-              Toggle skills in the What-If simulator to preview unlocked roles and weekend proof-of-work.
-            </div>
-          </div>
-        </div>
-        <div class="sb-alert sb-alert-info">
-          Choose a <strong>Quick Demo Preset</strong>, paste your resume, or upload a <strong>PDF resume</strong>
-          in the sidebar, then click <strong>Analyze Live Market</strong> or <strong>Load Offline Demo</strong> (0 API credits).
-        </div>
-      </section>
-
-      <!-- Active Analysis Dashboard -->
-      <section id="dashboardView" class="hidden">
-        <!-- KPI Metrics Row -->
-        <div class="sb-metrics-grid">
-          <div class="sb-metric-card">
-            <div class="sb-metric-label">Readiness Score</div>
-            <div id="metricReadiness" class="sb-metric-value">0.0%</div>
-            <div id="metricReadinessDelta" class="sb-metric-delta hidden"></div>
-          </div>
-          <div class="sb-metric-card">
-            <div class="sb-metric-label">Jobs Scanned</div>
-            <div id="metricJobsScanned" class="sb-metric-value">0</div>
-          </div>
-          <div class="sb-metric-card">
-            <div class="sb-metric-label">Ready to Apply</div>
-            <div id="metricReadyCount" class="sb-metric-value">0</div>
-            <div id="metricReadyDelta" class="sb-metric-delta hidden"></div>
-          </div>
-          <div class="sb-metric-card">
-            <div class="sb-metric-label">Top ROI Skill</div>
-            <div id="metricTopRoi" class="sb-metric-value">—</div>
-            <div id="metricTopRoiSub" class="sb-metric-delta sb-metric-delta-muted hidden"></div>
-          </div>
-        </div>
-
-        <!-- Dual-Segment Readiness Bar -->
-        <div class="sb-progress-card">
-          <div class="sb-progress-header">
-            <span id="progressLabel">Market Readiness</span>
-            <span><strong id="progressValue">0.0%</strong> / 100%</span>
-          </div>
-          <div class="sb-progress-track">
-            <div id="progressBase" class="sb-progress-base" style="width: 0%"></div>
-            <div id="progressSim" class="sb-progress-sim" style="left: 0%; width: 0%"></div>
-          </div>
-        </div>
-
-        <!-- Interactive What-If Skill Simulator -->
-        <div id="simulatorPanel" class="sb-panel-card hidden">
-          <div class="sb-sim-header">
-            <div>
-              <h2 class="sb-panel-title">Interactive "What-If" Skill Simulator</h2>
-              <p class="sb-caption">
-                Toggle top missing skills below to see your Readiness Score and eligible jobs update instantaneously.
-              </p>
-            </div>
-            <div class="sb-sim-actions">
-              <button id="simTop3Btn" class="sb-btn sb-btn-secondary sb-btn-sm" type="button">
-                Simulate Top 3
-              </button>
-              <button id="simResetBtn" class="sb-btn sb-btn-secondary sb-btn-sm" type="button" disabled>
-                Reset
-              </button>
-            </div>
-          </div>
-          <div id="simulatorCheckboxes" class="sb-sim-grid"></div>
-        </div>
-
-        <div id="simActiveBanner" class="sb-alert sb-alert-success hidden"></div>
-
-        <hr class="sb-divider" />
-
-        <!-- Four Dashboard Tabs -->
-        <div class="sb-tabs-bar" role="tablist">
-          <button class="sb-tab active" data-tab="gaps" role="tab" aria-selected="true" type="button">
-            Impact-Ranked Skill Gaps
-          </button>
-          <button class="sb-tab" data-tab="jobs" role="tab" aria-selected="false" type="button">
-            Live Job Matches (Two Buckets)
-          </button>
-          <button class="sb-tab" data-tab="raw" role="tab" aria-selected="false" type="button">
-            Market Demand Raw Data
-          </button>
-          <button class="sb-tab" data-tab="toolkit" role="tab" aria-selected="false" type="button">
-            Career Toolkit (Multi-Role, Remote &amp; ATS)
-          </button>
-        </div>
-
-        <!-- Tab 1: Skill Gaps & Learning Roadmap -->
-        <div id="tab-gaps" class="sb-tab-panel active">
-          <div class="sb-gaps-split">
-            <div class="sb-panel-card">
-              <h3 class="sb-panel-title">Missing Skills Ranked by Jobs Unlocked</h3>
-              <div id="gapChartContainer" class="sb-chart-list"></div>
-            </div>
-            <div class="sb-panel-card">
-              <h3 class="sb-panel-title">Skill Coverage Snapshot</h3>
-              <p id="snapshotMeta" class="sb-caption"></p>
-              <div class="sb-snapshot-group">
-                <div class="sb-snapshot-label">Matched Resume Skills</div>
-                <div id="snapshotMatched" class="sb-pills-wrap"></div>
-              </div>
-              <div id="snapshotSimGroup" class="sb-snapshot-group hidden">
-                <div class="sb-snapshot-label">Simulated Skills (What-If)</div>
-                <div id="snapshotSimulated" class="sb-pills-wrap"></div>
-              </div>
-              <div class="sb-snapshot-group">
-                <div class="sb-snapshot-label">Remaining Top Gaps</div>
-                <div id="snapshotMissing" class="sb-pills-wrap"></div>
-              </div>
-            </div>
-          </div>
-
-          <hr class="sb-divider" />
-          <h3 class="sb-section-heading">Learning Roadmap &amp; Weekend Proof-of-Work</h3>
-          <div id="learningRoadmap" class="sb-roadmap-list"></div>
-        </div>
-
-        <!-- Tab 2: Live Job Matches -->
-        <div id="tab-jobs" class="sb-tab-panel">
-          <div class="sb-jobs-toolbar">
-            <input
-              id="jobFilterInput"
-              class="sb-input"
-              type="text"
-              placeholder="Filter openings by title, company, or skill (e.g., Docker, FinTech, Remote)..."
-            />
-            <label id="onlyUnlockedWrap" class="sb-toggle-wrap hidden">
-              <input id="onlyUnlockedToggle" type="checkbox" />
-              <span>Only What-If Unlocked</span>
-            </label>
-          </div>
-          <div class="sb-buckets-grid">
-            <div>
-              <h3 id="readyBucketTitle" class="sb-section-heading">Ready to Apply Today (0)</h3>
-              <div id="readyJobsList" class="sb-jobs-col"></div>
-            </div>
-            <div>
-              <h3 id="almostBucketTitle" class="sb-section-heading">Almost Ready — 2–3 Skills Away (0)</h3>
-              <div id="almostJobsList" class="sb-jobs-col"></div>
-            </div>
-          </div>
-        </div>
-
-        <!-- Tab 3: Raw Demand Data -->
-        <div id="tab-raw" class="sb-tab-panel">
-          <div class="sb-raw-toolbar">
-            <div class="sb-filter-pills" role="group" aria-label="Filter skills by status">
-              <button class="sb-filter-btn active" data-status="All" type="button">All</button>
-              <button class="sb-filter-btn" data-status="Missing" type="button">Missing</button>
-              <button class="sb-filter-btn" data-status="Matched" type="button">Matched</button>
-              <button class="sb-filter-btn" data-status="Simulated" type="button">Simulated</button>
-            </div>
-            <button id="downloadCsvBtn" class="sb-btn sb-btn-secondary sb-btn-sm" type="button">
-              Download CSV Report
-            </button>
-          </div>
-          <div class="sb-table-wrap">
-            <table class="sb-table">
-              <thead>
-                <tr>
-                  <th>Skill</th>
-                  <th>Your Status</th>
-                  <th>Jobs Requiring Skill</th>
-                  <th>Total Jobs Scanned</th>
-                  <th>Market Demand (%)</th>
-                </tr>
-              </thead>
-              <tbody id="rawDemandTbody"></tbody>
-            </table>
-          </div>
-        </div>
-
-        <!-- Tab 4: Career Toolkit (Stretch Goals from .md) -->
-        <div id="tab-toolkit" class="sb-tab-panel">
-          <!-- ATS Bullet Rewriter -->
-          <div class="sb-panel-card">
-            <div class="sb-sim-header">
-              <div>
-                <h3 class="sb-panel-title">ATS Resume Bullet Rewriter</h3>
-                <p class="sb-caption">
-                  Tailored STAR-format resume bullets combining your verified skills with high-demand scraped job keywords.
-                </p>
-              </div>
-              <button id="copyBulletsBtn" class="sb-btn sb-btn-secondary sb-btn-sm" type="button">
-                Copy Bullets
-              </button>
-            </div>
-            <ul id="atsBulletsList" class="sb-ats-list"></ul>
-          </div>
-
-          <!-- Multi-Role Fit & Local vs Remote Comparison -->
-          <div class="sb-panel-card">
-            <div class="sb-sim-header">
-              <div>
-                <h3 class="sb-panel-title">Multi-Role Fit &amp; Local vs. Remote Comparison</h3>
-                <p class="sb-caption">
-                  Score your current resume against 3 adjacent roles to find the shortest path to employment, plus compare local city demand against Remote roles.
-                </p>
-              </div>
-              <button id="runToolkitBtn" class="sb-btn sb-btn-primary sb-btn-sm" type="button">
-                Run Multi-Role &amp; Remote Benchmark
-              </button>
-            </div>
-            <div id="toolkitResultsWrap" class="sb-toolkit-results"></div>
-          </div>
-        </div>
-      </section>
-    </main>
-  </div>
+    <section class="block" id="almostBlock">
+      <h2 class="block-title"><span class="num">03</span> Almost there <span id="almostCount" class="count"></span></h2>
+      <div id="almostJobs" class="jobs"></div>
+    </section>
+  </main>
 
   <script type="module" src="/app.js"></script>
 </body>
