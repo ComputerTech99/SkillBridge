@@ -1,8 +1,0 @@
-streamlit
-requests
-pdfplumber
-pandas
-python-dotenv
-plotly
-pydantic
-google-genai

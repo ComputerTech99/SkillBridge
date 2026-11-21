@@ -1,17 +1,13 @@
-# Virtual environment
+# Dependencies
+node_modules/
 venv/
-.venv/
 
 # Secrets & environment variables
 .env
-.streamlit/secrets.toml
 
-# Python bytecode & caches
-__pycache__/
-*.pyc
-*.py[cod]
-*$py.class
-.pytest_cache/
+# Logs
+*.log
+npm-debug.log*
 
 # OS / Editor
 .DS_Store
