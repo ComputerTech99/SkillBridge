@@ -97,10 +97,11 @@ def fetch_live_jobs(
         response = requests.get(SERPAPI_SEARCH_URL, params=request_params, timeout=20)
         response.raise_for_status()
         payload = response.json()
-        if isinstance(payload, dict):
-            set_cached(CACHE_NAMESPACE, search_params, payload)
-        else:
+        if not isinstance(payload, dict):
             return []
+        if "error" in payload:
+            raise ValueError(f"SerpApi error: {payload['error']}")
+        set_cached(CACHE_NAMESPACE, search_params, payload)
 
     raw_jobs = payload.get("jobs_results") or []
     postings: list[JobPosting] = []
