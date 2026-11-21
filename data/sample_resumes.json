@@ -1,0 +1,14 @@
+[
+  {
+    "name": "CS Final-Year Student (Frontend)",
+    "target_role": "Frontend Developer",
+    "default_city": "Bengaluru, Karnataka, India",
+    "resume_text": "Aarav Sharma\nB.Tech Computer Science (Final Year, 2026) | Bengaluru, India\n\nSUMMARY\nFinal-year CS undergraduate focused on responsive web interfaces and component-driven UI development.\n\nTECHNICAL SKILLS\nLanguages: JavaScript (ES6+), HTML5, CSS3\nFrameworks & Styling: React.js, Tailwind CSS\nTools: Git, GitHub\n\nPROJECTS\nCampus Event Hub (React, Tailwind CSS)\n- Built a responsive single-page web app for 500+ students to browse and RSVP to college events.\n- Integrated REST API endpoints for event listings and search filtering.\n\nPortfolio & Weather Dashboard (HTML, CSS, JavaScript)\n- Created an interactive dashboard using Fetch API and modular vanilla JavaScript.\n\nINTERNSHIP\nFrontend Intern, PixelCraft Labs (May 2025 - Jul 2025)\n- Converted Figma wireframes into reusable React components and improved mobile layout responsiveness."
+  },
+  {
+    "name": "Junior Python Developer (Backend)",
+    "target_role": "Backend Python Developer",
+    "default_city": "Bengaluru, Karnataka, India",
+    "resume_text": "Priya Nair\nJunior Backend Developer | 1.5 Years Experience | Bengaluru, India\n\nSUMMARY\nBackend developer experienced in building RESTful web services, relational database schemas, and data-processing scripts in Python.\n\nTECHNICAL SKILLS\nLanguages: Python 3, SQL\nFrameworks: Flask, Django REST Framework\nDatabases: PostgreSQL, SQLite\nTools & Practices: Git, Linux, REST API, Agile\n\nEXPERIENCE\nJunior Software Engineer, FinLedger Tech (Jul 2024 - Present)\n- Developed and maintained REST API endpoints in Flask and Django for invoice reconciliation.\n- Wrote optimized PostgreSQL queries and schema migrations handling 100k+ monthly records.\n- Collaborated in Agile sprints using Git pull requests and code reviews.\n\nPROJECTS\nExpense Tracker API (Python, Flask, PostgreSQL)\n- Built JWT-authenticated CRUD endpoints with input validation and structured error responses."
+  }
+]
