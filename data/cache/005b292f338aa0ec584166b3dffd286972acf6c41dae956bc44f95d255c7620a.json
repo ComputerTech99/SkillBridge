@@ -1,0 +1,1522 @@
+{
+  "search_metadata": {
+    "id": "6b014a8d6b036f2439ea0b50",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Ob61_PqKlmiCQYn4PFoZYI8AOF0KQuYE9FtdWAAT95g/6b014a8d6b036f2439ea0b50.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Ob61_PqKlmiCQYn4PFoZYI8AOF0KQuYE9FtdWAAT95g/6b014a8d6b036f2439ea0b50.md",
+    "created_at": "2026-11-21 07:38:53 UTC",
+    "processed_at": "2026-11-21 07:38:53 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=LLM+full+course+tutorial+for+Backend+Python+Developer&gl=in&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/Ob61_PqKlmiCQYn4PFoZYI8AOF0KQuYE9FtdWAAT95g/6b014a8d6b036f2439ea0b50.html",
+    "total_time_taken": 2.6
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "LLM full course tutorial for Backend Python Developer",
+    "gl": "in",
+    "hl": "en"
+  },
+  "search_information": {
+    "total_results": 2882373,
+    "video_results_state": "Results for exact spelling"
+  },
+  "ads_results": [
+    {
+      "position_on_page": 1,
+      "title": "Architecture that adapts with you and doesn’t slow you down",
+      "link": "https://www.youtube.com/watch?v=CcI0ryE0TuA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=CcI0ryE0TuA",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CELecjUoBa-TuNdOD9vgPzvOUoQWx9aKPiwGl1d_eqxbdq6T6zkgQASAAYMmGxYvEpPwPggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAcCKxvVDqAMEyAMKqgTlAk_QYr-x4CmGt2qdabfQRTct3lz-jBwqSsRiyDCLzk6_YB17_786Oba6aXgrwMqKPyeQGh9dJmI6akJELQK4zLbI_8TJS788XbPVTSh3Kgkt7l-_rDMvdubf-s9UIiX027tAabhZ1Troqtw-wzy-px16yZGNU_SQggv8FWwzEfej2dwMlsor61Bf4irb0ccDpgOL-fDWsJSMkhyWUU98FPNs5hTCUbsg8W404VmrNW0stZasI1EdeAFGQ9fTSE0lfgfYxNN7I01Pj9HOkTcQ7xzQ6WiW_E4tg7D4IrXah-ovkopRJvTDnYrefXaW0XsuoQw9Fgc4KbgmTTVnXMY9os-xFGrXbpAXcViaC7xtUZEQzZC17rNiRSPN5r36bGGn8TYUnKk4n7v42PJ6G_azBM1y-x9LOc9I3ZuDm24Hqh0z5m5Im8B_hNqp8ArPJCOu6uL-NGTkobAJz2G89IERmQtIsSL_1ogF6-ekyFqSBQgIE3jB5-36HqAGoQGAB8DCltUekAcEqAelz7ECqAfnnbECqAfonbECqAeD9rECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHnuqxAqgHn-qxAqgH-OuxAqgHvOqxAqgH7_GxAqgH_K-xAqgH1c4bqAe-2bECqAe_2bECqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKSCAtDY0kwcnlFMFR1QagIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWMj_7J7HmJgDYAGaCU9odHRwczovL2F6dXJlLm1pY3Jvc29mdC5jb20vZW4tdXMvcHJpY2luZy9wdXJjaGFzZS1vcHRpb25zL2F6dXJlLWFjY291bnQvc2VhcmNosQmBmzrVqERr6MgJF8gJjwHICcIByAmXAroLOggDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AIC2AEDgAIBiAIRugMFdmljYmbQCxLgCwHSDAIQAZoNARKqDQJVU8gNAdINkAVodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9kZG0vdHJhY2tjbGsvTjU3MjYwOC4xMzU1MzM5R09PR0xFLkNPTURETUJJRE0vQjM2ODY1NjQyLjQ1Nzg2MjQyODtkY190cmtfYWlkPTY1MjQyOTUwNjtkY190cmtfY2lkPTI2NjE0MjcwMjtkY19kYm1fdG9rZW49QU9qZUxORUFBQUE4Q2pRS0RBZ0FGUUFBQUFBZEFBQUFBQklNQ0FBVkFBQUFBQjBBQUFBQUloUUk2LWVreUZxb0FzSG43Zm9lc0FMOHpQWHJBMEE3RUtIQV83SWRJQWFuQXdTZVZHMXdxaldvdWxlN2FnPT07ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTs7ZGNfdHJhbnNwYXJlbnQ9MTtkY19ydWk9MTtkY19lcHM9QUhhczhjQWJrYVQzT1c1N2pTX1dYVFFwWGd2enBhby00Qjd2QzdFYzNwdjRJeE4zXzFIUmRkekZhR1MxdHVleDAxWkhaRTVNQzdPWVgwbllxVUt0bGc7ZGNfcHViaWQ9Nj9odHRwczovL2F6dXJlLm1pY3Jvc29mdC5jb20vZW4tdXMvcHJpY2luZy9wdXJjaGFzZS1vcHRpb25zL2F6dXJlLWFjY291bnQvc2VhcmNoP09DSUQ9QUlEY21tbGc3bzV2YjhfT0xBXzM2ODY1NjQyXzQ1Nzg2MjQyOF8yNjYxNDI3MDImc2l0ZUlEPTEwNjQ1MDEzJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yNDMxMDc4OTA5ObATwITNJrgT____________AYgUA7AUA8AVgYCAQNAVAdgVAZgWAagWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqReEBiHR0xxMXroXBigAMAA4AdAYAfAYAcIZAggB&gclid=EAIaIQobChMIpOntnseYmAMV04EdCR3OOSVUEAEYASAAEgKN_fD_BwE&num=1&cid=CAASqgHkaDbGEcatZj_haaFjBItnEbRvJoo9qgkicfYsjo7Ds4xAotK2_h_Yxr22ojzHa2WNoH742SfmKfLrooBgUpKxY6vB9WnoSfl2EJgMfSW6UwJxro7wJ1AUGLpjZaQCC3tqpPlTk0VPlH6soL2xwoNalFRqSb8yFFRNpSEcy5YsLRJ-5W2VEle81jLx1RpdwqRnfDhLlm74Xw1-hX1UGUi9BmMxPhOS42Dwwg&ad_cpn=%5BCPN%5D&sig=AOD64_3w8fc5wQ-rXhPtVe8Gy-YRQik0dg&ctype=110&video_id=CcI0ryE0TuA&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Microsoft",
+        "thumbnail": "https://yt3.ggpht.com/proxy/HcDIKi6hGUt23dHJXoGqjYsnW-Yx9b_rvzKby486R6qMUMB5Rj4f1gTieN0_putXXLoa3-WRmWkl6sG9uNJxyUKxT05R36YayKaL6mPwyYsceZVtV43-hJXD6Vdcwr-f9TTB2p4MuxHVP_MYMdnkd1T-00ZPKAq1UisX070t8eIHTbn0wr8tIAwBLSzPe1a1lfAxuCvhiPlF0mN5w-KEfkrLLRdu2y16PNlmNSxm4ASe8xaThWiP6wugAt2DNl21sdoTc3c=w68-h68-nd"
+      },
+      "description": "Azure adapts as your project evolves, so you can change direction without changing code.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/CcI0ryE0TuA/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB3hrFDWB1H0-Z3kCw1NdBIcILteA"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Devour knowledge with Student Spaces",
+      "link": "https://www.youtube.com/watch?v=EJ_xkuarNEU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=EJ_xkuarNEU",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=Cg8IAjUoBa-TuNdOD9vgPzvOUoQWXouaPiwHPvoe0mBawkB8QBCAAYMmGxYvEpPwPggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAbH6_-oCqAMEyAMKqgTyAk_QYr-x4CmGt2qdabfQRTct3lz-jBwqSsRiyDCLzk6_YB17_786Oba6aXgrwMqKPyeQGh9dJmI6akJELQK4zLbI_8TJS788XbPVTSh3Kgkt7l-_rDMvdubf-s9UIiX027tAabhZ1Troqtw-wzy-px16yZGNU_SQggv8FWwzEfej2dwMlsor61Bf4irb0ccDpgOL-fDWsJSMkhyWUU98FPNs5hTCUbsg8W404VmrNW0stZasI1EdeAFGQ9fTSE0lfgfYxNN7I01Pj9HOkTcQ7xzQ6WiW_E4tg7D4IrXah-ovkopRJvTDnYrefXaW0XsuoQw9Fgc4KbgmTTVnXN49RF9zlmbfbjgP52xwSxZ-4Z4TYZyt7YuBMOPVRrrgpz_VHQECbbxx7W7OAnpxF4n0exVwWZQ1PhnoKzW9voDiS7kmzLCtHHwmasuB-SPXw-lbyX9Gp1bKuRS0C1YrJGgitRO8S_brcsjsv0gg-KFRKJkB8vWIBebQ761YkgUICBN4-s2flQGgBqEBgAe3hYCVAZAHBKgHpc-xAqgH552xAqgH6J2xAqgHg_axAqgH-dOxAqgHydqxAqgHqeCxAqgHqNIbqAex3BuoB7CbsQKoB_2ysQKoB8jPsQKoB8nPsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB57qsQKoB5_qsQKoB_jrsQKoB7zqsQKoB-_xsQKoB_yvsQKoB9XOG6gHvtmxAqgHv9mxAqgHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECkggLRUpfeGt1YXJORVWoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFjI_-yex5iYA2ABmgksaHR0cHM6Ly9hY3JvYmF0LmFkb2JlLmNvbS9zdHVkZW50c3BhY2VzL2hvbWWxCWOYwqReJdfeyAkXyAmPAcgJwgG6CzoIAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAtgBA4ACAYgCEroDBXZpY2Jm0AsT4AsBogwfYhgKFmNvbS5hZG9iZS5lY2hvc2lnbi5pb3N4AIgBANIMAhABmg0BE6oNAlVTyA0B0g3pBGh0dHBzOi8vYWQuZG91YmxlY2xpY2submV0L2RkbS90cmFja2Nsay9OOTcyOTUyLjI3OTM4MkJJRE1BTkFHRVJfREZBU0lURS9CMjIzNDQ0MTMuMjQxNTM5MzIxO2RjX3Rya19haWQ9NDM4MTI4NjIyO2RjX3Rya19jaWQ9MTEyODg0NjEzO2RjX2RibV90b2tlbj1BT2plTE5FQUFBQTZDak1LREFnQUZRQUFBQUFkQUFBQUFCSU1DQUFWQUFBQUFCMEFBQUFBSWhNSTV0RHZyVmlvQXNPNDlBR3dBc3lXNHVrRFFEc1FsLWU2QWFwU28zTGo2OUhxbVJTR0Q3TmxKdGM9O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2x0ZD07ZGNfdGR2PTE7ZGNfdHJhbnNwYXJlbnQ9MTtkY19ydWk9MTtkY19lcHM9QUhhczhjQ2VyZ29YZkF5VFdnYmVUckpzcE5obTFFdUpCcjVZV0VleE9Oa010UnRBeWc2YjlkZEVrLTFRMEoxQlluN1dGaTlWWUh6blhBbk90YmtZVHc7ZGNfcHViaWQ9Nj9odHRwczovL2Fjcm9iYXQuYWRvYmUuY29tL3N0dWRlbnRzcGFjZXMvaG9tZT9zZGlkPVZUQzVKUjQxJm12PXNvY2lhbCZtdjI9cGFpZHNvYyZ4X2FwaV9jbGllbnRfaWQ9cGFpZG1lZGlhJnhfYXBpX2NsaWVudF9sb2NhdGlvbj1hZHNfVlRDNUpSNDEmZ2FkX3NvdXJjZT0ysBPX3cEmuBP___________8BiBQHsBQDwBWBgIBA0BUB2BUBmBYBqBYBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRdXv8ICGj4Y8LoXBigAMAA4AdAYAfAYAQ&gclid=EAIaIQobChMIpOntnseYmAMV04EdCR3OOSVUEAEYBCAAEgJ9v_D_BwE&num=4&cid=CAASqgHkaDbGEcatZj_haaFjBItnEbRvJoo9qgkicfYsjo7Ds4xAotK2_h_Yxr22ojzHa2WNoH742SfmKfLrooBgUpKxY6vB9WnoSfl2EJgMfSW6UwJxro7wJ1AUGLpjZaQCC3tqpPlTk0VPlH6soL2xwoNalFRqSb8yFFRNpSEcy5YsLRJ-5W2VEle81jLx1RpdwqRnfDhLlm74Xw1-hX1UGUi9BmMxPhOS42Dwwg&ad_cpn=%5BCPN%5D&sig=AOD64_0fxrcNzDvBLXt-x3b7xtYeiWrJgg&ctype=110&video_id=EJ_xkuarNEU&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Adobe",
+        "thumbnail": "https://yt3.ggpht.com/proxy/MOuz2I13I1fAnFfngtXtL_W4we9dtMgr0pZOHx9ZvXrWe0TzDLTj2mq2_seyh8bAOYiFhihUkC0bcCbQ2Rr3ROUyAm-g7fKx7ikqVy2aYwv8ap82JEQltB0uNj5JlrrMcTbQ-wFlNo0DfytWwYBrrCyx4-VnwgCwx-dn0fy6KEEwJzLjssuJHIvXA-MdWMvBvChh3bzxW7-sQCuvX2mDwrBOQUGt_eZzMbPzNL_oO6Ke1vjjr2458wPYmALVc80eUKLvvs8=w68-h68-nd"
+      },
+      "description": "Student Spaces is a smarter way to study. Free for students.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/EJ_xkuarNEU/hq720.jpg?sqp=-oaymwE9COgCEMoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBSKEUwDw==&rs=AOn4CLBynB31105bQ4I6oAsmmQh3tYKqww"
+      }
+    }
+  ],
+  "playlist_results": [
+    {
+      "position_on_page": 2,
+      "title": "Building LLMs from scratch",
+      "link": "https://www.youtube.com/playlist?list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu",
+      "channel": {
+        "name": "Vizuara",
+        "channel_id": "UCdEov4L0bpJ_h6W3sJxkfUA",
+        "link": "https://www.youtube.com/@vizuara"
+      },
+      "videos": [
+        {
+          "title": "Lecture 1: Building LLMs from scratch: Series introduction",
+          "length": "16:08",
+          "link": "https://www.youtube.com/watch?v=Xpr8D6LeAtw&list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu"
+        },
+        {
+          "title": "Lecture 2: Large Language Models (LLM) Basics",
+          "length": "33:42",
+          "link": "https://www.youtube.com/watch?v=3dWzNZXA8DY&list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu&pp=0gcJCRYF0aJEHMZM"
+        }
+      ],
+      "video_count": 43,
+      "thumbnail": "https://i.ytimg.com/vi/Xpr8D6LeAtw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCEa3vp-z0H-DupoapCWWD35bJGYA"
+    },
+    {
+      "position_on_page": 4,
+      "title": "Python for AI & Agents - Full Beginner Course",
+      "link": "https://www.youtube.com/playlist?list=PL-Y17yukoyy0SupAJSPQYg_Lvre9Kt9EG",
+      "channel": {
+        "name": "Dave Ebbelaar",
+        "channel_id": "UCn8ujwUInbJkBhffxqAPBVQ",
+        "link": "https://www.youtube.com/@daveebbelaar"
+      },
+      "videos": [
+        {
+          "title": "Python for AI - Full Beginner Course",
+          "length": "5:15:31",
+          "link": "https://www.youtube.com/watch?v=ygXn5nV5qFc&list=PL-Y17yukoyy0SupAJSPQYg_Lvre9Kt9EG"
+        },
+        {
+          "title": "How to Build Effective AI Agents (without the hype)",
+          "length": "24:27",
+          "link": "https://www.youtube.com/watch?v=tx5OapbK-8A&list=PL-Y17yukoyy0SupAJSPQYg_Lvre9Kt9EG"
+        }
+      ],
+      "video_count": 14,
+      "thumbnail": "https://i.ytimg.com/vi/ygXn5nV5qFc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDHBUPhG3Nj10G9sq8bAZG5MpOMRg"
+    },
+    {
+      "position_on_page": 5,
+      "title": "GenAI with Python & LangChain | Complete GEN-AI Course 2026",
+      "link": "https://www.youtube.com/playlist?list=PLUhY5ME1VdItcTMnzYakPdYJWorU6IdKk",
+      "channel": {
+        "name": "TechSimPlus Learnings",
+        "channel_id": "UCLgmvKM3Eu1LRXoMlgsmxYw",
+        "link": "https://www.youtube.com/@TechSimPlusLearnings"
+      },
+      "videos": [
+        {
+          "title": "India's Best GenAI Course Launch 2026 | Build 10+ Projects | Python + LangChain + AWS Bedrock",
+          "length": "17:15",
+          "link": "https://www.youtube.com/watch?v=bSK5WC2wG3M&list=PLUhY5ME1VdItcTMnzYakPdYJWorU6IdKk"
+        },
+        {
+          "title": "#1 What is GenAI? | ML vs DL vs GenAI Explained | Complete GEN-AI Series #genai #techsimplus",
+          "length": "7:46",
+          "link": "https://www.youtube.com/watch?v=q6jVozS8Zr0&list=PLUhY5ME1VdItcTMnzYakPdYJWorU6IdKk"
+        }
+      ],
+      "video_count": 35,
+      "thumbnail": "https://i.ytimg.com/vi/bSK5WC2wG3M/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCOMI6zvMf0d-b5AUBNOaaLgMER4g"
+    },
+    {
+      "position_on_page": 6,
+      "title": "FastAPI Complete Playlist | Backend Development with Python FastAPI | FastAPI Tutorial",
+      "link": "https://www.youtube.com/playlist?list=PLUhY5ME1VdIumaSa-m5SQ-ztTL8NWY8Gh",
+      "channel": {
+        "name": "TechSimPlus Learnings",
+        "channel_id": "UCLgmvKM3Eu1LRXoMlgsmxYw",
+        "link": "https://www.youtube.com/@TechSimPlusLearnings"
+      },
+      "videos": [
+        {
+          "title": "#1 FastAPI Tutorial - Introduction | Complete FastAPI Course 2026 | Python Backend",
+          "length": "3:53",
+          "link": "https://www.youtube.com/watch?v=tMJA41xhBZM&list=PLUhY5ME1VdIumaSa-m5SQ-ztTL8NWY8Gh&pp=0gcJCRYF0aJEHMZM"
+        },
+        {
+          "title": "#2 How to setup FastAPI | FastAPI Setup in VS Code | FastAPI Tutorial",
+          "length": "4:02",
+          "link": "https://www.youtube.com/watch?v=rjoaQ7lnTNg&list=PLUhY5ME1VdIumaSa-m5SQ-ztTL8NWY8Gh"
+        }
+      ],
+      "video_count": 26,
+      "thumbnail": "https://i.ytimg.com/vi/tMJA41xhBZM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLASdacRh06D3Vx-NV6VFeZk6b16sw"
+    }
+  ],
+  "video_results": [
+    {
+      "position_on_page": 3,
+      "title": "How To Build an API with Python (LLM Integration, FastAPI, Ollama & More)",
+      "link": "https://www.youtube.com/watch?v=cy6EAp4iNN4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=cy6EAp4iNN4",
+      "video_id": "cy6EAp4iNN4",
+      "channel": {
+        "name": "Tech With Tim",
+        "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
+        "link": "https://www.youtube.com/@TechWithTim",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k15oXl74WcnpdL-uVBv6IHBgAfXEEnpUiS-IoEyV1auyY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 165982,
+      "length": "21:17",
+      "description": "AI models are powerful tools, and in order to use them securely, you need to control them using an API. I'm going to teach you ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/cy6EAp4iNN4/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCOEglUEgVK8J-mNBJQeExG9oP9IA"
+      },
+      "chapters": [
+        {
+          "title": "Why Do You Need an API?",
+          "thumbnail": "https://i.ytimg.com/vi/cy6EAp4iNN4/hqdefault_20900.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBM4HL-Drc7UW_C14KkyCuhBoLNTg",
+          "time_start": 0
+        },
+        {
+          "title": "Setting Up Ollama (Free & Local)",
+          "thumbnail": "https://i.ytimg.com/vi/cy6EAp4iNN4/hqdefault_171100.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCRoVcsNiH2dXUeH3RKnuilW7kQHg",
+          "time_start": 149
+        },
+        {
+          "title": "Environment Setup",
+          "thumbnail": "https://i.ytimg.com/vi/cy6EAp4iNN4/hqdefault_266900.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC9YzMTTEePTK23jedkEeaozVDqMw",
+          "time_start": 255
+        },
+        {
+          "title": "Writing a Simple FastAPI Endpoint",
+          "thumbnail": "https://i.ytimg.com/vi/cy6EAp4iNN4/hqdefault_446900.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAoIyOQTJeIygTlTwWjpAl-Jpea4w",
+          "time_start": 425
+        },
+        {
+          "title": "Testing the API",
+          "thumbnail": "https://i.ytimg.com/vi/cy6EAp4iNN4/hqdefault_604833.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC2deudYT-u1akms7xAEkFJcx3-pg",
+          "time_start": 593
+        },
+        {
+          "title": "Securing the API",
+          "thumbnail": "https://i.ytimg.com/vi/cy6EAp4iNN4/hqdefault_756200.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCcqtIv3gj3hG1obURNF7Ku4sybhw",
+          "time_start": 755
+        },
+        {
+          "title": "Testing the Secured API",
+          "thumbnail": "https://i.ytimg.com/vi/cy6EAp4iNN4/hqdefault_1079200.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAvKXJfMZxFQRwvisutQYBQehxH6w",
+          "time_start": 1077
+        },
+        {
+          "title": "Calling the API From Python",
+          "thumbnail": "https://i.ytimg.com/vi/cy6EAp4iNN4/hqdefault_1164233.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAREe7D1ch6Ul7hXPyYQ1pp5g2j7w",
+          "time_start": 1162
+        }
+      ]
+    },
+    {
+      "position_on_page": 7,
+      "title": "Junior vs senior python developer 🐍 | #python #coding #programming #shorts  @Codingknowledge-yt",
+      "link": "https://www.youtube.com/watch?v=Mf9GCn_LsUI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Mf9GCn_LsUI",
+      "video_id": "Mf9GCn_LsUI",
+      "channel": {
+        "name": "Coding knowledge ",
+        "channel_id": "UCxTlZrcW5kbq86ClNxzf5Tw",
+        "link": "https://www.youtube.com/@Codingknowledge-yt",
+        "thumbnail": "https://yt3.ggpht.com/4fXbBkz-GcdlfXWlVIjq7mkJd7jTUdW6lUwfdJxJhSp6QGSnKT-9u1O13QZNH99nHD2_cn_YiQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 5407145,
+      "length": "0:18",
+      "description": "Junior vs senior python developer | #python #coding #javascript #programming @Codingknowledge-yt @Codingknowledge-yt ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Mf9GCn_LsUI/hq720.jpg?sqp=-oaymwE9COgCEMoBSFryq4qpAy8IARUAAAAAGAAlAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYSyBTKGUwDw==&rs=AOn4CLB5StSZDU9z81dh6cF7ow1CXFa4KA"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "LLM Full Course For Data Engineers (From SCRATCH)",
+      "link": "https://www.youtube.com/watch?v=X8F9JfCUWrs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=X8F9JfCUWrs",
+      "video_id": "X8F9JfCUWrs",
+      "channel": {
+        "name": "Ansh Lamba",
+        "channel_id": "UCu7lQE-L5gzt8aD7zuuufjw",
+        "link": "https://www.youtube.com/@AnshLambaJSR",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/cm0BECo_3L6jx-JquAVBCT0ThjNAUARVLhbXsecSvVk1DaXbLMsps75cG3GftHisLnEf7XX9=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "11mo ago",
+      "views": 208064,
+      "length": "3:00:05",
+      "description": "How LLM works | LLM from scratch | Gen AI | Data Engineering What You'll Learn? This is a complete beginner-friendly LLM ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/X8F9JfCUWrs/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBvTUyfW7wR47RpLxpb44Wg5mhFVA"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/X8F9JfCUWrs/hqdefault_28866.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDPib5V-anjuo204mKtX6VhdhIeIA",
+          "time_start": 0
+        },
+        {
+          "title": "Natural Language Processing",
+          "thumbnail": "https://i.ytimg.com/vi/X8F9JfCUWrs/hqdefault_665266.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBGCz8UT0eo0e8xx4ER5TOCOLt2-A",
+          "time_start": 665
+        },
+        {
+          "title": "What is a Language Model",
+          "thumbnail": "https://i.ytimg.com/vi/X8F9JfCUWrs/hqdefault_1180933.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCBjK0d4AqrMAywqT8_025eTDlLEw",
+          "time_start": 1156
+        },
+        {
+          "title": "Types of Language Models",
+          "thumbnail": "https://i.ytimg.com/vi/X8F9JfCUWrs/hqdefault_1899800.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDL5E-ThiXihbelps3nLNvK1bnoCA",
+          "time_start": 1885
+        },
+        {
+          "title": "What is LLM in a Nutshell?",
+          "thumbnail": "https://i.ytimg.com/vi/X8F9JfCUWrs/hqdefault_2508233.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDnTuU4XPcdXAr-yLY6lrtnL5WTvQ",
+          "time_start": 2496
+        },
+        {
+          "title": "Types of LLMs",
+          "thumbnail": "https://i.ytimg.com/vi/X8F9JfCUWrs/hqdefault_2732233.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBnW_Odtm-iNyFGTVA97PXbE0k0Cw",
+          "time_start": 2709
+        },
+        {
+          "title": "Tokenization & Token IDs",
+          "thumbnail": "https://i.ytimg.com/vi/X8F9JfCUWrs/hqdefault_3071666.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD6xjMrMmLbL4aCLiHG-efTixi4_Q",
+          "time_start": 3042
+        },
+        {
+          "title": "Embedding Vectors",
+          "thumbnail": "https://i.ytimg.com/vi/X8F9JfCUWrs/hqdefault_4139133.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBfr87V0NYoS4bxYoNMWHeDZHnMhw",
+          "time_start": 4136
+        },
+        {
+          "title": "Types of Embeddings",
+          "thumbnail": "https://i.ytimg.com/vi/X8F9JfCUWrs/hqdefault_4599166.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAYD7wkgOHpExHv-GpzUMVAGyqugg",
+          "time_start": 4595
+        },
+        {
+          "title": "Embeddings Lab",
+          "thumbnail": "https://i.ytimg.com/vi/X8F9JfCUWrs/hqdefault_5077066.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBqVa3mZDMJhw6PwZB1IalsvhnMew",
+          "time_start": 5071
+        },
+        {
+          "title": "Decoder-Only Transformer Guide",
+          "thumbnail": "https://i.ytimg.com/vi/X8F9JfCUWrs/hqdefault_6256166.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAunAIs4HnsJONmaCoIHNCFix3fJg",
+          "time_start": 6228
+        },
+        {
+          "title": "Encoder-Only Transformer",
+          "thumbnail": "https://i.ytimg.com/vi/X8F9JfCUWrs/hqdefault_9716000.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDfrhuzd6y9Ocn4JQ2JIKnLT39aGQ",
+          "time_start": 9698
+        },
+        {
+          "title": "Encoder-Decoder Transformer",
+          "thumbnail": "https://i.ytimg.com/vi/X8F9JfCUWrs/hqdefault_10096966.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBpt-rvvn1Chu-9YVA73R0nJ5GhaQ",
+          "time_start": 10095
+        }
+      ]
+    },
+    {
+      "position_on_page": 9,
+      "title": "Don't learn AI Agents without Learning these Fundamentals",
+      "link": "https://www.youtube.com/watch?v=ZaPbP9DwBOE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ZaPbP9DwBOE",
+      "video_id": "ZaPbP9DwBOE",
+      "channel": {
+        "name": "KodeKloud",
+        "channel_id": "UCSWj8mqQCcrcBlXPi4ThRDQ",
+        "link": "https://www.youtube.com/@KodeKloud",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/_pHLjGmYVp9Qv6r57IhDnEsej2tgpxSyBzD8kUUvDetLLPLGSkDlh77JLxtchccZhBwG8iqq=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 1486199,
+      "length": "56:40",
+      "description": "AI Agents Labs for Free: https://kode.wiki/3Wh4DZ6 Learn everything about AI agents from scratch in this comprehensive tutorial.",
+      "extensions": [
+        "Beginner",
+        "Overview"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ZaPbP9DwBOE/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBrA5bJPF8ks4Ciy6KhVy7JtSPWAA"
+      },
+      "chapters": [
+        {
+          "title": "Introduction to AI Agents",
+          "thumbnail": "https://i.ytimg.com/vi/ZaPbP9DwBOE/hqdefault_30000.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLATuFqeCu7zkaaGHmcrLVz4Z_-D_g",
+          "time_start": 0
+        },
+        {
+          "title": "How LLMs work in real time?",
+          "thumbnail": "https://i.ytimg.com/vi/ZaPbP9DwBOE/hqdefault_45833.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBsGqdV4YhUrPmlk-pFCT4ujCyd2Q",
+          "time_start": 40
+        },
+        {
+          "title": "Embeddings & Vector Representations",
+          "thumbnail": "https://i.ytimg.com/vi/ZaPbP9DwBOE/hqdefault_311800.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDoSjCuznMvzisBvAubahx1t1ObuA",
+          "time_start": 296
+        },
+        {
+          "title": "How LangChain works?",
+          "thumbnail": "https://i.ytimg.com/vi/ZaPbP9DwBOE/hqdefault_357766.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCFhNHD-1lOS0fvBBggUyvFboKKaA",
+          "time_start": 356
+        },
+        {
+          "title": "Practice Labs - Your First AI API Call",
+          "thumbnail": "https://i.ytimg.com/vi/ZaPbP9DwBOE/hqdefault_626866.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBdx-Qci2VUZ-zDm78PWCKYou0FLQ",
+          "time_start": 612
+        },
+        {
+          "title": "Practice Labs - LangChain",
+          "thumbnail": "https://i.ytimg.com/vi/ZaPbP9DwBOE/hqdefault_919233.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBW_B9yDTHLJkNpkZwcwIofZmsG2A",
+          "time_start": 897
+        },
+        {
+          "title": "Prompt Engineering Techniques",
+          "thumbnail": "https://i.ytimg.com/vi/ZaPbP9DwBOE/hqdefault_1090300.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA2n6urO94UA6H3RCwuFkD9XTSokw",
+          "time_start": 1077
+        },
+        {
+          "title": "Practice Labs - Master Prompt Engineering",
+          "thumbnail": "https://i.ytimg.com/vi/ZaPbP9DwBOE/hqdefault_1303133.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDPcvlX-iBvq9RijsDA8JcLIhW3Aw",
+          "time_start": 1281
+        },
+        {
+          "title": "Vector Databases Deep Dive",
+          "thumbnail": "https://i.ytimg.com/vi/ZaPbP9DwBOE/hqdefault_1499100.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCP8AFC2msADPeDGwgXIlD7IojhuA",
+          "time_start": 1486
+        },
+        {
+          "title": "Practice Labs - Build Semantic Search Engine",
+          "thumbnail": "https://i.ytimg.com/vi/ZaPbP9DwBOE/hqdefault_1910166.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA8wIBdoY91FtdMyfzsUd1HwqI4TA",
+          "time_start": 1887
+        },
+        {
+          "title": "RAG (Retrieval Augmented Generation)",
+          "thumbnail": "https://i.ytimg.com/vi/ZaPbP9DwBOE/hqdefault_2125033.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBUBEFj5Hclg9OyVjLfFmhAwL9Zgg",
+          "time_start": 2115
+        },
+        {
+          "title": "Practice Labs - RAG Implementation",
+          "thumbnail": "https://i.ytimg.com/vi/ZaPbP9DwBOE/hqdefault_2320033.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDY9JZqsQK49yRHwYORfPOxPPR1oQ",
+          "time_start": 2294
+        },
+        {
+          "title": "LangGraph for AI Workflows",
+          "thumbnail": "https://i.ytimg.com/vi/ZaPbP9DwBOE/hqdefault_2534100.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBRZRTeynoauDZM54F-4Hd-CpiYCA",
+          "time_start": 2534
+        },
+        {
+          "title": "Practice Labs - Build Stateful AI Workflow",
+          "thumbnail": "https://i.ytimg.com/vi/ZaPbP9DwBOE/hqdefault_2771933.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC1VTlWeGob-BgidWzQOcbi_LpzzA",
+          "time_start": 2751
+        },
+        {
+          "title": "Model Context Protocol (MCP)",
+          "thumbnail": "https://i.ytimg.com/vi/ZaPbP9DwBOE/hqdefault_2959000.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCDvr2NpgYV5SaoczUZtWBtAz_uwg",
+          "time_start": 2931
+        },
+        {
+          "title": "Practice Labs - Advanced MCP Concepts",
+          "thumbnail": "https://i.ytimg.com/vi/ZaPbP9DwBOE/hqdefault_3145933.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDHM-H4MuEqFFr_FOEolJi1K0YZtg",
+          "time_start": 3116
+        },
+        {
+          "title": "Conclusion",
+          "thumbnail": "https://i.ytimg.com/vi/ZaPbP9DwBOE/hqdefault_3324833.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAhGn6KUK8qbRLL_O4pbwlWF2_j5A",
+          "time_start": 3321
+        }
+      ]
+    },
+    {
+      "position_on_page": 10,
+      "title": "Gyro M 3.8 Flash Next tested - 16GB Local LLM setup",
+      "link": "https://www.youtube.com/watch?v=t_TuOOwhfB4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=t_TuOOwhfB4",
+      "video_id": "t_TuOOwhfB4",
+      "channel": {
+        "name": "Luke's Dev Lab",
+        "channel_id": "UC6YL31AicZzw1-gap7zBm9A",
+        "link": "https://www.youtube.com/@lukesdevlab",
+        "thumbnail": "https://yt3.ggpht.com/6_Hxwn_MYciZBTo_fVgXvBoC3m1Z6n4PI6KGx9_zR9NhhovpSZK-yrcI617fHTt_ivn5PJx1v74=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3d ago",
+      "views": 21098,
+      "length": "19:18",
+      "description": "Grab your Plaud Note Pro: Note Pro: https://bit.ly/4wKlP9h Learn more: https://bit.ly/3UapgbE 20% code: LDL10 Amazon: ...",
+      "extensions": [
+        "New"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/t_TuOOwhfB4/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBKwPI0x7HZP6JG4ta3SsSUcFasgQ"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/t_TuOOwhfB4/hqdefault_7133.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCoROjTKYEEjFi3ucjF22-FVp2tTQ",
+          "time_start": 0
+        },
+        {
+          "title": "Model",
+          "thumbnail": "https://i.ytimg.com/vi/t_TuOOwhfB4/hqdefault_34033.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBMOG-59c4FcIiSenXBuCUvoFfxnw",
+          "time_start": 9
+        },
+        {
+          "title": "Tests Overview",
+          "thumbnail": "https://i.ytimg.com/vi/t_TuOOwhfB4/hqdefault_46133.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDms5Hjr6HljtKsTy4fBTyaCSxJqw",
+          "time_start": 40
+        },
+        {
+          "title": "System Spec",
+          "thumbnail": "https://i.ytimg.com/vi/t_TuOOwhfB4/hqdefault_119900.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCxJv6qhLN5H9NzsDmrXVtdVzbKag",
+          "time_start": 93
+        },
+        {
+          "title": "Performance",
+          "thumbnail": "https://i.ytimg.com/vi/t_TuOOwhfB4/hqdefault_131100.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAUk7bzaAq_nkhw9N5jULPUhKvxUw",
+          "time_start": 131
+        },
+        {
+          "title": "Memory",
+          "thumbnail": "https://i.ytimg.com/vi/t_TuOOwhfB4/hqdefault_205933.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDstQiQBvBdWhcEdzrj7pkOR88BNQ",
+          "time_start": 178
+        },
+        {
+          "title": "Reasoning",
+          "thumbnail": "https://i.ytimg.com/vi/t_TuOOwhfB4/hqdefault_253166.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDFY1vEjjci9831hzqSkMvPkCV8mg",
+          "time_start": 233
+        },
+        {
+          "title": "HumanEval Remix",
+          "thumbnail": "https://i.ytimg.com/vi/t_TuOOwhfB4/hqdefault_277066.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCGJIJ_3XgetVHbAjnYqT-ZFO_pMA",
+          "time_start": 266
+        },
+        {
+          "title": "Plaud Note Pro",
+          "thumbnail": "https://i.ytimg.com/vi/t_TuOOwhfB4/hqdefault_314833.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDX1FLW8qVLkBiI6luIABvIyCaKhw",
+          "time_start": 294
+        },
+        {
+          "title": "Seating Planner",
+          "thumbnail": "https://i.ytimg.com/vi/t_TuOOwhfB4/hqdefault_385033.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA_mynwUAGQScKVjkaHszEBjBjYNw",
+          "time_start": 385
+        },
+        {
+          "title": "Sand Physics 2",
+          "thumbnail": "https://i.ytimg.com/vi/t_TuOOwhfB4/hqdefault_502066.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCiyH4OL2Hi-ZxMJswEpHqeGh3RoQ",
+          "time_start": 475
+        },
+        {
+          "title": "Dungeon Crawler 2",
+          "thumbnail": "https://i.ytimg.com/vi/t_TuOOwhfB4/hqdefault_552033.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB7LVsvZiKVC3gdQbIUB-JpGh-USQ",
+          "time_start": 552
+        },
+        {
+          "title": "Blender",
+          "thumbnail": "https://i.ytimg.com/vi/t_TuOOwhfB4/hqdefault_674666.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLACvG3YQq3Pl2qAzbnY42TN835Q_g",
+          "time_start": 660
+        },
+        {
+          "title": "Godot",
+          "thumbnail": "https://i.ytimg.com/vi/t_TuOOwhfB4/hqdefault_804600.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBIaqgeBn3uqk_UCoE_6-a6KJTQzA",
+          "time_start": 779
+        },
+        {
+          "title": "Diorama",
+          "thumbnail": "https://i.ytimg.com/vi/t_TuOOwhfB4/hqdefault_932800.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDcysLcAYD73_CKwQLySIfw7DmDhQ",
+          "time_start": 927
+        },
+        {
+          "title": "Conclusion",
+          "thumbnail": "https://i.ytimg.com/vi/t_TuOOwhfB4/hqdefault_983033.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBstu92FA9cuTWTooWqmf3cMJpt5g",
+          "time_start": 980
+        }
+      ]
+    },
+    {
+      "position_on_page": 12,
+      "title": "Python AI And Generative AI Course For Beginners #ai #python #tutorial #course #study #learning",
+      "link": "https://www.youtube.com/watch?v=LRhOzoxHlJo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LRhOzoxHlJo",
+      "video_id": "LRhOzoxHlJo",
+      "channel": {
+        "name": "WebKnower",
+        "channel_id": "UCJfCYYF5b1wqfTCn6u34Q4Q",
+        "link": "https://www.youtube.com/@WebKnower",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/dsdo5gjkXPnwLMFDa1WtGVD6AYmDhDvFuPvE2y1nuudBnbOXP0u9wzV9R4_0rvjBw_hg_fA8=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 641605,
+      "length": "0:16",
+      "description": "Python AI And Generative AI Course For Beginners Your Queries :- Learn AI basics with python Generative ai essential full course ...",
+      "extensions": [
+        "5 products",
+        "Earns commission"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/LRhOzoxHlJo/hq720.jpg?sqp=-oaymwE9COgCEMoBSFryq4qpAy8IARUAAAAAGAAlAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBaKFowDw==&rs=AOn4CLA5gERoRUgzB0Y0ijNwIICofDfp9A"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Build Anything with Google Colab, Here’s How",
+      "link": "https://www.youtube.com/watch?v=JsCU1V7Hjpc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=JsCU1V7Hjpc",
+      "video_id": "JsCU1V7Hjpc",
+      "channel": {
+        "name": "David Ondrej",
+        "channel_id": "UCPGrgwfbkjTIgPoOh2q1BAg",
+        "link": "https://www.youtube.com/@DavidOndrej",
+        "thumbnail": "https://yt3.ggpht.com/Ksq0cOgKhbOuQMtIAjJlmrHSIDNbqmLtwosJNUZUuEZwNR3bc_W8l8Ve_xulQNidyb7dxqffyYI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 189823,
+      "length": "13:01",
+      "description": "Wanna master AI coding? Go here: https://www.skool.com/new-society Follow me on Instagram ...",
+      "extensions": [
+        "4K",
+        "How-to"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/JsCU1V7Hjpc/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDZnRYMsZhleV6QXALXXUlC5uXcfA"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "20 AI Concepts Explained in 40 Minutes",
+      "link": "https://www.youtube.com/watch?v=OYvlznJ4IZQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OYvlznJ4IZQ",
+      "video_id": "OYvlznJ4IZQ",
+      "channel": {
+        "name": "Gaurav Sen",
+        "channel_id": "UCRPMAqdtSgd0Ipeef7iFsKw",
+        "link": "https://www.youtube.com/@gkcs",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/092CjcwduEsozsuvO-hcfwRA_uwytUAAAdXr6mZrFJH2xrI8hzBgvlMr9iQgL1SDf2UABnt4GA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 1191367,
+      "length": "43:34",
+      "description": "Engineers need to communicate effectively when building AI Systems. These terms will help you use a shared vocabulary. This is ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/OYvlznJ4IZQ/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA5Bc4txn8yyJ9zwltMXTuBH4rDRQ"
+      },
+      "chapters": [
+        {
+          "title": "Agenda",
+          "thumbnail": "https://i.ytimg.com/vi/OYvlznJ4IZQ/hqdefault_1166.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLASieCFPD3oYHE0RsspyJFWPE4wnQ",
+          "time_start": 0
+        },
+        {
+          "title": "1. Large Language Model",
+          "thumbnail": "https://i.ytimg.com/vi/OYvlznJ4IZQ/hqdefault_28066.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCTo7XoNy0SA6_6eXMU5y9gbNJzPA",
+          "time_start": 28
+        },
+        {
+          "title": "2. Tokenization",
+          "thumbnail": "https://i.ytimg.com/vi/OYvlznJ4IZQ/hqdefault_115933.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAVYy7wMazVLXMHipvdgqtmLPKVGg",
+          "time_start": 88
+        },
+        {
+          "title": "3. Vectorization",
+          "thumbnail": "https://i.ytimg.com/vi/OYvlznJ4IZQ/hqdefault_181866.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDh7Cse8gMOPhJTXtmfPkSewqLfZw",
+          "time_start": 173
+        },
+        {
+          "title": "4. Attention",
+          "thumbnail": "https://i.ytimg.com/vi/OYvlznJ4IZQ/hqdefault_263066.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCB5LttUNDQIsotiUyO7T9JF2tstg",
+          "time_start": 255
+        },
+        {
+          "title": "5. Self-Supervised Learning",
+          "thumbnail": "https://i.ytimg.com/vi/OYvlznJ4IZQ/hqdefault_467833.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAzBxLZGUQuN06a4IeURIZMwVfV2w",
+          "time_start": 442
+        },
+        {
+          "title": "6. Transformer",
+          "thumbnail": "https://i.ytimg.com/vi/OYvlznJ4IZQ/hqdefault_748766.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBOn0S08-fmQa6gv68e9W9O1WFWxA",
+          "time_start": 727
+        },
+        {
+          "title": "7. Fine-tuning",
+          "thumbnail": "https://i.ytimg.com/vi/OYvlznJ4IZQ/hqdefault_880000.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBo6kV73qwCgk8tSXFuaBwiigny8A",
+          "time_start": 872
+        },
+        {
+          "title": "8. Few-shot Prompting",
+          "thumbnail": "https://i.ytimg.com/vi/OYvlznJ4IZQ/hqdefault_1052233.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBc5xqTa_CbyjUfrQTu_FpDLc3fCg",
+          "time_start": 1025
+        },
+        {
+          "title": "9. Retrieval Augmented Generation",
+          "thumbnail": "https://i.ytimg.com/vi/OYvlznJ4IZQ/hqdefault_1101200.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCXjNxAAlLQHPx0fcuI2-GaP6MflQ",
+          "time_start": 1091
+        },
+        {
+          "title": "10. Vector Database",
+          "thumbnail": "https://i.ytimg.com/vi/OYvlznJ4IZQ/hqdefault_1237200.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAPasS_JZqkSAIYTm_ttBUIq9Gu4Q",
+          "time_start": 1233
+        },
+        {
+          "title": "11. Model Context Protocol",
+          "thumbnail": "https://i.ytimg.com/vi/OYvlznJ4IZQ/hqdefault_1385366.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCAt64VF5N6SdQ58qx_8vTF_8lVNQ",
+          "time_start": 1383
+        },
+        {
+          "title": "12. Context Engineering",
+          "thumbnail": "https://i.ytimg.com/vi/OYvlznJ4IZQ/hqdefault_1558333.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBPmuOif955rmNs_q4aac-iW_FsTQ",
+          "time_start": 1543
+        },
+        {
+          "title": "13. Agents",
+          "thumbnail": "https://i.ytimg.com/vi/OYvlznJ4IZQ/hqdefault_1705033.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDfLf7jTv6WB-p1E6m6E3X7JbXytg",
+          "time_start": 1697
+        },
+        {
+          "title": "14. Reinforcement Learning",
+          "thumbnail": "https://i.ytimg.com/vi/OYvlznJ4IZQ/hqdefault_1765066.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCK1U82wHvUun5zbdUCklXgai_dfQ",
+          "time_start": 1759
+        },
+        {
+          "title": "15. Chain of Thought",
+          "thumbnail": "https://i.ytimg.com/vi/OYvlznJ4IZQ/hqdefault_2085033.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD_9dPZZvwl74yEYFtidrmMhDnPuA",
+          "time_start": 2082
+        },
+        {
+          "title": "16. Reasoning Models",
+          "thumbnail": "https://i.ytimg.com/vi/OYvlznJ4IZQ/hqdefault_2165866.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDY7F1El0aOQFqYLfuG0bviMGQRQw",
+          "time_start": 2155
+        },
+        {
+          "title": "17. Multi-modal Models",
+          "thumbnail": "https://i.ytimg.com/vi/OYvlznJ4IZQ/hqdefault_2205133.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBvS0GUsG4X5PplWEGwF_feA4a3_A",
+          "time_start": 2196
+        },
+        {
+          "title": "18. Small Language Models",
+          "thumbnail": "https://i.ytimg.com/vi/OYvlznJ4IZQ/hqdefault_2328933.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDrjDaigX5zpiAkvelAMElmQJpyPA",
+          "time_start": 2301
+        },
+        {
+          "title": "19. Distillation",
+          "thumbnail": "https://i.ytimg.com/vi/OYvlznJ4IZQ/hqdefault_2448800.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC5yIxOQjFzNTgiIF3_ywHXpo8ioQ",
+          "time_start": 2424
+        },
+        {
+          "title": "20. Quantization",
+          "thumbnail": "https://i.ytimg.com/vi/OYvlznJ4IZQ/hqdefault_2511800.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDlfmTpBY8zy3LvGWPfdByPaDxAQA",
+          "time_start": 2507
+        }
+      ]
+    },
+    {
+      "position_on_page": 15,
+      "title": "Generative AI Full Course – Gemini Pro, OpenAI, Llama, Langchain, Pinecone, Vector Databases & More",
+      "link": "https://www.youtube.com/watch?v=mEsleV16qdo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=mEsleV16qdo",
+      "video_id": "mEsleV16qdo",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 3546073,
+      "length": "30:18:02",
+      "description": "Learn about generative models and different frameworks, investigating the production of text and visual material produced by ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/mEsleV16qdo/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAh4igBq6AwBOGv0B8HMVHzv4rTWg"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Create a Large Language Model from Scratch with Python – Tutorial",
+      "link": "https://www.youtube.com/watch?v=UU1WVnMk4E8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=UU1WVnMk4E8",
+      "video_id": "UU1WVnMk4E8",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 1543087,
+      "length": "5:43:41",
+      "description": "Learn how to build your own large language model, from scratch. This course goes into the data handling, math, and transformers ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/UU1WVnMk4E8/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDg1n5EEhul8xnTmMwRwL3lQn1S4A"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_8233.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCSKXAp7bAW2v-iRb50fxTcJl8a0A",
+          "time_start": 0
+        },
+        {
+          "title": "Install Libraries",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_205866.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCPwbnG9eqAa-Mlcn-9_TcBbvXq2g",
+          "time_start": 205
+        },
+        {
+          "title": "Pylzma build tools",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_407800.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD4LwtFFVhrPL3C-3oOnptdWGezfg",
+          "time_start": 384
+        },
+        {
+          "title": "Jupyter Notebook",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_538333.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAQ87PKvCisS4NJmNOQj7wcxLn1pw",
+          "time_start": 538
+        },
+        {
+          "title": "Download wizard of oz",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_751733.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCmvv-Caja-knL1bMCf8NVvkIs3RA",
+          "time_start": 731
+        },
+        {
+          "title": "Experimenting with text file",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_905066.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBdu7oc7JbX9ZFSowWeHvdKMJMeJA",
+          "time_start": 891
+        },
+        {
+          "title": "Character-level tokenizer",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_1106133.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAJTYKJabHwj7KQAj_I7gIiGdZw_Q",
+          "time_start": 1078
+        },
+        {
+          "title": "Types of tokenizers",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_1189800.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDLiUgYZ-MDx0JoGNSH15Pkz1_LIg",
+          "time_start": 1184
+        },
+        {
+          "title": "Tensors instead of Arrays",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_1279000.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBkgnyH9viXkuciGgo9hscEffl2Hw",
+          "time_start": 1258
+        },
+        {
+          "title": "Linear Algebra heads up",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_1380033.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB_I4tYLRbBe1ugVmGeMYa9fkM5dA",
+          "time_start": 1357
+        },
+        {
+          "title": "Train and validation splits",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_1426966.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBvZ9blqAcfLDXojy30oenAdhHj-g",
+          "time_start": 1409
+        },
+        {
+          "title": "Premise of Bigram Model",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_1537133.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCInv6BOhB-zv07yLqEY4BhygDeVg",
+          "time_start": 1530
+        },
+        {
+          "title": "Inputs and Targets",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_1602133.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCfPK6GxFd0lCOTX2wnreJhv74SEA",
+          "time_start": 1601
+        },
+        {
+          "title": "Inputs and Targets Implementation",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_1794966.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB1tLIaxvGDdyxfdrLXtNRuA6xkkQ",
+          "time_start": 1769
+        },
+        {
+          "title": "Batch size hyperparameter",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_1812933.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB5CdsMbYOkmT8BT8P5LzAIqZkVHw",
+          "time_start": 1810
+        },
+        {
+          "title": "Switching from CPU to CUDA",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_1933033.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAqbkSL47hsOSVS3XY15Ub89ycXaQ",
+          "time_start": 1933
+        },
+        {
+          "title": "PyTorch Overview",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_2025866.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD9rpHmdCij7_YpbpEh5un9PqW-jg",
+          "time_start": 2008
+        },
+        {
+          "title": "CPU vs GPU performance in PyTorch",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_2575033.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDBBjDIvf3UXmXz4j1EPMR_uCzaBg",
+          "time_start": 2569
+        },
+        {
+          "title": "More PyTorch Functions",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_2888900.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCqhs5jfzv2uhFFOX_5ubGYqU3VHw",
+          "time_start": 2869
+        },
+        {
+          "title": "Embedding Vectors",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_3984866.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBTbqTWygbtAhwJJ1ah3muq9BFWKQ",
+          "time_start": 3963
+        },
+        {
+          "title": "Embedding Implementation",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_4312266.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCwR3RakSzMjczHiqx2K9s8IweTUg",
+          "time_start": 4293
+        },
+        {
+          "title": "Dot Product and Matrix Multiplication",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_4409033.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAddmU5UG5ESHOYx7KqKC-AfOS2Rw",
+          "time_start": 4386
+        },
+        {
+          "title": "Matmul Implementation",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_5150133.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD5LOfV3qY8ZV8NkfR75ofvFxIGYQ",
+          "time_start": 5142
+        },
+        {
+          "title": "Int vs Float",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_5236066.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD82hgMCHaJPWOpcx_S1smEs-gEoA",
+          "time_start": 5216
+        },
+        {
+          "title": "Recap and get_batch",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_5416166.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAmF98tE1XznoctKMiynHwOs7_ldA",
+          "time_start": 5392
+        },
+        {
+          "title": "nnModule subclass",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_5725000.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDWvaC6IYlwpGE-ek8p4A2eRhJqvQ",
+          "time_start": 5707
+        },
+        {
+          "title": "Gradient Descent",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_5854633.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAbrgBi9R6mOKaluKaG7t0vUpkwwA",
+          "time_start": 5825
+        },
+        {
+          "title": "Logits and Reshaping",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_6666266.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDU2X0MKACXOHS9cU4aLpw0_cNBMg",
+          "time_start": 6653
+        },
+        {
+          "title": "Generate function and giving the model some context",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_7170066.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBIz1hR0sNUS2iX8k2eywJZ_azO5A",
+          "time_start": 7168
+        },
+        {
+          "title": "Logits Dimensionality",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_7446033.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAswnICfJefNYujbKLvi9zBsZNMYA",
+          "time_start": 7438
+        },
+        {
+          "title": "Training loop + Optimizer + Zerograd explanation",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_7519933.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLATw2yRH0y6vhIGmL-vfTkCY57zlA",
+          "time_start": 7517
+        },
+        {
+          "title": "Optimizers Overview",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_8053166.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBjFawlWJj-pq5_QO0D8MBR6l9t7Q",
+          "time_start": 8036
+        },
+        {
+          "title": "Applications of Optimizers",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_8246933.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAHZz7fXN4hn3UlJoRoArnZMgmnVA",
+          "time_start": 8224
+        },
+        {
+          "title": "Loss reporting + Train VS Eval mode",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_8295933.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAO9lPcEyNlBJ7WeTVCKUwN9b1g2A",
+          "time_start": 8291
+        },
+        {
+          "title": "Normalization Overview",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_9203833.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAHJ8YkMUqP6En4eZL7A7UeWkmWbA",
+          "time_start": 9174
+        },
+        {
+          "title": "ReLU, Sigmoid, Tanh Activations",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_9355166.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCxdioDnWxmrAGLJya5GBHf4zINyQ",
+          "time_start": 9345
+        },
+        {
+          "title": "Transformer and Self-Attention",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_9935166.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD7Y56KHswHX5zphOrcSPBwIOhOVA",
+          "time_start": 9915
+        },
+        {
+          "title": "Transformer Architecture",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_10015233.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDIDlztSAEPihq6DqTQ24ibkpqrww",
+          "time_start": 10015
+        },
+        {
+          "title": "Building a GPT, not Transformer model",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_11878933.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAtEBBXnGHDhDSt_mTs6__9rYDJag",
+          "time_start": 11874
+        },
+        {
+          "title": "Self-Attention Deep Dive",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_12006066.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDyDn3Kag4WWbZZyKP3HsH_02is1w",
+          "time_start": 11986
+        },
+        {
+          "title": "GPT architecture",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_12309033.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAkV14QWDPA8f4W8khqrZS8jA7rng",
+          "time_start": 12305
+        },
+        {
+          "title": "Switching to Macbook",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_12429033.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD76pMOYdDucQerJwE6wxovfSRDfg",
+          "time_start": 12427
+        },
+        {
+          "title": "Implementing Positional Encoding",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_12703033.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLABrkoyWr1obl21S8vB4IfvMTIQ8Q",
+          "time_start": 12702
+        },
+        {
+          "title": "GPTLanguageModel initalization",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_13031066.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBLdMUdF5I-pYDngy5l51P1ZTxSPA",
+          "time_start": 13017
+        },
+        {
+          "title": "GPTLanguageModel forward pass",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_13261900.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAwIgAHyU8_897giSuHOw7qhqaFqw",
+          "time_start": 13252
+        },
+        {
+          "title": "Standard Deviation for model parameters",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_13634900.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBXmamRWCJbFEF0xy4vf2P6kBtUSw",
+          "time_start": 13616
+        },
+        {
+          "title": "Transformer Blocks",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_14475900.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD0hNLa9ArdlUuOSJ2qd8xaQhtUsg",
+          "time_start": 14450
+        },
+        {
+          "title": "FeedForward network",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_14723933.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDO29IccihTxDrJeZqeCN9nST48XA",
+          "time_start": 14694
+        },
+        {
+          "title": "Multi-head Attention",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_14887833.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDKZGe5iA2IozTH1BDoIHMMo_qcMA",
+          "time_start": 14873
+        },
+        {
+          "title": "Dot product attention",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_15177800.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBmJEPIW6mGDdd3W3DMV6rGwh7BmA",
+          "time_start": 15169
+        },
+        {
+          "title": "Why we scale by 1/sqrt(dk)",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_15607833.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBVJSRYEB9IKy_wVn9MpfT18ejtWA",
+          "time_start": 15583
+        },
+        {
+          "title": "Sequential VS ModuleList Processing",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_16029166.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBmelAG4nEUhYEQq-4gBwzJTj8o_A",
+          "time_start": 16005
+        },
+        {
+          "title": "Overview Hyperparameters",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_16262933.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADIg9oHabilM2ZK04aaMLCfJBhKw",
+          "time_start": 16247
+        },
+        {
+          "title": "Fixing errors, refining",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_16337800.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDcoUjW8UgEVm-50_jIpjPwO2ia5w",
+          "time_start": 16334
+        },
+        {
+          "title": "Begin training",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_16443333.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCz7WpCBt1fNOcbiMkK0_jN26tivQ",
+          "time_start": 16441
+        },
+        {
+          "title": "OpenWebText download and Survey of LLMs paper",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_16555233.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAfl2aJlZvsO0JRIRF1fx4mXe-aGw",
+          "time_start": 16546
+        },
+        {
+          "title": "How the dataloader/batch getter will have to change",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_16680900.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDKbHLN_VBur8iVSdjOOWQhAs4qrw",
+          "time_start": 16676
+        },
+        {
+          "title": "Extract corpus with winrar",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_16888933.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB_xsDSj0WJPo_wTw4v_2H11PSCLA",
+          "time_start": 16880
+        },
+        {
+          "title": "Python data extractor",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_17040966.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDkcFvYYO4DNjVoHaSCebFS-SHAcw",
+          "time_start": 17024
+        },
+        {
+          "title": "Adjusting for train and val splits",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_17387333.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDSjgcyolER7Cg1vEBal-0RGdw7aw",
+          "time_start": 17363
+        },
+        {
+          "title": "Adding dataloader",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_17893233.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA5nlxlzuwCHelz4lxCNNfAWjtdkA",
+          "time_start": 17875
+        },
+        {
+          "title": "Training on OpenWebText",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_17946866.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBya3XWj1J4p9uMsCC7C1D3X6dXAA",
+          "time_start": 17944
+        },
+        {
+          "title": "Training works well, model loading/saving",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_18144966.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB32acolHSPBSQdfolA1HiSq7vPcQ",
+          "time_start": 18142
+        },
+        {
+          "title": "Pickling",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_18260900.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDDcpURYBKlH_-Ge7ZH8-D09kUjbw",
+          "time_start": 18258
+        },
+        {
+          "title": "Fixing errors + GPU Memory in task manager",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_18353233.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBktmTPpVpDT_nxEIYOvs2rh8TRyg",
+          "time_start": 18332
+        },
+        {
+          "title": "Command line argument parsing",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_18863933.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLATaXxZ0AkIZSwDql7dpzbuntTHOQ",
+          "time_start": 18845
+        },
+        {
+          "title": "Porting code to script",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_19095233.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA2YcAC2a1Ry7FmlLzkZvhbRYpeJg",
+          "time_start": 19091
+        },
+        {
+          "title": "Prompt: Completion feature + more errors",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_19353166.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDpntivpEA4R3UxFN1NscbwXDnRNQ",
+          "time_start": 19324
+        },
+        {
+          "title": "nnModule inheritance + generation cropping",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_19484066.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCw1J7TogUBg2CysfUqbQxZkNVpBg",
+          "time_start": 19463
+        },
+        {
+          "title": "Pretraining vs Finetuning",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_19682166.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD-hoqb0CWjcS74X1yZST0UZQwGig",
+          "time_start": 19674
+        },
+        {
+          "title": "R&D pointers",
+          "thumbnail": "https://i.ytimg.com/vi/UU1WVnMk4E8/hqdefault_20009066.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC8GaIN0lt9Qjf-UATzXen3Nm7cdA",
+          "time_start": 19987
+        }
+      ]
+    },
+    {
+      "position_on_page": 17,
+      "title": "Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer",
+      "link": "https://www.youtube.com/watch?v=sVcwVQRHIc8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=sVcwVQRHIc8",
+      "video_id": "sVcwVQRHIc8",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1816523,
+      "length": "2:33:11",
+      "description": "Learn how to implement RAG (Retrieval Augmented Generation) from scratch, straight from a LangChain software engineer.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/sVcwVQRHIc8/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB6y6ita9IoPW9HvIWyUwu2skmk8A"
+      },
+      "chapters": [
+        {
+          "title": "Overview",
+          "thumbnail": "https://i.ytimg.com/vi/sVcwVQRHIc8/hqdefault_0.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADtWyWfMPVWXZufBQK4XNQytErZA",
+          "time_start": 0
+        },
+        {
+          "title": "Indexing",
+          "thumbnail": "https://i.ytimg.com/vi/sVcwVQRHIc8/hqdefault_353466.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAi4xblky-uQM8mMGzuhYa9q14E0w",
+          "time_start": 353
+        },
+        {
+          "title": "Retrieval",
+          "thumbnail": "https://i.ytimg.com/vi/sVcwVQRHIc8/hqdefault_641900.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDr88wJWhNq2oxIraBnp5v_4B_qBA",
+          "time_start": 640
+        },
+        {
+          "title": "Generation",
+          "thumbnail": "https://i.ytimg.com/vi/sVcwVQRHIc8/hqdefault_981900.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDke9J5mIznmtxEC7oaITzQyjUS7Q",
+          "time_start": 952
+        },
+        {
+          "title": "Query Translation (Multi-Query)",
+          "thumbnail": "https://i.ytimg.com/vi/sVcwVQRHIc8/hqdefault_1336800.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA1pxug71wrdmsHrnEWYwMqkBXnSQ",
+          "time_start": 1334
+        },
+        {
+          "title": "Query Translation (RAG Fusion)",
+          "thumbnail": "https://i.ytimg.com/vi/sVcwVQRHIc8/hqdefault_1702833.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDzJ4IGO5I93IgfXX1_YQ7wOS6SVQ",
+          "time_start": 1700
+        },
+        {
+          "title": "Query Translation (Decomposition)",
+          "thumbnail": "https://i.ytimg.com/vi/sVcwVQRHIc8/hqdefault_2038266.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAIqZa-cQjPLqWjQAMgo4LK9AFDTQ",
+          "time_start": 2037
+        },
+        {
+          "title": "Query Translation (Step Back)",
+          "thumbnail": "https://i.ytimg.com/vi/sVcwVQRHIc8/hqdefault_2436766.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBGWzNRQ554o5T4ZJ1kiyjLvQssZA",
+          "time_start": 2431
+        },
+        {
+          "title": "Query Translation (HyDE)",
+          "thumbnail": "https://i.ytimg.com/vi/sVcwVQRHIc8/hqdefault_2847233.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBxTAJrfvRdPftTUcXbnMElrh_BMg",
+          "time_start": 2844
+        },
+        {
+          "title": "Routing",
+          "thumbnail": "https://i.ytimg.com/vi/sVcwVQRHIc8/hqdefault_3132066.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBeqKZl30OXvlO6mJVjtXNcRsGzGg",
+          "time_start": 3127
+        },
+        {
+          "title": "Query Construction",
+          "thumbnail": "https://i.ytimg.com/vi/sVcwVQRHIc8/hqdefault_3562066.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWK9jlti2MUpq1k6Ee3eJpeqqYog",
+          "time_start": 3548
+        },
+        {
+          "title": "Indexing (Multi Representation)",
+          "thumbnail": "https://i.ytimg.com/vi/sVcwVQRHIc8/hqdefault_3924033.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCWbgSZ1VqaSJF5Oael-J95RvI-ng",
+          "time_start": 3905
+        },
+        {
+          "title": "Indexing (RAPTOR)",
+          "thumbnail": "https://i.ytimg.com/vi/sVcwVQRHIc8/hqdefault_4317000.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAbTlq4I1YE_-phJYRq5rH-Wh8onA",
+          "time_start": 4299
+        },
+        {
+          "title": "Indexing (ColBERT)",
+          "thumbnail": "https://i.ytimg.com/vi/sVcwVQRHIc8/hqdefault_4787933.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCFYWlgHP7INK6m8mgAOpbywvJkGA",
+          "time_start": 4759
+        },
+        {
+          "title": "CRAG",
+          "thumbnail": "https://i.ytimg.com/vi/sVcwVQRHIc8/hqdefault_5221033.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAMlzhrpBZfanoIneTgHVHrVJxPgw",
+          "time_start": 5192
+        },
+        {
+          "title": "Adaptive RAG",
+          "thumbnail": "https://i.ytimg.com/vi/sVcwVQRHIc8/hqdefault_6249333.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLASg3DsAS6c9400bAj5KZDW-wROIw",
+          "time_start": 6249
+        },
+        {
+          "title": "The future of RAG",
+          "thumbnail": "https://i.ytimg.com/vi/sVcwVQRHIc8/hqdefault_7943833.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCN0fsN-tPPAqfkgm_HohpIdn4qzw",
+          "time_start": 7922
+        }
+      ]
+    },
+    {
+      "position_on_page": 18,
+      "title": "The Ultimate Python Roadmap: From Beginner to Expert in 2025!",
+      "link": "https://www.youtube.com/watch?v=5B41CPvYMjY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=5B41CPvYMjY",
+      "video_id": "5B41CPvYMjY",
+      "channel": {
+        "name": "Pynade",
+        "channel_id": "UCR9aFwQQm7cDzrHMOPsAvaA",
+        "link": "https://www.youtube.com/@pynade",
+        "thumbnail": "https://yt3.ggpht.com/nA3GCuArCvvHpyBqzyJAhaQ1IBj2pKq19Wa1wfJUl03A8D9b5ms2jbuUUXjH3vsSBVQU5vUr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 1863703,
+      "length": "0:09",
+      "description": "The Ultimate Python Roadmap: From Beginner to Expert in 2025! Do you want to embark on an exciting journey into the world of ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/5B41CPvYMjY/hq720_2.jpg?sqp=-oaymwE9COgCEMoBSFryq4qpAy8IARUAAAAAGAAlAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYTyBUKGUwDw==&rs=AOn4CLCXvc6_WNl-L0hk87Iazk5BCzctfA"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "How I Would Learn Python FAST (if I could start over)",
+      "link": "https://www.youtube.com/watch?v=St48epdRDZw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=St48epdRDZw",
+      "video_id": "St48epdRDZw",
+      "channel": {
+        "name": "Thu Vu",
+        "channel_id": "UCJQJAI7IjbLcpsjWdSzYz0Q",
+        "link": "https://www.youtube.com/@Thuvu5",
+        "thumbnail": "https://yt3.ggpht.com/XuNwEKk49fTQYMb8TloWUheDq9sKQDgQTgbeItvK40s_LSW7oHLvXoJ2pX2HiH0rjlczTF8H_g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1697243,
+      "length": "12:19",
+      "description": "Get the Mindmap for Python concepts https://thu-vu.kit.com/e9d88267e3 Learn to build AI projects with Python ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/St48epdRDZw/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAQ45PdioPYQMqIyKuVGkWz36YQOQ"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/St48epdRDZw/hqdefault_12966.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBbHVczMOTL15yaUFdlrXkg7sJIbg",
+          "time_start": 0
+        },
+        {
+          "title": "Is coding is still needed?",
+          "thumbnail": "https://i.ytimg.com/vi/St48epdRDZw/hqdefault_46933.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBxc1zDnVRJlrXYGFNbgWhCyNWfzQ",
+          "time_start": 24
+        },
+        {
+          "title": "Programming in a nutshell",
+          "thumbnail": "https://i.ytimg.com/vi/St48epdRDZw/hqdefault_99866.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBMX8LWYafqLpCXsdRWHpMUEIDpzA",
+          "time_start": 93
+        },
+        {
+          "title": "Getting started & Tools",
+          "thumbnail": "https://i.ytimg.com/vi/St48epdRDZw/hqdefault_111066.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDBbpYeGLvB8qIdKqDMNgnv6qMB9Q",
+          "time_start": 105
+        },
+        {
+          "title": "Basic level",
+          "thumbnail": "https://i.ytimg.com/vi/St48epdRDZw/hqdefault_223266.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD5Bkb1ZpNlCHFh317iaqdLFRTrqQ",
+          "time_start": 209
+        },
+        {
+          "title": "Intermediate level",
+          "thumbnail": "https://i.ytimg.com/vi/St48epdRDZw/hqdefault_273000.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD2HRYUUVT814sFPMsS18f2SBzY3Q",
+          "time_start": 272
+        },
+        {
+          "title": "Trajectories & What to focus on",
+          "thumbnail": "https://i.ytimg.com/vi/St48epdRDZw/hqdefault_353733.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCbvHzluUVQQHfnNCNQFX1pAS2tOA",
+          "time_start": 344
+        },
+        {
+          "title": "Advanced level",
+          "thumbnail": "https://i.ytimg.com/vi/St48epdRDZw/hqdefault_402866.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAhq0fNwEWy2k9Q5oxpYrk_D89S0Q",
+          "time_start": 378
+        },
+        {
+          "title": "CodeCrafters (sponsor)",
+          "thumbnail": "https://i.ytimg.com/vi/St48epdRDZw/hqdefault_414000.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCsQRPRhHuMOsqboRZEl592vpDjrg",
+          "time_start": 412
+        },
+        {
+          "title": "The best way to learn",
+          "thumbnail": "https://i.ytimg.com/vi/St48epdRDZw/hqdefault_493666.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCbEBq4vjiHqjRTlutH4EiT1dIaAg",
+          "time_start": 466
+        },
+        {
+          "title": "Why you’ll fail",
+          "thumbnail": "https://i.ytimg.com/vi/St48epdRDZw/hqdefault_569766.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBYN3KvYmIU4ArMKFCd0yKbrEDsew",
+          "time_start": 560
+        },
+        {
+          "title": "Doing projects & motivation",
+          "thumbnail": "https://i.ytimg.com/vi/St48epdRDZw/hqdefault_630000.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCp3iUi6MyKtE5DH6CJaa6WK_HjvQ",
+          "time_start": 628
+        },
+        {
+          "title": "Announcement - My Python course!",
+          "thumbnail": "https://i.ytimg.com/vi/St48epdRDZw/hqdefault_729066.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAUNO0_VNYfF1I4L4WvH59dX18rKA",
+          "time_start": 723
+        }
+      ]
+    },
+    {
+      "position_on_page": 20,
+      "title": "Build an AI Agent From Scratch in Python - Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=bTMPwUgLZf0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=bTMPwUgLZf0",
+      "video_id": "bTMPwUgLZf0",
+      "channel": {
+        "name": "Tech With Tim",
+        "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
+        "link": "https://www.youtube.com/@TechWithTim",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k15oXl74WcnpdL-uVBv6IHBgAfXEEnpUiS-IoEyV1auyY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 1036321,
+      "length": "34:20",
+      "description": "Thanks to Microsoft for sponsoring this video! Submit your #CodingWithCopilot story for a chance to be featured in an upcoming ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/bTMPwUgLZf0/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC1CSbTXTL3kCuIeh_XVkxHGjCAyw"
+      },
+      "chapters": [
+        {
+          "title": "Overview",
+          "thumbnail": "https://i.ytimg.com/vi/bTMPwUgLZf0/hqdefault_6966.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBvFzoK7VSzU0UxJ-0XU2Srkjpmrw",
+          "time_start": 0
+        },
+        {
+          "title": "Agent Demo",
+          "thumbnail": "https://i.ytimg.com/vi/bTMPwUgLZf0/hqdefault_64966.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAn2IVFNHBW8BYFx6UwUrUw0bA2oQ",
+          "time_start": 35
+        },
+        {
+          "title": "Setup/Requirements",
+          "thumbnail": "https://i.ytimg.com/vi/bTMPwUgLZf0/hqdefault_98300.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAeaV-erqXJkhfxZhhqqwES-dPbsQ",
+          "time_start": 98
+        },
+        {
+          "title": "Basic Code Setup/Imports",
+          "thumbnail": "https://i.ytimg.com/vi/bTMPwUgLZf0/hqdefault_413266.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA082YhpKSeuI7Z5IChyYpIYIttoA",
+          "time_start": 413
+        },
+        {
+          "title": "Using Claude or GPT",
+          "thumbnail": "https://i.ytimg.com/vi/bTMPwUgLZf0/hqdefault_529866.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBvWpaz0b9ZIcKmv-har8x-qkxoBA",
+          "time_start": 517
+        },
+        {
+          "title": "Getting Your API Key",
+          "thumbnail": "https://i.ytimg.com/vi/bTMPwUgLZf0/hqdefault_604200.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCcyS74ImXe74575uQEuHVwbMFjlw",
+          "time_start": 600
+        },
+        {
+          "title": "Basic LLM Functionality",
+          "thumbnail": "https://i.ytimg.com/vi/bTMPwUgLZf0/hqdefault_721300.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB9z8j9E3a8Nicog7mJ3WZ_clmsWQ",
+          "time_start": 692
+        },
+        {
+          "title": "Structured Output/Models",
+          "thumbnail": "https://i.ytimg.com/vi/bTMPwUgLZf0/hqdefault_768166.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAMPMyGZoNu2XTGk_uh-KisYcXoWg",
+          "time_start": 763
+        },
+        {
+          "title": "Prompt Templates",
+          "thumbnail": "https://i.ytimg.com/vi/bTMPwUgLZf0/hqdefault_953200.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDpxkilc32Mt25x13HKN61HBL1kpw",
+          "time_start": 942
+        },
+        {
+          "title": "Creating & Running the Agent",
+          "thumbnail": "https://i.ytimg.com/vi/bTMPwUgLZf0/hqdefault_1054200.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB3GcCP38ZojX1tni3-P2iFZTNh3Q",
+          "time_start": 1053
+        },
+        {
+          "title": "Output Parsing",
+          "thumbnail": "https://i.ytimg.com/vi/bTMPwUgLZf0/hqdefault_1281033.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBLRUZohlKUcpQuiaR9fACKAGGjyQ",
+          "time_start": 1260
+        },
+        {
+          "title": "Adding Prebuilt Tools",
+          "thumbnail": "https://i.ytimg.com/vi/bTMPwUgLZf0/hqdefault_1428066.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCSB_Q9Eo8XWh9K8sjZvlLNkPOcUA",
+          "time_start": 1419
+        },
+        {
+          "title": "Custom Tool Calling",
+          "thumbnail": "https://i.ytimg.com/vi/bTMPwUgLZf0/hqdefault_1875066.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBlEbpfN6BGH77p3tqB0UZzAihBdA",
+          "time_start": 1848
+        }
+      ]
+    },
+    {
+      "position_on_page": 21,
+      "title": "How to Run LLMs Locally - Full Guide",
+      "link": "https://www.youtube.com/watch?v=km5-0jhv0JI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=km5-0jhv0JI",
+      "video_id": "km5-0jhv0JI",
+      "channel": {
+        "name": "Tech With Tim",
+        "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
+        "link": "https://www.youtube.com/@TechWithTim",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k15oXl74WcnpdL-uVBv6IHBgAfXEEnpUiS-IoEyV1auyY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "11mo ago",
+      "views": 209869,
+      "length": "16:07",
+      "description": "Click this link https://boot.dev/?promo=TECHWITHTIM and use my code TECHWITHTIM to get 25% off your first payment for ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/km5-0jhv0JI/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDRTXEMxhrKIaD1QgRbBoZW2iujmg"
+      },
+      "chapters": [
+        {
+          "title": "Overview",
+          "thumbnail": "https://i.ytimg.com/vi/km5-0jhv0JI/hqdefault_3866.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAPg2ehs7yH4iaeBzVSiIozMvTtiw",
+          "time_start": 0
+        },
+        {
+          "title": "Method 1 - Ollama",
+          "thumbnail": "https://i.ytimg.com/vi/km5-0jhv0JI/hqdefault_38900.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCllkp_HjOASzwNm0ToAW_JF9lnxQ",
+          "time_start": 38
+        },
+        {
+          "title": "Ollama from Code",
+          "thumbnail": "https://i.ytimg.com/vi/km5-0jhv0JI/hqdefault_297200.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCxm-8iV2GlFxMNTyBkGCdtJw45_A",
+          "time_start": 269
+        },
+        {
+          "title": "Method 2 - Docker Model Runner",
+          "thumbnail": "https://i.ytimg.com/vi/km5-0jhv0JI/hqdefault_525766.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBJ7qaYDVDeuAwMFsZB1sexxfjxRQ",
+          "time_start": 507
+        },
+        {
+          "title": "Docker Model Runner from Code",
+          "thumbnail": "https://i.ytimg.com/vi/km5-0jhv0JI/hqdefault_752866.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD7NEYIlEvASYyuiaSVb_qa0fpDJw",
+          "time_start": 752
+        }
+      ]
+    },
+    {
+      "position_on_page": 22,
+      "title": "Full stack AI with Python: LLMs, RAG, Agents and LangGraph (Udemy)",
+      "link": "https://www.youtube.com/watch?v=Y_5eTTw6p58",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Y_5eTTw6p58",
+      "video_id": "Y_5eTTw6p58",
+      "channel": {
+        "name": "Hitesh Choudhary",
+        "channel_id": "UCXgGY0wkgOzynnHvSEVmE3A",
+        "link": "https://www.youtube.com/@HiteshCodeLab",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/arHIKjc6JTqF_b4QJKPHhQC_Jr8q0XfI7LEpJ0-VuiI0ZRz9xFNz94TWl4CLOcozLx-iAhV_=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 482773,
+      "length": "4:00",
+      "description": "Available at just 399 rs at https://hitesh.ai/udemy-ai Welcome to a youtube channel dedicated to programming and coding related ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Y_5eTTw6p58/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAZOWrGb1vJdF0WYJMTgxb9kgeSOA"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=LLM+full+course+tutorial+for+Backend+Python+Developer&gl=in&hl=en",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=LLM%20full%20course%20tutorial%20for%20Backend%20Python%20Developer&sp=SBSCASJQTFBUVjBOWEFfWlNnc0xBcjhZQ2dDd2hQSUpOTnRleFd1ggELY3k2RUFwNGlOTjSCASJQTC1ZMTd5dWtveXkwU3VwQUpTUFFZZ19MdnJlOUt0OUVHggEiUExVaFk1TUUxVmRJdGNUTW56WWFrUGRZSldvclU2SWRLa4IBIlBMVWhZNU1FMVZkSXVtYVNhLW01U1EtenRUTDhOV1k4R2iCAQtNZjlHQ25fTHNVSYIBC1g4RjlKZkNVV3JzggELWmFQYlA5RHdCT0WCAQt0X1R1T093aGZCNIIBC0xSaE96b3hIbEpvggELSnNDVTFWN0hqcGOCAQtPWXZsem5KNElaUYIBC21Fc2xlVjE2cWRvggELVVUxV1ZuTWs0RTiCAQtzVmN3VlFSSEljOIIBCzVCNDFDUHZZTWpZggELU3Q0OGVwZFJEWneCAQtiVE1Qd1VnTFpmMIIBC2ttNS0wamh2MEpJggELWV81ZVRUdzZwNTiyAQYKBAgZEAI%253D",
+    "next_page_token": "SBSCASJQTFBUVjBOWEFfWlNnc0xBcjhZQ2dDd2hQSUpOTnRleFd1ggELY3k2RUFwNGlOTjSCASJQTC1ZMTd5dWtveXkwU3VwQUpTUFFZZ19MdnJlOUt0OUVHggEiUExVaFk1TUUxVmRJdGNUTW56WWFrUGRZSldvclU2SWRLa4IBIlBMVWhZNU1FMVZkSXVtYVNhLW01U1EtenRUTDhOV1k4R2iCAQtNZjlHQ25fTHNVSYIBC1g4RjlKZkNVV3JzggELWmFQYlA5RHdCT0WCAQt0X1R1T093aGZCNIIBC0xSaE96b3hIbEpvggELSnNDVTFWN0hqcGOCAQtPWXZsem5KNElaUYIBC21Fc2xlVjE2cWRvggELVVUxV1ZuTWs0RTiCAQtzVmN3VlFSSEljOIIBCzVCNDFDUHZZTWpZggELU3Q0OGVwZFJEWneCAQtiVE1Qd1VnTFpmMIIBC2ttNS0wamh2MEpJggELWV81ZVRUdzZwNTiyAQYKBAgZEAI%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=LLM+full+course+tutorial+for+Backend+Python+Developer",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=LLM+full+course+tutorial+for+Backend+Python+Developer&sp=SBSCASJQTFBUVjBOWEFfWlNnc0xBcjhZQ2dDd2hQSUpOTnRleFd1ggELY3k2RUFwNGlOTjSCASJQTC1ZMTd5dWtveXkwU3VwQUpTUFFZZ19MdnJlOUt0OUVHggEiUExVaFk1TUUxVmRJdGNUTW56WWFrUGRZSldvclU2SWRLa4IBIlBMVWhZNU1FMVZkSXVtYVNhLW01U1EtenRUTDhOV1k4R2iCAQtNZjlHQ25fTHNVSYIBC1g4RjlKZkNVV3JzggELWmFQYlA5RHdCT0WCAQt0X1R1T093aGZCNIIBC0xSaE96b3hIbEpvggELSnNDVTFWN0hqcGOCAQtPWXZsem5KNElaUYIBC21Fc2xlVjE2cWRvggELVVUxV1ZuTWs0RTiCAQtzVmN3VlFSSEljOIIBCzVCNDFDUHZZTWpZggELU3Q0OGVwZFJEWneCAQtiVE1Qd1VnTFpmMIIBC2ttNS0wamh2MEpJggELWV81ZVRUdzZwNTiyAQYKBAgZEAI%253D",
+    "next_page_token": "SBSCASJQTFBUVjBOWEFfWlNnc0xBcjhZQ2dDd2hQSUpOTnRleFd1ggELY3k2RUFwNGlOTjSCASJQTC1ZMTd5dWtveXkwU3VwQUpTUFFZZ19MdnJlOUt0OUVHggEiUExVaFk1TUUxVmRJdGNUTW56WWFrUGRZSldvclU2SWRLa4IBIlBMVWhZNU1FMVZkSXVtYVNhLW01U1EtenRUTDhOV1k4R2iCAQtNZjlHQ25fTHNVSYIBC1g4RjlKZkNVV3JzggELWmFQYlA5RHdCT0WCAQt0X1R1T093aGZCNIIBC0xSaE96b3hIbEpvggELSnNDVTFWN0hqcGOCAQtPWXZsem5KNElaUYIBC21Fc2xlVjE2cWRvggELVVUxV1ZuTWs0RTiCAQtzVmN3VlFSSEljOIIBCzVCNDFDUHZZTWpZggELU3Q0OGVwZFJEWneCAQtiVE1Qd1VnTFpmMIIBC2ttNS0wamh2MEpJggELWV81ZVRUdzZwNTiyAQYKBAgZEAI%3D"
+  }
+}

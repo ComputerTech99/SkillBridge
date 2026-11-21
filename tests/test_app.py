@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import os
 import sys
+import tempfile
 from pathlib import Path
 from unittest.mock import MagicMock, patch
 
@@ -13,12 +14,17 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
+import src.cache as cache
 from src.jobs import fetch_live_jobs
 
 
 def test_streamlit_app_end_to_end_offline() -> None:
     """Verify wired app.py + ui/ modules run offline, simulate toggles, and handle errors."""
-    with patch.dict(os.environ, {"GEMINI_API_KEY": "", "SERPAPI_KEY": ""}, clear=False):
+    with (
+        tempfile.TemporaryDirectory() as tmp_dir,
+        patch.object(cache, "CACHE_DIR", Path(tmp_dir)),
+        patch.dict(os.environ, {"GEMINI_API_KEY": "", "SERPAPI_KEY": ""}, clear=False),
+    ):
         at = AppTest.from_file(str(PROJECT_ROOT / "app.py"), default_timeout=20)
         at.run()
         assert not at.exception

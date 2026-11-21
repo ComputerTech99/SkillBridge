@@ -1,0 +1,583 @@
+{
+  "search_metadata": {
+    "id": "6b014a9c7ec02987099ffcb0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/AQaUwKTWTDIUvM67L5RWI5XnqdECHXnXoxDoi7Sfm9w/6b014a9c7ec02987099ffcb0.json",
+    "markdown_endpoint": "https://serpapi.com/searches/AQaUwKTWTDIUvM67L5RWI5XnqdECHXnXoxDoi7Sfm9w/6b014a9c7ec02987099ffcb0.md",
+    "created_at": "2026-11-21 07:39:08 UTC",
+    "processed_at": "2026-11-21 07:39:08 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Analyst&hl=en&gl=in&udm=8&uule=w+CAIQICIYTXVtYmFpLE1haGFyYXNodHJhLEluZGlh",
+    "raw_html_file": "https://serpapi.com/searches/AQaUwKTWTDIUvM67L5RWI5XnqdECHXnXoxDoi7Sfm9w/6b014a9c7ec02987099ffcb0.html",
+    "total_time_taken": 5.56
+  },
+  "search_parameters": {
+    "q": "Data Analyst",
+    "engine": "google_jobs",
+    "location_requested": "Mumbai, Maharashtra, India",
+    "location_used": "Mumbai,Maharashtra,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXcUck6FE3PBued_Al6_rKB_Dk4OU-jYu8_O8Qve-iFwxCPFlFTxe1MM9i7Q8iIW30cLgDhVyq7TIkdwiMBCmHgbGsORK7Hfup5p3jDpR5gFFFPNvwJpey6H5PCz8etUlUrT6zbxXa0ZhL6F3khHdlGKtQ9Hw",
+        "q": "Data Analyst remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDjd7n_pmMF77OgxAaZHnFPKQvQ4nw:1795246754002&q=Data+Analyst+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXcUck6FE3PBued_Al6_rKB_Dk4OU-jYu8_O8Qve-iFwxCPFlFTxe1MM9i7Q8iIW30cLgDhVyq7TIkdwiMBCmHgbGsORK7Hfup5p3jDpR5gFFFPNvwJpey6H5PCz8etUlUrT6zbxXa0ZhL6F3khHdlGKtQ9Hw&udm=8&sa=X&ved=2ahUKEwinn7mox5iYAxURElkFHRT0JzEQxKsJKAB6BAgZEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=Data+Analyst+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXcUck6FE3PBued_Al6_rKB_Dk4OU-jYu8_O8Qve-iFwxCPFlFTxe1MM9i7Q8iIW30cLgDhVyq7TIkdwiMBCmHgbGsORK7Hfup5p3jDpR5gFFFPNvwJpey6H5PCz8etUlUrT6zbxXa0ZhL6F3khHdlGKtQ9Hw"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSUsOwjvnYPNAX-fNyYIOPZofwItKxmKwARh7K1EMozYMB4VF3D3UPNoQiX3GIk0IB4JwhkfImrV7OmkFvqJH03GhtqBxn6tCN9I2S9CIRVKgmHVQAaynawKCFlULxk9AeeI0eno5_xxgbWEePQpAKhj_QH_h9t4c-J52COba0-edF7AOdv_ggOL9FAjrHdQS8MYe2jZ7oIQrHCv5TRHJiT9FEIZRgYYE-I_ztQgkrLMOO_YPAc5pd6m3M1OpAt_C4zaXiwas8aA9D2BWKfb85rncWM6OA",
+            "q": "Data Analyst full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDjd7n_pmMF77OgxAaZHnFPKQvQ4nw:1795246754002&q=Data+Analyst+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSUsOwjvnYPNAX-fNyYIOPZofwItKxmKwARh7K1EMozYMB4VF3D3UPNoQiX3GIk0IB4JwhkfImrV7OmkFvqJH03GhtqBxn6tCN9I2S9CIRVKgmHVQAaynawKCFlULxk9AeeI0eno5_xxgbWEePQpAKhj_QH_h9t4c-J52COba0-edF7AOdv_ggOL9FAjrHdQS8MYe2jZ7oIQrHCv5TRHJiT9FEIZRgYYE-I_ztQgkrLMOO_YPAc5pd6m3M1OpAt_C4zaXiwas8aA9D2BWKfb85rncWM6OA&udm=8&sa=X&ved=2ahUKEwinn7mox5iYAxURElkFHRT0JzEQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=Data+Analyst+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSUsOwjvnYPNAX-fNyYIOPZofwItKxmKwARh7K1EMozYMB4VF3D3UPNoQiX3GIk0IB4JwhkfImrV7OmkFvqJH03GhtqBxn6tCN9I2S9CIRVKgmHVQAaynawKCFlULxk9AeeI0eno5_xxgbWEePQpAKhj_QH_h9t4c-J52COba0-edF7AOdv_ggOL9FAjrHdQS8MYe2jZ7oIQrHCv5TRHJiT9FEIZRgYYE-I_ztQgkrLMOO_YPAc5pd6m3M1OpAt_C4zaXiwas8aA9D2BWKfb85rncWM6OA"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSW0yYKkGQUk5-mGwwxCna6SvFHTv_qVtgL5cwVG-lxTrXCxIKpJZJfau1B1jU_IbQGRBUubihKkKJWuRA3-s4nxcyfBsoattEkisw54URO3a7IkwCLJVxyjBSXLFMFJ16TMyKaNxwordUyBm5wUqS_rGF53svaImvRLk7n7BLl_G-UpeJPC3hsJfeVPq-bmccgYjfBVX2FJX3MvQ19lbBGEmLjm45rPoc6qsXnMAG94QQhHMHxG5SuVmcytUxcjhkWUtAh58HXy7VTDpbvLQXFGCVtTeA",
+            "q": "Data Analyst part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDjd7n_pmMF77OgxAaZHnFPKQvQ4nw:1795246754002&q=Data+Analyst+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSW0yYKkGQUk5-mGwwxCna6SvFHTv_qVtgL5cwVG-lxTrXCxIKpJZJfau1B1jU_IbQGRBUubihKkKJWuRA3-s4nxcyfBsoattEkisw54URO3a7IkwCLJVxyjBSXLFMFJ16TMyKaNxwordUyBm5wUqS_rGF53svaImvRLk7n7BLl_G-UpeJPC3hsJfeVPq-bmccgYjfBVX2FJX3MvQ19lbBGEmLjm45rPoc6qsXnMAG94QQhHMHxG5SuVmcytUxcjhkWUtAh58HXy7VTDpbvLQXFGCVtTeA&udm=8&sa=X&ved=2ahUKEwinn7mox5iYAxURElkFHRT0JzEQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=Data+Analyst+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSW0yYKkGQUk5-mGwwxCna6SvFHTv_qVtgL5cwVG-lxTrXCxIKpJZJfau1B1jU_IbQGRBUubihKkKJWuRA3-s4nxcyfBsoattEkisw54URO3a7IkwCLJVxyjBSXLFMFJ16TMyKaNxwordUyBm5wUqS_rGF53svaImvRLk7n7BLl_G-UpeJPC3hsJfeVPq-bmccgYjfBVX2FJX3MvQ19lbBGEmLjm45rPoc6qsXnMAG94QQhHMHxG5SuVmcytUxcjhkWUtAh58HXy7VTDpbvLQXFGCVtTeA"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXXnuF0zrIfZkP-EgDUt2bj2ozkpC-RyhaxRlfna80Wsf2YHxH6cghgD9WEO6s9HfeeAl8bHuRMzQQW9Q_Lh1OWM-sVXfbJBXIN1Ugo18fhNMEC4jRUNa2IWJ5npkh1WIRZEbhCPG9pHJOSRDqPxURcnVPg6AZLexZ-8kqgQF0ViYQ42fP6DV4eTPS9XZkht1rAsKYMCR9kb935PXgfYBfkNH1zvsBV0tny917Mf_UiMY3FhIzG7VrUSW_kpOBvx52hj-es5tzJwCDtQxdMKDCy891r9zVNZJZ_bWakyhTE0SxSDxx",
+            "q": "Data Analyst contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDjd7n_pmMF77OgxAaZHnFPKQvQ4nw:1795246754002&q=Data+Analyst+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXnuF0zrIfZkP-EgDUt2bj2ozkpC-RyhaxRlfna80Wsf2YHxH6cghgD9WEO6s9HfeeAl8bHuRMzQQW9Q_Lh1OWM-sVXfbJBXIN1Ugo18fhNMEC4jRUNa2IWJ5npkh1WIRZEbhCPG9pHJOSRDqPxURcnVPg6AZLexZ-8kqgQF0ViYQ42fP6DV4eTPS9XZkht1rAsKYMCR9kb935PXgfYBfkNH1zvsBV0tny917Mf_UiMY3FhIzG7VrUSW_kpOBvx52hj-es5tzJwCDtQxdMKDCy891r9zVNZJZ_bWakyhTE0SxSDxx&udm=8&sa=X&ved=2ahUKEwinn7mox5iYAxURElkFHRT0JzEQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=Data+Analyst+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXnuF0zrIfZkP-EgDUt2bj2ozkpC-RyhaxRlfna80Wsf2YHxH6cghgD9WEO6s9HfeeAl8bHuRMzQQW9Q_Lh1OWM-sVXfbJBXIN1Ugo18fhNMEC4jRUNa2IWJ5npkh1WIRZEbhCPG9pHJOSRDqPxURcnVPg6AZLexZ-8kqgQF0ViYQ42fP6DV4eTPS9XZkht1rAsKYMCR9kb935PXgfYBfkNH1zvsBV0tny917Mf_UiMY3FhIzG7VrUSW_kpOBvx52hj-es5tzJwCDtQxdMKDCy891r9zVNZJZ_bWakyhTE0SxSDxx"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXRgyF4_5hLB4nGB35VpnK_fPhqby3xJMludcuFFyq0hsQlWWb3FrBgXUqqumRuDHQ8vnTpeBqyJL1LOYYulVfv5nNXOJUDAqTf-Wd77iEkr-Ks7OWsxggMztojhNejJ_bawBhHYn1LtgbRwNgXi6lTxVhGCmK6_F7iuR9CcFlncx1QadQsbxJDMF7WlQnRLmdxvgPFwS4gP8xmIqdvm6srHdEwQj48e56O_PRquRzIHPAEwePB8OyVru2xwQQblxHU8-_uQX8eqi5c3ghxVPKGCFCdteXWSqdKXFBmdYVQUYfo_Gt",
+            "q": "Data Analyst internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDjd7n_pmMF77OgxAaZHnFPKQvQ4nw:1795246754002&q=Data+Analyst+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXRgyF4_5hLB4nGB35VpnK_fPhqby3xJMludcuFFyq0hsQlWWb3FrBgXUqqumRuDHQ8vnTpeBqyJL1LOYYulVfv5nNXOJUDAqTf-Wd77iEkr-Ks7OWsxggMztojhNejJ_bawBhHYn1LtgbRwNgXi6lTxVhGCmK6_F7iuR9CcFlncx1QadQsbxJDMF7WlQnRLmdxvgPFwS4gP8xmIqdvm6srHdEwQj48e56O_PRquRzIHPAEwePB8OyVru2xwQQblxHU8-_uQX8eqi5c3ghxVPKGCFCdteXWSqdKXFBmdYVQUYfo_Gt&udm=8&sa=X&ved=2ahUKEwinn7mox5iYAxURElkFHRT0JzEQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=Data+Analyst+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXRgyF4_5hLB4nGB35VpnK_fPhqby3xJMludcuFFyq0hsQlWWb3FrBgXUqqumRuDHQ8vnTpeBqyJL1LOYYulVfv5nNXOJUDAqTf-Wd77iEkr-Ks7OWsxggMztojhNejJ_bawBhHYn1LtgbRwNgXi6lTxVhGCmK6_F7iuR9CcFlncx1QadQsbxJDMF7WlQnRLmdxvgPFwS4gP8xmIqdvm6srHdEwQj48e56O_PRquRzIHPAEwePB8OyVru2xwQQblxHU8-_uQX8eqi5c3ghxVPKGCFCdteXWSqdKXFBmdYVQUYfo_Gt"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSUsOwjvnYPNAX-fNyYIOPZofwItKxmKwARh7K1EMozYMB4VF3D3UPNoQiX3GIk0IB4JwhkfImrV7OmkFvqJH03GhtqBxn6tCN9I2S9CIRVKgmHVQAaynawKCFlULxk9AeeI0eno5_xxgbWEePQpAKhj_QH_h9t4c-J52COba0-edF7AOdv_ggOL9FAjrHdQS8MYe2jZ7oIQrHCv5TRHJiT9FEIZRgYYE-I_ztQgkrLMOO_YPAc5pd6m3M1OpAt_C4zaXiwas8aA9D2BWKfb85rncWM6OA",
+            "q": "Data Analyst full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDjd7n_pmMF77OgxAaZHnFPKQvQ4nw:1795246754002&q=Data+Analyst+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSUsOwjvnYPNAX-fNyYIOPZofwItKxmKwARh7K1EMozYMB4VF3D3UPNoQiX3GIk0IB4JwhkfImrV7OmkFvqJH03GhtqBxn6tCN9I2S9CIRVKgmHVQAaynawKCFlULxk9AeeI0eno5_xxgbWEePQpAKhj_QH_h9t4c-J52COba0-edF7AOdv_ggOL9FAjrHdQS8MYe2jZ7oIQrHCv5TRHJiT9FEIZRgYYE-I_ztQgkrLMOO_YPAc5pd6m3M1OpAt_C4zaXiwas8aA9D2BWKfb85rncWM6OA&udm=8&sa=X&ved=2ahUKEwinn7mox5iYAxURElkFHRT0JzEQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=Data+Analyst+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSUsOwjvnYPNAX-fNyYIOPZofwItKxmKwARh7K1EMozYMB4VF3D3UPNoQiX3GIk0IB4JwhkfImrV7OmkFvqJH03GhtqBxn6tCN9I2S9CIRVKgmHVQAaynawKCFlULxk9AeeI0eno5_xxgbWEePQpAKhj_QH_h9t4c-J52COba0-edF7AOdv_ggOL9FAjrHdQS8MYe2jZ7oIQrHCv5TRHJiT9FEIZRgYYE-I_ztQgkrLMOO_YPAc5pd6m3M1OpAt_C4zaXiwas8aA9D2BWKfb85rncWM6OA"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSW0yYKkGQUk5-mGwwxCna6SvFHTv_qVtgL5cwVG-lxTrXCxIKpJZJfau1B1jU_IbQGRBUubihKkKJWuRA3-s4nxcyfBsoattEkisw54URO3a7IkwCLJVxyjBSXLFMFJ16TMyKaNxwordUyBm5wUqS_rGF53svaImvRLk7n7BLl_G-UpeJPC3hsJfeVPq-bmccgYjfBVX2FJX3MvQ19lbBGEmLjm45rPoc6qsXnMAG94QQhHMHxG5SuVmcytUxcjhkWUtAh58HXy7VTDpbvLQXFGCVtTeA",
+            "q": "Data Analyst part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDjd7n_pmMF77OgxAaZHnFPKQvQ4nw:1795246754002&q=Data+Analyst+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSW0yYKkGQUk5-mGwwxCna6SvFHTv_qVtgL5cwVG-lxTrXCxIKpJZJfau1B1jU_IbQGRBUubihKkKJWuRA3-s4nxcyfBsoattEkisw54URO3a7IkwCLJVxyjBSXLFMFJ16TMyKaNxwordUyBm5wUqS_rGF53svaImvRLk7n7BLl_G-UpeJPC3hsJfeVPq-bmccgYjfBVX2FJX3MvQ19lbBGEmLjm45rPoc6qsXnMAG94QQhHMHxG5SuVmcytUxcjhkWUtAh58HXy7VTDpbvLQXFGCVtTeA&udm=8&sa=X&ved=2ahUKEwinn7mox5iYAxURElkFHRT0JzEQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=Data+Analyst+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDJKRUt6VufrkpHQTyoPIA-WR2FnrRzdkwlEajkr1VSW0yYKkGQUk5-mGwwxCna6SvFHTv_qVtgL5cwVG-lxTrXCxIKpJZJfau1B1jU_IbQGRBUubihKkKJWuRA3-s4nxcyfBsoattEkisw54URO3a7IkwCLJVxyjBSXLFMFJ16TMyKaNxwordUyBm5wUqS_rGF53svaImvRLk7n7BLl_G-UpeJPC3hsJfeVPq-bmccgYjfBVX2FJX3MvQ19lbBGEmLjm45rPoc6qsXnMAG94QQhHMHxG5SuVmcytUxcjhkWUtAh58HXy7VTDpbvLQXFGCVtTeA"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXXnuF0zrIfZkP-EgDUt2bj2ozkpC-RyhaxRlfna80Wsf2YHxH6cghgD9WEO6s9HfeeAl8bHuRMzQQW9Q_Lh1OWM-sVXfbJBXIN1Ugo18fhNMEC4jRUNa2IWJ5npkh1WIRZEbhCPG9pHJOSRDqPxURcnVPg6AZLexZ-8kqgQF0ViYQ42fP6DV4eTPS9XZkht1rAsKYMCR9kb935PXgfYBfkNH1zvsBV0tny917Mf_UiMY3FhIzG7VrUSW_kpOBvx52hj-es5tzJwCDtQxdMKDCy891r9zVNZJZ_bWakyhTE0SxSDxx",
+            "q": "Data Analyst contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDjd7n_pmMF77OgxAaZHnFPKQvQ4nw:1795246754002&q=Data+Analyst+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXnuF0zrIfZkP-EgDUt2bj2ozkpC-RyhaxRlfna80Wsf2YHxH6cghgD9WEO6s9HfeeAl8bHuRMzQQW9Q_Lh1OWM-sVXfbJBXIN1Ugo18fhNMEC4jRUNa2IWJ5npkh1WIRZEbhCPG9pHJOSRDqPxURcnVPg6AZLexZ-8kqgQF0ViYQ42fP6DV4eTPS9XZkht1rAsKYMCR9kb935PXgfYBfkNH1zvsBV0tny917Mf_UiMY3FhIzG7VrUSW_kpOBvx52hj-es5tzJwCDtQxdMKDCy891r9zVNZJZ_bWakyhTE0SxSDxx&udm=8&sa=X&ved=2ahUKEwinn7mox5iYAxURElkFHRT0JzEQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=Data+Analyst+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXnuF0zrIfZkP-EgDUt2bj2ozkpC-RyhaxRlfna80Wsf2YHxH6cghgD9WEO6s9HfeeAl8bHuRMzQQW9Q_Lh1OWM-sVXfbJBXIN1Ugo18fhNMEC4jRUNa2IWJ5npkh1WIRZEbhCPG9pHJOSRDqPxURcnVPg6AZLexZ-8kqgQF0ViYQ42fP6DV4eTPS9XZkht1rAsKYMCR9kb935PXgfYBfkNH1zvsBV0tny917Mf_UiMY3FhIzG7VrUSW_kpOBvx52hj-es5tzJwCDtQxdMKDCy891r9zVNZJZ_bWakyhTE0SxSDxx"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXRgyF4_5hLB4nGB35VpnK_fPhqby3xJMludcuFFyq0hsQlWWb3FrBgXUqqumRuDHQ8vnTpeBqyJL1LOYYulVfv5nNXOJUDAqTf-Wd77iEkr-Ks7OWsxggMztojhNejJ_bawBhHYn1LtgbRwNgXi6lTxVhGCmK6_F7iuR9CcFlncx1QadQsbxJDMF7WlQnRLmdxvgPFwS4gP8xmIqdvm6srHdEwQj48e56O_PRquRzIHPAEwePB8OyVru2xwQQblxHU8-_uQX8eqi5c3ghxVPKGCFCdteXWSqdKXFBmdYVQUYfo_Gt",
+            "q": "Data Analyst internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDjd7n_pmMF77OgxAaZHnFPKQvQ4nw:1795246754002&q=Data+Analyst+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXRgyF4_5hLB4nGB35VpnK_fPhqby3xJMludcuFFyq0hsQlWWb3FrBgXUqqumRuDHQ8vnTpeBqyJL1LOYYulVfv5nNXOJUDAqTf-Wd77iEkr-Ks7OWsxggMztojhNejJ_bawBhHYn1LtgbRwNgXi6lTxVhGCmK6_F7iuR9CcFlncx1QadQsbxJDMF7WlQnRLmdxvgPFwS4gP8xmIqdvm6srHdEwQj48e56O_PRquRzIHPAEwePB8OyVru2xwQQblxHU8-_uQX8eqi5c3ghxVPKGCFCdteXWSqdKXFBmdYVQUYfo_Gt&udm=8&sa=X&ved=2ahUKEwinn7mox5iYAxURElkFHRT0JzEQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=Data+Analyst+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXRgyF4_5hLB4nGB35VpnK_fPhqby3xJMludcuFFyq0hsQlWWb3FrBgXUqqumRuDHQ8vnTpeBqyJL1LOYYulVfv5nNXOJUDAqTf-Wd77iEkr-Ks7OWsxggMztojhNejJ_bawBhHYn1LtgbRwNgXi6lTxVhGCmK6_F7iuR9CcFlncx1QadQsbxJDMF7WlQnRLmdxvgPFwS4gP8xmIqdvm6srHdEwQj48e56O_PRquRzIHPAEwePB8OyVru2xwQQblxHU8-_uQX8eqi5c3ghxVPKGCFCdteXWSqdKXFBmdYVQUYfo_Gt"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_MRak-_UTcg8V5VUBspOIErJWg99cIpJAESwEfDLnnZVSlhEm-3Cgc6CVzPgLuFWFAhiOq_0sTMXVIut5B0rwB3SWjQS4cOgRB3WjGmL6cN4PQKNk323grL7YG6pVJJqIsk4jgUPmc0NJc2TVpgnRn2YIZF9FjuD8Gx3COnD21VRNFx0BcaIaOkXF5Qxb-zPdtk7n7WdluBuV6QR7dBy6lrA0L1uq6wlL0PrFyXNWQDCHd6vXQ_v66lzb37SD70oMSvtqGA8t8JAL2_C4_owJaSDkBtIG9O726ii9ILzHoVR-Nq5C-Q",
+            "q": "Data Analyst since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDjd7n_pmMF77OgxAaZHnFPKQvQ4nw:1795246754002&q=Data+Analyst+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_MRak-_UTcg8V5VUBspOIErJWg99cIpJAESwEfDLnnZVSlhEm-3Cgc6CVzPgLuFWFAhiOq_0sTMXVIut5B0rwB3SWjQS4cOgRB3WjGmL6cN4PQKNk323grL7YG6pVJJqIsk4jgUPmc0NJc2TVpgnRn2YIZF9FjuD8Gx3COnD21VRNFx0BcaIaOkXF5Qxb-zPdtk7n7WdluBuV6QR7dBy6lrA0L1uq6wlL0PrFyXNWQDCHd6vXQ_v66lzb37SD70oMSvtqGA8t8JAL2_C4_owJaSDkBtIG9O726ii9ILzHoVR-Nq5C-Q&udm=8&sa=X&ved=2ahUKEwinn7mox5iYAxURElkFHRT0JzEQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=Data+Analyst+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_MRak-_UTcg8V5VUBspOIErJWg99cIpJAESwEfDLnnZVSlhEm-3Cgc6CVzPgLuFWFAhiOq_0sTMXVIut5B0rwB3SWjQS4cOgRB3WjGmL6cN4PQKNk323grL7YG6pVJJqIsk4jgUPmc0NJc2TVpgnRn2YIZF9FjuD8Gx3COnD21VRNFx0BcaIaOkXF5Qxb-zPdtk7n7WdluBuV6QR7dBy6lrA0L1uq6wlL0PrFyXNWQDCHd6vXQ_v66lzb37SD70oMSvtqGA8t8JAL2_C4_owJaSDkBtIG9O726ii9ILzHoVR-Nq5C-Q"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXzDxTBVFnXgoIOt0akb5qstG38eiOWbVTWp5Y_He4tQWb6zLQZsVlq_sNF3kFzgIouz1Bxf9yrpyBIg7YXSVe5xpgywiRhYJr0pOg8etL1n-lrqLQzM4Gf8WRaFuAOCizhz8My0XHG9K-Mi8fkxYv230cJgIWxNpLNTC_P3if441xGnXIL44KmSYr3mLGWh_iYcV4MewD2tvOXULYu5i0kbZzqTZWMCuDCV5GLxnMAK-vVcjY6Y7xWEZ7seQ2AwLCzpyqTjcw-5qfc1K9oMQB_ysTiS99kfxREa5h8kYGr7UJRPjJMaxDR_eUr5mnQ-0_Y342fA_r9E3tzStbR3vIZQYz6L8",
+            "q": "Data Analyst in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDjd7n_pmMF77OgxAaZHnFPKQvQ4nw:1795246754002&q=Data+Analyst+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXzDxTBVFnXgoIOt0akb5qstG38eiOWbVTWp5Y_He4tQWb6zLQZsVlq_sNF3kFzgIouz1Bxf9yrpyBIg7YXSVe5xpgywiRhYJr0pOg8etL1n-lrqLQzM4Gf8WRaFuAOCizhz8My0XHG9K-Mi8fkxYv230cJgIWxNpLNTC_P3if441xGnXIL44KmSYr3mLGWh_iYcV4MewD2tvOXULYu5i0kbZzqTZWMCuDCV5GLxnMAK-vVcjY6Y7xWEZ7seQ2AwLCzpyqTjcw-5qfc1K9oMQB_ysTiS99kfxREa5h8kYGr7UJRPjJMaxDR_eUr5mnQ-0_Y342fA_r9E3tzStbR3vIZQYz6L8&udm=8&sa=X&ved=2ahUKEwinn7mox5iYAxURElkFHRT0JzEQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=Data+Analyst+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXzDxTBVFnXgoIOt0akb5qstG38eiOWbVTWp5Y_He4tQWb6zLQZsVlq_sNF3kFzgIouz1Bxf9yrpyBIg7YXSVe5xpgywiRhYJr0pOg8etL1n-lrqLQzM4Gf8WRaFuAOCizhz8My0XHG9K-Mi8fkxYv230cJgIWxNpLNTC_P3if441xGnXIL44KmSYr3mLGWh_iYcV4MewD2tvOXULYu5i0kbZzqTZWMCuDCV5GLxnMAK-vVcjY6Y7xWEZ7seQ2AwLCzpyqTjcw-5qfc1K9oMQB_ysTiS99kfxREa5h8kYGr7UJRPjJMaxDR_eUr5mnQ-0_Y342fA_r9E3tzStbR3vIZQYz6L8"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7qWNmNWayvF4tdjQfO9TvIxUG9XAm7znq7S4RODn-c_3VQi17muxqtiLhX5cdqCUfLd0XxkkRbeNFX73vOv_aTnYAa5cX-2Qwov5jG99fd3NnxYW9De1H8rpUh-xTl4Y0GRT3wupXikQOnR0SAocN3B5TA3gC0RTr11lBKHCqIyWuMA0V-EMVvQdA208IfX7gXJ9zON8Gb0mjFw1W0owrLapeq7Ouxnj-90tf-dOE48MBnMN0fVTI7s1WzXrCYY034q0x6-ufOgJ0JKC8XnLEMZ7zviW-eWIDdsP167KXuHf0aJGWvka14IfNB6QNjrcXkjMLqk",
+            "q": "Data Analyst in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDjd7n_pmMF77OgxAaZHnFPKQvQ4nw:1795246754002&q=Data+Analyst+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7qWNmNWayvF4tdjQfO9TvIxUG9XAm7znq7S4RODn-c_3VQi17muxqtiLhX5cdqCUfLd0XxkkRbeNFX73vOv_aTnYAa5cX-2Qwov5jG99fd3NnxYW9De1H8rpUh-xTl4Y0GRT3wupXikQOnR0SAocN3B5TA3gC0RTr11lBKHCqIyWuMA0V-EMVvQdA208IfX7gXJ9zON8Gb0mjFw1W0owrLapeq7Ouxnj-90tf-dOE48MBnMN0fVTI7s1WzXrCYY034q0x6-ufOgJ0JKC8XnLEMZ7zviW-eWIDdsP167KXuHf0aJGWvka14IfNB6QNjrcXkjMLqk&udm=8&sa=X&ved=2ahUKEwinn7mox5iYAxURElkFHRT0JzEQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=Data+Analyst+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7qWNmNWayvF4tdjQfO9TvIxUG9XAm7znq7S4RODn-c_3VQi17muxqtiLhX5cdqCUfLd0XxkkRbeNFX73vOv_aTnYAa5cX-2Qwov5jG99fd3NnxYW9De1H8rpUh-xTl4Y0GRT3wupXikQOnR0SAocN3B5TA3gC0RTr11lBKHCqIyWuMA0V-EMVvQdA208IfX7gXJ9zON8Gb0mjFw1W0owrLapeq7Ouxnj-90tf-dOE48MBnMN0fVTI7s1WzXrCYY034q0x6-ufOgJ0JKC8XnLEMZ7zviW-eWIDdsP167KXuHf0aJGWvka14IfNB6QNjrcXkjMLqk"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXzBZRpoz3Q0I1UNVbdZ7KA8fIBrSiznJ2vErDT6zrOnx9zeFYG1d9QtmGsRNLe0AZvuPT5PN3_y1mbCIl8hHeHWCZEa3dVQTs4bc1UXfsWzB_7LVK_-q3ezDz3pzv6jPLmFIem9eikg0nmIcGB71037Rw-8oLpC3RB2cLzsod35QkMbQS2KSt7ioAhNNRQFcBtTGGTw7nRo-SsXi5JQzAnnTHQEuCUHc5cekUQQJYNRHJbp71UJ7bOpLaoN9Y18A78lH1PnWAMiz0M9DH214dxtmxSTQKTc6FaXFyV77Ysa78DTphYUJ_oRSfftydsrTjpJthj97ELlSv0MJTh0qrrPgrSr4",
+            "q": "Data Analyst in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDjd7n_pmMF77OgxAaZHnFPKQvQ4nw:1795246754002&q=Data+Analyst+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXzBZRpoz3Q0I1UNVbdZ7KA8fIBrSiznJ2vErDT6zrOnx9zeFYG1d9QtmGsRNLe0AZvuPT5PN3_y1mbCIl8hHeHWCZEa3dVQTs4bc1UXfsWzB_7LVK_-q3ezDz3pzv6jPLmFIem9eikg0nmIcGB71037Rw-8oLpC3RB2cLzsod35QkMbQS2KSt7ioAhNNRQFcBtTGGTw7nRo-SsXi5JQzAnnTHQEuCUHc5cekUQQJYNRHJbp71UJ7bOpLaoN9Y18A78lH1PnWAMiz0M9DH214dxtmxSTQKTc6FaXFyV77Ysa78DTphYUJ_oRSfftydsrTjpJthj97ELlSv0MJTh0qrrPgrSr4&udm=8&sa=X&ved=2ahUKEwinn7mox5iYAxURElkFHRT0JzEQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=Data+Analyst+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXzBZRpoz3Q0I1UNVbdZ7KA8fIBrSiznJ2vErDT6zrOnx9zeFYG1d9QtmGsRNLe0AZvuPT5PN3_y1mbCIl8hHeHWCZEa3dVQTs4bc1UXfsWzB_7LVK_-q3ezDz3pzv6jPLmFIem9eikg0nmIcGB71037Rw-8oLpC3RB2cLzsod35QkMbQS2KSt7ioAhNNRQFcBtTGGTw7nRo-SsXi5JQzAnnTHQEuCUHc5cekUQQJYNRHJbp71UJ7bOpLaoN9Y18A78lH1PnWAMiz0M9DH214dxtmxSTQKTc6FaXFyV77Ysa78DTphYUJ_oRSfftydsrTjpJthj97ELlSv0MJTh0qrrPgrSr4"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_MRak-_UTcg8V5VUBspOIErJWg99cIpJAESwEfDLnnZVSlhEm-3Cgc6CVzPgLuFWFAhiOq_0sTMXVIut5B0rwB3SWjQS4cOgRB3WjGmL6cN4PQKNk323grL7YG6pVJJqIsk4jgUPmc0NJc2TVpgnRn2YIZF9FjuD8Gx3COnD21VRNFx0BcaIaOkXF5Qxb-zPdtk7n7WdluBuV6QR7dBy6lrA0L1uq6wlL0PrFyXNWQDCHd6vXQ_v66lzb37SD70oMSvtqGA8t8JAL2_C4_owJaSDkBtIG9O726ii9ILzHoVR-Nq5C-Q",
+            "q": "Data Analyst since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDjd7n_pmMF77OgxAaZHnFPKQvQ4nw:1795246754002&q=Data+Analyst+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_MRak-_UTcg8V5VUBspOIErJWg99cIpJAESwEfDLnnZVSlhEm-3Cgc6CVzPgLuFWFAhiOq_0sTMXVIut5B0rwB3SWjQS4cOgRB3WjGmL6cN4PQKNk323grL7YG6pVJJqIsk4jgUPmc0NJc2TVpgnRn2YIZF9FjuD8Gx3COnD21VRNFx0BcaIaOkXF5Qxb-zPdtk7n7WdluBuV6QR7dBy6lrA0L1uq6wlL0PrFyXNWQDCHd6vXQ_v66lzb37SD70oMSvtqGA8t8JAL2_C4_owJaSDkBtIG9O726ii9ILzHoVR-Nq5C-Q&udm=8&sa=X&ved=2ahUKEwinn7mox5iYAxURElkFHRT0JzEQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=Data+Analyst+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDF_w3McpfGjRPwoBb3L_MRak-_UTcg8V5VUBspOIErJWg99cIpJAESwEfDLnnZVSlhEm-3Cgc6CVzPgLuFWFAhiOq_0sTMXVIut5B0rwB3SWjQS4cOgRB3WjGmL6cN4PQKNk323grL7YG6pVJJqIsk4jgUPmc0NJc2TVpgnRn2YIZF9FjuD8Gx3COnD21VRNFx0BcaIaOkXF5Qxb-zPdtk7n7WdluBuV6QR7dBy6lrA0L1uq6wlL0PrFyXNWQDCHd6vXQ_v66lzb37SD70oMSvtqGA8t8JAL2_C4_owJaSDkBtIG9O726ii9ILzHoVR-Nq5C-Q"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXzDxTBVFnXgoIOt0akb5qstG38eiOWbVTWp5Y_He4tQWb6zLQZsVlq_sNF3kFzgIouz1Bxf9yrpyBIg7YXSVe5xpgywiRhYJr0pOg8etL1n-lrqLQzM4Gf8WRaFuAOCizhz8My0XHG9K-Mi8fkxYv230cJgIWxNpLNTC_P3if441xGnXIL44KmSYr3mLGWh_iYcV4MewD2tvOXULYu5i0kbZzqTZWMCuDCV5GLxnMAK-vVcjY6Y7xWEZ7seQ2AwLCzpyqTjcw-5qfc1K9oMQB_ysTiS99kfxREa5h8kYGr7UJRPjJMaxDR_eUr5mnQ-0_Y342fA_r9E3tzStbR3vIZQYz6L8",
+            "q": "Data Analyst in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDjd7n_pmMF77OgxAaZHnFPKQvQ4nw:1795246754002&q=Data+Analyst+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXzDxTBVFnXgoIOt0akb5qstG38eiOWbVTWp5Y_He4tQWb6zLQZsVlq_sNF3kFzgIouz1Bxf9yrpyBIg7YXSVe5xpgywiRhYJr0pOg8etL1n-lrqLQzM4Gf8WRaFuAOCizhz8My0XHG9K-Mi8fkxYv230cJgIWxNpLNTC_P3if441xGnXIL44KmSYr3mLGWh_iYcV4MewD2tvOXULYu5i0kbZzqTZWMCuDCV5GLxnMAK-vVcjY6Y7xWEZ7seQ2AwLCzpyqTjcw-5qfc1K9oMQB_ysTiS99kfxREa5h8kYGr7UJRPjJMaxDR_eUr5mnQ-0_Y342fA_r9E3tzStbR3vIZQYz6L8&udm=8&sa=X&ved=2ahUKEwinn7mox5iYAxURElkFHRT0JzEQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=Data+Analyst+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXzDxTBVFnXgoIOt0akb5qstG38eiOWbVTWp5Y_He4tQWb6zLQZsVlq_sNF3kFzgIouz1Bxf9yrpyBIg7YXSVe5xpgywiRhYJr0pOg8etL1n-lrqLQzM4Gf8WRaFuAOCizhz8My0XHG9K-Mi8fkxYv230cJgIWxNpLNTC_P3if441xGnXIL44KmSYr3mLGWh_iYcV4MewD2tvOXULYu5i0kbZzqTZWMCuDCV5GLxnMAK-vVcjY6Y7xWEZ7seQ2AwLCzpyqTjcw-5qfc1K9oMQB_ysTiS99kfxREa5h8kYGr7UJRPjJMaxDR_eUr5mnQ-0_Y342fA_r9E3tzStbR3vIZQYz6L8"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7qWNmNWayvF4tdjQfO9TvIxUG9XAm7znq7S4RODn-c_3VQi17muxqtiLhX5cdqCUfLd0XxkkRbeNFX73vOv_aTnYAa5cX-2Qwov5jG99fd3NnxYW9De1H8rpUh-xTl4Y0GRT3wupXikQOnR0SAocN3B5TA3gC0RTr11lBKHCqIyWuMA0V-EMVvQdA208IfX7gXJ9zON8Gb0mjFw1W0owrLapeq7Ouxnj-90tf-dOE48MBnMN0fVTI7s1WzXrCYY034q0x6-ufOgJ0JKC8XnLEMZ7zviW-eWIDdsP167KXuHf0aJGWvka14IfNB6QNjrcXkjMLqk",
+            "q": "Data Analyst in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDjd7n_pmMF77OgxAaZHnFPKQvQ4nw:1795246754002&q=Data+Analyst+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7qWNmNWayvF4tdjQfO9TvIxUG9XAm7znq7S4RODn-c_3VQi17muxqtiLhX5cdqCUfLd0XxkkRbeNFX73vOv_aTnYAa5cX-2Qwov5jG99fd3NnxYW9De1H8rpUh-xTl4Y0GRT3wupXikQOnR0SAocN3B5TA3gC0RTr11lBKHCqIyWuMA0V-EMVvQdA208IfX7gXJ9zON8Gb0mjFw1W0owrLapeq7Ouxnj-90tf-dOE48MBnMN0fVTI7s1WzXrCYY034q0x6-ufOgJ0JKC8XnLEMZ7zviW-eWIDdsP167KXuHf0aJGWvka14IfNB6QNjrcXkjMLqk&udm=8&sa=X&ved=2ahUKEwinn7mox5iYAxURElkFHRT0JzEQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=Data+Analyst+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX7n35rw2PODzm_ETnsT3h7qWNmNWayvF4tdjQfO9TvIxUG9XAm7znq7S4RODn-c_3VQi17muxqtiLhX5cdqCUfLd0XxkkRbeNFX73vOv_aTnYAa5cX-2Qwov5jG99fd3NnxYW9De1H8rpUh-xTl4Y0GRT3wupXikQOnR0SAocN3B5TA3gC0RTr11lBKHCqIyWuMA0V-EMVvQdA208IfX7gXJ9zON8Gb0mjFw1W0owrLapeq7Ouxnj-90tf-dOE48MBnMN0fVTI7s1WzXrCYY034q0x6-ufOgJ0JKC8XnLEMZ7zviW-eWIDdsP167KXuHf0aJGWvka14IfNB6QNjrcXkjMLqk"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXzBZRpoz3Q0I1UNVbdZ7KA8fIBrSiznJ2vErDT6zrOnx9zeFYG1d9QtmGsRNLe0AZvuPT5PN3_y1mbCIl8hHeHWCZEa3dVQTs4bc1UXfsWzB_7LVK_-q3ezDz3pzv6jPLmFIem9eikg0nmIcGB71037Rw-8oLpC3RB2cLzsod35QkMbQS2KSt7ioAhNNRQFcBtTGGTw7nRo-SsXi5JQzAnnTHQEuCUHc5cekUQQJYNRHJbp71UJ7bOpLaoN9Y18A78lH1PnWAMiz0M9DH214dxtmxSTQKTc6FaXFyV77Ysa78DTphYUJ_oRSfftydsrTjpJthj97ELlSv0MJTh0qrrPgrSr4",
+            "q": "Data Analyst in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDjd7n_pmMF77OgxAaZHnFPKQvQ4nw:1795246754002&q=Data+Analyst+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXzBZRpoz3Q0I1UNVbdZ7KA8fIBrSiznJ2vErDT6zrOnx9zeFYG1d9QtmGsRNLe0AZvuPT5PN3_y1mbCIl8hHeHWCZEa3dVQTs4bc1UXfsWzB_7LVK_-q3ezDz3pzv6jPLmFIem9eikg0nmIcGB71037Rw-8oLpC3RB2cLzsod35QkMbQS2KSt7ioAhNNRQFcBtTGGTw7nRo-SsXi5JQzAnnTHQEuCUHc5cekUQQJYNRHJbp71UJ7bOpLaoN9Y18A78lH1PnWAMiz0M9DH214dxtmxSTQKTc6FaXFyV77Ysa78DTphYUJ_oRSfftydsrTjpJthj97ELlSv0MJTh0qrrPgrSr4&udm=8&sa=X&ved=2ahUKEwinn7mox5iYAxURElkFHRT0JzEQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=Data+Analyst+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXzBZRpoz3Q0I1UNVbdZ7KA8fIBrSiznJ2vErDT6zrOnx9zeFYG1d9QtmGsRNLe0AZvuPT5PN3_y1mbCIl8hHeHWCZEa3dVQTs4bc1UXfsWzB_7LVK_-q3ezDz3pzv6jPLmFIem9eikg0nmIcGB71037Rw-8oLpC3RB2cLzsod35QkMbQS2KSt7ioAhNNRQFcBtTGGTw7nRo-SsXi5JQzAnnTHQEuCUHc5cekUQQJYNRHJbp71UJ7bOpLaoN9Y18A78lH1PnWAMiz0M9DH214dxtmxSTQKTc6FaXFyV77Ysa78DTphYUJ_oRSfftydsrTjpJthj97ELlSv0MJTh0qrrPgrSr4"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Data Analyst - Power BI, Advance Excel",
+      "company_name": "HARJAI COMPUTERS PRIVATE LIMITED",
+      "location": "Mumbai, Maharashtra",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=RudQNGu1cc30xR03AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMQW6CQBiG4XTLEbr61oaCMWlM2oUZheg0JRKKbs3POAHMMEP4p4o779DD9D49SXXz7p43-H0KFgl5grBkruzxgtxd9IClDCGOZ7JKIx2VNvi7_eDkKrCmQTVwFmvnaqOf3xvve36LY2YT1ezJtypSroud1ZUb4zviRw7c0KB7Q14fZq_TMeptPZlvRPEhJFbbLN-VafGFvJB7Uab4lJks0wStRfbdVdSGyOh-IG78QP_RsmirugAAAA&shmds=v1_Ac3VAozbICGR2sgt8ezl2jN63-vUZOnTZPD-ENxu0xik5TPhmA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=RudQNGu1cc30xR03AAAAAA%3D%3D",
+      "extensions": [
+        "1 day ago",
+        "Full–time"
+      ],
+      "detected_extensions": {
+        "posted_at": "1 day ago",
+        "schedule_type": "Full–time"
+      },
+      "source_link": "https://www.shine.com/jobs/data-analyst-power-bi-advance-excel/harjai-computers-private-limited/20111699",
+      "job_title": "Data Analyst - Power BI, Advance Excel",
+      "description": "This role is a great fit for someone who enjoys working with data and has a strong foundation in analysis and visualization. The Data Analyst will engage in transforming raw data into valuable insights that aid business strategy. Expertise in Power BI and advanced Excel is essential.\n\nKey responsibilities include analyzing complex datasets to uncover trends and patterns that support decision-making. The analyst will create and manage interactive dashboards and reports in Power BI to present data clearly. Advanced Excel functions will be used for data manipulation, ensuring accurate reporting. Collaboration with various teams will be necessary to understand their data requirements, while findings and recommendations will need to be communicated effectively to stakeholders.\n\nRequired skills encompass proficiency in Power BI, strong advanced Excel capabilities such as pivot tables and VLOOKUP, along with analytical problem-solving skills. Good verbal and written communication skills are essential for presenting insights clearly to different audiences. Being organized and capable of managing multiple projects at once is also important in this role.",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/data-analyst-power-bi-advance-excel/harjai-computers-private-limited/20111699?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgLSBQb3dlciBCSSwgQWR2YW5jZSBFeGNlbCIsImNvbXBhbnlfbmFtZSI6IkhBUkpBSSBDT01QVVRFUlMgUFJJVkFURSBMSU1JVEVEIiwiaHRpZG9jaWQiOiJSdWRRTkd1MWNjMzB4UjAzQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWVRYVnRZbUZwTEUxaGFHRnlZWE5vZEhKaExFbHVaR2xoIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXVmw0VW1oWlFreGtjRGMyYWxKU2VHRjFYelp1UXpWTlozcG9NelZRYUVSNGNHRnFNbEpyZG1VMFoyWlhTVGg1VVhKMExXcE1SVlZuU1VsbVQxcHlaRkJWZUVnM2VVeE5UM05vVW5KTU0yTnpkRzQ0ZEhjMFpFcEJabUpsVTFsWFdUQjZTMGhNTjNkM05taHhhWE4xUmtSbFlUQk5WekZ4ZERjMU1GcHhZVXRGYm0xVVVDMFNGMjlWYjBKaExXWkxVRXBIYXpWT2IxQnNUMmxtYVZGTkdpSkJTRTR3UlRkR1lYWnZUVXhYZEhkR2VUbFdlRlphZGtWek5qQkhZVVJ6TjNWMyIsImZjdiI6IjMiLCJmY19pZCI6IlJ1ZFFOR3UxY2MzMHhSMDNBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Analyst & IT Project Intern – Walk-In",
+      "company_name": "Global Consulting GC.",
+      "location": "Mumbai, Maharashtra",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=gXq1rxcB9DcspkQdAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yXLPQrCQBBAYWxzBKupLEQTEWy0kighRcBCsAyzy5IfNzNhZwKx8w7exCN5EiM2j9d80XsWnU-oCEdC_xCFBeRXuARunVXISV0g-DxfcEN_X-f_b9mAOAy2BibImCvv5odatZd9koj4uBJFbWxsuUuYnOExmZD8UkqNwfUe1ZXb3WaMe6qWq8yzQQ8pkwxeG6ogS2NoCIqhM9isoMCJodQa8AtXZBaftQAAAA&shmds=v1_Ac3VAoyvYUeBYTrT-zx8hBRyqt38AAe-7i4A30zQbqTMpTI8YQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=gXq1rxcB9DcspkQdAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b014a9c7ec02987099ffcb0/images/ywmzMoGWzisuph0EZGOH2FsfEpsWRD3vIDo2zs1Umc4.jpg",
+      "extensions": [
+        "12 hours ago",
+        "Full–time"
+      ],
+      "detected_extensions": {
+        "posted_at": "12 hours ago",
+        "schedule_type": "Full–time"
+      },
+      "source_link": "https://in.linkedin.com/jobs/view/data-analyst-it-project-intern-%E2%80%93-walk-in-at-global-consulting-gc-4491951594",
+      "job_title": "Data Analyst & IT Project Intern – Walk-In",
+      "description": "🚀 WALK-IN INTERVIEW – DATA ANALYST INTERN | MONDAY, 23 NOVEMBER 2026 | FRESHERS WELCOME\n\n\n\n\n🎓 Freshers, Graduates, Undergraduates & Students Welcome!\n\nNO PRIOR EXPERIENCE REQUIRED | DIRECT WALK-IN | TRAINING PROVIDED\n\n\n\n\nCompany: Global Consulting (GC)\n\nProject: Weekend Villa – Luxury Hospitality & Property Operations\n\nPosition: Data Analyst Intern\n\nLocation: Andheri East, Mumbai\n\nEmployment Type: Internship | Work from Office\n\nExperience: Freshers & Students Welcome\n\nEligibility: Graduates, Undergraduates & Diploma Holders\n\n\n\n\n📅 WALK-IN INTERVIEW – MONDAY, 23 NOVEMBER 2026\n\n\n\n\nDate: Monday, 23rd November 2026\n\nTime: 4:30 PM – 5:30 PM\n\nContact: Neha – +91 8657224052\n\n\n\n\nVenue: Crescent Avenue\n\n\n\n\n401, Crescent Avenue, The Avenue, IA Project Rd, Chimatpada, Marol, Andheri East, Mumbai, Maharashtra – 400059 Global Consulting (GC)\n\n📍 Google Maps: https://share.google/A43waFipBfrN2eQmZ\n\n\n\n\nWalk in directly with your updated CV. No prior appointment required.\n\n🏡 About the Role\n\nGlobal Consulting (GC) is hiring Data Analyst Interns to support the business operations, marketing, customer analytics and revenue growth of Weekend Villa, a luxury hospitality and holiday villa project.\n\nWe are looking for enthusiastic freshers who enjoy working with numbers, Excel, business information, research and reporting.\n\nSelected candidates will gain practical exposure to real business data, booking analytics, pricing research, customer insights, digital marketing performance and revenue forecasting.\n\nNo previous data analyst experience is required. Training and guidance will be provided.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/data-analyst-it-project-intern-%E2%80%93-walk-in-at-global-consulting-gc-4491951594?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/data-analyst-it-project-intern-walk-in-global-consulting-gc-mumbai-city--fj-2478913667?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgXHUwMDI2IElUIFByb2plY3QgSW50ZXJuIOKAkyBXYWxrLUluIiwiY29tcGFueV9uYW1lIjoiR2xvYmFsIENvbnN1bHRpbmcgR0MuIiwiaHRpZG9jaWQiOiJnWHExcnhjQjlEY3Nwa1FkQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWVRYVnRZbUZwTEUxaGFHRnlZWE5vZEhKaExFbHVaR2xoIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXazlLTm5aUk5GVmliR2N3YkZaaWFrNTZVRTE0YWtFMVgyMTZaVTlNYjJkb1dEbFpVMGRvYnpsbkxXMXJaVm8xVTNSZlEzSmhjMlkxWWw5SlZuaENWRXRvUW14NllYTndhVFZ0YzJWdFdXVmlSMEZYVGtsb1JrOTNjSEI0ZUVwU1MyRjVaREJ4U2pFeWFXaGZRbkJMVVVGWmFGVm5aMlIwWXpWRVEyWnpXVEZaUlVGTmVEZ1NGMjlWYjBKaExXWkxVRXBIYXpWT2IxQnNUMmxtYVZGTkdpSkJTRTR3UlRkSFNucFRTa05vYlhSNVVHOVNiRTAzYTJocGR6RkZNalZaZURaMyIsImZjdiI6IjMiLCJmY19pZCI6ImdYcTFyeGNCOURjc3BrUWRBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Analyst-E-Commerce",
+      "company_name": "Pioneer Management Consultant Pvt Ltd",
+      "location": "Mumbai, Maharashtra",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=3pSZUpzVVmfTtrssAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMPQrCQBBGsc0RrKYW84NgozYSxcZAbhAmcUhWdnfCzkRi5x08h5fyJK7N4yve95LPIilOqAhHj_Ypmp7Tkp2j0BF8X2-4cwtCGLoB2MOFube03A-qo-zyXMRmvSiq6bKOXc6eWp7zeJI_Ghkw0GhRqdlsizkbfb861CZqFKBCjz058gole5msYpz1Q-GqNzAeqsm1aNZRjBmUQQP-AJOEZ8KwAAAA&shmds=v1_Ac3VAowmFaBG_2XFrxB7cQ0r4-DK0PGsT0glvZ7pxFwxlIOYSw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=3pSZUpzVVmfTtrssAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b014a9c7ec02987099ffcb0/images/9Gv4R6SvYlMZpMcVMcvCeLBOs0gScWXeMs0YfxOtGrw.jpg",
+      "extensions": [
+        "4 days ago",
+        "Full–time"
+      ],
+      "detected_extensions": {
+        "posted_at": "4 days ago",
+        "schedule_type": "Full–time"
+      },
+      "source_link": "https://in.linkedin.com/jobs/view/data-analyst-e-commerce-at-pioneer-management-consultant-pvt-ltd-4491151885",
+      "job_title": "Data Analyst-E-Commerce",
+      "description": "About Client - Reputed Consumer Goods Industry __________________________________________________________________\n\nPosition: Data Analyst - E-Commerce\n\nLocation: Mumbai\n\nReporting to: Sr. Digital Account Manager\n\n\n\n\nCriteria: Graduate with 3+ years of experience in Data Analytics, E-Commerce Analytics, BI, or Commercial Analytics, preferably handling Amazon and Quick Commerce analytics, with FMCG, Consumer Durables, Consumer Healthcare, or Retail industry experience.\n\n\n\n\nSkills and Knowledge\n\nData Management & Analytical skillsAdvanced MS Excel (Pivot Tables, XLOOKUP, Dashboards, Power Query).Power BIWorking experience in SAP preferredWorking knowledge of platform dashboards (Blinkit Vendor Portal, Zepto Supplier Portal, Swiggy Partner App).\n\n\nInteractions (Internal & External) \n\nSKAMProduct/Brand ManagersHRSr.MIS/MIS ManagerFinanceSales Co-ordinatorsKey Account Executive\n\n\nDesired Behaviour\n\nInnovationValue for CustomerEntrepreneurialEmpoweredAccountableIntegrity & Winning Spirit\n\n\nJob Purpose: Responsible for analyzing E-Commerce and Quick Commerce business performance across platforms such as Amazon, Flipkart, Blinkit, Zepto, Swiggy Instamart, BigBasket, JioMart and other online channels. Will support leadership by providing actionable insights on sales, pricing, assortment, promotions, market share, availability, and customer behavior to accelerate growth.\n\n\n\n\nKey Responsibilities\n\nSales Performance Analysis- Track Daily/Weekly/Monthly sales performance by Platform, Category, brand, SKU & Region/City, Growth trends. Identify key performance gaps & growth Drivers including - NPI, listings, OSA & Fill Rate trackingPricing & Promotion Analysis: MRP vs SP impact on sales trend, competitor data mapping & analysis, evaluate category share. Check impact of Deals, Coupon, Bundles & visual campaignsDigital Shelf Analysis: Product Ranking, Search Performance, Conversion Rates & content score. Monitor & Recommend- Product listings, reviews, ratings, image compliance & A+ ContentCategory & Market Share Analysis: Category growth, brand share, consumer behaviour, emerging opportunity. Use data source like NIQ, Kantar, platform dashboard & internal SourceDashboard & Automation:Develop & maintain dashboard using Power BI, Excel etc to regulate reporting on Sales, Distribution, Pricing, Promotion, Market Share. Transform manual working into digital dash boardsInventory & Supply Analysis : Forecast Accuracy, Fill rate, Ageing, Coverage\n\n\nAdditional Responsibilities\n\nProvide Ad-hoc value-add reports analysing peak hour sales spikes, stock-out patterns, and fast-moving SKU metricsTrack account-wise financial reconciliation—including platform debit notes, damage claims, and fill-rate penalty deductions.Integrate 3rd party tools data with internal data",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/data-analyst-e-commerce-at-pioneer-management-consultant-pvt-ltd-4491151885?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "AcceleratorX",
+          "link": "https://acceleratorx.org/jobs/data-analyst-e-commerce-at-pioneer-management-consultant-pvt-ltd-e2e8a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/data-analyst-e-commerce-pioneer-management-consultant-pvt-ltd-mumbai-maharashtra--t7xk-951752923?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QtRS1Db21tZXJjZSIsImNvbXBhbnlfbmFtZSI6IlBpb25lZXIgTWFuYWdlbWVudCBDb25zdWx0YW50IFB2dCBMdGQiLCJodGlkb2NpZCI6IjNwU1pVcHpWVm1mVHRyc3NBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lZVFhWdFltRnBMRTFoYUdGeVlYTm9kSEpoTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlqQk9SM2xNVTFWeFJ6TkxTRmhKWjBzNVpuTk9hRmRLUzFWWllUbHBjRFUzTW1vM2FsRkZkME4zUTBwUmRURkhRbTFXYTJGVk5tMXdOV3h3T0RSeFozQmlkV1pJV25aRllqUkxSa3hoWVc1VVRsWmpkak4zUXpjeFdtMUJOemhuVlRnMFdFWlRUMnc0TUVkdVVHd3pUblZ2V0dwVVpFeHRUVTF1VkZGMFFTMW9VVU5IZUY4U0YyOVZiMEpoTFdaTFVFcEhhelZPYjFCc1QybG1hVkZOR2lKQlNFNHdSVGRHUTNadWFsOUNORGhyUlhsTlNubFdUMlJUZGxFemNrZzRXbHBuIiwiZmN2IjoiMyIsImZjX2lkIjoiM3BTWlVwelZWbWZUdHJzc0FBQUFBQT09In0="
+    },
+    {
+      "title": "Data Analyst – Fresher",
+      "company_name": "Kelp",
+      "location": "Mumbai, Maharashtra",
+      "via": "HireDoor",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=qhSdxkgjg3Ai4WqaAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2LMQoCMRAAsb0naLO1SKKCjVaCaCH3hmMvLEkklw3ZFc7OD1j5Q1_iaTNMMdO8Zs3mhIpwzJgeovB5vuFcSQLVv9-4ByGsLgBnuDD7RPNDUC2yt1YkGS-KGp1xPFjO1PNop0l-6CRgpZJQqdvu1qMp2S8XV0oFYob2PvQYV9DiVKEErfgFASDjoJAAAAA&shmds=v1_Ac3VAoxCp3-9cEoZk8LpGJcZye4i0JKReLwAMlZaN2zVpmWllA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=qhSdxkgjg3Ai4WqaAAAAAA%3D%3D",
+      "extensions": [
+        "6 days ago",
+        "Full–time"
+      ],
+      "detected_extensions": {
+        "posted_at": "6 days ago",
+        "schedule_type": "Full–time"
+      },
+      "source_link": "https://hiredoor.in/jobs/data-analyst-fresher-7ec10c",
+      "job_title": "Data Analyst – Fresher",
+      "description": "Kelp is hiring Data Analyst Freshers in Mumbai. Kelp provides investment teams with technology and analytical support to improve performance and create value. Its Kelp Pulse platform combines AI with expert analysts to help clients research companies across industries and turn raw data into actionable intelligence.\n\nResponsibilitiesWork hands-on with data, research, and AI tools.Contribute directly to client projects.Take ownership of assigned work and grow with a fast-moving team.RequirementsFreshers interested in starting a career in Data and AI.Curious, proactive, and detail-oriented approach.Willingness to learn and make an impact.",
+      "apply_options": [
+        {
+          "title": "HireDoor",
+          "link": "https://hiredoor.in/jobs/data-analyst-fresher-7ec10c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3Qg4oCTIEZyZXNoZXIiLCJjb21wYW55X25hbWUiOiJLZWxwIiwiaHRpZG9jaWQiOiJxaFNkeGtnamczQWk0V3FhQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWVRYVnRZbUZwTEUxaGFHRnlZWE5vZEhKaExFbHVaR2xoIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZVzV2TjNkcldIbHZha3BUWldSU09XTkVNMEpoUldsTlp6SjRlWEJmU0RkMlUxZFRNakJMUkdSMUxVNTNRbWs1VDBaU1JGOXNlRlYxUXpkaVUwazJTRkJCWms5VmFXWlNWM1JEZG14b1NYSmxjRll5ZVhsU1ltTkViV3RvWm5wM1ZXUllYemRIU0U5RFUwSldSV2hWTlU5clEydFdNa2hqYm5obGNVVnhWMmhoVW0xcGFub1NGMjlWYjBKaExXWkxVRXBIYXpWT2IxQnNUMmxtYVZGTkdpSkJTRTR3UlRkSVMzSlROa0V4UW1rNU1XNUxaM2xXZUVzdFpXZFhhMUY0UW5OQiIsImZjdiI6IjMiLCJmY19pZCI6InFoU2R4a2dqZzNBaTRXcWFBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "SQL Data Analyst Internship in Mumbai - Apparel & Textiles",
+      "company_name": "YuvaIntern",
+      "location": "Mumbai, Maharashtra",
+      "via": "YuvaIntern",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=XJrieZ3NBP7wr88XAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_0WOMQrCQBBFsc0RrMbGQjQrgo1WAUEEU0hsrMIkDNmVze6yM5HYeQfP4oU8iRELm1f993nJa5QUxekIOxSEzKG9s8DBCUXH2gQwDvKurdDAArIQMJKFKZypF2OJ4f14wtVXwISx1uAd7L1vLI23WiTwRilmmzYsKKZOa98q76jyvRok_qJkPXwGi0Llar3s0-Ca2eTS3fAX8Q-YQ47DFllLxA9wFfeGuAAAAA&shmds=v1_Ac3VAoyrG_WRBX4aBI-72R1i5tfUTbzutDUxvr34vcG8-UZohw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=XJrieZ3NBP7wr88XAAAAAA%3D%3D",
+      "extensions": [
+        "Internship"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Internship"
+      },
+      "source_link": "https://yuvaintern.com/internship/sql-data-analyst-apparel-textiles-internship-in-mumbai",
+      "job_title": "SQL Data Analyst Internship in Mumbai - Apparel & Textiles",
+      "description": "As a SQL Data Analyst in the Apparel & Textiles sector, you will be responsible for analyzing and interpreting data to provide valuable insights for decision-making. You will work closely with the data team to extract and transform data using SQL queries and ensure data accuracy and integrity.",
+      "apply_options": [
+        {
+          "title": "YuvaIntern",
+          "link": "https://yuvaintern.com/internship/sql-data-analyst-apparel-textiles-internship-in-mumbai?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTUUwgRGF0YSBBbmFseXN0IEludGVybnNoaXAgaW4gTXVtYmFpIC0gQXBwYXJlbCBcdTAwMjYgVGV4dGlsZXMiLCJjb21wYW55X25hbWUiOiJZdXZhSW50ZXJuIiwiaHRpZG9jaWQiOiJYSnJpZVozTkJQN3dyODhYQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWVRYVnRZbUZwTEUxaGFHRnlZWE5vZEhKaExFbHVaR2xoIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXVmhrY0VWcVJuaExZVEpSTUhFdE1ETTFVbFZ3YWw4eVRXdEVNSFZ3VjA5Wk1GZFNhMjA1TUhBMFlWWklNREZCZFhKaFIwRkZPVGgyUjNoVFNuQTNkM1JFYW10bFNFWTBWM3BEYkd4VE9WOUVOa1YxU2tScVEzQkllR1puUjJ0SVoxRk1WM05pZDFoU2FGcHNaMWRHVEhCTmNsODNSRGRNWDJaVldGaEtSWGN5ZERscVdtZ1NGMjlWYjBKaExXWkxVRXBIYXpWT2IxQnNUMmxtYVZGTkdpSkJTRTR3UlRkSVMybDJVM1ZEVTFSaFQzQTNUelp5YkdoaU1qWlRYMm90ZFY5QiIsImZjdiI6IjMiLCJmY19pZCI6IlhKcmllWjNOQlA3d3I4OFhBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior Data Analyst",
+      "company_name": "Morningstar",
+      "location": "Mumbai, Maharashtra",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=BMvyWCmM_gTwgzWsAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBBAUWxzBKvBUsKuCDZaCQGrVB4gTMKSXdnMLDMjxM4bWHhDT2LS_Oq_6rOp6nugxAINGsKVML_U4Pf-woN70IAyRGCCG_OYw_YSzYqevVfNblRDS4MbePJMoefZL0jXdBpRQslooTueDrMrNO53LQslWplAImifU4-phhaXGTWa4B-2vMs2kgAAAA&shmds=v1_Ac3VAozt4lDs5PlKibcOL3uNgNSIBYKxLisp7C8iDSl1GS6Y1A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=BMvyWCmM_gTwgzWsAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b014a9c7ec02987099ffcb0/images/i8s_21KtWHxBu777EtW0v9W-9PqI2Tu7qi2jzVyMMzA.jpg",
+      "extensions": [
+        "5 days ago",
+        "Full–time"
+      ],
+      "detected_extensions": {
+        "posted_at": "5 days ago",
+        "schedule_type": "Full–time"
+      },
+      "source_link": "https://www.simplyhired.co.in/job/Xa29imHyCVDK2ysel95mEpM_kp2re2APV2f4SQJYx5a73pW9bGCrUg",
+      "job_title": "Senior Data Analyst",
+      "description": "Senior Data Analyst, Structured Finance (SF) (Mumbai)\n\n\nAbout Us: Morningstar DBRS is a leading provider of independent rating services and opinions for corporate and sovereign entities, financial institutions, and structured finance instruments, with over 900 employees in 14 offices globally. Formed through the July 2019 acquisition of DBRS by Morningstar, Inc., the ratings business is the fourth-largest provider of credit ratings in the world.\n\n\n\n\n\nMorningstar DBRS is committed to empowering investor success, serving the market through leading-edge technology and raising the bar for the industry. Morningstar DBRS is a market leader in Canada, the U.S. and Europe in multiple asset classes. Morningstar DBRS rates more than 4,700 issuers and 74,000 securities worldwide and is driven to bringing more clarity, diversity of opinion, and responsiveness to the ratings process. Morningstar DBRS approach and size provide the agility to respond to customers’ needs, while being large enough to provide the necessary expertise and resources.\n\n\nVisit: https://dbrs.morningstar.com/ to learn more.\n\n\n\n\n\nAbout the Role: Morningstar DBRS Structured Finance team is looking for candidates who will play the role of Senior Data Analyst within the Structured Finance group. We are looking for candidates with good operational and administrative capabilities, detail-oriented and multi-tasking. As a Senior Data Analyst, you will assist onshore teams with uploading & downloading documents, extracting data from reports, document retention, regulatory reporting and quality control checks; assist with pre and post rating committee related processes etc. With some seasoning, you also will be expected to have thorough understanding towards functioning of Structured Finance transactions along with comprehension of primary deal documents & trustee reports. This position is based in out of Navi Mumbai.\n\n\n\n\n\nResponsibilities\n\n\nExtracting data from trustee reports in a pre-defined format & getting accustomed to SF related terminologies\nProvide support to onshore analysts on pre and post Rating Committee activities\nConduct and ensure Conflicts of Interest Checks are Completed Prior to Rating Committee\nAssist the onshore team with document retention, regulatory reporting and quality control\nEstablish rating committees requested by FA(s) including executing any necessary conflict checks\nCreate and prepare materials for both internal and external meetings that maintain company standards and values\nOwn ancillary tasks including administrative and streamlining of the ratings workflow\nInteraction with onshore stakeholders on timely basis & understanding their requirements\nHave a mindset to bring about process efficiencies and ideate automations\n\n\n\n\nRequirements\n\n\nBachelor’s degree in Commerce, Accounting, Economics, Finance or Management Studies\n2-4 years of relevant Financial Data experience, experience at a rating agency is a plus\nExcellent communication and co-ordination skills and should be able to manage administrative tasks efficiently\nStrong attention to detail and accuracy\nHighly motivated, self-starter who is keen to learn, has a positive attitude and a strong work ethic\nAbility to manage multiple tasks at the same time and deliver results in a timely manner\nGood inter-personal skills and ability to participate/ contribute as a team player\n\n\n\n\nMorningstar DBRS is an equal opportunity employer.\n\n\n\n\nAbout Us\n\n\n\n\nMorningstar DBRS is a leading provider of independent rating services and opinions for corporate and sovereign entities, financial institutions, and project and structured finance instruments globally. Rating more than 4,000 issuers and 60,000 securities, it is one of the top four credit rating agencies in the world.\n\n\n\n\nMorningstar DBRS empowers investor success by bringing more transparency and a much-needed diversity of opinion in the credit rating industry. Our approach and size allow us to be nimble enough to respond to customers' needs in their local markets, but large enough to provide the necessary expertise and resources they require. Market innovators choose to work with us because of our agility, tech-forward approach, and exceptional customer service.\n\n\n\n\nMorningstar DBRS is the next generation of credit ratings.\n\n\n\n\nIf you receive and accept an offer from us, we require that personal and any related investments be disclosed confidentiality to our Compliance team (days vary by region). These investments will be reviewed to ensure they meet Code of Ethics requirements. If any conflicts of interest are identified, then you will be required to liquidate those holdings immediately. In addition, dependent on your department and location of work certain employee accounts must be held with an approved broker (for example all, U.S. employee accounts). If this applies and your account(s) are not with an approved broker, you will be required to move your holdings to an approved broker.\n\n\n\n\nMorningstar's hybrid work environment gives you the opportunity to collaborate in-person each week as we've found that we're at our best when we're purposely together on a regular basis. In most of our locations, our hybrid work model is four days in-office each week. A range of other benefits are also available to enhance flexibility as needs change. No matter where you are, you'll have tools and resources to engage meaningfully with your global colleagues.\n\n\n\n\nR11_DBRSRatingsGmbHIndia DBRS Ratings GmbH, Branch India Legal Entity",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/Xa29imHyCVDK2ysel95mEpM_kp2re2APV2f4SQJYx5a73pW9bGCrUg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Smart Recruiters Jobs",
+          "link": "https://jobs.smartrecruiters.com/Sia/744000139199810-senior-data-analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Getmereferred.com",
+          "link": "https://getmereferred.com/job-listing/senior-data-analyst-zeno-health-mumbai-5-to-10-years-experience-f51e3560-c2e1-4df3-9575-15f2138fce60?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Bandana.com",
+          "link": "https://bandana.com/jobs/b7df5983-096f-42dc-ba8c-d4728d66a6e1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/senior-data-analyst--mumbai--e69986884bb83be58fef305b7068972c8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Sorce",
+          "link": "https://www.sorce.jobs/jobs/senior-data-analyst-morningstar-j1_JflPpbfgl3fltkVJhJ69UOuy8o7YPIduV7q48XyoZM4SPgruGg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "India Jobs Expertini",
+          "link": "https://in.expertini.com/job/senior-data-analyst-mumbai-sia-partners-628437478492865537/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/salesforce-senior-data-analyst-mumbai-maharashtra-india-5-to-7-years-330277?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiTW9ybmluZ3N0YXIiLCJodGlkb2NpZCI6IkJNdnlXQ21NX2dUd2d6V3NBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lZVFhWdFltRnBMRTFoYUdGeVlYTm9kSEpoTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdtTXpaMFpTUmxwU1RubHlRV28wY25SaWVtZERkazFLTnpaNlZuTm9WR3BTUkc1blJGRTJjWFpLYVdsSlRGUktVRmx5YjJOQ1IxVmZabFZqUW5oTldtTkdNMmw0V0hkdVZXdHRaMmRYVG5Ka1oyWlZPRU5UUkZoZlYyRnVRbkp1Vkc5TFR6WklOMHRWYzNjemNqRmxWRTFqVm5OQ2NVbEJVa3RpUmxOMWNHSnhjR1pQZWkwU0YyOVZiMEpoTFdaTFVFcEhhelZPYjFCc1QybG1hVkZOR2lKQlNFNHdSVGRHU0RsVk1tVnBjbmhoZW1aWmJraEZaa1pzUjFNNVdXbG5UblJCIiwiZmN2IjoiMyIsImZjX2lkIjoiQk12eVdDbU1fZ1R3Z3pXc0FBQUFBQT09In0="
+    },
+    {
+      "title": "Data Analyst - Cx",
+      "company_name": "IDFC FIRST Bank",
+      "location": "Mumbai, Maharashtra",
+      "via": "IDFC FIRST Bank",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=3ABL1NDxYWy2jDncAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQ6CMBAA0LjyCU43ORClxsRFJ4VgGFjUnRykadHSI70zqZu_YPxDv0Rc3vaS9yxJCxSEg0f3ZIEV5BG-rw_cqAXWGDoL5OFEZJye763IyDulmF1mWFD6LutoUOR1S1FNif80bDHo0aHoZrNdx2z0Jl1URZlDWZ0vVziiv0PvoX4MLfZLqHEKyFYC_gDwyf0WlAAAAA&shmds=v1_Ac3VAox2tY_XUtUlWa0pNRo8wYYxnWDIcTPgLHU6rMnSCc9qQQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=3ABL1NDxYWy2jDncAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAYFBMVEWcHSj___-bHSjRqauYABOWAA_eubyZCxvAf4OpQEiaGiWxVFuZFCGVAAXr0NT37O2oO0XTr7D9-PiPAAC1X2XCg4SVAAC-eHzGi46iMzvhwMHPl53u1ti5a3C1V2HXq6_Oib2HAAABLElEQVRIieWW23KDIBBANwhiYNvmpklTmv7_X9ZUTTCysDB9aXNe4miOO7IXgHUhYAoBUUi5eCXnBTBJPyLcr5P4f-5fgmz8iAC4sUw26EcXcrtispX-NwpZccVqKe7ekuyCYr3vEuzrsKiuV2QW-ieKFlGTYEzEQ9sQtAeMiOpML-dZxcSaFutnF7GpSJpIOgRoJQmUBhGpHPPYtsYvOzqiWc-a9mLtu2GJy8ppNE9crCpPDKTjD4ktb3H0h3ud4T6RFRH0y0g3_vpeRBS3G8GhFYmohjmI4WGXnjkXzBXHVbX_VxTFovwadjMbzkekAPSYx2DAWAFM55c8saP3uIEuLLojtcVNHF1Q5PE7Yt-Hp4cOpnAnfyT0IW8dnEL7AQVknD7nyco6PT4N36l2KcSB6CJzAAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "Full–time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full–time"
+      },
+      "source_link": "https://careers.idfcfirst.bank.in/in/en/job/P-226390/Data-Analyst-Cx",
+      "job_title": "Data Analyst - Cx",
+      "description": "Job Requirements \nAbout the RoleAs a Data Analyst in the Data & Analytics function at IDFC FIRST Bank, you will play a key role in identifying business needs, designing analytical tools, and supporting the delivery of data-driven solutions. You will work closely with senior analysts and lead analysts to develop test strategies, apply analytical frameworks, and contribute to impactful business outcomes. This role is ideal for individuals who are passionate about data, problem-solving, and continuous improvement.\n\nKey ResponsibilitiesPrimary ResponsibilitiesIdentify and scope business requirements and priorities through structured information gathering and analysis.Design and apply analytics techniques to address current and future business needs.Demonstrate a robust understanding of data structures and fields required for effective analysis.Map analytical frameworks to available data sources to ensure alignment with business objectives.Collect, clean, and organize data from multiple sources to ensure accuracy and reliability.Conduct statistical analysis and create visualizations to present findings in a clear, actionable mannerSupport ongoing monitoring of business performance through regular reporting and ad-hoc analysis.Develop test strategies and systematic procedures to validate solution performance and accuracy.Select and apply algorithms and advanced computational methods to enable systems to learn, adapt, and deliver desired outcomes.Approach problems with creativity and develop innovative, data-driven solutions.Challenge existing processes to drive continuous improvement and operational efficiency.Maintain a strong focus on goal achievement and follow through on initiatives.Understand the broader business context and how data-driven decisions impact overall outcomes.What We Are Looking ForEducationBachelor’s Degreein B.Sc or B.Tech or BCAPostgraduate Degreein M.Sc or M.Tech or MCAExperience2–5 years of relevant experiencein data analysis, business intelligence, or related roles.Skills and AttributesStrong analytical and problem-solving skills.Proficiency in data modelling, data architecture, and analytical tools.Familiarity with structured and unstructured data handling.Experience in designing and executing test strategies for data solutions.Excellent communication and stakeholder management skills.A proactive mindset with a focus on innovation and continuous improvement.Understanding of how data-driven decisions contribute to broader business goals.Key Success MetricsDevelopment and deployment of analytical tools.Delivery of impactful business use cases.Accuracy and reliability of analytical outputs.Timely execution of assigned tasks and projects.",
+      "apply_options": [
+        {
+          "title": "IDFC FIRST Bank",
+          "link": "https://careers.idfcfirst.bank.in/in/en/job/P-226390/Data-Analyst-Cx?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/data-analyst-cx-at-idfc-first-bank-4457487545?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/-7528379766657806812?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/data-analyst-cx-idfc-mumbai-67447514?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Quark9",
+          "link": "https://quark9.com/jobs/data-analyst-cx-idfc-first-bank-3ecc6a67-172a-45ac-8e44-1e9274faa4aa?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/idfc-first-bank-data-analyst-cx-mumbai-maharashtra-india-0-to-2-years-322217?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Mployee.me",
+          "link": "https://www.mployee.me/jobs/view/data-analyst-cx-in-mumbai-at-idfc-first-bank--jid--446385957360684/s1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/3426377918861803520?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgLSBDeCIsImNvbXBhbnlfbmFtZSI6IklERkMgRklSU1QgQmFuayIsImh0aWRvY2lkIjoiM0FCTDFORHhZV3kyakRuY0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVlUWFZ0WW1GcExFMWhhR0Z5WVhOb2RISmhMRWx1WkdsaCIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV2tvelNucGllR2xDWVZRM2JHRm5kMUJ2ZFdGUUxVbFliSEpHTFcwMmFHOVlXVzVoTjBGS2NqUlpRVWRWVWkxR00zQnRRbFJZY2tob1UwUlBPVFZhUkdKS2JXRkxVWEZwUlVkSGNTMVJXbHBNUVhobVZVMWlhMDVMVGtwTmFUWnVRbmQzUTNKTlozWmtMVk56YTFSWlVFZEVhbFJZVDB0TmVWRm1TSHB6TjBSeWFqZEhSa01TRjI5VmIwSmhMV1pMVUVwSGF6Vk9iMUJzVDJsbWFWRk5HaUpCU0U0d1JUZEdVRTVmZEVGbFgzTXhSRm90UWpOeFEyOVhha0ZFVEZaQlZWSkIiLCJmY3YiOiIzIiwiZmNfaWQiOiIzQUJMMU5EeFlXeTJqRG5jQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Analyst",
+      "company_name": "Uplers",
+      "location": "Thane, Maharashtra",
+      "via": "Platform.uplers.com",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=Gp0oaXtNflhuh9TJAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBCAYVz7COJwi4tIIoKLToLQqZvO5RqOpBLvQu6Guomv4Bv6JNbln76_eS-a9QUN4cyYn2rwfX3gLgMoYQ0JhKEViZmWp2RW9Oi9anZRDW0MLsjDC9Mgk58n_afXhJVKRqN-f9hNrnDcrG4lU1UYGa4JmbbQ4cxQk1X8AZWYDLGFAAAA&shmds=v1_Ac3VAowYLPNdnhnKZ_LOelPRr7WHhPoPIfapuSQsG03L9GVkrg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=Gp0oaXtNflhuh9TJAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAZlBMVEX82i4FBwgAAAcAAAP_3S__4S__3y8ABAgAAADhwyr_4zD00y20nCLMsSaSfx1sXhYlIQyhjB_UuCjCqCXpyisfHAssKA2vlyGAcBpMQxI-Nw-8oyQNDQl7axlYTROpkyEzLQ1fUxS_IhwbAAABiElEQVRIie2V0ZKCMAxFa9IU2gpIcV2LCvr_P7mlyI6VgrAz-8Z9o3om9yYlMLZp0ybGndZDgrjMMinEGkoQHffFFzqdvmlpKVLH6nxKEWDnBGjZZ7-cSGd5jU-oF9oPbgUxk1vnDpJdIGxnSE7sUsA71D_BdRLkSt4g8Of-Dpgm_RGaiZQkmzSgOuhatFKxQ3eMl3hJKjGshfAoJVOCM9V4cB8FKU_DYHfDSPTmtDeCWcwqlyHnmqh-fzPoDhLUsYKixbD7UEsiEr0Z9AcqCu7fwC6jzavOHVnvNI_fOh2OYeiqnzomkxEHPyO2IMYzHxGiEbuSu1FJBx5oiGin3g9RpZGSrpXzEZ3ULWIWM9IwF7ETt2OzUGcF-ClOYg7UhwjZX0Ro5lYAP14jDeotxy_qbE1fEOYwT9axcc71dCB5gcmIg8npv4haHNn9kHAg5f0NxWLZVuWihFe_2Cz-BJA-D6sugfS8Yv9z0mW3XB3-MEu3_1OCtKkuRtP6T5ULK_5Abdr0H_oBR3QOft1pxsMAAAAASUVORK5CYII.png",
+      "extensions": [
+        "3 days ago",
+        "Full–time"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full–time"
+      },
+      "source_link": "https://platform.uplers.com/talent/all-opportunities/HR1179505213645199",
+      "job_title": "Data Analyst",
+      "description": "Experience: 2.00 + years \n            Salary: Confidential (based on experience)\nShift: (GMT+05:30) Asia/Kolkata (IST) \n            Opportunity Type: Office (Thane) \n            Placement Type: Full time Permanent Position \n(*Note: This is a requirement for one of Uplers' client - Neogen Chemicals Limited) \n\n            What do you need for this opportunity?            \n\n            Must have skills required:            \n            SAP PP, SAP MM, Excel, Excel VBA, Power BI, SAS, Statistics, Database Design, data models            \n\n            Neogen Chemicals Limited is Looking for:                      Neogen Chemicals Ltd. is a over 30-year old company specialising in Bromine based compounds, Grignard Reagents and Inorganic Lithium Salts.\n\nNeogen Group functions out of its five state-of-the-art manufacturing facilities. These are located at Mahape, Navi Mumbai, Maharashtra, Karakhadi in Vadodara, Dahej SEZ in Gujarat, Sangareddy, Hyderabad and Pakhajan, Bharuch, Dahej PCPIR. Together, these occupy around 122 acres of land. The Company has acquired BULI Chemicals India Private Limited in the month of May 2023 which has its facility located at Hyderabad spread across 5 acres.\n\n\n\n\nWebsite: https://neogenchem.com/\n\n\n\n\nWe are looking for a candidate with Min 2 years experience in Chemical Industry .\n\n\n\n\nJob brief\n\nWe are looking for a passionate certified Data Analyst. The successful candidate will turn data into information, information into insight and insight into business decisions.\n\nData Analyst Job Duties\n\nData analyst responsibilities include conducting full lifecycle analysis to include requirements, activities and design. Data analysts will develop analysis and reporting capabilities. They will also monitor performance and quality control plans to identify improvements.\n\nResponsibilities\n\nBe in contact with Plant Heads to identify and resolve Report errors and train them in Report ReadingIdentify Key Data Parameters in a Chemical Process environment, identify and implement necessary electronic instruments to collect the Data.Interpret data, analyse results using statistical techniques and provide ongoing reportsMake automated reportsIdentify, analyse, and interpret trends or patterns in complex data setsWork with management to prioritize business and information needsLocate and define new process improvement opportunitiesRequirements and skills\n\nStrong knowledge of and experience with SAP Production Planning and Material Management Modules.Technical expertise regarding data models, database design development and segmentation techniquesKnowledge of statistics and experience using statistical packages for analysing datasets (Excel, Excel VBA, Power BI, SAS etc)Strong analytical skills with the ability to collect, organize, analyse, and disseminate significant amounts of information with attention to detail and accuracyAdept at queries, report writing and presenting findingsBSc in Mathematics, Chemistry, Economics, Computer Science, Information Management or Statistics; B.E. Mechanical, Chemical with sound knowledge of Chemistry\n\n\nInterested candidates please apply on hr@neogenchem.com or eeshwari.mohite@neogenchem.com\n\n                    \n            How to apply for this opportunity?                        Step 1: Click On Apply! And Register or Login on our portal.            Step 2: Complete the Screening Form & Upload updated Resume            Step 3: Increase your chances to get shortlisted & meet the client for the Interview!                        \nAbout Uplers:\n            Our goal is to make hiring reliable, simple, and fast. Our role will be to help all our talents find and apply for relevant contractual onsite opportunities and progress in their career. We will support any grievances or challenges you may face during the engagement.            \n\n            (Note: There are many more opportunities apart from this on the portal. Depending on the assessments you clear, you can apply for them as well).            \n            So, if you are ready for a new challenge, a great work environment, and an opportunity to take your career to the next level, don't hesitate to apply today. We are waiting for you!",
+      "apply_options": [
+        {
+          "title": "Platform.uplers.com",
+          "link": "https://platform.uplers.com/talent/all-opportunities/HR1179505213645199?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hirist",
+          "link": "https://www.hirist.tech/j/data-analyst-1654456?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/data-analyst/harjai-computers-private-limited/20011285?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Gratitude India",
+          "link": "https://origin.gratitudejobs.com/india/job/gratitude-india-data-analyst-portuguese-08Qw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/2646021621882772145?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Getmereferred.com",
+          "link": "https://getmereferred.com/in/job-listing/data-analyst-concentrix-thane-3-to-5-years-experience-4dff5058-1525-488f-8c57-f03b158f6606?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/data-analyst-neogen-chemicals-limited-thane-69867212?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "MyInternships.in",
+          "link": "https://myinternships.in/jobs/slice-data-analyst-thane-de23c6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJjb21wYW55X25hbWUiOiJVcGxlcnMiLCJodGlkb2NpZCI6IkdwMG9hWHROZmxodWg5VEpBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lZVFhWdFltRnBMRTFoYUdGeVlYTm9kSEpoTEVsdVpHbGgiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlVTkNYMnhFTldGbU9FMUdZVUpZUlVodWJrRkhkRmhxU0dwYWJtZFlWVTVIVFRCQ1RtSktXSFo0WlRjeVRqaHBPVk5YUzFScmNsbGZOREJKT0dseGQyNU5jSGxGZWpGdFMwVktPVFphTjBkRU5GazVha1JmVFdwTGFYWk5ORkZ0VGpCWmRFWk1PV1pzTlZJMFZrVkRkRTVFTmtKeFNGSkJOaTB0VjJGb2FHMVBNak5MUm1vU0YyOVZiMEpoTFdaTFVFcEhhelZPYjFCc1QybG1hVkZOR2lKQlNFNHdSVGRIU3kxUU1VWTNTbkZGZEhsaE1rYzBlVlV5WDFKMVRHZFpNVTVCIiwiZmN2IjoiMyIsImZjX2lkIjoiR3Awb2FYdE5mbGh1aDlUSkFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Analyst-I",
+      "company_name": "Etraveli Group",
+      "location": "Mumbai, Maharashtra",
+      "via": "Etraveli Group - Teamtailor",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=758XGaOU23s4FWWWAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCMBSAYVx7BKe3iCCaiOBiJ0EpDj1DeQ0hiaR5Ie9V6uYFnLyhJ7Eu__T91XtRrS8oCOeE8cmyu8H39YE79cAWi_FACRoiF-2y9iKZT1ozR-VYUIJRhgZNyfY06Xnifzr2WGyOKLY7HPeTysltVlcp-LAxQFNozBAStOPQY9hCi7NH9jP4ATV-z5CQAAAA&shmds=v1_Ac3VAoxBLsiO4at37mNdL6neLPNh12lCVXjnh2LFkvGh0WbtFg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=758XGaOU23s4FWWWAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAaCAMAAADVPG8RAAAAulBMVEX____Cw8pJnf84l_8zlf8-mf_w8fLf3-SgoK6Qvv7Q0Nb39_jV1tvq6u2lprOYmaivr7tmZ4BKTG71-f9QoP9cXXqoy__F3P-exv7N4P56e5EpK1Wuz_6_2P9VVnLk5Od5s_9qrv-Jipy6u8Ryc4k7PWRDkOwbACkxabRDRGjn8P8ycL9BYpxFOlIAABgaS5Izieq9xNYfMWgAAEekscsAJmzd6v-AnMlkqP9YjddXlecAADCDs_cAADYp9mAFAAABt0lEQVQ4je2TaZKbMBCFH0JCGIlFGGwGYxgLxomdfXOcxLn_tSKxxU65anKA6R-im-pP_XgSwEs8G-tiUTzMVTAl8l5vic2UVq7LGHPZdqwduzQGrzlCEUJyIRpAeOBmqwPCse_RJYRlu4zQxV8w0m0KleDQhV0cbWTZoAy1nyikeBraCrbfs0K_em3I1QxuZFAGyu7vdUAcNNoSUtZeahIbR0revH33_gPJCCH0eAU6IodpGkDUgRkvgxYTWDDy8dPnvcWYO4jtpcbOAV1kJkL5ySZA8sX4ErW1ETpIzQj7-i0zHN1VD6fTbA53en-5XaUQ6DMZ2CfvQUrODjPTzr1KLCfw2XBZ8d1wl6E6_j94ZtsfhGRjtZ2kekolbRMrRKoTXgRo6DiPrsAVrX4Sthqr2ZzUg_Z5DkcjzL3SXAb8Mq-uxCzp4kLYePS72RzjJvdlBM3tJtqC5hRkfDWyohUjrtG4XGfDl84TpQ8nNhPtaT7h9-1EI-_xbM-QUbrDDAqlIr9pAT_vBNo61qjj3L_1Z3vJ7CWn04f2FwBok9u29I61p2pRrOfK_lZh3XX_NKk74EvciT-4axznR1sk0gAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "Full–time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full–time"
+      },
+      "source_link": "https://etraveligroup.teamtailor.com/jobs/8483961-data-analyst-i",
+      "job_title": "Data Analyst-I",
+      "description": "Etraveli Group is a leading global flight technology provider, specializing in flight sales and offering flight content delivery and fintech products. We are here to solve complexity, by connecting millions of flights and travelers across the globe, from search and selection to trip and beyond.\n\nWe partner with major global platforms such as Booking.com, Google Flights, Skyscanner, and Kayak, providing seamless flight booking and related services. Our B2B portfolio includes Precision, our specialist in travel fintech; Tripstack, our B2B Flights as a Service Provider and world leader in virtual interlining, serving as the gateway to Etraveli Group’s flight content and fulfillment services; Wenrix, the AI Infrastructure for profitable growth in air; and Flygresor.se, Sweden’s leading flight comparison site. We also operate our own online travel agency brands including Gotogate, Mytrip, and Flightnetwork.\n\nEvery day we strive to make the world smaller for our customers and bigger for our people. Our diverse team of more than 3200 passionate professionals is what makes us the industry’s tech wonder and the best in the world at what we do.\n\nMajor offices in Sweden (HQ), Greece, India, Canada, Israel, Poland, UK, and Uruguay.\n\nThe Role\nThe Customer Services department within ETG is dedicated to continuously elevating the customer experience through automation, process optimization, and quality governance.\n\nWe are seeking an inquisitive, detail-oriented Data Analyst to join our team in Mumbai. In this role, you will play a pivotal part in delivering actionable insights and robust reporting solutions to global stakeholders across the Customer Services organization, empowering data-driven decision-making.\n\nKey Responsibilities\n\nPerformance Reporting: Monitor, analyse, and report on core Customer Service KPIs and operational performance metrics across daily, weekly, and monthly intervals.\n\nDashboard Development: Design, build, and maintain interactive productivity dashboards and visual analytics for cross-functional teams using BI tools (Qlik Sense).\n\nData Management & Extraction: Write efficient SQL queries to extract, transform, and model complex, multidimensional datasets from relational databases to fulfil ad-hoc and routine business requests.\n\nStakeholder Engagement: Collaborate directly with global business leads to understand data requirements, manage inbound reporting queues, and effectively communicate insights to technical and non-technical audiences.\n\nContinuous Improvement: Identify operational trends, inefficiencies, and data quality gaps to assist leadership in driving automation and workflow enhancements.\n\nRequirementsExperience: 3–5 years of hands-on experience in a Data Analysis, Business Intelligence, or Operational Reporting role (BPO / Contact Centre experience is highly advantageous).\n\nSQL Proficiency: Strong experience writing complex SQL queries for data extraction, aggregation, and analysis.\n\nBI Tools: Hands-on experience developing reports and dashboards in Qlik Sense / QlikView, Power BI, Tableau or Looker Studio (preferred).\n\nAdvanced Spreadsheet Skills: Proficient in Excel and Google Sheets, including advanced formulas (INDEX/MATCH, XLOOKUP, nested logic), pivot tables, and data modelling.\n\nData Handling: Proven ability to clean, manipulate, and draw insights from large, complex, and unaggregated datasets.\n\nKey Competencies & Behavioural Traits\n\nSelf-Driven & Proactive: Strong sense of ownership with a desire to impact organizational success.\n\nAgility: Comfortable working in a fast-paced, evolving environment with shifting business priorities.\n\nGood Communication: Able to articulate technical data findings clearly to global stakeholders at varying leadership levels.\n\nDiversity disclaimerAt Etraveli Group we value diversity; we pride ourselves on being a company represented by people of all different backgrounds. During hiring, we are committed to ensure equality and promote diversity in the workplace at every selection stage. As such, we provide the same opportunities for all candidates regardless of race, religion or belief, gender, nationality, ethnicity, sexual orientation, age, marital status, disability, or any other characteristic protected under any anti-discrimination law or regulation.",
+      "apply_options": [
+        {
+          "title": "Etraveli Group - Teamtailor",
+          "link": "https://etraveligroup.teamtailor.com/jobs/8483961-data-analyst-i?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/data-analyst-i-at-etraveli-group-4474384855?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/KgrJkbcpNp4wNoDzQxbgaa0stuPWa6qKqUx6aOWkGzlVa0t8kV-mwQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/-4829164350605314715?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Mployee.me",
+          "link": "https://www.mployee.me/jobs/view/data-analyst-i-in-mumbai-at-etraveli-group--jid--447438485595966/s1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/etraveli-group-data-analyst-i-mumbai-india-0-to-2-years-1834320?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://in.talent.com/view?id=643400291020377379&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Reachbox",
+          "link": "https://reachbox.in/jobs/22712?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QtSSIsImNvbXBhbnlfbmFtZSI6IkV0cmF2ZWxpIEdyb3VwIiwiaHRpZG9jaWQiOiI3NThYR2FPVTIzczRGV1dXQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWVRYVnRZbUZwTEUxaGFHRnlZWE5vZEhKaExFbHVaR2xoIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXaTAxWmtwV2JrOHpVUzE0VUVFemFVNWtjMVZpY2taUFpsOHlSV0pKWlZaRE1rVmxXVzFJZWw5c1FVTXhRbEZyTkRNd1FVSlNkUzF3ZWxkV1JYUndkREpZWm5OamFWWnVNR2RGYUcxVmRYQTNTakZNZGtoeGIzZzFXbTVvYnpCbFgzZElSRU4xTkhKRlpVTjBkRjl0TUhZNVZGTXpRMDFJV1Vsck5saHdjVmROTWw5VlluTVNGMjlWYjBKaExXWkxVRXBIYXpWT2IxQnNUMmxtYVZGTkdpSkJTRTR3UlRkR1kybzFiR3g0YUhOelpTMURhM0pFU2tac1NYRmZOa0Y2YkhGbiIsImZjdiI6IjMiLCJmY19pZCI6Ijc1OFhHYU9VMjNzNEZXV1dBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Analyst (Fresher)",
+      "company_name": "Dexian",
+      "location": "Mumbai, Maharashtra",
+      "via": "HireDoor",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=raE1n1PkhTc0f1gGAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQoCMRBAUWz3CIIwpYokIthoJSxa7RmWSRiSSDazZEZYOy9g5Q09iWvzq_eb96KxLSrCpWB-isL6Wkki1Q18Xx-4swMhrD4CF7gxh0zLc1Qd5WStSDZBFDV543mwXMjxZOdJ_uklYqUxo1J_OO4nM5awXbU0JSyQCnSPwWHaQYezQ4la8QcN_zJGkAAAAA&shmds=v1_Ac3VAow95luBbJ2NR-hZzpmQ-DalRyqMEPUa6P_6INbIP7Ngkw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=raE1n1PkhTc0f1gGAAAAAA%3D%3D",
+      "extensions": [
+        "24 days ago",
+        "₹4.2L a year",
+        "Full–time"
+      ],
+      "detected_extensions": {
+        "posted_at": "24 days ago",
+        "salary": "₹4.2L a year",
+        "schedule_type": "Full–time"
+      },
+      "source_link": "https://hiredoor.in/jobs/data-analyst-fresher--bc2914",
+      "job_title": "Data Analyst (Fresher)",
+      "description": "Dexian is hiring a Data Analyst (Fresher) in Mumbai (onsite). Eligible batches 2024 / 2025 / 2026. Compensation ₹35,000/month (₹4.2 LPA). Fresh graduates from B.Com, BBA, MBA or M.Com with strong Excel, data handling, communication, English and maths aptitude. Finance-related academic projects preferred. Immediate joiners who can commit to the fixed onboarding date. Share your updated resume and contact details via WhatsApp. Referral / Telegram sourcing.\n\nResponsibilitiesSupport day-to-day data analysis and reporting using MS Excel and related tools.Clean, organise and handle datasets for business stakeholders.Communicate findings clearly in written and verbal English.Contribute to finance- or operations-related analytical work as assigned.RequirementsFresh graduate — B.Com, BBA, MBA or M.Com.Batch 2024 / 2025 / 2026; fresher role.Strong proficiency in MS Excel and data handling.Excellent verbal and written communication; good aptitude in English and Mathematics.Finance-related academic projects preferred.Immediate joiner able to commit to the fixed onboarding date.Benefits₹4.2 LPA (₹35,000/month as posted)Onsite MumbaiFresher Data Analyst program at DexianHow to applyApply via WhatsApp to the given number.",
+      "apply_options": [
+        {
+          "title": "HireDoor",
+          "link": "https://hiredoor.in/jobs/data-analyst-fresher--bc2914?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "MyInternships.in",
+          "link": "https://myinternships.in/internships/6a989ad5fc5163bc602a8609?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgKEZyZXNoZXIpIiwiY29tcGFueV9uYW1lIjoiRGV4aWFuIiwiaHRpZG9jaWQiOiJyYUUxbjFQa2hUYzBmMWdHQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWVRYVnRZbUZwTEUxaGFHRnlZWE5vZEhKaExFbHVaR2xoIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXa3B4TlhWM2NtbG1OemxKUVVkbGR6ZDNOMG90T0Zwa1VtOW1jRWRQWldJNFVIaDRkR3g2Vmkxa05UVkZNWEkwUTNSblRVMXVlVVJ2T1RKTFIzRlZXbFJaYzBkTk4wWlZabkEzUjFwT2ExQjRVM2t5ZHkxNlluWmhSRXBoTkVWcVlVUk1lV281UzI1VWMyTkJWak5MYzBwMGIwbFVlRGx2U0V4SVVuZEpZbUZuYjFSVE5IUVNGMjlWYjBKaExXWkxVRXBIYXpWT2IxQnNUMmxtYVZGTkdpSkJTRTR3UlRkSGNTMWZjbTFhY0dOWFgwTnNZVmhoTmpKVlREaEtMV0ZsYW5OMyIsImZjdiI6IjMiLCJmY19pZCI6InJhRTFuMVBraFRjMGYxZ0dBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVSRVlsZGxXVVk0TUdwdVlXWTFkV3gwYUhsTGRYSjFZMjgyYUhBemFrOU1TR2RmTTB4UFQydEliMEpOYzNsWlVVczVTM2RKVEVKUGFrZHRWMFJoTW1GR2JWSkVXWFpOWHpSdVRHTjJibTlQTldReWNWbDRSRFZ5TkdoRVowTmtWSGhKZG1nNVdXSnNTMEZrTTJKaldtTm5SVkpZZURod2VHTnlVbFpFZFRWTlpqUTNTbWRUUkRJdGIyNUpVMnB2V21sb1dGSm1iWGhKV1hsU01HRjNaVFZoYW5OUWMyWkdPVGxKYURONVFWUk9Semg0TURSUlRqSmthRk15TUdkc1QySTVhMWhtY0daeFpXWXdXV3hHYWpSbmVrVlZTMnBoUWtvdFdGZEJMVXhSV1doc09USjJWV0p4YVhOSmRpMUJMVEJDUWtwb2VIVjZlalo0TldaNFFXd3hOR05ET0dvMWRVaFFSR1kwT0RGSFlXUklNVWQwWTBVelZYUXhWVGx2WVhGek1XcFhkQzEzUzJoclkyOVFhMnhOZDBScVNYSTVaa2hmWlZjNWNpMUZURkZHU0VkMVZUWnlabkU1WkhkdWNWWlhVekJCVEZoc1dYUTFiRk0zVlRkMlgzRnplVVZWWmxaRVUyZENPRWxVY1U1U05FVm1iM1JUTFhCaGFHdzFjR1JQWjB0SWQwWkhiSGRQWmtad1dXdEphWGN5TlhRMVNISmtkekJWV2tOSmNrc3pXazUyZFVOUmIxZEZRWFJ3TUc4MlRXOTRPWE5TZW1SUU1ISmlPVFJ6Tm5aWVQzUmFiVEZQTW5OTGFFbE1TR0pZYWtGb2JpMUxOMlJLWTNkbFdWRVNGMjlWYjBKaExXWkxVRXBIYXpWT2IxQnNUMmxtYVZGTkdpSkJTRTR3UlRkSVJrOUhOM3BpWjFoZldYRnJiRXN0VUZSSGFISndOVEZHVUc5biIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&next_page_token=eyJmYyI6IkVxSUVDdUlEUVVSRVlsZGxXVVk0TUdwdVlXWTFkV3gwYUhsTGRYSjFZMjgyYUhBemFrOU1TR2RmTTB4UFQydEliMEpOYzNsWlVVczVTM2RKVEVKUGFrZHRWMFJoTW1GR2JWSkVXWFpOWHpSdVRHTjJibTlQTldReWNWbDRSRFZ5TkdoRVowTmtWSGhKZG1nNVdXSnNTMEZrTTJKaldtTm5SVkpZZURod2VHTnlVbFpFZFRWTlpqUTNTbWRUUkRJdGIyNUpVMnB2V21sb1dGSm1iWGhKV1hsU01HRjNaVFZoYW5OUWMyWkdPVGxKYURONVFWUk9Semg0TURSUlRqSmthRk15TUdkc1QySTVhMWhtY0daeFpXWXdXV3hHYWpSbmVrVlZTMnBoUWtvdFdGZEJMVXhSV1doc09USjJWV0p4YVhOSmRpMUJMVEJDUWtwb2VIVjZlalo0TldaNFFXd3hOR05ET0dvMWRVaFFSR1kwT0RGSFlXUklNVWQwWTBVelZYUXhWVGx2WVhGek1XcFhkQzEzUzJoclkyOVFhMnhOZDBScVNYSTVaa2hmWlZjNWNpMUZURkZHU0VkMVZUWnlabkU1WkhkdWNWWlhVekJCVEZoc1dYUTFiRk0zVlRkMlgzRnplVVZWWmxaRVUyZENPRWxVY1U1U05FVm1iM1JUTFhCaGFHdzFjR1JQWjB0SWQwWkhiSGRQWmtad1dXdEphWGN5TlhRMVNISmtkekJWV2tOSmNrc3pXazUyZFVOUmIxZEZRWFJ3TUc4MlRXOTRPWE5TZW1SUU1ISmlPVFJ6Tm5aWVQzUmFiVEZQTW5OTGFFbE1TR0pZYWtGb2JpMUxOMlJLWTNkbFdWRVNGMjlWYjBKaExXWkxVRXBIYXpWT2IxQnNUMmxtYVZGTkdpSkJTRTR3UlRkSVJrOUhOM3BpWjFoZldYRnJiRXN0VUZSSGFISndOVEZHVUc5biIsImZjdiI6IjMifQ%3D%3D&q=Data+Analyst"
+  }
+}

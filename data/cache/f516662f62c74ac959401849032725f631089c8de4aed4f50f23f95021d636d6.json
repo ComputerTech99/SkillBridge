@@ -1,0 +1,1099 @@
+{
+  "search_metadata": {
+    "id": "6b014a749bc9c912be806a48",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Yz8mt6mHiu_0otDcIFqNUhTPjyouiw07ECrHANOoCxY/6b014a749bc9c912be806a48.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Yz8mt6mHiu_0otDcIFqNUhTPjyouiw07ECrHANOoCxY/6b014a749bc9c912be806a48.md",
+    "created_at": "2026-11-21 07:38:28 UTC",
+    "processed_at": "2026-11-21 07:38:28 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=CI%2FCD+full+course+tutorial+for+Frontend+Developer&gl=in&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/Yz8mt6mHiu_0otDcIFqNUhTPjyouiw07ECrHANOoCxY/6b014a749bc9c912be806a48.html",
+    "total_time_taken": 4.84
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "CI/CD full course tutorial for Frontend Developer",
+    "gl": "in",
+    "hl": "en"
+  },
+  "search_information": {
+    "total_results": 608323,
+    "video_results_state": "Results for exact spelling"
+  },
+  "ads_results": [
+    {
+      "position_on_page": 1,
+      "title": "Devour knowledge with Student Spaces",
+      "link": "https://www.youtube.com/watch?v=VdDiEf6YJnQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VdDiEf6YJnQ",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CaMyZdUoBa6PYINCfpMYPv-q-iQmXouaPiwHIvp-b-hWwkB8QASAAYMm24438pJgTggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAbH6_-oCqAMEyAMKqgTuAk_QFDdDb03ThMs3lxGyWZdPfKIipmVaoAmA7oTLAVjso3lfOBE4ieuqyWW3BmB9hQdqNx3gbsRDEy9IyWBbT-1FhGW_KR8vuuHQlCTpTyVh94Nt5QEkRE1sxiDWfchq98e-eewbANBPoOJF123KqeXnIMm_OLd5wmALFumqa6tcL3VZInsTSwEGdui2A8_oJ1tZ4DBPs_sZCFbHn4Ipr8040SvBkSnnfG4YxFqzDlDRozvoc3uXElGipQ_Fx2cOA3a2Nu3Z3WOq570WeP4J6Uz_AJSGxtu3AlOjzkuJAyxicq3wJSLcxzT6QBNygfxgeSCt3jaFrm0DFxT8TFqJOIJmxGLDWLaaXIlgrV6iUqip8yLMPfKNI8sdTd4GWoJ3l5joyLxs3-pvKejcC2URMUNAw8zQXN99Acagl8NIp4cJSl4Vz-Q82ALztYl8GOLHcLxrtz8P2yW88b3z8UDIzF6RTPthKCbgEzl_x8KpZogF5tDvrViSBQgIE3j6zZ-VAaAGoQGAB7eFgJUBkAcEqAelz7ECqAfnnbECqAfonbECqAeD9rECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHnuqxAqgHn-qxAqgH-OuxAqgHvOqxAqgH7_GxAqgH_K-xAqgH1c4bqAe-2bECqAe_2bECqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKSCAtWZERpRWY2WUpuUagIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWKizn5PHmJgDYAGaCSxodHRwczovL2Fjcm9iYXQuYWRvYmUuY29tL3N0dWRlbnRzcGFjZXMvaG9tZbEJWSnDN4YNTWDICRfICY8ByAnCAboLPggDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AIC2AEDgAIBiAISugMJdmlhdGx6YWFh0AsT4AsBogwfYhgKFmNvbS5hZG9iZS5lY2hvc2lnbi5pb3N4AIgBANIMAhABmg0BE6oNAlVTyA0B0g3pBGh0dHBzOi8vYWQuZG91YmxlY2xpY2submV0L2RkbS90cmFja2Nsay9OOTcyOTUyLjI3OTM4MkJJRE1BTkFHRVJfREZBU0lURS9CMjIzNDQ0MTMuMjQxNTM5MzIxO2RjX3Rya19haWQ9NDM4MTI4NjIyO2RjX3Rya19jaWQ9MTEyODg0NjEzO2RjX2RibV90b2tlbj1BT2plTE5FQUFBQTZDak1LREFnQUZRQUFBQUFkQUFBQUFCSU1DQUFWQUFBQUFCMEFBQUFBSWhNSTV0RHZyVmlvQXNPNDlBR3dBc3lXNHVrRFFEc1FsLWU2QWFwU28zTGo2OUhxbVJTR0Q3TmxKdGM9O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2x0ZD07ZGNfdGR2PTE7ZGNfdHJhbnNwYXJlbnQ9MTtkY19ydWk9MTtkY19lcHM9QUhhczhjQ0c0OERUcjlNZE4xN0dpQ2hLcFNkS0VSb05sLVhxNVJDeGhkLVVnYkxldXRXRUlEY3AwNWNDYUVJeFFEdXlSYkx2RTBqZTQtWFM3NDBmT2c7ZGNfcHViaWQ9Nj9odHRwczovL2Fjcm9iYXQuYWRvYmUuY29tL3N0dWRlbnRzcGFjZXMvaG9tZT9zZGlkPVZCRjFLODI1Jm12PXNvY2lhbCZtdjI9cGFpZHNvYyZ4X2FwaV9jbGllbnRfaWQ9cGFpZG1lZGlhJnhfYXBpX2NsaWVudF9sb2NhdGlvbj1hZHNfVkJGMUs4MjUmZ2FkX3NvdXJjZT0ysBPX3cEmuBP___________8BiBQHsBQDwBWBgIBA0BUB2BUBmBYBqBYBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRdXv8ICGj4Y8LoXBigAMAA4AdAYAfAYAQ&gclid=EAIaIQobChMI4-afk8eYmAMV0A_JAh0_tS-REAEYASAAEgIJRPD_BwE&num=1&cid=CAASqgHkaM_wduGUYui6Ph3J6BIkfQI-wOmma4EV08Fd4mZnX2rtGN3RyyDqXc1Ojtwh645YtOptS8-98pOuD0YUCOCudC6IGfyJsH3XBCk-i2vN4voYndrZWNtoC7QMC8ELApJr-PYu1FSXOnT6PcULnZZRUk06V3EYpRZLCLh4F0Ca4yzRH7qyuImnDDK-8sagm9NTegBVzj9nViB3uXR0C4mO9fwPQmJCYNaF4g&ad_cpn=%5BCPN%5D&sig=AOD64_3fVG5ksHbaJgLvPs40zg6U3EezNw&ctype=110&video_id=VdDiEf6YJnQ&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Adobe",
+        "thumbnail": "https://yt3.ggpht.com/proxy/MOuz2I13I1fAnFfngtXtL_W4we9dtMgr0pZOHx9ZvXrWe0TzDLTj2mq2_seyh8bAOYiFhihUkC0bcCbQ2Rr3ROUyAm-g7fKx7ikqVy2aYwv8ap82JEQltB0uNj5JlrrMcTbQ-wFlNo0DfytWwYBrrCyx4-VnwgCwx-dn0fy6KEEwJzLjssuJHIvXA-MdWMvBvChh3bzxW7-sQCuvX2mDwrBOQUGt_eZzMbPzNL_oO6Ke1vjjr2458wPYmALVc80eUKLvvs8=w68-h68-nd"
+      },
+      "description": "Student Spaces is a smarter way to study. Free for students.",
+      "thumbnail": {
+        "static": "https://tpc.googlesyndication.com/simgad/16369361523479505177"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Ultra-slim magnetic AI recorder fits right in your pencil case or pocket. Ships fast.",
+      "link": "https://www.youtube.com/watch?v=ihn1m9AoiBc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ihn1m9AoiBc",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CKL1SdUoBa6PYINCfpMYPv-q-iQmJnqOHiwG6ofv_6BWwkB8QAiAAYMm24438pJgTggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAcrdkKNEqAMEyAMKqgS9Ak_QFDdDb03ThMs3lxGyWZdPfKIipmVaoAmA7oTLAVjso3lfOBE4ieuqyWW3BmB9hQdqNx3gbsRDEy9IyWBbT-1FhGW_KR8vuuHQlCTpTyVh94Nt5QEkRE1sxiDWfchq98e-eewbANBPoOJF123KqeXnIMm_OLd5wmALFumqa6tcL3VZInsTSwEGdui2A8_oJ1tZ4DBPs_sZCFbHn4Ipr8040SvBkSnnfG4YxFqzDlDRozvoc3uXElGipQ_Fx2cOA3a2Nu3Z3WOq570WeP4J6Uz_AJSGxtu3AlOjzkuJAyxicq3wJSLcxzT6QBNygfxgeSCt3jaFrm0DDxRzvZh0E4pmbnpVdg714KXCoebOuxG1A8qT_frR4j5K2GkPeTWhAq_ewGXQsNiSXVjeQWmQXH52NP808kXgKx6rhdaSiAXl7NP2WpIFCAgTeLCC7KkfoAahAYAHypXhgh-QBwSoB6XPsQKoB-edsQKoB-idsQKoB4P2sQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAee6rECqAef6rECqAf467ECqAe86rECqAfv8bECqAf8r7ECqAfVzhuoB77ZsQKoB7_ZsQKoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxApIIC2lobjFtOUFvaUJjqAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAGEjZoNI1UBRYqLOfk8eYmANgAZoJK2h0dHBzOi8vZWNoby5tZWV0d2hhbGUuYWkvcHJvZHVjdHMvZWNoby1wcm-xCZOvO340f_n_yAkXyAmPAcgJwgGYCwG6Cz4IAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAtgBAYACAYgCEroDCXZpYXRsemFhYdALE9IMAhABmg0BE6oNAlVTyA0B0g1TaHR0cHM6Ly9lY2hvLm1lZXR3aGFsZS5haS9wcm9kdWN0cy9lY2hvLXBybz9nYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjQ0MDgwMjg3NzO4E____________wGIFAGwFAPAFYGAgEDQFQHYFQGYFgGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpFyHxiLXUiJ4wuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMI4-afk8eYmAMV0A_JAh0_tS-REAEYAiAAEgLfWvD_BwE&num=2&cid=CAASqgHkaM_wduGUYui6Ph3J6BIkfQI-wOmma4EV08Fd4mZnX2rtGN3RyyDqXc1Ojtwh645YtOptS8-98pOuD0YUCOCudC6IGfyJsH3XBCk-i2vN4voYndrZWNtoC7QMC8ELApJr-PYu1FSXOnT6PcULnZZRUk06V3EYpRZLCLh4F0Ca4yzRH7qyuImnDDK-8sagm9NTegBVzj9nViB3uXR0C4mO9fwPQmJCYNaF4g&ad_cpn=%5BCPN%5D&sig=AOD64_1H3Nx6abF8JM-naV-wVkfF7sR86g&ctype=110&video_id=ihn1m9AoiBc&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Whale Echo",
+        "thumbnail": "https://yt3.ggpht.com/proxy/Tb9NoK22jFeIDpBXbZw0kppL5kKISf2V5yoVx7WrdRTleDgf_Y24S6UbB7-k6NY_wowZVcJfGW9wxUBeTH3osJ0hZD2fSI13bWJBWgVMBl7Vlos2HvmMxJZXuybILTWRQ1RI3U0xfqmPlKtoCcqAa6peIDlplY85hy8FppWEbaOpO7BOGivR1j6ivSXv2WkHZUYcCwUqiKZUgIIrZivHLRt0ZR7cuBVqadOpmupFgPNhzVNcVQMBvCd9zZ850DQ3NrBlESc=w68-h68-nd"
+      },
+      "description": "Echo: AI study sidekick saves your lecture audio and study notes",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ihn1m9AoiBc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNbzyMcIzSzpFTp8jSlrvIvcb4dw"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Native: Say No, Feel Whoa",
+      "link": "https://www.youtube.com/watch?v=oMTMI2w_1Xs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=oMTMI2w_1Xs",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CE-KVdUoBa6PYINCfpMYPv-q-iQmQ_JOBigHEhKDs7hWwkB8QAyAAYMm24438pJgTggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAb7mgPYqqAMEyAMKqgTeAk_QFDdDb03ThMs3lxGyWZdPfKIipmVaoAmA7oTLAVjso3lfOBE4ieuqyWW3BmB9hQdqNx3gbsRDEy9IyWBbT-1FhGW_KR8vuuHQlCTpTyVh94Nt5QEkRE1sxiDWfchq98e-eewbANBPoOJF123KqeXnIMm_OLd5wmALFumqa6tcL3VZInsTSwEGdui2A8_oJ1tZ4DBPs_sZCFbHn4Ipr8040SvBkSnnfG4YxFqzDlDRozvoc3uXElGipQ_Fx2cOA3a2Nu3Z3WOq570WeP4J6Uz_AJSGxtu3AlOjzkuJAyxicq3wJSLcxzT6QBNygfxgeSCt3jaFrm0DFxSNKVqJPoJmgxXrV6yaXI5grl5MR7uCE9jRfBNr288bXE3KnwuVRakOGLbuVj78xnjlQYB8XnmU2TGoapzcMyGHkqCSvAO0_IPy99TSD6Nij7O6tnRMvyDzbgY1CYFAAGslFfDhiAWso5PQWZIFCAgTeP7-y44GoAahAYAHvp7R1QWQBwSoB6XPsQKoB-edsQKoB-idsQKoB4P2sQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAee6rECqAef6rECqAf467ECqAe86rECqAfv8bECqAf8r7ECqAfVzhuoB77ZsQKoB7_ZsQKoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxApIIC29NVE1JMndfMVhzqAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAGEjZoNI1UBRYqLOfk8eYmANgAZoJRGh0dHBzOi8vd3d3LndhbG1hcnQuY29tL2JyYW5kL25hdGl2ZS9jbGVhbi1zaW1wbGUtZWZmZWN0aXZlLzIwMDY5MTAysQlPvaaUFExgsMgJF8gJjwHICcIBugs-CAMQBRgEIAcoATAcQAFIAFh9YABoAHABiAEAmAEBogEICgCoAgHYAgLYAQOAAgGIAhK6Awl2aWF0bHphYWHQCxPgCwGiDBxqFQoTY29tLndhbG1hcnQuYW5kcm9pZHgAiAEA0gwCEAGaDQETqg0CVVPIDQHSDbcEaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL04zNTE4MDUuMzAwNjY2OUdPT0dMRVBSRUZFUlJFRC1EL0IzNjI2MjEwMS40NTA3MjMzNzk7ZGNfdHJrX2FpZD02NDQ3MjcwNjg7ZGNfdHJrX2NpZD0yNTkwMjYyNzQ7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBOENqUUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaFFJcktPVDBGbW9BdjcteTQ0R3NBS2tzcmpxQTBBN0VQWFM1WWdHOTVUYWpxQWtad0N3ZlI3Y3FMSW1aZz09O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2x0ZD07ZGNfdGR2PTE7ZGNfdHJhbnNwYXJlbnQ9MTtkY19ydWk9MTtkY19lcHM9QUhhczhjQ3V0TXVxRjlyR095eE52WUZSeGYwSFlXZ014eV9KR1ZKYnE0Uzl6emJXRnNMeFc5SGh2OUtDdS01bndLcVZUUkN1X01iTzBDV3puU3pjVGc7ZGNfcHViaWQ9Nj9odHRwczovL3d3dy53YWxtYXJ0LmNvbS9icmFuZC9uYXRpdmUvY2xlYW4tc2ltcGxlLWVmZmVjdGl2ZS8yMDA2OTEwMj9zZWxlY3RlZFNlbGxlcklkPTAmZ2FkX3NvdXJjZT0ysBO2i4kmuBP___________8BiBQSsBQDwBWBgIBA0BUB2BUBmBYBqBYBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBuhcGKAAwADgB0BgB8BgB&gclid=EAIaIQobChMI4-afk8eYmAMV0A_JAh0_tS-REAEYAyAAEgLo0_D_BwE&num=3&cid=CAASqgHkaM_wduGUYui6Ph3J6BIkfQI-wOmma4EV08Fd4mZnX2rtGN3RyyDqXc1Ojtwh645YtOptS8-98pOuD0YUCOCudC6IGfyJsH3XBCk-i2vN4voYndrZWNtoC7QMC8ELApJr-PYu1FSXOnT6PcULnZZRUk06V3EYpRZLCLh4F0Ca4yzRH7qyuImnDDK-8sagm9NTegBVzj9nViB3uXR0C4mO9fwPQmJCYNaF4g&ad_cpn=%5BCPN%5D&sig=AOD64_0XI56l2TOzQ6k9ruPX9gUMzv2FSQ&ctype=110&video_id=oMTMI2w_1Xs&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Native",
+        "thumbnail": "https://yt3.ggpht.com/proxy/TXZzG2Xu_2Sx_Mhq0C16iMJCc0QgeE_tSH3zlj3zdvyfkd-nbUlMU3RU6QwxfcNoDQxf6ZVbbQEFuMLGrXRpVdALhGLZhfa8FvgyI9qQebpCqfW_Qv56nRiFiq32VN8dBgH9Mf1m5CJJ-wFByFVxUodfutpGYexWyqfHqEeMX89fRg6Z9m3JQ8-BQCLDfsZ1eM7bj2nY2KZAN7qqsgR2WcXsgasfYsDAiVBsqo4QjO4z2dLhEzNJs16rivlNxEHN7dWo50g=w68-h68-nd"
+      },
+      "description": "No to the bad. \"Whoa\" to the good. Clean ingredients, craveable scents.",
+      "thumbnail": {
+        "static": "https://tpc.googlesyndication.com/simgad/15789517140065099821"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Copilot Cowork can help you with complex work in less time.",
+      "link": "https://www.youtube.com/watch?v=l_JY_nbwKiM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=l_JY_nbwKiM",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=Cot6odUoBa6PYINCfpMYPv-q-iQmh0vzHigGFyq_4qhawkB8QBCAAYMm24438pJgTggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAenqov1DqAMEyAMKqgThAk_QFDdDb03ThMs3lxGyWZdPfKIipmVaoAmA7oTLAVjso3lfOBE4ieuqyWW3BmB9hQdqNx3gbsRDEy9IyWBbT-1FhGW_KR8vuuHQlCTpTyVh94Nt5QEkRE1sxiDWfchq98e-eewbANBPoOJF123KqeXnIMm_OLd5wmALFumqa6tcL3VZInsTSwEGdui2A8_oJ1tZ4DBPs_sZCFbHn4Ipr8040SvBkSnnfG4YxFqzDlDRozvoc3uXElGipQ_Fx2cOA3a2Nu3Z3WOq570WeP4J6Uz_AJSGxtu3AlOjzkuJAyxicq3wJSLcxzT6QBNygfxgeSCt3jaFrm0DDxRzvZghNIpmbnpVQRXD7ZrQol0OXrCqy8G5_eotJNHWHczgFZWj7-Ga9om2V-EyVa-j02ezun1mVH4m8tAF0WhBM5hNL06O9gf73sw18RpaUCpzhVpUQpJzIt_1p7JsGI7f6fQTWVg1iAW2-JrlWpIFCAgTeM-H54IfoAahAYAH6aLz3B6QBwSoB6XPsQKoB-edsQKoB-idsQKoB4P2sQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAee6rECqAef6rECqAf467ECqAe86rECqAfv8bECqAf8r7ECqAfVzhuoB77ZsQKoB7_ZsQKoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxApIIC2xfSllfbmJ3S2lNqAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAGEjZoNI1UBRYqLOfk8eYmANgAZoJNWh0dHBzOi8vd3d3Lm1pY3Jvc29mdC5jb20vZW4tdXMvY29waWxvdC93b3JrL2J1c2luZXNzsQkK0kMhhLpH4sgJF8gJjwHICcIByAmXAroLPggDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AIC2AEDgAIBiAIFugMJdmlhdGx6YWFh0AsS4AsB0gwCEAGaDQESqg0CVVPIDQHSDfYEaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL041NzI2MDguNDEwMTAzNllPVVRVQkVWSUFEVjM2MEFVL0IzNjk5NDkxOC40NjEzMzY2NjQ7ZGNfdHJrX2FpZD02NTU2NTAzMDY7ZGNfdHJrX2NpZD0yNjg4NTQ4Nzk7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBOENqUUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaFFJdHZpYTVWcW9Bcy1INTRJZnNBTEw1UFRyQTBBN0VLSEFfN0lkSHNRYThtbzR3elNfWmJraDVxeUJTQT09O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2x0ZD07ZGNfdGR2PTE7O2RjX3RyYW5zcGFyZW50PTE7ZGNfcnVpPTE7ZGNfZXBzPUFIYXM4Y0RoTTNJWlgtdHR1TnNqMDRSLW5lMFhIUkFJMnBnS1ZpUHBxa2lJdURVMlZSMEtzenRiY3AwUlZuYnB1T012eDAyN20xeDNmaWJ4UmZBSXZBO2RjX3B1YmlkPTY_aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9jb3BpbG90L3dvcmsvYnVzaW5lc3M_T0NJRD1BSURjbW1sNWFyam96bl9PTEFfMzY5OTQ5MThfNDYxMzM2NjY0XzI2ODg1NDg3OSZzaXRlSUQ9MTA2NTc5NTUmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTI0MzcxNDQ0NzkwsBOZtqUmuBP___________8BiBQBsBQDwBWBgIBA0BUB2BUBqBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF4QGIdHTHExeuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMI4-afk8eYmAMV0A_JAh0_tS-REAEYBCAAEgIlbPD_BwE&num=4&cid=CAASqgHkaM_wduGUYui6Ph3J6BIkfQI-wOmma4EV08Fd4mZnX2rtGN3RyyDqXc1Ojtwh645YtOptS8-98pOuD0YUCOCudC6IGfyJsH3XBCk-i2vN4voYndrZWNtoC7QMC8ELApJr-PYu1FSXOnT6PcULnZZRUk06V3EYpRZLCLh4F0Ca4yzRH7qyuImnDDK-8sagm9NTegBVzj9nViB3uXR0C4mO9fwPQmJCYNaF4g&ad_cpn=%5BCPN%5D&sig=AOD64_1KHAU4axcAlJeQwyCmjEvxyQQyqA&ctype=110&video_id=l_JY_nbwKiM&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Microsoft Copilot",
+        "thumbnail": "https://yt3.ggpht.com/proxy/QZsKF8uymkSSgcIQLIQR24pXjFAAm9dvPTDfUaFKTKVhufA2nyuKNgKVJ73VlYIcXjZEP9v4jeIWvI_odsUd2vLGbwu2LBXFzREk6wueOsaeosEuFlEckTDTqpmm9hHvSVQiZIKMrYJzz_HqIvZPEstVdqmRJvG1lrA307PP6MnUFR6Utes5ybs3BElWa4CfsoUiaChSBwkQDXJf0MefcdVXul4Z5ziGzUlo9MDI4y5V8ofhmMJC2VZqMKUUHkKMYci6=w68-h68-nd"
+      },
+      "description": "Intelligence Built for Work",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/l_JY_nbwKiM/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBA6TUzIex26uDSMdE150OD7KjPKQ"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "$149 for the Mini Kit (typically $249)",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CtuGAdUoBa6PYINCfpMYPv-q-iQnzj_ORiwGO54SYjhZkEAUgAGDJtuON_KSYE4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGpidvJKKgDBMgDCqoEvgJP0BQ3Q29N04TLN5cRslmXT3yiIqZlWqAJgO6EywFY7KN5XzgROInrqslltwZgfYUHajcd4G7EQxMvSMlgW0_tRYRlvykfL7rh0JQk6U8lYfeDbeUBJERNbMYg1n3IavfHvnnsGwDQT6DiRddtyqnl5yDJvzi3ecJgCxbpqmurXC91WSJ7E0sBBnbotgPP6CdbWeAwT7P7GQhWx5-CKa_NONErwZEp53xuGMRasw5Q0aM76HN7lxJRoqUPxcdnDgN2tjbt2d1jque9Fnj-CelM_wCUhsbbtwJTo85LiQMsYnKt8CUi3Mc0-kATcoH8YHkgrd42ha5tAw8Uc72YPzSKZm96VWN5jcKcwqGElOYXqRbKidafUv050khBJZ9s7RANyRgg39YMiXxz_EFlhKJVCFgrJdBF7j3enLjOMIOIBdP4kL1XkgUICBN40tixrwOgBm6AB6nBq6kDkAcEqAelz7ECqAfnnbECqAfonbECqAeD9rECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHnuqxAqgHn-qxAqgH-OuxAqgHvOqxAqgH7_GxAqgH_K-xAqgHvtmxAqgHv9mxAqgHt6GxAqgH1amxAqgH59qxAqgH3rWxAtIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWKizn5PHmJgDYAGaCSBodHRwczovL3d3dy5zdGFybGluay5jb20vdXMvcm9hbbEJjDiarNditrPICQDICYoCmAsBugs-CAMQBRgEIAgoATAcQAFIAFhOYABoAHABiAEAmAEBogEICgCoAgHYAgLYAQGAAgGIAgW6Awl2aWF0bHphYWHQCxKiDDNiFQoTY29tLnN0YXJsaW5rLm1vYmlsZWoVChNjb20uc3RhcmxpbmsubW9iaWxleACIAQDSDAIQAZoNARKqDQJVU8gNAdIN_wFodHRwczovL3d3dy5zdGFybGluay5jb20vdXMvcm9hbT9yZWZlcnJhbD1SQy0zMDAyNjA2LTgzNDgyLTU3JnV0bV9zb3VyY2U9Z29vZ2xlJnV0bV9tZWRpdW09cGFpZCZ1dG1fY2FtcGFpZ249c2xzX3VzX2RtZ19nZ2xfcHRnX3BmZC15ZGcmdXRtX2NvbnRlbnQ9c2xzX3VzX2RtZ19nZ2xfcHRnX3BmZC15ZGdfcm9tX2hkc192NG1fc3RjX2VuLXVzX2JlYWNoLWhhbmQtcG1vLTE0OSZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM0ODIwODg1MzG4E____________wGwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXnHvmJuRHtly6FwYoADAAOAHQGAHwGAHCGQIIAQ&gclid=EAIaIQobChMI4-afk8eYmAMV0A_JAh0_tS-REAEYBSAAEgK6lPD_BwE&num=5&cid=CAASqgHkaM_wduGUYui6Ph3J6BIkfQI-wOmma4EV08Fd4mZnX2rtGN3RyyDqXc1Ojtwh645YtOptS8-98pOuD0YUCOCudC6IGfyJsH3XBCk-i2vN4voYndrZWNtoC7QMC8ELApJr-PYu1FSXOnT6PcULnZZRUk06V3EYpRZLCLh4F0Ca4yzRH7qyuImnDDK-8sagm9NTegBVzj9nViB3uXR0C4mO9fwPQmJCYNaF4g&sig=AOD64_03gq1mcvFAFiS95Pa4LcYlvWdZug&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Starlink",
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/zv-Cy2wtCP0QQ14SJ0BVyBJwqVbMOgCk5nc9qxz3nARtwfSw27O8T-oTVmdzQWPzk8LAIvdt9rjuLtTMogzE1wvGrf-e3sOZwx1-RVGiT2QvMm1jIYhjdpMWug0aQNBDgN4"
+      },
+      "description": "Stay Connected In Remote Areas With Starlink Mini. Speeds Up To 300+ Mbps.",
+      "thumbnail": {
+        "static": "https://lh6.googleusercontent.com/proxy/zv-Cy2wtCP0QQ14SJ0BVyBJwqVbMOgCk5nc9qxz3nARtwfSw27O8T-oTVmdzQWPzk8LAIvdt9rjuLtTMogzE1wvGrf-e3sOZwx1-RVGiT2QvMm1jIYhjdpMWug0aQNBDgN4"
+      }
+    }
+  ],
+  "video_results": [
+    {
+      "position_on_page": 2,
+      "title": "CI/CD Tutorial using GitHub Actions - Automated Testing & Automated Deployments",
+      "link": "https://www.youtube.com/watch?v=YLtlz88zrLg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=YLtlz88zrLg",
+      "video_id": "YLtlz88zrLg",
+      "channel": {
+        "name": "Tom Shaw",
+        "channel_id": "UClYy-MQuDXPf3gI-bsLcuEw",
+        "link": "https://www.youtube.com/@tom.developer",
+        "thumbnail": "https://yt3.ggpht.com/QJu6qDyIR3WciDtfgkU-i-TQTjJFO-kZ6OMBx1tMDXBtOd7qIzwvxL5kTzgEgt1Ah6Q6c5vD9A=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 497009,
+      "length": "6:13",
+      "description": "STARTER PROJECT SOURCE CODE: https://github.com/IAmTomShaw/github-actions-demo-project Want to automate your ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/YLtlz88zrLg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDY-U-iNchYETl7S1acb4V-G7cdYw",
+        "rich": "https://i.ytimg.com/an_webp/YLtlz88zrLg/mqdefault_6s.webp?du=3000&sqp=CMiIhdgG&rs=AOn4CLCkMYahHVxPd58ZSfaTxaxCFuKn7A"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "DevOps CI/CD Explained in 100 Seconds",
+      "link": "https://www.youtube.com/watch?v=scEDHsr3APg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=scEDHsr3APg",
+      "video_id": "scEDHsr3APg",
+      "channel": {
+        "name": "Fireship",
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "link": "https://www.youtube.com/@Fireship",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/3fPNbkf_xPyCleq77ZhcxyeorY97NtMHVNUbaAON_RBDH9ydL4hJkjxC8x_4mpuopkB8oI7Ct6Y=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 1909715,
+      "length": "1:56",
+      "description": "What is DevOps? How to setup a CI/CD pipeline? Learn the basics of continuous integration & delivery and how it can optimize ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/scEDHsr3APg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIcAAeMazWcTN31oRg5i4lep-x1g",
+        "rich": "https://i.ytimg.com/an_webp/scEDHsr3APg/mqdefault_6s.webp?du=3000&sqp=CKiOhdgG&rs=AOn4CLD4_x9TK3U7FGsfppwpEBOyMSoPbA"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "How to design a modern CI/CD Pipeline",
+      "link": "https://www.youtube.com/watch?v=KnSBNd3b0qI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=KnSBNd3b0qI",
+      "video_id": "KnSBNd3b0qI",
+      "channel": {
+        "name": "DevOps Journey",
+        "channel_id": "UC4Snw5yrSDMXys31I18U3gg",
+        "link": "https://www.youtube.com/@DevOpsJourney",
+        "thumbnail": "https://yt3.ggpht.com/zU3hDcr7eahrXDbBb9Hg45FHlgnnivIB7QLCx3ckkoWrWXCCG_jNdPORNg7uVBA2wdvtp86z=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 314315,
+      "length": "9:59",
+      "description": "Learn how I design CI/CD pipelines. in this video I diagram out the major components and considerations taken when creating ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/KnSBNd3b0qI/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg3IFQofzAP&rs=AOn4CLCaWByWAlrD2ryNUlUJgT40YeFOxw"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/KnSBNd3b0qI/hqdefault_27000.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg3IFQofzAP&rs=AOn4CLAKW9Ny9KPVbM-uX0q8XgC--qxb6g",
+          "time_start": 0
+        },
+        {
+          "title": "Source Stage",
+          "thumbnail": "https://i.ytimg.com/vi/KnSBNd3b0qI/hqdefault_54000.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg3IFQofzAP&rs=AOn4CLBYMqDgqt_wWEPwxzcg6mf02ww1og",
+          "time_start": 27
+        },
+        {
+          "title": "PreCommit",
+          "thumbnail": "https://i.ytimg.com/vi/KnSBNd3b0qI/hqdefault_153000.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg3IFQofzAP&rs=AOn4CLAtc2FGibOIp8txyMrTWRdahN9dVw",
+          "time_start": 130
+        },
+        {
+          "title": "Build",
+          "thumbnail": "https://i.ytimg.com/vi/KnSBNd3b0qI/hqdefault_201000.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg3IFQofzAP&rs=AOn4CLCl3TrXuqWy_2QlhUfvP3SdEY9cIg",
+          "time_start": 190
+        },
+        {
+          "title": "Code Coverage",
+          "thumbnail": "https://i.ytimg.com/vi/KnSBNd3b0qI/hqdefault_303000.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg3IFQofzAP&rs=AOn4CLDSTdegmav1v1e0ILNQ22N0-j92hg",
+          "time_start": 295
+        },
+        {
+          "title": "Integration Tests",
+          "thumbnail": "https://i.ytimg.com/vi/KnSBNd3b0qI/hqdefault_369000.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg3IFQofzAP&rs=AOn4CLBz_2tAYXOZAXJiiw_NZFwex6rL4Q",
+          "time_start": 367
+        }
+      ]
+    },
+    {
+      "position_on_page": 9,
+      "title": "CI/CD CRASH COURSE For Beginners | Jenkins, GitHub Actions, GitLab",
+      "link": "https://www.youtube.com/watch?v=ixNNyLcWXX8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ixNNyLcWXX8",
+      "video_id": "ixNNyLcWXX8",
+      "channel": {
+        "name": "Vishakha Sadhwani",
+        "channel_id": "UCAxuKh1usKOjMOXlemawS0w",
+        "link": "https://www.youtube.com/@vishakha.sadhwani",
+        "thumbnail": "https://yt3.ggpht.com/8tNGedEDJ1YW8j7ntgVdQWi8AjgirnCF6F_gORo-JU1YKZ78yed64KFOqtjjzWQb-mIJEpNv=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4mo ago",
+      "views": 188334,
+      "length": "9:43",
+      "description": "In this video, I will break down how CI/CD workflows actually work in modern software and cloud environments so you can ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ixNNyLcWXX8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWBDh5hPvhw2ouIj7eXxkaBZrTjQ",
+        "rich": "https://i.ytimg.com/an_webp/ixNNyLcWXX8/mqdefault_6s.webp?du=3000&sqp=CKz8hNgG&rs=AOn4CLDaguOpLAwUd7oUP3XvLta_2liuag"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/ixNNyLcWXX8/hqdefault_166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwANu1JMzIDHhcK9adxD3uezJ-Cg",
+          "time_start": 0
+        },
+        {
+          "title": "What is Continuous Integration?",
+          "thumbnail": "https://i.ytimg.com/vi/ixNNyLcWXX8/hqdefault_57000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEqcGY6gm_AS5bBfVZhKJq9zmOQA",
+          "time_start": 57
+        },
+        {
+          "title": "What is Continuous Delivery?",
+          "thumbnail": "https://i.ytimg.com/vi/ixNNyLcWXX8/hqdefault_84066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCB8eNXsTr_LC9Bq0nZgvn8Ap0jbg",
+          "time_start": 84
+        },
+        {
+          "title": "What is Continuous Deployment?",
+          "thumbnail": "https://i.ytimg.com/vi/ixNNyLcWXX8/hqdefault_126233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-IlNgBHgNICevntjJXomjVKWIsQ",
+          "time_start": 97
+        },
+        {
+          "title": "CI/CD Workflow",
+          "thumbnail": "https://i.ytimg.com/vi/ixNNyLcWXX8/hqdefault_147000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5sYzDsW8X1f2ENBKQhx7EzFYMzQ",
+          "time_start": 147
+        },
+        {
+          "title": "Jenkins",
+          "thumbnail": "https://i.ytimg.com/vi/ixNNyLcWXX8/hqdefault_274966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC04AHlMxzLPeFm0VdJ_d1geC9wFg",
+          "time_start": 257
+        },
+        {
+          "title": "Github Actions",
+          "thumbnail": "https://i.ytimg.com/vi/ixNNyLcWXX8/hqdefault_336800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiWaviU8MJadOxulZ6P5ySdmFTKA",
+          "time_start": 333
+        },
+        {
+          "title": "GitLab CI",
+          "thumbnail": "https://i.ytimg.com/vi/ixNNyLcWXX8/hqdefault_441800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBdrEDITxPCXPpN98XthgUI_zYOw",
+          "time_start": 420
+        },
+        {
+          "title": "Harness AI",
+          "thumbnail": "https://i.ytimg.com/vi/ixNNyLcWXX8/hqdefault_529666.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAX92bKS56wvPXru0fLcK4-aRgpvQ",
+          "time_start": 503
+        },
+        {
+          "title": "Takeaways",
+          "thumbnail": "https://i.ytimg.com/vi/ixNNyLcWXX8/hqdefault_546066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4bteoacK-FXY3eqOD9LNRl4VQwA",
+          "time_start": 536
+        },
+        {
+          "title": "Outro",
+          "thumbnail": "https://i.ytimg.com/vi/ixNNyLcWXX8/hqdefault_576800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQruchYavTQzs55PW-g5PpbtvMOg",
+          "time_start": 574
+        }
+      ]
+    },
+    {
+      "position_on_page": 10,
+      "title": "CI/CD In 5 Minutes | Is It Worth The Hassle: Crash Course System Design #2",
+      "link": "https://www.youtube.com/watch?v=42UP1fxi2SY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=42UP1fxi2SY",
+      "video_id": "42UP1fxi2SY",
+      "channel": {
+        "name": "ByteByteGo",
+        "channel_id": "UCZgt6AzoyjslHTC9dz0UoTw",
+        "link": "https://www.youtube.com/@ByteByteGo",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ZDRUyBUwc2WXZzvNKP9VS9myI6Mg2puQLaWyp4hibRu-owlsasZ3DVNGSQJwzO1IU-tqoMiGgdc=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 400840,
+      "length": "5:46",
+      "description": "To get better at system design, subscribe to our weekly newsletter: https://bit.ly/3tfAlYD Checkout our bestselling System Design ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/42UP1fxi2SY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6lFbZIq3i8zh9Rt3NwIVtTT6duA",
+        "rich": "https://i.ytimg.com/an_webp/42UP1fxi2SY/mqdefault_6s.webp?du=3000&sqp=CLaHhdgG&rs=AOn4CLAyZ2sjKYv8EkIyUi_FwvuXC2CzOA"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/42UP1fxi2SY/hqdefault_10866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhQ-bONDqYa6Qf78brqIcfI4-Msw",
+          "time_start": 0
+        },
+        {
+          "title": "CI",
+          "thumbnail": "https://i.ytimg.com/vi/42UP1fxi2SY/hqdefault_58833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvom9gmbS_G7GjBl6WoGkIxSMnmw",
+          "time_start": 51
+        },
+        {
+          "title": "Tools",
+          "thumbnail": "https://i.ytimg.com/vi/42UP1fxi2SY/hqdefault_101933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5NFhMKT-ORqJ5Exi7p16mGibaJw",
+          "time_start": 99
+        },
+        {
+          "title": "Continuous Deployment",
+          "thumbnail": "https://i.ytimg.com/vi/42UP1fxi2SY/hqdefault_177766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzCLN3QHBzfyVekVPQrp_13xPtpA",
+          "time_start": 174
+        },
+        {
+          "title": "Feature Flags",
+          "thumbnail": "https://i.ytimg.com/vi/42UP1fxi2SY/hqdefault_210233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoTCeq84BpvNvWRd6jsmiSQYX39w",
+          "time_start": 210
+        },
+        {
+          "title": "Conclusion",
+          "thumbnail": "https://i.ytimg.com/vi/42UP1fxi2SY/hqdefault_283266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGFPIGOJ7t_p-4A6m4mbVDRYuASg",
+          "time_start": 255
+        }
+      ]
+    },
+    {
+      "position_on_page": 11,
+      "title": "DevOps for Frontend Developers #1 | Complete Course Introduction & Roadmap",
+      "link": "https://www.youtube.com/watch?v=caJZqWTU7j8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=caJZqWTU7j8",
+      "video_id": "caJZqWTU7j8",
+      "channel": {
+        "name": "Code Step By Step",
+        "channel_id": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "link": "https://www.youtube.com/@codestepbystep",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lpwLOOTumlQiiMYMHbBgJfQXVyRBGrZdTZ6NbtY-YA8wg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2mo ago",
+      "views": 14799,
+      "length": "7:20",
+      "description": "Welcome to the first video of the “DevOps for Frontend Developers” playlist. If you are a React, Angular, Vue.js or any other ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/caJZqWTU7j8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0422KTgw7sCVnskUzK4ENT6nWrQ",
+        "rich": "https://i.ytimg.com/an_webp/caJZqWTU7j8/mqdefault_6s.webp?du=3000&sqp=CMeIhdgG&rs=AOn4CLCsaKZvnXO34Fe6JE4dgUzggbrz-w"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "CI/CD in 30 Minutes: Theory, Practice and Optimizations",
+      "link": "https://www.youtube.com/watch?v=qq3UNNsDsTc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=qq3UNNsDsTc",
+      "video_id": "qq3UNNsDsTc",
+      "channel": {
+        "name": "Dmitriy Zhiganov",
+        "channel_id": "UC_ckAFL4cSnoIQE2tZRiBKg",
+        "link": "https://www.youtube.com/@d.zhiganov",
+        "thumbnail": "https://yt3.ggpht.com/_2fF0P_8pga6EVO2_0sg1yInMhYw6T6IQ1EoXh9ijKHyvxDgtFQq2ClBJR4wnUAbaQSZdrO_=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9mo ago",
+      "views": 21022,
+      "length": "38:38",
+      "description": "Free Architecture Guide: https://advancedfrontendcourse.com/#guide ⭐ My Frontend Course: ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/qq3UNNsDsTc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeziE3oXDplBCLIvK6D3qtJFSADQ",
+        "rich": "https://i.ytimg.com/an_webp/qq3UNNsDsTc/mqdefault_6s.webp?du=3000&sqp=CNCShdgG&rs=AOn4CLAuuAYwR-O40L-rjiHYNsBAlwD_Yg"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/qq3UNNsDsTc/hqdefault.jpg",
+          "time_start": 0
+        },
+        {
+          "title": "What is CI/CD?",
+          "thumbnail": "https://i.ytimg.com/vi/qq3UNNsDsTc/hqdefault.jpg",
+          "time_start": 83
+        },
+        {
+          "title": "CI/CD Fundamentals",
+          "thumbnail": "https://i.ytimg.com/vi/qq3UNNsDsTc/hqdefault.jpg",
+          "time_start": 297
+        },
+        {
+          "title": "Continuous Delivery vs Deployment",
+          "thumbnail": "https://i.ytimg.com/vi/qq3UNNsDsTc/hqdefault.jpg",
+          "time_start": 398
+        },
+        {
+          "title": "Manual Deployment (the old way)",
+          "thumbnail": "https://i.ytimg.com/vi/qq3UNNsDsTc/hqdefault.jpg",
+          "time_start": 501
+        },
+        {
+          "title": "Benefits of Automation",
+          "thumbnail": "https://i.ytimg.com/vi/qq3UNNsDsTc/hqdefault.jpg",
+          "time_start": 685
+        },
+        {
+          "title": "How Pipelines Work",
+          "thumbnail": "https://i.ytimg.com/vi/qq3UNNsDsTc/hqdefault.jpg",
+          "time_start": 796
+        },
+        {
+          "title": "GitHub Actions Explained",
+          "thumbnail": "https://i.ytimg.com/vi/qq3UNNsDsTc/hqdefault.jpg",
+          "time_start": 929
+        },
+        {
+          "title": "Practice: Deploy to AWS EC2",
+          "thumbnail": "https://i.ytimg.com/vi/qq3UNNsDsTc/hqdefault.jpg",
+          "time_start": 1109
+        },
+        {
+          "title": "5 Pipeline Optimizations",
+          "thumbnail": "https://i.ytimg.com/vi/qq3UNNsDsTc/hqdefault.jpg",
+          "time_start": 1556
+        },
+        {
+          "title": "Concurrency Control",
+          "thumbnail": "https://i.ytimg.com/vi/qq3UNNsDsTc/hqdefault.jpg",
+          "time_start": 1627
+        },
+        {
+          "title": "Dependency Caching",
+          "thumbnail": "https://i.ytimg.com/vi/qq3UNNsDsTc/hqdefault.jpg",
+          "time_start": 1720
+        },
+        {
+          "title": "Path Filtering",
+          "thumbnail": "https://i.ytimg.com/vi/qq3UNNsDsTc/hqdefault.jpg",
+          "time_start": 1886
+        },
+        {
+          "title": "Merge Queue",
+          "thumbnail": "https://i.ytimg.com/vi/qq3UNNsDsTc/hqdefault.jpg",
+          "time_start": 1951
+        },
+        {
+          "title": "Test Parallelization",
+          "thumbnail": "https://i.ytimg.com/vi/qq3UNNsDsTc/hqdefault.jpg",
+          "time_start": 2104
+        },
+        {
+          "title": "Outro",
+          "thumbnail": "https://i.ytimg.com/vi/qq3UNNsDsTc/hqdefault.jpg",
+          "time_start": 2278
+        }
+      ]
+    },
+    {
+      "position_on_page": 14,
+      "title": "DevOps from Zero to Hero: Build and Deploy a Production API",
+      "link": "https://www.youtube.com/watch?v=H5FAxTBuNM8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=H5FAxTBuNM8",
+      "video_id": "H5FAxTBuNM8",
+      "channel": {
+        "name": "JavaScript Mastery",
+        "channel_id": "UCmXmlB4-HJytD7wek0Uo97A",
+        "link": "https://www.youtube.com/@javascriptmastery",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ek0JxMA0h1uXpnYKFL_dYo1ny3LWzAuLwGvaqQwb9Qh2oEQJIPNEPjDrY9yKsvMmIrq_Ooq_=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 1464962,
+      "length": "5:00:07",
+      "description": "Learn DevOps fast in this crash course covering Git & GitHub, CI/CD pipelines, Docker, Kubernetes, IaC, and API deployment.",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/H5FAxTBuNM8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMn8KJKeKWtIEDXb1XpZOpTIrIQA",
+        "rich": "https://i.ytimg.com/an_webp/H5FAxTBuNM8/mqdefault_6s.webp?du=3000&sqp=COfwhNgG&rs=AOn4CLDyvRrdL1IHVEeVzYwq7_USVyrf6A"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/H5FAxTBuNM8/hqdefault_24933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOP2yzyKqKVur0DEuGWTSQoXE5dw",
+          "time_start": 0
+        },
+        {
+          "title": "Introduction to DevOps",
+          "thumbnail": "https://i.ytimg.com/vi/H5FAxTBuNM8/hqdefault_372833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiJh78xC4ETXcd_rZ5kaBbl2vaTQ",
+          "time_start": 364
+        },
+        {
+          "title": "What is DevOps",
+          "thumbnail": "https://i.ytimg.com/vi/H5FAxTBuNM8/hqdefault_596800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIivE5Bp1r_ikAjUhV8m-p0Tc1xQ",
+          "time_start": 585
+        },
+        {
+          "title": "What You Need to Learn in DevOps",
+          "thumbnail": "https://i.ytimg.com/vi/H5FAxTBuNM8/hqdefault_1259766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWW-5RO6i0T3CuSfNo5Aft_SISmg",
+          "time_start": 1241
+        },
+        {
+          "title": "Version Control (Git & GitHub)",
+          "thumbnail": "https://i.ytimg.com/vi/H5FAxTBuNM8/hqdefault_1568033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXUKBot1uM2nG2VaHrxajCl3CCPw",
+          "time_start": 1542
+        },
+        {
+          "title": "CI/CD Pipelines",
+          "thumbnail": "https://i.ytimg.com/vi/H5FAxTBuNM8/hqdefault_3038833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJIkxwUD_tRKSZjXOFwDxtqVkIpw",
+          "time_start": 3033
+        },
+        {
+          "title": "Build Your First Pipeline",
+          "thumbnail": "https://i.ytimg.com/vi/H5FAxTBuNM8/hqdefault_3307166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZ_LPslc6tBMSATokCVWDCninxCA",
+          "time_start": 3306
+        },
+        {
+          "title": "Docker",
+          "thumbnail": "https://i.ytimg.com/vi/H5FAxTBuNM8/hqdefault_3812066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhWS5r9prZAvj1jxtTKfArS55-jA",
+          "time_start": 3801
+        },
+        {
+          "title": "Kubernetes",
+          "thumbnail": "https://i.ytimg.com/vi/H5FAxTBuNM8/hqdefault_6967166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYXNbEJQBmWd07j33WA-Xlvxzm7A",
+          "time_start": 6939
+        },
+        {
+          "title": "Kubernetes Demo",
+          "thumbnail": "https://i.ytimg.com/vi/H5FAxTBuNM8/hqdefault_7417066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOnHe_cwgmGELknAh5ez3xJoPoHw",
+          "time_start": 7415
+        },
+        {
+          "title": "Infrastructure as Code (IaC)",
+          "thumbnail": "https://i.ytimg.com/vi/H5FAxTBuNM8/hqdefault_8803033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAksbUxkeFUo8utAztfLvLIr_W6kg",
+          "time_start": 8794
+        },
+        {
+          "title": "More on DevOps",
+          "thumbnail": "https://i.ytimg.com/vi/H5FAxTBuNM8/hqdefault_9001000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_yJHpH4WMaF4YowjrYkXHBTCh7g",
+          "time_start": 8977
+        },
+        {
+          "title": "Setup",
+          "thumbnail": "https://i.ytimg.com/vi/H5FAxTBuNM8/hqdefault_9066966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVAJ-Sq6cNBXudPufK9fZUCQOcqQ",
+          "time_start": 9049
+        },
+        {
+          "title": "ESLint Prettier",
+          "thumbnail": "https://i.ytimg.com/vi/H5FAxTBuNM8/hqdefault_9704933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnolUrcigtnm1W917sGCMBvJDpKA",
+          "time_start": 9704
+        },
+        {
+          "title": "Database Setup",
+          "thumbnail": "https://i.ytimg.com/vi/H5FAxTBuNM8/hqdefault_9969900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjE4EVcSGbrcWLv8nqTAsHvYvhcw",
+          "time_start": 9969
+        },
+        {
+          "title": "Logger & Middleware",
+          "thumbnail": "https://i.ytimg.com/vi/H5FAxTBuNM8/hqdefault_10458866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAM5q4fy2V14hE37R5v6MKJ_11iZQ",
+          "time_start": 10458
+        },
+        {
+          "title": "Authentication I",
+          "thumbnail": "https://i.ytimg.com/vi/H5FAxTBuNM8/hqdefault_11115366.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcqxtQg9-PIXZ1dM6ZU65WgrVSxw",
+          "time_start": 11115
+        },
+        {
+          "title": "Warp Setup",
+          "thumbnail": "https://i.ytimg.com/vi/H5FAxTBuNM8/hqdefault_12985933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6fa2uCci70iqnM9HslxY6vFpejg",
+          "time_start": 12956
+        },
+        {
+          "title": "Security Middleware",
+          "thumbnail": "https://i.ytimg.com/vi/H5FAxTBuNM8/hqdefault_13673800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPxLme-lFZEDvnuoLfquNy1_YWXg",
+          "time_start": 13673
+        },
+        {
+          "title": "Dockerization",
+          "thumbnail": "https://i.ytimg.com/vi/H5FAxTBuNM8/hqdefault_14591266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAp1iNaQn-Ht_yROGEKYIfE_tdMiQ",
+          "time_start": 14591
+        },
+        {
+          "title": "User CRUD",
+          "thumbnail": "https://i.ytimg.com/vi/H5FAxTBuNM8/hqdefault_15709333.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBL9JiT0yvd1NyCP9uZzpOGhQYyAw",
+          "time_start": 15709
+        },
+        {
+          "title": "Testing",
+          "thumbnail": "https://i.ytimg.com/vi/H5FAxTBuNM8/hqdefault_16731266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKlqfcs9CyNNGrNjcgeU6LJQYTTQ",
+          "time_start": 16730
+        },
+        {
+          "title": "Next Steps",
+          "thumbnail": "https://i.ytimg.com/vi/H5FAxTBuNM8/hqdefault_17315133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQ4GxLWBVsZS-HAfxbIM148MktKw",
+          "time_start": 17315
+        }
+      ]
+    },
+    {
+      "position_on_page": 15,
+      "title": "CI/CD Explained in 5 Minutes",
+      "link": "https://www.youtube.com/watch?v=ddDJxFnv-qs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ddDJxFnv-qs",
+      "video_id": "ddDJxFnv-qs",
+      "channel": {
+        "name": "TechWorld with Nana",
+        "channel_id": "UCdngmbVKX1Tgre699-XLlUA",
+        "link": "https://www.youtube.com/@TechWorldwithNana",
+        "thumbnail": "https://yt3.ggpht.com/ZAuMKdMcyV3mhX857oCGWzQAQ4AqZhiDIO76MTC_DqckrujSNg5Mh2AQh6ngWYv7bzfu7TBoj24=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3mo ago",
+      "views": 418446,
+      "length": "4:53",
+      "description": "Free CI/CD Checklist — Your Complete Implementation Guide If you want to ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ddDJxFnv-qs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5ixtycSk1mjCiD6UoWonSrQYaew",
+        "rich": "https://i.ytimg.com/an_webp/ddDJxFnv-qs/mqdefault_6s.webp?du=3000&sqp=CKT4hNgG&rs=AOn4CLANVIz4ht3jhsvJnizkR3u_dPFZ0w"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "DevOps for Frontend Developers #2 What is DevOps? CI/CD, Production Build & Environments",
+      "link": "https://www.youtube.com/watch?v=PNfuLGL0R1s",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=PNfuLGL0R1s",
+      "video_id": "PNfuLGL0R1s",
+      "channel": {
+        "name": "Code Step By Step",
+        "channel_id": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "link": "https://www.youtube.com/@codestepbystep",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lpwLOOTumlQiiMYMHbBgJfQXVyRBGrZdTZ6NbtY-YA8wg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2mo ago",
+      "views": 6320,
+      "length": "13:43",
+      "description": "In Part 2 of the “DevOps for Frontend Developers” playlist, we'll understand the essential DevOps concepts every frontend ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/PNfuLGL0R1s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkWN7dcRD37dT4fEEskKLbtD8aJA"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "CI/CD Explained: The DevOps Skill That Makes You 10x More Valuable",
+      "link": "https://www.youtube.com/watch?v=AknbizcLq4w",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=AknbizcLq4w",
+      "video_id": "AknbizcLq4w",
+      "channel": {
+        "name": "TechWorld with Nana",
+        "channel_id": "UCdngmbVKX1Tgre699-XLlUA",
+        "link": "https://www.youtube.com/@TechWorldwithNana",
+        "thumbnail": "https://yt3.ggpht.com/ZAuMKdMcyV3mhX857oCGWzQAQ4AqZhiDIO76MTC_DqckrujSNg5Mh2AQh6ngWYv7bzfu7TBoj24=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 601377,
+      "length": "21:07",
+      "description": "CI/CD Explained with Real Life Examples | How DevOps Teams Automate Everything ▻ Grab your actionable CI/CD checklist ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/AknbizcLq4w/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBf0RQOlliCS50BuF9-aWJxI21GoA",
+        "rich": "https://i.ytimg.com/an_webp/AknbizcLq4w/mqdefault_6s.webp?du=3000&sqp=CLiUhdgG&rs=AOn4CLAJ8VBUhBnu-imuFnFUmRYJWyfRqg"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/AknbizcLq4w/hqdefault_5066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAg7C8RPadnt78Pb0e99MAgJKjLvA",
+          "time_start": 0
+        },
+        {
+          "title": "Before CI/CD - Problem",
+          "thumbnail": "https://i.ytimg.com/vi/AknbizcLq4w/hqdefault_30000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8yOaStX0lC7nQAr9sn7za4Fa-8w",
+          "time_start": 22
+        },
+        {
+          "title": "Continuous Integration (CI Pipeline)",
+          "thumbnail": "https://i.ytimg.com/vi/AknbizcLq4w/hqdefault_259833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDd-xyEICu_l2xvuDg7LGq5pLFNcg",
+          "time_start": 242
+        },
+        {
+          "title": "Continuous Delivery (CD Pipeline)",
+          "thumbnail": "https://i.ytimg.com/vi/AknbizcLq4w/hqdefault_508233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqTTJFsLlT_WHBk1cG3BFER24b6g",
+          "time_start": 498
+        },
+        {
+          "title": "Continuous Deployment",
+          "thumbnail": "https://i.ytimg.com/vi/AknbizcLq4w/hqdefault_926433.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRmRENcrSlefCJzLY0Baan8kQaLA",
+          "time_start": 926
+        },
+        {
+          "title": "Deployment Strategies",
+          "thumbnail": "https://i.ytimg.com/vi/AknbizcLq4w/hqdefault_1035033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjf2z4JeHzpuK_veOsNo0H338Jmw",
+          "time_start": 1032
+        }
+      ]
+    },
+    {
+      "position_on_page": 18,
+      "title": "System Design Concepts Course and Interview Prep",
+      "link": "https://www.youtube.com/watch?v=F2FmTdLtb_4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=F2FmTdLtb_4",
+      "video_id": "F2FmTdLtb_4",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 3294150,
+      "length": "53:38",
+      "description": "This complete system design tutorial covers scalability, reliability, data handling, and high-level architecture with clear ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/F2FmTdLtb_4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEciQl9cFYAxThKChryPajdq6a5A",
+        "rich": "https://i.ytimg.com/an_webp/F2FmTdLtb_4/mqdefault_6s.webp?du=3000&sqp=CMb4hNgG&rs=AOn4CLCUscZisA1rStZeIFojbkjo7Fi4hQ"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/F2FmTdLtb_4/hqdefault_17066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpHbenSHD2hmrutJPw0vTGFRoxbw",
+          "time_start": 0
+        },
+        {
+          "title": "Computer Architecture (Disk Storage, RAM, Cache, CPU)",
+          "thumbnail": "https://i.ytimg.com/vi/F2FmTdLtb_4/hqdefault_43933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsUEJ5zd4P4jP8zbU9SYHzkspncw",
+          "time_start": 39
+        },
+        {
+          "title": "Production App Architecture (CI/CD, Load Balancers, Logging & Monitoring)",
+          "thumbnail": "https://i.ytimg.com/vi/F2FmTdLtb_4/hqdefault_291866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCph2sy9UPxh6Q3-8im2ufgclHK2Q",
+          "time_start": 262
+        },
+        {
+          "title": "Design Requirements (CAP Theorem, Throughput, Latency, SLOs and SLAs)",
+          "thumbnail": "https://i.ytimg.com/vi/F2FmTdLtb_4/hqdefault_434866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABRhKwVXH0ESkMI-VFoF6F8qHXpQ",
+          "time_start": 432
+        },
+        {
+          "title": "Networking (TCP, UDP, DNS, IP Addresses & IP Headers)",
+          "thumbnail": "https://i.ytimg.com/vi/F2FmTdLtb_4/hqdefault_880266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMz_3ycwUArTtB8GzbT1bfD83Usg",
+          "time_start": 880
+        },
+        {
+          "title": "Application Layer Protocols (HTTP, WebSockets, WebRTC, MQTT, etc)",
+          "thumbnail": "https://i.ytimg.com/vi/F2FmTdLtb_4/hqdefault_1146833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMqW9XLlLpneaL9NJ67Yqfev-Dvw",
+          "time_start": 1143
+        },
+        {
+          "title": "API Design",
+          "thumbnail": "https://i.ytimg.com/vi/F2FmTdLtb_4/hqdefault_1454166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPp8an6MyXg7SXmiEXLD7K8Ss-Tw",
+          "time_start": 1441
+        },
+        {
+          "title": "Caching and CDNs",
+          "thumbnail": "https://i.ytimg.com/vi/F2FmTdLtb_4/hqdefault_1764133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvJIw_XrDiSZ6zaH_Ir8noFuHsAw",
+          "time_start": 1759
+        },
+        {
+          "title": "Proxy Servers (Forward/Reverse Proxies)",
+          "thumbnail": "https://i.ytimg.com/vi/F2FmTdLtb_4/hqdefault_2219100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDs7yRV0fBI6-SMFFAAjHCwEi4HAQ",
+          "time_start": 2193
+        },
+        {
+          "title": "Load Balancers",
+          "thumbnail": "https://i.ytimg.com/vi/F2FmTdLtb_4/hqdefault_2558166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_jQ9beBS_YrL7mto-ErP-L0Pegg",
+          "time_start": 2556
+        },
+        {
+          "title": "Databases (Sharding, Replication, ACID, Vertical & Horizontal Scaling)",
+          "thumbnail": "https://i.ytimg.com/vi/F2FmTdLtb_4/hqdefault_2914633.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5A1BPxXZSMe0CTGfQMPoyab-L-A",
+          "time_start": 2885
+        }
+      ]
+    },
+    {
+      "position_on_page": 20,
+      "title": "DevOps for Frontend Developers #19 Deploy React App on Vercel with GitHub Actions | CI/CD Deployment",
+      "link": "https://www.youtube.com/watch?v=NSGnPHqnnvg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=NSGnPHqnnvg",
+      "video_id": "NSGnPHqnnvg",
+      "channel": {
+        "name": "Code Step By Step",
+        "channel_id": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "link": "https://www.youtube.com/@codestepbystep",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lpwLOOTumlQiiMYMHbBgJfQXVyRBGrZdTZ6NbtY-YA8wg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2mo ago",
+      "views": 1870,
+      "length": "10:48",
+      "description": "Learn how to deploy a React JS application on Vercel using GitHub Actions. In Part 19 of the DevOps for Frontend Developers ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/NSGnPHqnnvg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAphfK446Y7iuIH3sA7P_UmyRD1VA",
+        "rich": "https://i.ytimg.com/an_webp/NSGnPHqnnvg/mqdefault_6s.webp?du=3000&sqp=CMj9hNgG&rs=AOn4CLA86j1nOUFXAZxbQKgGdPIGflmvjA"
+      }
+    },
+    {
+      "position_on_page": 22,
+      "title": "CI/CD Made Simple: Build a Real Pipeline",
+      "link": "https://www.youtube.com/watch?v=B7GM6F3BP6A",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=B7GM6F3BP6A",
+      "video_id": "B7GM6F3BP6A",
+      "channel": {
+        "name": "Traversy Media",
+        "channel_id": "UC29ju8bIPH5as8OGnQzwJyA",
+        "link": "https://www.youtube.com/@TraversyMedia",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mLysKc36lc_FVk2j777olWvLOjgDz6NCNGdiQBnAKRENM=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1mo ago",
+      "views": 139010,
+      "length": "35:13",
+      "description": "CI/CD is one of the most important things to learn in the AI era. When you are pushing generated code, you need all the help and ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/B7GM6F3BP6A/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBM5udq0G-FlfTKbRU3WsuZ8KrJ5Q",
+        "rich": "https://i.ytimg.com/an_webp/B7GM6F3BP6A/mqdefault_6s.webp?du=3000&sqp=CIDnhNgG&rs=AOn4CLAdFgE83RpoD6fEaLfVq1RzX9q-Gw"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi_webp/B7GM6F3BP6A/hqdefault.webp",
+          "time_start": 0
+        },
+        {
+          "title": "What Is CI/CD?",
+          "thumbnail": "https://i.ytimg.com/vi_webp/B7GM6F3BP6A/hqdefault.webp",
+          "time_start": 84
+        },
+        {
+          "title": "What Is Github Actions?",
+          "thumbnail": "https://i.ytimg.com/vi_webp/B7GM6F3BP6A/hqdefault.webp",
+          "time_start": 170
+        },
+        {
+          "title": "Clone & Go Over The Project",
+          "thumbnail": "https://i.ytimg.com/vi_webp/B7GM6F3BP6A/hqdefault.webp",
+          "time_start": 265
+        },
+        {
+          "title": "Our Verify Script",
+          "thumbnail": "https://i.ytimg.com/vi_webp/B7GM6F3BP6A/hqdefault.webp",
+          "time_start": 527
+        },
+        {
+          "title": "Push To GitHub",
+          "thumbnail": "https://i.ytimg.com/vi_webp/B7GM6F3BP6A/hqdefault.webp",
+          "time_start": 646
+        },
+        {
+          "title": "Deploy To Render",
+          "thumbnail": "https://i.ytimg.com/vi_webp/B7GM6F3BP6A/hqdefault.webp",
+          "time_start": 720
+        },
+        {
+          "title": "Github Actions Workflow",
+          "thumbnail": "https://i.ytimg.com/vi_webp/B7GM6F3BP6A/hqdefault.webp",
+          "time_start": 894
+        },
+        {
+          "title": "Our First Checks Run",
+          "thumbnail": "https://i.ytimg.com/vi_webp/B7GM6F3BP6A/hqdefault.webp",
+          "time_start": 1159
+        },
+        {
+          "title": "Github & Render Enforced Guardrails",
+          "thumbnail": "https://i.ytimg.com/vi_webp/B7GM6F3BP6A/hqdefault.webp",
+          "time_start": 1310
+        },
+        {
+          "title": "Github Gate Test",
+          "thumbnail": "https://i.ytimg.com/vi_webp/B7GM6F3BP6A/hqdefault.webp",
+          "time_start": 1454
+        },
+        {
+          "title": "Render Gate Test",
+          "thumbnail": "https://i.ytimg.com/vi_webp/B7GM6F3BP6A/hqdefault.webp",
+          "time_start": 1586
+        },
+        {
+          "title": "Passing The Gate",
+          "thumbnail": "https://i.ytimg.com/vi_webp/B7GM6F3BP6A/hqdefault.webp",
+          "time_start": 1730
+        },
+        {
+          "title": "Preview Environments",
+          "thumbnail": "https://i.ytimg.com/vi_webp/B7GM6F3BP6A/hqdefault.webp",
+          "time_start": 1892
+        }
+      ]
+    },
+    {
+      "position_on_page": 23,
+      "title": "It took me 8+ years to realize what I'll tell you in 8 minutes | Coding in 2025",
+      "link": "https://www.youtube.com/watch?v=Tl80IK5NEyE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Tl80IK5NEyE",
+      "video_id": "Tl80IK5NEyE",
+      "channel": {
+        "name": "Anuj Kumar Sharma",
+        "channel_id": "UC58_wzhvJta3hDSPvRLDAqg",
+        "link": "https://www.youtube.com/@AnujBhaiya",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/yZMicQ6ubvvqHV7NYTVQJRFrJc1hMRK3JXEoFl4PVM0eP7E9Yw0Vu83621Vwar3wnj92zyroHg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 460328,
+      "length": "8:38",
+      "description": "Hey guys, my new Spring Boot Cohort 4.0 [Live] is Launched This course gonna be a game changer for aspiring Java ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Tl80IK5NEyE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvxP0BJC1JLWHbTzaDoAwft1YGbQ",
+        "rich": "https://i.ytimg.com/an_webp/Tl80IK5NEyE/mqdefault_6s.webp?du=3000&sqp=CLqIhdgG&rs=AOn4CLC7Pk1owSDwDnD3v1lrGh2P_oWJ3Q"
+      }
+    },
+    {
+      "position_on_page": 24,
+      "title": "What is CI/CD in 7 Minutes (2026) | Jenkins, GitHub Actions, GitLab CI/CD Pipeline Tutorial",
+      "link": "https://www.youtube.com/watch?v=ngnjdhTqAxc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ngnjdhTqAxc",
+      "video_id": "ngnjdhTqAxc",
+      "channel": {
+        "name": "Tech With Diego",
+        "channel_id": "UC40AR8r9YbHrxGm26VJCuug",
+        "link": "https://www.youtube.com/@diegoarias-tech",
+        "thumbnail": "https://yt3.ggpht.com/DHs68fZ3vLWkFzY38NbDAWZ04hPq7c2I3GpkNgXIsy8zZOEqnm0AUra_xPUu2Yth1KR2SY-lxA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8mo ago",
+      "views": 24321,
+      "length": "7:34",
+      "description": "What is CI/CD and how does continuous integration and continuous delivery work? This CI/CD pipeline tutorial covers testing, ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ngnjdhTqAxc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQ_DSEvgaSdSHUyaalRKvZIcw-jQ",
+        "rich": "https://i.ytimg.com/an_webp/ngnjdhTqAxc/mqdefault_6s.webp?du=3000&sqp=CMv3hNgG&rs=AOn4CLCWd2xBcVzkmsp8NKbe5rqDbIoAsw"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/ngnjdhTqAxc/hqdefault_2200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCx_PR7njD--FhUGXvkjYNtJwO31g",
+          "time_start": 0
+        },
+        {
+          "title": "The Problem",
+          "thumbnail": "https://i.ytimg.com/vi/ngnjdhTqAxc/hqdefault_64866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJ7L1XrgrqqVpnr3k8nEpC0kllcQ",
+          "time_start": 63
+        },
+        {
+          "title": "CI/CD Mental Model",
+          "thumbnail": "https://i.ytimg.com/vi/ngnjdhTqAxc/hqdefault_116100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOufK7_gMjWhl5_nh6N-x1iiFZPw",
+          "time_start": 116
+        },
+        {
+          "title": "Continuous Integration",
+          "thumbnail": "https://i.ytimg.com/vi/ngnjdhTqAxc/hqdefault_143800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJq6fFQrn4FxmxfNT8hzq57QzROw",
+          "time_start": 139
+        },
+        {
+          "title": "Continuous Delivery",
+          "thumbnail": "https://i.ytimg.com/vi/ngnjdhTqAxc/hqdefault_236900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNoo15vgL69lkv4A4Pd1eHNG8HXA",
+          "time_start": 212
+        },
+        {
+          "title": "Deployment Strategies",
+          "thumbnail": "https://i.ytimg.com/vi/ngnjdhTqAxc/hqdefault_284900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4NObxixOq3WJPAtiMzWOCxvUXag",
+          "time_start": 279
+        },
+        {
+          "title": "Incident Scenario",
+          "thumbnail": "https://i.ytimg.com/vi/ngnjdhTqAxc/hqdefault_381966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbImNEy06LEy9PNpWGoMKytq7gLg",
+          "time_start": 356
+        },
+        {
+          "title": "Closing Recap",
+          "thumbnail": "https://i.ytimg.com/vi/ngnjdhTqAxc/hqdefault_435766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWmEtDc482dM6d9V4HZK3IfRlWpw",
+          "time_start": 430
+        }
+      ]
+    },
+    {
+      "position_on_page": 25,
+      "title": "CI/CD Pipeline Explained | DevOps Basics",
+      "link": "https://www.youtube.com/watch?v=haP4iD8g4ss",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=haP4iD8g4ss",
+      "video_id": "haP4iD8g4ss",
+      "channel": {
+        "name": "Tech with MrKay",
+        "channel_id": "UCH5cZkZ9jZdvnOFqK2F5cLg",
+        "link": "https://www.youtube.com/@TechwithMrKay",
+        "thumbnail": "https://yt3.ggpht.com/hEclzz9Qk_JK8pUloErjAAytPLmewlis_fwomYcqYj9uSj8qbT-jlX6gOFkbkQBWLI1RoBRd=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 266528,
+      "length": "0:08",
+      "description": "Full Video: CI/CD Pipeline Explained Step by Step → https://www.youtube.com/watch?v=IqKOBJ7qJ4k A simple visual ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/haP4iD8g4ss/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhlIFkoWDAP&rs=AOn4CLDpPgTvGOdV8-xx-owKEgKNriJRnQ"
+      }
+    }
+  ],
+  "playlist_results": [
+    {
+      "position_on_page": 3,
+      "title": "DevOps for Frontend Developers | AWS, CI/CD, Docker & Nginx",
+      "link": "https://www.youtube.com/playlist?list=PLB8Fuyg-ZZ04",
+      "channel": {
+        "name": "Code Step By Step",
+        "channel_id": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "link": "https://www.youtube.com/@codestepbystep"
+      },
+      "videos": [
+        {
+          "title": "DevOps for Frontend Developers #1 | Complete Course Introduction & Roadmap",
+          "length": "7:20",
+          "link": "https://www.youtube.com/watch?v=caJZqWTU7j8&list=PLB8Fuyg-ZZ04"
+        },
+        {
+          "title": "DevOps for Frontend Developers #2 What is DevOps? CI/CD, Production Build & Environments",
+          "length": "13:43",
+          "link": "https://www.youtube.com/watch?v=PNfuLGL0R1s&list=PLB8Fuyg-ZZ04"
+        }
+      ],
+      "video_count": 57,
+      "thumbnail": "https://i.ytimg.com/vi/caJZqWTU7j8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCvctnUylAQ8UCaNvVIaDfH-p3nxg"
+    },
+    {
+      "position_on_page": 6,
+      "title": "CI/CD Tutorials",
+      "link": "https://www.youtube.com/playlist?list=PLy7NrYWoggjzSIlwxeBbcgfAdYoxCIrM2",
+      "channel": {
+        "name": "TechWorld with Nana",
+        "channel_id": "UCdngmbVKX1Tgre699-XLlUA",
+        "link": "https://www.youtube.com/@TechWorldwithNana"
+      },
+      "videos": [
+        {
+          "title": "GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker",
+          "length": "32:31",
+          "link": "https://www.youtube.com/watch?v=R8_veQiYBjI&list=PLy7NrYWoggjzSIlwxeBbcgfAdYoxCIrM2&pp=0gcJCRYF0aJEHMZM"
+        },
+        {
+          "title": "CI/CD with JetBrains TeamCity | TeamCity Tutorial",
+          "length": "25:37",
+          "link": "https://www.youtube.com/watch?v=zqi4fDF-S60&list=PLy7NrYWoggjzSIlwxeBbcgfAdYoxCIrM2"
+        }
+      ],
+      "video_count": 14,
+      "thumbnail": "https://i.ytimg.com/vi/R8_veQiYBjI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDffKy7fApM62oyEE4PQbIRdLvfeA"
+    },
+    {
+      "position_on_page": 21,
+      "title": "Front End Developer Learning Path",
+      "link": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbmMuZ3saqRIBimAKIMYkt0E",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp"
+      },
+      "videos": [
+        {
+          "title": "Front End Developer Roadmap",
+          "length": "12:09",
+          "link": "https://www.youtube.com/watch?v=9He4UBLyk8Y&list=PLWKjhJtqVAbmMuZ3saqRIBimAKIMYkt0E"
+        },
+        {
+          "title": "HTML Tutorial - Website Crash Course for Beginners",
+          "length": "45:20",
+          "link": "https://www.youtube.com/watch?v=916GWv2Qs08&list=PLWKjhJtqVAbmMuZ3saqRIBimAKIMYkt0E"
+        }
+      ],
+      "video_count": 22,
+      "thumbnail": "https://i.ytimg.com/vi/9He4UBLyk8Y/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAUoUjvLRM9C5x2jKy_STBVH-UUaA"
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=CI%2FCD+full+course+tutorial+for+Frontend+Developer&gl=in&hl=en",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=CI%2FCD%20full%20course%20tutorial%20for%20Frontend%20Developer&sp=SBSCAQtZTHRsejg4enJMZ4IBDVBMQjhGdXlnLVpaMDSCAQtzY0VESHNyM0FQZ4IBIlBMeTdOcllXb2dnanpTSWx3eGVCYmNnZkFkWW94Q0lyTTKCAQtLblNCTmQzYjBxSYIBC2l4Tk55TGNXWFg4ggELNDJVUDFmeGkyU1mCAQtjYUpacVdUVTdqOIIBC3FxM1VOTnNEc1RjggELSDVGQXhUQnVOTTiCAQtkZERKeEZudi1xc4IBC1BOZnVMR0wwUjFzggELQWtuYml6Y0xxNHeCAQtGMkZtVGRMdGJfNIIBC05TR25QSHFubnZnggEiUExXS2poSnRxVkFibU11WjNzYXFSSUJpbUFLSU1Za3QwRYIBC0I3R002RjNCUDZBggELVGw4MElLNU5FeUWCAQtuZ25qZGhUcUF4Y4IBC2hhUDRpRDhnNHNzsgEGCgQIGRAC",
+    "next_page_token": "SBSCAQtZTHRsejg4enJMZ4IBDVBMQjhGdXlnLVpaMDSCAQtzY0VESHNyM0FQZ4IBIlBMeTdOcllXb2dnanpTSWx3eGVCYmNnZkFkWW94Q0lyTTKCAQtLblNCTmQzYjBxSYIBC2l4Tk55TGNXWFg4ggELNDJVUDFmeGkyU1mCAQtjYUpacVdUVTdqOIIBC3FxM1VOTnNEc1RjggELSDVGQXhUQnVOTTiCAQtkZERKeEZudi1xc4IBC1BOZnVMR0wwUjFzggELQWtuYml6Y0xxNHeCAQtGMkZtVGRMdGJfNIIBC05TR25QSHFubnZnggEiUExXS2poSnRxVkFibU11WjNzYXFSSUJpbUFLSU1Za3QwRYIBC0I3R002RjNCUDZBggELVGw4MElLNU5FeUWCAQtuZ25qZGhUcUF4Y4IBC2hhUDRpRDhnNHNzsgEGCgQIGRAC"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=CI%2FCD+full+course+tutorial+for+Frontend+Developer",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=CI%2FCD+full+course+tutorial+for+Frontend+Developer&sp=SBSCAQtZTHRsejg4enJMZ4IBDVBMQjhGdXlnLVpaMDSCAQtzY0VESHNyM0FQZ4IBIlBMeTdOcllXb2dnanpTSWx3eGVCYmNnZkFkWW94Q0lyTTKCAQtLblNCTmQzYjBxSYIBC2l4Tk55TGNXWFg4ggELNDJVUDFmeGkyU1mCAQtjYUpacVdUVTdqOIIBC3FxM1VOTnNEc1RjggELSDVGQXhUQnVOTTiCAQtkZERKeEZudi1xc4IBC1BOZnVMR0wwUjFzggELQWtuYml6Y0xxNHeCAQtGMkZtVGRMdGJfNIIBC05TR25QSHFubnZnggEiUExXS2poSnRxVkFibU11WjNzYXFSSUJpbUFLSU1Za3QwRYIBC0I3R002RjNCUDZBggELVGw4MElLNU5FeUWCAQtuZ25qZGhUcUF4Y4IBC2hhUDRpRDhnNHNzsgEGCgQIGRAC",
+    "next_page_token": "SBSCAQtZTHRsejg4enJMZ4IBDVBMQjhGdXlnLVpaMDSCAQtzY0VESHNyM0FQZ4IBIlBMeTdOcllXb2dnanpTSWx3eGVCYmNnZkFkWW94Q0lyTTKCAQtLblNCTmQzYjBxSYIBC2l4Tk55TGNXWFg4ggELNDJVUDFmeGkyU1mCAQtjYUpacVdUVTdqOIIBC3FxM1VOTnNEc1RjggELSDVGQXhUQnVOTTiCAQtkZERKeEZudi1xc4IBC1BOZnVMR0wwUjFzggELQWtuYml6Y0xxNHeCAQtGMkZtVGRMdGJfNIIBC05TR25QSHFubnZnggEiUExXS2poSnRxVkFibU11WjNzYXFSSUJpbUFLSU1Za3QwRYIBC0I3R002RjNCUDZBggELVGw4MElLNU5FeUWCAQtuZ25qZGhUcUF4Y4IBC2hhUDRpRDhnNHNzsgEGCgQIGRAC"
+  }
+}

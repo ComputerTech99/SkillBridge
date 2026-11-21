@@ -1,0 +1,1004 @@
+{
+  "search_metadata": {
+    "id": "6b014a9815e3538d79cd8bf0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/jw1DZCSB_Mde7QhIIbPcCsvi-fkhPKQY06kdtK8g4Zw/6b014a9815e3538d79cd8bf0.json",
+    "markdown_endpoint": "https://serpapi.com/searches/jw1DZCSB_Mde7QhIIbPcCsvi-fkhPKQY06kdtK8g4Zw/6b014a9815e3538d79cd8bf0.md",
+    "created_at": "2026-11-21 07:39:04 UTC",
+    "processed_at": "2026-11-21 07:39:04 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=FastAPI+full+course+tutorial+for+Backend+Python+Developer&gl=in&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/jw1DZCSB_Mde7QhIIbPcCsvi-fkhPKQY06kdtK8g4Zw/6b014a9815e3538d79cd8bf0.html",
+    "total_time_taken": 3.28
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "FastAPI full course tutorial for Backend Python Developer",
+    "gl": "in",
+    "hl": "en"
+  },
+  "search_information": {
+    "total_results": 203758,
+    "video_results_state": "Results for exact spelling"
+  },
+  "ads_results": [
+    {
+      "position_on_page": 1,
+      "title": "Mercedes-AMG PETRONAS F1 Team strategists analyze more possibilities in less time",
+      "link": "https://www.youtube.com/watch?v=beeVOhTvKc0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=beeVOhTvKc0",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=ChxX2mUoBa-CZBsuvv8IP_bKT6Q2x9aKPiwHy0I_NxRbdq6T6zkgQASAAYMn-tofco_AQggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAcCKxvVDqAMEyAMKqgTpAk_QtRgMzP2Nd_x2Wl_84E3KEZw7Obgu1bnCW3D2Xo065POgCbmKb1RsK5FsjnfX4llrFmn3NXTBbgadE_A-vs8eOteETtUiHPVoy90Pwu1JNWis0bd8YNuO2jl6BAf86SrU8UMw-GihwGhN3qopF0vIs2Lelz6Y4vsevt9E43yRTh5YDaaeRdezLGjTv3U4eaDjMMnyZYQRE77vgWcjW_ZoZNQHitDqHua512KAH4Xe8VXmHmNZhYjelG3ZFEWXTyVHSb_HqSSdzG4hGrf4E2yAH_DI4REiL8wNDDBoND58Fh7fvhlJsqa4jEizYBSHcgkQmJItQOlJGHSO4-TdjN-6gE1rvJudDlWgt_OT7V4nGhNGiT6or6gk3-ChscVIxW_acpxFf3rMkKHpwZfbH_3j20j40E97HfkxQ64rAiDS0o1IKPPoP1j5WCmMJ39-e9MXnzreZve2uPFvJHB2N6zmgnyhOHPa9N2IBevnpMhakgUICBN4weft-h6gBqEBgAfAwpbVHpAHBKgHpc-xAqgH552xAqgH6J2xAqgHg_axAqgH-dOxAqgHydqxAqgHqeCxAqgHqNIbqAex3BuoB7CbsQKoB_2ysQKoB8jPsQKoB8nPsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB57qsQKoB5_qsQKoB_jrsQKoB7zqsQKoB-_xsQKoB_yvsQKoB9XOG6gHvtmxAqgHv9mxAqgHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLYmVlVk9oVHZLYzCoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFiw0Jmkx5iYA2ABmglPaHR0cHM6Ly9henVyZS5taWNyb3NvZnQuY29tL2VuLXVzL3ByaWNpbmcvcHVyY2hhc2Utb3B0aW9ucy9henVyZS1hY2NvdW50L3NlYXJjaLEJwqgl6mA3SoTICRfICY8ByAnCAcgJlwK6CzoIAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAtgBA4ACAYgCEboDBXZpY2Jm0AsS4AsB0gwCEAHaDCUKChCAwY7xpuPmhmgSAgEDGg0Y6-ekyFogz4LF3-YFQAFKAhAfmg0BEqoNAlVTyA0B0g2dBWh0dHBzOi8vYWQuZG91YmxlY2xpY2submV0L2RkbS90cmFja2Nsay9ONTcyNjA4LjEzNTUzMzlHT09HTEUuQ09NRERNQklETS9CMzY4NjU2NDIuNDU3ODU5MDk4O2RjX3Rya19haWQ9NjUyNDI1ODI1O2RjX3Rya19jaWQ9MjY1MjUwMTIwO2RjX2RibV90b2tlbj1BT2plTE5FQUFBQThDalFLREFnQUZRQUFBQUFkQUFBQUFCSU1DQUFWQUFBQUFCMEFBQUFBSWhRSTYtZWt5RnFvQXNIbjdmb2VzQUw4elBYckEwQTdFS0hBXzdJZGNselg0RXRnVXFOVnlFQXV1VV9DWkE9PTtkY19sYXQ9O2RjX3JkaWQ9O3RhZ19mb3JfY2hpbGRfZGlyZWN0ZWRfdHJlYXRtZW50PTt0ZnVhPTtsdGQ9O2RjX3Rkdj0xOztkY190cmFuc3BhcmVudD0xO2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNDc05JX3JVenlRUm5ISGpxcDRSX1ZXTHdaSXpKRmVDYVh2Z215aEpKOGR3c3A5S1MxbC1GWXprZVp2elRXX01KSm9yU2Z4U2J3VkIwVFp3ZztkY19wdWJpZD02P2h0dHBzOi8vYXp1cmUubWljcm9zb2Z0LmNvbS9lbi11cy9wcmljaW5nL3B1cmNoYXNlLW9wdGlvbnMvYXp1cmUtYWNjb3VudC9zZWFyY2g_Y2lkPWZvcm11bGExJk9DSUQ9QUlEY21tbGc3bzV2YjhfT0xBXzM2ODY1NjQyXzQ1Nzg1OTA5OF8yNjUyNTAxMjAmc2l0ZUlEPTEwNjQ1MDEzJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yNDMxMDc4OTA5ObATwITNJrgT____________AYgUA7AUA8AVgYCAQNAVAdgVAZgWAagWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqReEBiHR0xxMXroXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMIoMqapMeYmAMVy9dPAh192STdEAEYASAAEgKLjfD_BwE&num=1&cid=CAASqgHkaEQkhwW_mj8QmqZ6QI40r3Pc4RZgB8wmWyIeo_9EQwyF3LN2R30-IQT3aAy2FbZsO3SDoTdhDPZ4GpMTuWikkZJMzkHQO7GmpsQyk4pTXFj2qQq_sERphbFDT6i-4Oe-YInnDA1KWC4GUcvA0y_tBtGv8yBHE2sYZSzJ4D46ZL8ZJlpEKq5CWUNFBG4U2rWB1iAhGudD9u3F-GC6-254IedEn_RI5QY-SQ&ad_cpn=%5BCPN%5D&sig=AOD64_3T6j0H7K9wZHV98em5IS8SImYZIQ&ctype=110&video_id=beeVOhTvKc0&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Microsoft",
+        "thumbnail": "https://yt3.ggpht.com/proxy/HcDIKi6hGUt23dHJXoGqjYsnW-Yx9b_rvzKby486R6qMUMB5Rj4f1gTieN0_putXXLoa3-WRmWkl6sG9uNJxyUKxT05R36YayKaL6mPwyYsceZVtV43-hJXD6Vdcwr-f9TTB2p4MuxHVP_MYMdnkd1T-00ZPKAq1UisX070t8eIHTbn0wr8tIAwBLSzPe1a1lfAxuCvhiPlF0mN5w-KEfkrLLRdu2y16PNlmNSxm4ASe8xaThWiP6wugAt2DNl21sdoTc3c=w68-h68-nd"
+      },
+      "description": "Run simulations in seconds with Azure Batch. Start experimenting with an Azure free trial.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/beeVOhTvKc0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA68mHfdTYYoDr6fqC1wh1oz0UFQg"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Devour knowledge with Student Spaces",
+      "link": "https://www.youtube.com/watch?v=EJ_xkuarNEU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=EJ_xkuarNEU",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CtNP7mUoBa-CZBsuvv8IP_bKT6Q2XouaPiwHPvoe0mBawkB8QAiAAYMn-tofco_AQggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAbH6_-oCqAMEyAMKqgT2Ak_QtRgMzP2Nd_x2Wl_84E3KEZw7Obgu1bnCW3D2Xo065POgCbmKb1RsK5FsjnfX4llrFmn3NXTBbgadE_A-vs8eOteETtUiHPVoy90Pwu1JNWis0bd8YNuO2jl6BAf86SrU8UMw-GihwGhN3qopF0vIs2Lelz6Y4vsevt9E43yRTh5YDaaeRdezLGjTv3U4eaDjMMnyZYQRE77vgWcjW_ZoZNQHitDqHua512KAH4Xe8VXmHmNZhYjelG3ZFEWXTyVHSb_HqSSdzG4hGrf4E2yAH_DI4REiL8wNDDBoND58Fh7fvhlJsqa4jEizYBSHcgkQmJItQOlJGHSO4-TdjN-igKbvfnKDBlUIr2WnBx6NCaNJipKkt6scPJVhqWVP36SEAHByadW45hs8901TFPGckDog0u3wY_7n41iFPAU8N2zsPdk22t9FAcedD3ZXYzTdahlD3mSElunLmbRBoHwPsVC5zIkO4HnU9m0lwRwqZ-PKzJlZiAXm0O-tWJIFCAgTePrNn5UBoAahAYAHt4WAlQGQBwSoB6XPsQKoB-edsQKoB-idsQKoB4P2sQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAee6rECqAef6rECqAf467ECqAe86rECqAfv8bECqAf8r7ECqAfVzhuoB77ZsQKoB7_ZsQKoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC0VKX3hrdWFyTkVVqAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAGEjZoNI1UBRYsNCZpMeYmANgAZoJLGh0dHBzOi8vYWNyb2JhdC5hZG9iZS5jb20vc3R1ZGVudHNwYWNlcy9ob21lsQljmMKkXiXX3sgJF8gJjwHICcIBugs6CAMQBRgEIAcoATAcQAFIAFh9YABoAHABiAEAmAEBogEICgCoAgHYAgLYAQOAAgGIAhK6AwV2aWNiZtALE-ALAaIMH2IYChZjb20uYWRvYmUuZWNob3NpZ24uaW9zeACIAQDSDAIQAdoMJQoKEMCcy-nS28jkUBICAQMaDRjm0O-tWCDDg-mp1QVAAUoCEB-aDQETqg0CVVPIDQHSDekEaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL045NzI5NTIuMjc5MzgyQklETUFOQUdFUl9ERkFTSVRFL0IyMjM0NDQxMy4yNDE1MzkzMjE7ZGNfdHJrX2FpZD00MzgxMjg2MjI7ZGNfdHJrX2NpZD0xMTI4ODQ2MTM7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBNkNqTUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaE1JNXREdnJWaW9Bc080OUFHd0FzeVc0dWtEUURzUWwtZTZBYXBTbzNMajY5SHFtUlNHRDdObEp0Yz07ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTtkY190cmFuc3BhcmVudD0xO2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNCTG0yak5EbkRvQ3hGeE01THdUZEpHb0ZLS0x2OXdqQXpfc2xPNTN2LWNJVlJVSnB0UW9ydTRobzJqcXJteWlTd2kzVFZKaG5hR0tCTTlLdztkY19wdWJpZD02P2h0dHBzOi8vYWNyb2JhdC5hZG9iZS5jb20vc3R1ZGVudHNwYWNlcy9ob21lP3NkaWQ9VlRDNUpSNDEmbXY9c29jaWFsJm12Mj1wYWlkc29jJnhfYXBpX2NsaWVudF9pZD1wYWlkbWVkaWEmeF9hcGlfY2xpZW50X2xvY2F0aW9uPWFkc19WVEM1SlI0MSZnYWRfc291cmNlPTKwE9fdwSa4E____________wGIFAewFAPAFYGAgEDQFQHYFQGYFgGoFgGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF1e_wgIaPhjwuhcGKAAwADgB0BgB8BgB&ase=2&gclid=EAIaIQobChMIoMqapMeYmAMVy9dPAh192STdEAEYAiAAEgL5iPD_BwE&num=2&cid=CAASqgHkaEQkhwW_mj8QmqZ6QI40r3Pc4RZgB8wmWyIeo_9EQwyF3LN2R30-IQT3aAy2FbZsO3SDoTdhDPZ4GpMTuWikkZJMzkHQO7GmpsQyk4pTXFj2qQq_sERphbFDT6i-4Oe-YInnDA1KWC4GUcvA0y_tBtGv8yBHE2sYZSzJ4D46ZL8ZJlpEKq5CWUNFBG4U2rWB1iAhGudD9u3F-GC6-254IedEn_RI5QY-SQ&ad_cpn=%5BCPN%5D&sig=AOD64_1wFIXpLcwSFS-PlLUrprtAfxvA7A&ctype=110&video_id=EJ_xkuarNEU&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Adobe",
+        "thumbnail": "https://yt3.ggpht.com/proxy/MOuz2I13I1fAnFfngtXtL_W4we9dtMgr0pZOHx9ZvXrWe0TzDLTj2mq2_seyh8bAOYiFhihUkC0bcCbQ2Rr3ROUyAm-g7fKx7ikqVy2aYwv8ap82JEQltB0uNj5JlrrMcTbQ-wFlNo0DfytWwYBrrCyx4-VnwgCwx-dn0fy6KEEwJzLjssuJHIvXA-MdWMvBvChh3bzxW7-sQCuvX2mDwrBOQUGt_eZzMbPzNL_oO6Ke1vjjr2458wPYmALVc80eUKLvvs8=w68-h68-nd"
+      },
+      "description": "Student Spaces is a smarter way to study. Free for students.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/EJ_xkuarNEU/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFIoRTAP&rs=AOn4CLCU57IhmW3dW5gLlSgxjM1DEB11sQ"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Every service pro deserves the right tools to grow. Put Jobber to work for yours.",
+      "link": "https://www.youtube.com/watch?v=LVqmUrWb7I4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LVqmUrWb7I4",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CQ0p0mUoBa-CZBsuvv8IP_bKT6Q3qzMmGiwGdi7iuoRZkEAMgAGDJ_raH3KPwEIIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAG99_a8A6kC9qRT1Lpkpz6oAwTIAwqqBMoCT9C1GAzM_Y13_HZaX_zgTcoRnDs5uC7VucJbcPZejTrk86AJuYpvVGwrkWyOd9fiWWsWafc1dMFuBp0T8D6-zx4614RO1SIc9WjL3Q_C7Uk1aKzRt3xg247aOXoEB_zpKtTxQzD4aKHAaE3eqikXS8izYt6XPpji-x6-30TjfJFOHlgNpp5F17MsaNO_dTh5oOMwyfJlhBETvu-BZyNb9mhk1AeK0Ooe5rnXYoAfhd7xVeYeY1mFiN6UbdkURZdPJUdJv8epJJ3MbiEat_gTbIAf8MjhESIvzA0MMGg0PnwWHt--GUmypriMSLNgFIdyCRCYki1A6UkYdI7j5N2M37qATWu8pIYOVaO385zMRh8cAUVuiRe-ZTzISvCWXUEn6RIumr77vebjvwpVtM0VwHuI1Vn6HFnpD_H7K7Isez0VvkjBKJc8ySLKiAW54NnyU5IFBwgTeOz1thmgBqEBgAeUr9kYkAcEqAelz7ECqAfnnbECqAfonbECqAeD9rECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHnuqxAqgHn-qxAqgH-OuxAqgHvOqxAqgH7_GxAqgH_K-xAqgH1c4bqAe-2bECqAe_2bECqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAtMVnFtVXJXYjdJNKgIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWLDQmaTHmJgDYAGaCS1odHRwczovL3d3dy5nZXRqb2JiZXIuY29tL2RscC9mc20tc29mdHdhcmUtYi-xCVul7aQiL1zEyAkXyAmPAcgJwgG6CzoIAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAtgBAYACAYgCBboDBXZpY2Jm0AsS4AsBogw1YhYKFGNvbS5nZXRqb2JiZXIuam9iYmVyahYKFGNvbS5nZXRqb2JiZXIuam9iYmVyeACIAQDSDAIQAdoMJgoLEPDKmMC-9LiljgESAgEDGg0YueDZ8lMg8qml48UFQAFKAhAfmg0BEqoNAlVTyA0B0g2nA2h0dHBzOi8vYWQuZG91YmxlY2xpY2submV0L2RkbS90cmFja2Nsay9OMjc0NDU0OC41ODc4NDMySk9CQkVSLVlPVVRVQkUtRC9CMzUyMjQyMDAuNDQwMDA5NzQxO2RjX3Rya19haWQ9NjMzMTYzOTU4O2RjX3Rya19jaWQ9MjUwMjQ5NzIyO2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2x0ZD07ZGNfdGR2PTE7ZGNfdHJhbnNwYXJlbnQ9MTs7ZGNfcnVpPTE7ZGNfZXBzPUFIYXM4Y0NOc195QkFhLVJzRmFybkVIeUF1ZUhQclBVdFhTNTVfUlRrUW1faXdDN0Y4d0VKY0VIT0lTWTh1WXl5YjZ6ZThzNlJlYjhiQkJwT0g2QlJRO2RjX3B1YmlkPTY_aHR0cHM6Ly93d3cuZ2V0am9iYmVyLmNvbS9kbHAvZnNtLXNvZnR3YXJlLWIvP2dhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMjUyMDY4ODY5N7gT____________AYgUAbAUA8AVgYCAQNAVAdgVAZgWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRcGsiqU9wlDpboXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMIoMqapMeYmAMVy9dPAh192STdEAEYAyAAEgKusvD_BwE&num=3&cid=CAASqgHkaEQkhwW_mj8QmqZ6QI40r3Pc4RZgB8wmWyIeo_9EQwyF3LN2R30-IQT3aAy2FbZsO3SDoTdhDPZ4GpMTuWikkZJMzkHQO7GmpsQyk4pTXFj2qQq_sERphbFDT6i-4Oe-YInnDA1KWC4GUcvA0y_tBtGv8yBHE2sYZSzJ4D46ZL8ZJlpEKq5CWUNFBG4U2rWB1iAhGudD9u3F-GC6-254IedEn_RI5QY-SQ&ad_cpn=%5BCPN%5D&sig=AOD64_3cr6wY0L8wlEzDI2cOKZ94fEaE9g&ctype=110&video_id=LVqmUrWb7I4&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Jobber",
+        "thumbnail": "https://yt3.ggpht.com/proxy/vES2egJ3496AURVe-er3Q5L5Jrwwfty0LikF5CqZ4jE2FsXjrFSvigMzyyw7yJOfYexR3jfglk61QcCMV-ZI524ZX7TVNcWes8rZuMVNI5IywuDJttw5AlbDhYYxU7EwdHKSTxmKC7yi4Tt_nwqsnaiOvZYWjfRnTDkuW5-CdOb1g5qIR-XCrcVixt25ZgXT92OyjB6CpiZ3ylMz557cvSVDi9DBg-xWooZMMLCKFOcTRMD4OBnrbVbt1we7dX0S43Ja5ug=w68-h68-nd"
+      },
+      "description": "Keep building your business and make room for what’s next with Jobber.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/LVqmUrWb7I4/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhpIGkoaTAP&rs=AOn4CLDyhva8XvjZSjNHlIjGhdk6PHBPLw"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "If you can type it, you can see it – with new AI tools from Squarespace.",
+      "link": "https://www.youtube.com/watch?v=_BUE-O-ELdI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_BUE-O-ELdI",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=Cnwk3mUoBa-CZBsuvv8IP_bKT6Q2H6pOGiwGf37X-7xawkB8QBSAAYMn-tofco_AQggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAfClvdICqAMEyAMKqgTpAk_QtRgMzP2Nd_x2Wl_84E3KEZw7Obgu1bnCW3D2Xo065POgCbmKb1RsK5FsjnfX4llrFmn3NXTBbgadE_A-vs8eOteETtUiHPVoy90Pwu1JNWis0bd8YNuO2jl6BAf86SrU8UMw-GihwGhN3qopF0vIs2Lelz6Y4vsevt9E43yRTh5YDaaeRdezLGjTv3U4eaDjMMnyZYQRE77vgWcjW_ZoZNQHitDqHua512KAH4Xe8VXmHmNZhYjelG3ZFEWXTyVHSb_HqSSdzG4hGrf4E2yAH_DI4REiL8wNDDBoND58Fh7fvhlJsqa4jEizYBSHcgkQmJItQOlJGHSO4-TdjN-6gE1rvI2PDlWgt_Pc7SkGBxNGiT6or6gk3-CdtsVIxW-_bJASYHrMKdolwpfbH_3j10X40E97CK9uc4IrZj_pnoxIUNbZNlj5WCmMJ39-e_R9lXbfZve2uPFUdHB_N6zmgnyhLSWFxPGIBbqSqqJRkgUICBN4pPnhrQGgBqEBgAf42cKtAZAHBKgHpc-xAqgH552xAqgH6J2xAqgHg_axAqgH-dOxAqgHydqxAqgHqeCxAqgHqNIbqAex3BuoB7CbsQKoB_2ysQKoB8jPsQKoB8nPsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB57qsQKoB5_qsQKoB_jrsQKoB7zqsQKoB-_xsQKoB_yvsQKoB9XOG6gHvtmxAqgHv9mxAqgHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLX0JVRS1PLUVMZEmoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFiw0Jmkx5iYA2ABmgk3aHR0cHM6Ly93d3cuc3F1YXJlc3BhY2UuY29tL3dlYnNpdGVzL2FpLXdlYnNpdGUtYnVpbGRlcrEJq38CzbCivMHICRfICY8ByAnCAcgJlwK6CzoIAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAtgBA4ACAYgCBboDBXZpY2Jm0AsS4AsBogxRYiAKHmNvbS5zcXVhcmVzcGFjZS5zcXVhcmVzcGFjZWFwcGooCiZjb20uc3F1YXJlc3BhY2UuYW5kcm9pZC5zcXVhcmVzcGFjZWFwcHgAiAEA0gwCEAHaDCUKChCAvsyCtdXu8jQSAgEDGg0YupKqolEgxbTSy_UEQAFKAhAfmg0BEqoNAlVTyA0B0g3lBWh0dHBzOi8vYWQuZG91YmxlY2xpY2submV0L2RkbS90cmFja2Nsay9ONzE4Njc5LjMxNTlHT09HTEUvQjM0NDQ1NDg5LjQ1ODIzOTU2NztkY190cmtfYWlkPTY1MjY4MzcxNjtkY190cmtfY2lkPTI2NTU5Nzc0NztkY19kYm1fdG9rZW49QU9qZUxORUFBQUE2Q2pNS0RBZ0FGUUFBQUFBZEFBQUFBQklNQ0FBVkFBQUFBQjBBQUFBQUloTUl1cEtxb2xHb0FvUGd0UUt3QXRfQzhPVURRRHNRdTRDMEFzZTFSWTdmZDF5SWlxbWNBRVBjTWNJPTtkY19sYXQ9O2RjX3JkaWQ9O3RhZ19mb3JfY2hpbGRfZGlyZWN0ZWRfdHJlYXRtZW50PTt0ZnVhPTtsdGQ9O2RjX3Rkdj0xO2RjX3RyYW5zcGFyZW50PTE7ZGNfcnVpPTE7ZGNfZXBzPUFIYXM4Y0FQRGFKSl9YY3dhR241NmlsN0dKcnRlMFJmRjdvY1RGMWR3ZXlsaGJKMFVsQVN4czNCSDlqZTdUVHVDTnEySmFpMm55RkJjTTBIR1lGbXBnO2RjX3B1YmlkPTY_aHR0cHM6Ly93d3cuc3F1YXJlc3BhY2UuY29tL3dlYnNpdGVzL2FpLXdlYnNpdGUtYnVpbGRlcj9jaGFubmVsPXZpZGVvX3Byb2dyYW1tYXRpYyZzdWJjaGFubmVsPU43MTg2NzkuMzE1OUdPT0dMRSZjYW1wYWlnbj0zNDQ0NTQ4OSZzdWJjYW1wYWlnbj00NTgyMzk1NjdfNjUyNjgzNzE2JnNvdXJjZT0yNjU1OTc3NDcmdXRtX21lZGl1bT12aWRlb19wcm9ncmFtbWF0aWMmdXRtX3NvdXJjZT1ONzE4Njc5LjMxNTlHT09HTEUmdXRtX2NvbnRlbnQ9JmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMTgxNTI2NTU5NLATyI7tJLgT____________AYgUAbAUA8AVgYCAQNAVAdgVAZgWAagWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRfNgFOOGzmNWLoXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMIoMqapMeYmAMVy9dPAh192STdEAEYBSAAEgJN5fD_BwE&num=5&cid=CAASqgHkaEQkhwW_mj8QmqZ6QI40r3Pc4RZgB8wmWyIeo_9EQwyF3LN2R30-IQT3aAy2FbZsO3SDoTdhDPZ4GpMTuWikkZJMzkHQO7GmpsQyk4pTXFj2qQq_sERphbFDT6i-4Oe-YInnDA1KWC4GUcvA0y_tBtGv8yBHE2sYZSzJ4D46ZL8ZJlpEKq5CWUNFBG4U2rWB1iAhGudD9u3F-GC6-254IedEn_RI5QY-SQ&ad_cpn=%5BCPN%5D&sig=AOD64_0ACoLJWvc3mXvAE11wuWevFzS9Wg&ctype=110&video_id=_BUE-O-ELdI&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Squarespace",
+        "thumbnail": "https://yt3.ggpht.com/proxy/OV0yjYL3Kk9I_i7Omx09d9RPjt0_v4WbF7A4zOK17mKSTTLGS6IO5mPBrpBATxaPMOmf0MGg_Ub91n5qb0n0PLL_J9gidUb63dm9kE-Nwkg_7ZqLObNCs5G-E0YLi1MvkceqjxZndTLsAbHnJpP7OC_QAhOQZtbUFk8jZD838Uhn1Ibf0TfqBSYqRLc2WV7uen0op44FyOJoJOb0pAE2hP68C2i7Kf-ZIeH6Z7WWqDm3UWjzKA17dHtTZKxulgfXUtKJF44=w68-h68-nd"
+      },
+      "description": "See how your brand shows up online—right from your Squarespace dashboard",
+      "thumbnail": {
+        "static": "https://tpc.googlesyndication.com/simgad/8545328293470883753"
+      }
+    }
+  ],
+  "playlist_results": [
+    {
+      "position_on_page": 2,
+      "title": "FastAPI Tutorials",
+      "link": "https://www.youtube.com/playlist?list=PL-osiE80TeTsak-c-QsVeg0YYG_0TeyXI",
+      "channel": {
+        "name": "Corey Schafer",
+        "channel_id": "UCCezIgC97PvUuR4_gbFUs5g",
+        "link": "https://www.youtube.com/@coreyms"
+      },
+      "videos": [
+        {
+          "title": "Python FastAPI Tutorial (Part 1): Getting Started - Web App + REST API",
+          "length": "23:54",
+          "link": "https://www.youtube.com/watch?v=7AMjmCTumuo&list=PL-osiE80TeTsak-c-QsVeg0YYG_0TeyXI"
+        },
+        {
+          "title": "Python FastAPI Tutorial (Part 2): HTML Frontend for Your API - Jinja2 Templates",
+          "length": "37:26",
+          "link": "https://www.youtube.com/watch?v=G4NIB9Rx9Qs&list=PL-osiE80TeTsak-c-QsVeg0YYG_0TeyXI"
+        }
+      ],
+      "video_count": 19,
+      "thumbnail": "https://i.ytimg.com/vi/7AMjmCTumuo/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBMQ_yiYIBv6D9QLSkDw2F0HvQMjA"
+    },
+    {
+      "position_on_page": 3,
+      "title": "FastAPI Complete Playlist | Backend Development with Python FastAPI | FastAPI Tutorial",
+      "link": "https://www.youtube.com/playlist?list=PLUhY5ME1VdIumaSa-m5SQ-ztTL8NWY8Gh",
+      "channel": {
+        "name": "TechSimPlus Learnings",
+        "channel_id": "UCLgmvKM3Eu1LRXoMlgsmxYw",
+        "link": "https://www.youtube.com/@TechSimPlusLearnings"
+      },
+      "videos": [
+        {
+          "title": "#1 FastAPI Tutorial - Introduction | Complete FastAPI Course 2026 | Python Backend",
+          "length": "3:53",
+          "link": "https://www.youtube.com/watch?v=tMJA41xhBZM&list=PLUhY5ME1VdIumaSa-m5SQ-ztTL8NWY8Gh"
+        },
+        {
+          "title": "#2 How to setup FastAPI | FastAPI Setup in VS Code | FastAPI Tutorial",
+          "length": "4:02",
+          "link": "https://www.youtube.com/watch?v=rjoaQ7lnTNg&list=PLUhY5ME1VdIumaSa-m5SQ-ztTL8NWY8Gh"
+        }
+      ],
+      "video_count": 26,
+      "thumbnail": "https://i.ytimg.com/vi/tMJA41xhBZM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLASdacRh06D3Vx-NV6VFeZk6b16sw"
+    },
+    {
+      "position_on_page": 5,
+      "title": "FastAPI Full Course 2026 | Beginner to Advanced Python API Development",
+      "link": "https://www.youtube.com/playlist?list=PLsjpRo2EZP1IYYPoAC9vk2hw_0djPAQ1-",
+      "channel": {
+        "name": "Mohit Decodes",
+        "channel_id": "UC00Ni0CJFFLpaPf3lyHx5NA",
+        "link": "https://www.youtube.com/@MohitDecodes"
+      },
+      "videos": [
+        {
+          "title": "FastAPI Tutorial #1 | Introduction - What is FastAPI?",
+          "length": "5:55",
+          "link": "https://www.youtube.com/watch?v=LErW907QBbk&list=PLsjpRo2EZP1IYYPoAC9vk2hw_0djPAQ1-"
+        },
+        {
+          "title": "FastAPI Tutorial #2 | Installation & Setup",
+          "length": "12:13",
+          "link": "https://www.youtube.com/watch?v=gHkcpxFl_mc&list=PLsjpRo2EZP1IYYPoAC9vk2hw_0djPAQ1-"
+        }
+      ],
+      "video_count": 37,
+      "thumbnail": "https://i.ytimg.com/vi/LErW907QBbk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBbYJldYX9lVXYPr8ywR8U4_3v47A"
+    },
+    {
+      "position_on_page": 8,
+      "title": "FastAPI Tutorial | Python Web Framework",
+      "link": "https://www.youtube.com/playlist?list=PLsyeobzWxl7qF4ASwCZZDXor_Y0YJ3Qfc",
+      "channel": {
+        "name": "Telusko",
+        "channel_id": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "link": "https://www.youtube.com/@Telusko"
+      },
+      "videos": [
+        {
+          "title": "#1 FastAPI - Python Web Framework",
+          "length": "6:55",
+          "link": "https://www.youtube.com/watch?v=02dzgC_Ba70&list=PLsyeobzWxl7qF4ASwCZZDXor_Y0YJ3Qfc"
+        },
+        {
+          "title": "#2 FastAPI Setup in VS Code",
+          "length": "13:02",
+          "link": "https://www.youtube.com/watch?v=Rf9jbnzt2UU&list=PLsyeobzWxl7qF4ASwCZZDXor_Y0YJ3Qfc"
+        }
+      ],
+      "video_count": 13,
+      "thumbnail": "https://i.ytimg.com/vi/02dzgC_Ba70/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAj06bnIrdlVnsdaWaJJmI82XT3Eg"
+    },
+    {
+      "position_on_page": 9,
+      "title": "Complete FastAPI Course | Modern Python Framework for Backend Development",
+      "link": "https://www.youtube.com/playlist?list=PLKdU0fuY4OFeNGB1m9pbvPukND6NhjK4L",
+      "channel": {
+        "name": "STUDY MART",
+        "channel_id": "UCH6wiF1uC7PhuV_UIR_28AA",
+        "link": "https://www.youtube.com/@StudyMart"
+      },
+      "videos": [
+        {
+          "title": "01. FastAPI Explained in 10 Minutes | Modern Python Framework",
+          "length": "10:07",
+          "link": "https://www.youtube.com/watch?v=FlugnafK2tU&list=PLKdU0fuY4OFeNGB1m9pbvPukND6NhjK4L"
+        },
+        {
+          "title": "02. FastAPI Setup Guide | Install & Run FastAPI Step by Step @aiquest",
+          "length": "7:39",
+          "link": "https://www.youtube.com/watch?v=viQ3Md5lDHQ&list=PLKdU0fuY4OFeNGB1m9pbvPukND6NhjK4L"
+        }
+      ],
+      "video_count": 38,
+      "thumbnail": "https://i.ytimg.com/vi/FlugnafK2tU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDP6Ul-lFua3tXHpqw_Z8MCEvfcew"
+    },
+    {
+      "position_on_page": 11,
+      "title": "Python FastAPI Playlist + testing + deployment + CI/CD",
+      "link": "https://www.youtube.com/playlist?list=PL8VzFQ8k4U1L5QpSapVEzoSfob-4CR8zM",
+      "channel": {
+        "name": "Sanjeev Thiyagarajan",
+        "channel_id": "UC2sYgV-NV6S5_-pqLGChoNQ",
+        "link": "https://www.youtube.com/@SanjeevThiyagarajan"
+      },
+      "videos": [
+        {
+          "title": "Python FastAPI Course Intro: Part #1 Python API Course",
+          "length": "11:13",
+          "link": "https://www.youtube.com/watch?v=Yw4LmMQXXFs&list=PL8VzFQ8k4U1L5QpSapVEzoSfob-4CR8zM"
+        },
+        {
+          "title": "Python + VS Code setup on mac: Part #2 Python API Course",
+          "length": "5:15",
+          "link": "https://www.youtube.com/watch?v=I5-qJ8SsU-E&list=PL8VzFQ8k4U1L5QpSapVEzoSfob-4CR8zM"
+        }
+      ],
+      "video_count": 100,
+      "thumbnail": "https://i.ytimg.com/vi/Yw4LmMQXXFs/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBdPF0jgMbC9xTvCwey-k0wP5YL1g"
+    },
+    {
+      "position_on_page": 13,
+      "title": "FastAPI Tutorial",
+      "link": "https://www.youtube.com/playlist?list=PL0BwLgm6AcFZhJehdlez2NZtQ9Kn13OsP",
+      "channel": {
+        "name": "Code Goat",
+        "channel_id": "UClPF6rSc9NowTndifAsTxCQ",
+        "link": "https://www.youtube.com/@CodeGoat-s2y"
+      },
+      "videos": [
+        {
+          "title": "FastAPI Python Full course",
+          "length": "3:12",
+          "link": "https://www.youtube.com/watch?v=yX0v5sYcctQ&list=PL0BwLgm6AcFZhJehdlez2NZtQ9Kn13OsP"
+        },
+        {
+          "title": "FastAPI Tutorial #1: Build APIs FAST! (Intro & Setup)",
+          "length": "22:09",
+          "link": "https://www.youtube.com/watch?v=xGr00JeL8J8&list=PL0BwLgm6AcFZhJehdlez2NZtQ9Kn13OsP"
+        }
+      ],
+      "video_count": 23,
+      "thumbnail": "https://i.ytimg.com/vi/yX0v5sYcctQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBRMOahXgCIwsY69wGDk4n3DKbGFg"
+    },
+    {
+      "position_on_page": 14,
+      "title": "FastAPI - Complete Course for Python API Development",
+      "link": "https://www.youtube.com/playlist?list=PL-2EBeDYMIbQghmnb865lpdmYyWU3I5F1",
+      "channel": {
+        "name": "BugBytes",
+        "channel_id": "UCTwxaBjziKfy6y_uWu30orA",
+        "link": "https://www.youtube.com/@bugbytes3923"
+      },
+      "videos": [
+        {
+          "title": "FastAPI #1  Installation / API Routes / Swagger Docs",
+          "length": "11:02",
+          "link": "https://www.youtube.com/watch?v=Lw-zLopB3o0&list=PL-2EBeDYMIbQghmnb865lpdmYyWU3I5F1"
+        },
+        {
+          "title": "FastAPI #2 - Path Parameters / Data Validation with Type-Hints & Enums",
+          "length": "15:49",
+          "link": "https://www.youtube.com/watch?v=q6E3xoKIBnY&list=PL-2EBeDYMIbQghmnb865lpdmYyWU3I5F1"
+        }
+      ],
+      "video_count": 15,
+      "thumbnail": "https://i.ytimg.com/vi/Lw-zLopB3o0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDUI5iIMt0zaOKxVeyT2nAMaUwPDg"
+    },
+    {
+      "position_on_page": 15,
+      "title": "FastAPI for Machine Learning | CampusX",
+      "link": "https://www.youtube.com/playlist?list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ",
+      "channel": {
+        "name": "CampusX",
+        "channel_id": "UCCWi3hpnq_Pe03nGxuS7isg",
+        "link": "https://www.youtube.com/@campusx-official"
+      },
+      "videos": [
+        {
+          "title": "What is an API? | Introduction to APIs | FAST API for Machine Learning | CampusX",
+          "length": "46:37",
+          "link": "https://www.youtube.com/watch?v=WJKsPchji0Q&list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ"
+        },
+        {
+          "title": "FastAPI Philosophy | How to setup FastAPI | Installation and Code Demo | Video 2 | CampusX",
+          "length": "42:07",
+          "link": "https://www.youtube.com/watch?v=lXx-_1r0Uss&list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ"
+        }
+      ],
+      "video_count": 13,
+      "thumbnail": "https://i.ytimg.com/vi/WJKsPchji0Q/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBsTA0ld_HnFmuwmip5u1qAaQ7Tww"
+    },
+    {
+      "position_on_page": 16,
+      "title": "FastAPI for AI Engineers: Complete Guide to Building & Deploying Scalable AI APIs",
+      "link": "https://www.youtube.com/playlist?list=PLdKd-j64gDcBcn_y97FBt6pw-NzmY--20",
+      "channel": {
+        "name": "Analytics Vidhya",
+        "channel_id": "UCH6gDteHtH4hg3o2343iObA",
+        "link": "https://www.youtube.com/@Analyticsvidhya"
+      },
+      "videos": [
+        {
+          "title": "Course Introduction & What You Will Build",
+          "length": "3:04",
+          "link": "https://www.youtube.com/watch?v=cQcg9sG6-rM&list=PLdKd-j64gDcBcn_y97FBt6pw-NzmY--20"
+        },
+        {
+          "title": "What is FastAPI & Why It's Perfect for AI Backends",
+          "length": "5:16",
+          "link": "https://www.youtube.com/watch?v=zT-JG07Uhb0&list=PLdKd-j64gDcBcn_y97FBt6pw-NzmY--20"
+        }
+      ],
+      "video_count": 41,
+      "thumbnail": "https://i.ytimg.com/vi/cQcg9sG6-rM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBfkpHLbKIIsCIPHSYkSoNmBaExEw"
+    },
+    {
+      "position_on_page": 22,
+      "title": "FastAPI Complete Course",
+      "link": "https://www.youtube.com/playlist?list=PLfXWSguRXGuX3sEpyfb-A3JkBGnrYLfgQ",
+      "channel": {
+        "name": "TeluguPy",
+        "channel_id": "UCnwvddr04Yy5ahwU7bJu5Qw",
+        "link": "https://www.youtube.com/@telugupythoncourse"
+      },
+      "videos": [
+        {
+          "title": "FastAPI Tutorial for Beginners | What is FastAPI & Why It’s Fast? | Telugu",
+          "length": "15:39",
+          "link": "https://www.youtube.com/watch?v=ce718l7K6rY&list=PLfXWSguRXGuX3sEpyfb-A3JkBGnrYLfgQ"
+        },
+        {
+          "title": "Install FastAPI & Run Your First App | FastAPI Setup for Beginners | Telugu",
+          "length": "13:56",
+          "link": "https://www.youtube.com/watch?v=m7iy1IlKrOA&list=PLfXWSguRXGuX3sEpyfb-A3JkBGnrYLfgQ"
+        }
+      ],
+      "video_count": 30,
+      "thumbnail": "https://i.ytimg.com/vi/ce718l7K6rY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBtXmErIkXE35mbIHD_cXI-qiokew"
+    }
+  ],
+  "video_results": [
+    {
+      "position_on_page": 6,
+      "title": "Python FastAPI Tutorial: Build a REST API in 15 Minutes",
+      "link": "https://www.youtube.com/watch?v=iWS9ogMPOI0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=iWS9ogMPOI0",
+      "video_id": "iWS9ogMPOI0",
+      "channel": {
+        "name": "pixegami",
+        "channel_id": "UCuxhTSKtnMJizinblLs9xOA",
+        "link": "https://www.youtube.com/@pixegami",
+        "thumbnail": "https://yt3.ggpht.com/fZw4obRRMDHZ5wleVvXHOW2FtnTHhk54d-Zfxvxi-Z4fwYl8s40F2xP-fv_JgNVU5H1kDWkiORE=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 644050,
+      "length": "15:16",
+      "description": "Learn how to install and build your first app with FastAPI (a high-performance web framework for Python). In this tutorial, you'll ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/iWS9ogMPOI0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCa9PwdK_ZMtocWOTSnh1WA-9FkYQ",
+        "rich": "https://i.ytimg.com/an_webp/iWS9ogMPOI0/mqdefault_6s.webp?du=3000&sqp=CNn0hNgG&rs=AOn4CLCUg5QBdofLcjaraHuPm7G8s8q1og"
+      },
+      "chapters": [
+        {
+          "title": "Why Use FastAPI?",
+          "thumbnail": "https://i.ytimg.com/vi/iWS9ogMPOI0/hqdefault_10066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABztxfZdmAM8eiUv1iL6iEm6Uy7g",
+          "time_start": 0
+        },
+        {
+          "title": "Install and Get Started with FastAPI",
+          "thumbnail": "https://i.ytimg.com/vi/iWS9ogMPOI0/hqdefault_60966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBt7ulsbiAe-BgzanNzbel9egsEiA",
+          "time_start": 49
+        },
+        {
+          "title": "GET and POST Routes",
+          "thumbnail": "https://i.ytimg.com/vi/iWS9ogMPOI0/hqdefault_145933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXAx8yxvmEjPmD8G-pfjjfS-S0ow",
+          "time_start": 142
+        },
+        {
+          "title": "Handling HTTP Errors",
+          "thumbnail": "https://i.ytimg.com/vi/iWS9ogMPOI0/hqdefault_327266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCv4XUfcXrhA7uT9WU4Xglhm0t8NA",
+          "time_start": 327
+        },
+        {
+          "title": "JSON Request and Path Parameters",
+          "thumbnail": "https://i.ytimg.com/vi/iWS9ogMPOI0/hqdefault_411833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFxinfC6Lwl1NQRwn-RV1R0mgKjA",
+          "time_start": 408
+        },
+        {
+          "title": "Response Models",
+          "thumbnail": "https://i.ytimg.com/vi/iWS9ogMPOI0/hqdefault_645200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1QGMkHh4UpqUVU7nSQietlXMhFw",
+          "time_start": 638
+        },
+        {
+          "title": "Interactive Documentation",
+          "thumbnail": "https://i.ytimg.com/vi/iWS9ogMPOI0/hqdefault_711200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWMnhp7znAldl0A9olrIJQuYI0ew",
+          "time_start": 702
+        },
+        {
+          "title": "FastAPI vs Flask",
+          "thumbnail": "https://i.ytimg.com/vi/iWS9ogMPOI0/hqdefault_834233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-Xiwf_9D2mRhMsfZxVirDT8Otfg",
+          "time_start": 811
+        }
+      ]
+    },
+    {
+      "position_on_page": 10,
+      "title": "Python FastAPI Tutorial (Part 1): Getting Started - Web App + REST API",
+      "link": "https://www.youtube.com/watch?v=7AMjmCTumuo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7AMjmCTumuo",
+      "video_id": "7AMjmCTumuo",
+      "channel": {
+        "name": "Corey Schafer",
+        "channel_id": "UCCezIgC97PvUuR4_gbFUs5g",
+        "link": "https://www.youtube.com/@coreyms",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lD6K9DGGqWttThktCDttOdlHIHWZQ7Gcdd9WRSEqYUxw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "10mo ago",
+      "views": 400416,
+      "length": "23:54",
+      "description": "In this series of videos, we'll be learning how to build a full-featured web application from the ground up using the FastAPI ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/7AMjmCTumuo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmJMRRktN_RT0FeKMXhqEREg1dyQ",
+        "rich": "https://i.ytimg.com/an_webp/7AMjmCTumuo/mqdefault_6s.webp?du=3000&sqp=CPSOhdgG&rs=AOn4CLAbh1UU2al3xjL_bOkhb-GUbnabAg"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "FastAPI Crash Course - Modern Python API Development",
+      "link": "https://www.youtube.com/watch?v=8TMQcRcBnW8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=8TMQcRcBnW8",
+      "video_id": "8TMQcRcBnW8",
+      "channel": {
+        "name": "Traversy Media",
+        "channel_id": "UC29ju8bIPH5as8OGnQzwJyA",
+        "link": "https://www.youtube.com/@TraversyMedia",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mLysKc36lc_FVk2j777olWvLOjgDz6NCNGdiQBnAKRENM=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "10mo ago",
+      "views": 119303,
+      "length": "1:00:21",
+      "description": "Learn the fundamentals of creating APIs with Python using the FastAPI framework. Go beyond video tutorials with our new ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/8TMQcRcBnW8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXiVJTFcmtt2RP2iLN0XL4YvDY9w",
+        "rich": "https://i.ytimg.com/an_webp/8TMQcRcBnW8/mqdefault_6s.webp?du=3000&sqp=CL_4hNgG&rs=AOn4CLCI1krQ3DY_cV9zRJTkDSu7XENUhA"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/8TMQcRcBnW8/hqdefault_6333.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJf_wHbqs1UXXYDOIga3PuAVGlFA",
+          "time_start": 0
+        },
+        {
+          "title": "Sponsor (Code Rabbit)",
+          "thumbnail": "https://i.ytimg.com/vi/8TMQcRcBnW8/hqdefault_67933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOxgULlIOLaPAh3CMhMBCzpLCaSA",
+          "time_start": 66
+        },
+        {
+          "title": "What Is FastAPI? (Slides)",
+          "thumbnail": "https://i.ytimg.com/vi/8TMQcRcBnW8/hqdefault_181066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXn8n-1ZcTOwSws9o1LFMriAq4nw",
+          "time_start": 165
+        },
+        {
+          "title": "High Level Overview",
+          "thumbnail": "https://i.ytimg.com/vi/8TMQcRcBnW8/hqdefault_523866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdB5qAxP_YW6RTosFBBlFxHd0Y2g",
+          "time_start": 505
+        },
+        {
+          "title": "Virtual Environment Setup",
+          "thumbnail": "https://i.ytimg.com/vi/8TMQcRcBnW8/hqdefault_612733.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHMUYDzmmZ7cilMcqGRwtQSwOrUw",
+          "time_start": 611
+        },
+        {
+          "title": "FastAPI Install & Basic Setup",
+          "thumbnail": "https://i.ytimg.com/vi/8TMQcRcBnW8/hqdefault_703800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDI4crKAOAlX0JBbPM1tiEZiwWdLA",
+          "time_start": 703
+        },
+        {
+          "title": "Your First Route",
+          "thumbnail": "https://i.ytimg.com/vi/8TMQcRcBnW8/hqdefault_831266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdSQpo_1cgKwZ5CXIDcrjWOuCJcw",
+          "time_start": 812
+        },
+        {
+          "title": "Swagger Interactive Docs",
+          "thumbnail": "https://i.ytimg.com/vi/8TMQcRcBnW8/hqdefault_919200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCB-RSd01PPGAMWlCcB8QapuOPaoA",
+          "time_start": 909
+        },
+        {
+          "title": "Basic Item Route Examples",
+          "thumbnail": "https://i.ytimg.com/vi/8TMQcRcBnW8/hqdefault_996733.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKlgbDGcvNtatX_s3yNM9XUGGxhQ",
+          "time_start": 967
+        },
+        {
+          "title": "POST Requests",
+          "thumbnail": "https://i.ytimg.com/vi/8TMQcRcBnW8/hqdefault_1161200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGBRX46lhtea5THt_kD-olyQ6QYQ",
+          "time_start": 1140
+        },
+        {
+          "title": "API Router Setup",
+          "thumbnail": "https://i.ytimg.com/vi/8TMQcRcBnW8/hqdefault_1255166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjgTkXbJ--Nk6OGnhPMSfJnFNHcQ",
+          "time_start": 1250
+        },
+        {
+          "title": "JSON Storage Module",
+          "thumbnail": "https://i.ytimg.com/vi/8TMQcRcBnW8/hqdefault_1443066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKXIT0QL220mPwoc7WxZG50QpcKA",
+          "time_start": 1440
+        },
+        {
+          "title": "Pydantic Schemas",
+          "thumbnail": "https://i.ytimg.com/vi/8TMQcRcBnW8/hqdefault_1723066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfxLDKghI_vZaEjTgxwjTysaqNNQ",
+          "time_start": 1719
+        },
+        {
+          "title": "Issue GET Route",
+          "thumbnail": "https://i.ytimg.com/vi/8TMQcRcBnW8/hqdefault_2170066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfzl_PsBxnvziopbjzS5DiAQRDWQ",
+          "time_start": 2170
+        },
+        {
+          "title": "Issue POST Route",
+          "thumbnail": "https://i.ytimg.com/vi/8TMQcRcBnW8/hqdefault_2292033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCq-seChiyrGJvOUsG0wsxGYErzyQ",
+          "time_start": 2270
+        },
+        {
+          "title": "Issue PUT Route",
+          "thumbnail": "https://i.ytimg.com/vi/8TMQcRcBnW8/hqdefault_2627866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_7D2XYGTJUVPCyFmHR1LWSXcofQ",
+          "time_start": 2606
+        },
+        {
+          "title": "Issue DELETE Route",
+          "thumbnail": "https://i.ytimg.com/vi/8TMQcRcBnW8/hqdefault_2742900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9tG6-Sw7ITImpu8GzWUwjRsvaJQ",
+          "time_start": 2717
+        },
+        {
+          "title": "Middleware (Timing Example)",
+          "thumbnail": "https://i.ytimg.com/vi/8TMQcRcBnW8/hqdefault_2842200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAgg6r7BkOAn7e61ja4Irj1aEMOg",
+          "time_start": 2820
+        },
+        {
+          "title": "CORS",
+          "thumbnail": "https://i.ytimg.com/vi/8TMQcRcBnW8/hqdefault_3186166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0_yzy11uJgfLht7QPcXG7jS1jPA",
+          "time_start": 3170
+        },
+        {
+          "title": "Deploying to Render",
+          "thumbnail": "https://i.ytimg.com/vi/8TMQcRcBnW8/hqdefault_3292100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzcfD3toQx9ZrC_lnkxQ9ni830zQ",
+          "time_start": 3277
+        }
+      ]
+    },
+    {
+      "position_on_page": 17,
+      "title": "FastAPI Full Course 2026: Build a Real, Production Shaped API",
+      "link": "https://www.youtube.com/watch?v=JuHzEsapiIs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=JuHzEsapiIs",
+      "video_id": "JuHzEsapiIs",
+      "channel": {
+        "name": "Codynn",
+        "channel_id": "UCLAWA-K38H0Lx1rjSegMcLg",
+        "link": "https://www.youtube.com/@codynn",
+        "thumbnail": "https://yt3.ggpht.com/5ggZ-_ljIhQ6PUct1jGrhVq380OcLuYPvCZ9HErlxeIeNP0q9GsKFEEZKBitZY4TES6SB3RV2g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2w ago",
+      "views": 6531,
+      "length": "1:37:25",
+      "description": "FastAPI tutorial from scratch: build a real Books API with Python, Pydantic and a PostgreSQL database. Join our channel: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/JuHzEsapiIs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEXNuYyxlF0LQXEVaH6diGu6cL8g",
+        "rich": "https://i.ytimg.com/an_webp/JuHzEsapiIs/mqdefault_6s.webp?du=3000&sqp=CMyJhdgG&rs=AOn4CLB669ZqqnkGl0s8Oo0tR7VYmCLEww"
+      },
+      "chapters": [
+        {
+          "title": "What We're Building: Books API",
+          "thumbnail": "https://i.ytimg.com/vi/JuHzEsapiIs/hqdefault_21933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0YJoVtzk4bEH4jV08gRbqhiWdIw",
+          "time_start": 0
+        },
+        {
+          "title": "Your First FastAPI App",
+          "thumbnail": "https://i.ytimg.com/vi/JuHzEsapiIs/hqdefault_24000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3BJwGMAOBwa4kY1qq9XiH0TcF2g",
+          "time_start": 22
+        },
+        {
+          "title": "Routes: Your First Endpoints",
+          "thumbnail": "https://i.ytimg.com/vi/JuHzEsapiIs/hqdefault_203333.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFI-IBjrg3iyXDOXG6TQFTCzGetQ",
+          "time_start": 203
+        },
+        {
+          "title": "In-Memory Storage for Books",
+          "thumbnail": "https://i.ytimg.com/vi/JuHzEsapiIs/hqdefault_487900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBF56b5MRAByxBY5J3nXzON9WtDFA",
+          "time_start": 459
+        },
+        {
+          "title": "Path Parameters",
+          "thumbnail": "https://i.ytimg.com/vi/JuHzEsapiIs/hqdefault_769766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtSN-MqOnNUsNZ5df2bN4GTvHgFw",
+          "time_start": 769
+        },
+        {
+          "title": "Query Parameters: Filtering",
+          "thumbnail": "https://i.ytimg.com/vi/JuHzEsapiIs/hqdefault_1161233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCcLdwI4rnXjG9X4dRtnNy-00rbQ",
+          "time_start": 1160
+        },
+        {
+          "title": "Request Bodies with Pydantic",
+          "thumbnail": "https://i.ytimg.com/vi/JuHzEsapiIs/hqdefault_1443233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEATYlixZERRWv0QJx-Eq4UCu-PQ",
+          "time_start": 1443
+        },
+        {
+          "title": "Validation Rules for Request Data",
+          "thumbnail": "https://i.ytimg.com/vi/JuHzEsapiIs/hqdefault_2160166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIxwbhU-5jYKxHoAjXcbeM3BPdBQ",
+          "time_start": 2158
+        },
+        {
+          "title": "Full CRUD: Create, Read, Update, Delete",
+          "thumbnail": "https://i.ytimg.com/vi/JuHzEsapiIs/hqdefault_2399133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNDfieixXR-VcucZz8750YeTDnFQ",
+          "time_start": 2399
+        },
+        {
+          "title": "PostgreSQL Database with SQLAlchemy",
+          "thumbnail": "https://i.ytimg.com/vi/JuHzEsapiIs/hqdefault_3057100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6qfvJzvxbUcZdhla34W6f0kkqTw",
+          "time_start": 3056
+        },
+        {
+          "title": "Routers: Organizing a Growing Project",
+          "thumbnail": "https://i.ytimg.com/vi/JuHzEsapiIs/hqdefault_4420066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAL3D2DYd6JmYuid_FH1JtWg9qCog",
+          "time_start": 4420
+        },
+        {
+          "title": "Response Models: Preventing Sensitive Field Leaks",
+          "thumbnail": "https://i.ytimg.com/vi/JuHzEsapiIs/hqdefault_4866033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGSIsM5VG1HI0cD47vyTL-74oR4Q",
+          "time_start": 4866
+        },
+        {
+          "title": "Async: Non-Blocking Server and Concurrency Test",
+          "thumbnail": "https://i.ytimg.com/vi/JuHzEsapiIs/hqdefault_5139000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6EDNv2AObTMZAba5ybV14mOWeKQ",
+          "time_start": 5139
+        },
+        {
+          "title": "Recap & Next Steps",
+          "thumbnail": "https://i.ytimg.com/vi/JuHzEsapiIs/hqdefault_5820033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwnougp7zF5F6p1Dr0KAZGntx_JA",
+          "time_start": 5795
+        }
+      ]
+    },
+    {
+      "position_on_page": 19,
+      "title": "FastAPI explained in 2 minutes",
+      "link": "https://www.youtube.com/watch?v=umbU5Pk03CM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=umbU5Pk03CM",
+      "video_id": "umbU5Pk03CM",
+      "channel": {
+        "name": "CodeHead",
+        "channel_id": "UCFVteOob_YXJHPaGTqlDV2Q",
+        "link": "https://www.youtube.com/@codehead01",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/Hkx2BZc71IV_M9wosWj-lS-8fHSAcPpLaDkfZHvDnn1yULUAqQSCPXyyG1Ul3rGTypc5-mv-iA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9mo ago",
+      "views": 130972,
+      "length": "2:05",
+      "description": "Get 40% OFF CodeCrafters: https://app.codecrafters.io/join?via=codehead-01 Git gud at coding with Scrimba ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/umbU5Pk03CM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdWIEnECRVTmHtBMrScFRDlQPMxA",
+        "rich": "https://i.ytimg.com/an_webp/umbU5Pk03CM/mqdefault_6s.webp?du=3000&sqp=COCEhdgG&rs=AOn4CLCMs1EK2FifHgPnmPi8vE9fnO7k4w"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Learn Fast API With This ONE Project",
+      "link": "https://www.youtube.com/watch?v=SR5NYCdzKkc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=SR5NYCdzKkc",
+      "video_id": "SR5NYCdzKkc",
+      "channel": {
+        "name": "Tech With Tim",
+        "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
+        "link": "https://www.youtube.com/@TechWithTim",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k15oXl74WcnpdL-uVBv6IHBgAfXEEnpUiS-IoEyV1auyY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 402776,
+      "length": "2:05:44",
+      "description": "ImageKit is an image and video API plus AI-Powered DAM that we use in this project to handle all of our image and video ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/SR5NYCdzKkc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsW5GFdsczkYiyZZt2zywVZfeKrQ",
+        "rich": "https://i.ytimg.com/an_webp/SR5NYCdzKkc/mqdefault_6s.webp?du=3000&sqp=CIv6hNgG&rs=AOn4CLD7D8Qb5s54DvKSS-kL4M1DtoO6iQ"
+      },
+      "chapters": [
+        {
+          "title": "Video Overview",
+          "thumbnail": "https://i.ytimg.com/vi/SR5NYCdzKkc/hqdefault_3000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbC5zg9O6CK5CqaXfGpII3ot5Taw",
+          "time_start": 0
+        },
+        {
+          "title": "Project Demo",
+          "thumbnail": "https://i.ytimg.com/vi/SR5NYCdzKkc/hqdefault_35333.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKuTdXg1E7U3JBzeGtCo1GO6agzQ",
+          "time_start": 35
+        },
+        {
+          "title": "Web App Architecture & Theory",
+          "thumbnail": "https://i.ytimg.com/vi/SR5NYCdzKkc/hqdefault_137800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMb5QqcVK0EGcK3JrcURa2lE0aew",
+          "time_start": 118
+        },
+        {
+          "title": "Project Setup & Install",
+          "thumbnail": "https://i.ytimg.com/vi/SR5NYCdzKkc/hqdefault_847900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyO1I9zsz3wJigq4k4Is1aU-TyCw",
+          "time_start": 847
+        },
+        {
+          "title": "FastAPI Setup & Basics",
+          "thumbnail": "https://i.ytimg.com/vi/SR5NYCdzKkc/hqdefault_1245233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlmo7HvT0FGAMCcCKUGKjoolun7A",
+          "time_start": 1245
+        },
+        {
+          "title": "FastAPI Docs",
+          "thumbnail": "https://i.ytimg.com/vi/SR5NYCdzKkc/hqdefault_1711200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMdjbZaZAj0slDepOPnoaeiNH0_A",
+          "time_start": 1690
+        },
+        {
+          "title": "GET & Fetching Posts",
+          "thumbnail": "https://i.ytimg.com/vi/SR5NYCdzKkc/hqdefault_1813800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2akbCgBJuQHq7AZHPuWttb5XRcA",
+          "time_start": 1810
+        },
+        {
+          "title": "Path Parameters",
+          "thumbnail": "https://i.ytimg.com/vi/SR5NYCdzKkc/hqdefault_1955133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTeP8aoTMAx1n3MwPHuPiwixt3Ng",
+          "time_start": 1945
+        },
+        {
+          "title": "Raising Errors & Status Codes",
+          "thumbnail": "https://i.ytimg.com/vi/SR5NYCdzKkc/hqdefault_2052200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBufKL01Xy_vy_cLTqsMiNqvwsAvg",
+          "time_start": 2029
+        },
+        {
+          "title": "Query Parameter",
+          "thumbnail": "https://i.ytimg.com/vi/SR5NYCdzKkc/hqdefault_2108100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvy1dq99_FNzV9kxP26ysVLduYdA",
+          "time_start": 2096
+        },
+        {
+          "title": "Request Body & POST",
+          "thumbnail": "https://i.ytimg.com/vi/SR5NYCdzKkc/hqdefault_2315033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUmUiSabuTAMA-dF_3J2eDsfJi9Q",
+          "time_start": 2314
+        },
+        {
+          "title": "Output Type & Pydantic Models",
+          "thumbnail": "https://i.ytimg.com/vi/SR5NYCdzKkc/hqdefault_2608133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXL_pSl5ZQAmVJZ9p1bZvtIXzlVA",
+          "time_start": 2608
+        },
+        {
+          "title": "Database Connection",
+          "thumbnail": "https://i.ytimg.com/vi/SR5NYCdzKkc/hqdefault_2796100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwH_6fkqD6mUjEO9Xj2S3A1WtnDg",
+          "time_start": 2790
+        },
+        {
+          "title": "Creating Posts & Saving to Database",
+          "thumbnail": "https://i.ytimg.com/vi/SR5NYCdzKkc/hqdefault_3600933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDx4hIX8cru3Q7XraYORJmXadNouA",
+          "time_start": 3597
+        },
+        {
+          "title": "Retrieving from Database",
+          "thumbnail": "https://i.ytimg.com/vi/SR5NYCdzKkc/hqdefault_3940000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGYat-pZmV2_yaALwzELlemMBcAw",
+          "time_start": 3922
+        },
+        {
+          "title": "Image & Video Upload (ImageKit)",
+          "thumbnail": "https://i.ytimg.com/vi/SR5NYCdzKkc/hqdefault_4237900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOpjiKXWGH47GZ4yNuIABtN1ikUQ",
+          "time_start": 4227
+        },
+        {
+          "title": "Deleting Posts",
+          "thumbnail": "https://i.ytimg.com/vi/SR5NYCdzKkc/hqdefault_5252833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPoGOM-T6xCq2N4YSdBCKOW6lEAg",
+          "time_start": 5228
+        },
+        {
+          "title": "User Authentication and JWT Tokens",
+          "thumbnail": "https://i.ytimg.com/vi/SR5NYCdzKkc/hqdefault_5483800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLnmQh1H8b2QLgD9L2ZizOM0dfhg",
+          "time_start": 5454
+        },
+        {
+          "title": "Protecting Endpoints",
+          "thumbnail": "https://i.ytimg.com/vi/SR5NYCdzKkc/hqdefault_6732900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMs4hlQPIWNkluqK5X3c0zgAnxJA",
+          "time_start": 6722
+        },
+        {
+          "title": "Streamlit Frontend",
+          "thumbnail": "https://i.ytimg.com/vi/SR5NYCdzKkc/hqdefault_7091733.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCv54c5W2yxaGwiPGe4uFCdNC7LgA",
+          "time_start": 7080
+        }
+      ]
+    },
+    {
+      "position_on_page": 21,
+      "title": "FastAPI for Beginners - Python Web Framework",
+      "link": "https://www.youtube.com/watch?v=Lu8lXXlstvM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Lu8lXXlstvM",
+      "video_id": "Lu8lXXlstvM",
+      "channel": {
+        "name": "Telusko",
+        "channel_id": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "link": "https://www.youtube.com/@Telusko",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/0nsZM3NF0C9bFr2IFXicMJ1w82ldRaZvGKFnezBe2lpW7F9gI92FaLubcTghnNNt4Ld8DfRvEMo=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 739265,
+      "length": "2:02:41",
+      "description": "Learn how to build a complete full-stack web application using FastAPI, a modern, fast, web framework for building APIs with ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Lu8lXXlstvM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHU_rsGuMnPM5bdJ8yi-brLWpeow",
+        "rich": "https://i.ytimg.com/an_webp/Lu8lXXlstvM/mqdefault_6s.webp?du=3000&sqp=CNvwhNgG&rs=AOn4CLB87veG8TO1eD70HmnY6OOvsc5akg"
+      },
+      "chapters": [
+        {
+          "title": "Intro to FastAPI",
+          "thumbnail": "https://i.ytimg.com/vi/Lu8lXXlstvM/hqdefault_4933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCx3EhfIrPu3eETFPm-yHQb-JfdOA",
+          "time_start": 0
+        },
+        {
+          "title": "FastApi Setup in VS Code",
+          "thumbnail": "https://i.ytimg.com/vi/Lu8lXXlstvM/hqdefault_417800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDp87IZOsVKVcGpvk-xRU8QEknk1g",
+          "time_start": 408
+        },
+        {
+          "title": "Building the Server and Get API",
+          "thumbnail": "https://i.ytimg.com/vi/Lu8lXXlstvM/hqdefault_1186933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcXYKtOMOa1ramHe0z_g144OBBgw",
+          "time_start": 1186
+        },
+        {
+          "title": "Pydantic and Fetching all products",
+          "thumbnail": "https://i.ytimg.com/vi/Lu8lXXlstvM/hqdefault_2058066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQCWDdqPTc1yl26AQYHhmOGXjkgw",
+          "time_start": 2054
+        },
+        {
+          "title": "Fetch by ID and post request",
+          "thumbnail": "https://i.ytimg.com/vi/Lu8lXXlstvM/hqdefault_2787233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQtzboT6113fmC0vwnz4g917SovQ",
+          "time_start": 2781
+        },
+        {
+          "title": "Update and Delete data in FastAPI",
+          "thumbnail": "https://i.ytimg.com/vi/Lu8lXXlstvM/hqdefault_3316933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYgOrUUrww-H9tIU73WEuu9pULeA",
+          "time_start": 3296
+        },
+        {
+          "title": "SQLAlchemy",
+          "thumbnail": "https://i.ytimg.com/vi/Lu8lXXlstvM/hqdefault_3876866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_txhZDwRBeFqt6x4smBNdzZQcRg",
+          "time_start": 3873
+        },
+        {
+          "title": "Database Config",
+          "thumbnail": "https://i.ytimg.com/vi/Lu8lXXlstvM/hqdefault_4375033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUQkyd80s4iP2etSD_izOPM2-kVg",
+          "time_start": 4368
+        },
+        {
+          "title": "SQL Alchemy Model Creation",
+          "thumbnail": "https://i.ytimg.com/vi/Lu8lXXlstvM/hqdefault_4921166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIeW8w8VyHNAFB6Ecq56HhXqzGbg",
+          "time_start": 4906
+        },
+        {
+          "title": "Initialize Data",
+          "thumbnail": "https://i.ytimg.com/vi/Lu8lXXlstvM/hqdefault_5334900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9T00I_zpJJBQ5bUEXb8-P-8v_zA",
+          "time_start": 5318
+        },
+        {
+          "title": "Dependency Injection and fetch from db",
+          "thumbnail": "https://i.ytimg.com/vi/Lu8lXXlstvM/hqdefault_5736000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBches8jcUKZ7aK9tyaPZT5ic10xw",
+          "time_start": 5714
+        },
+        {
+          "title": "Create, Update and delete with Database",
+          "thumbnail": "https://i.ytimg.com/vi/Lu8lXXlstvM/hqdefault_6170066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkjHYtFePuk_DmKUMmhm1Iowunbw",
+          "time_start": 6158
+        },
+        {
+          "title": "Running Full Stack Web App",
+          "thumbnail": "https://i.ytimg.com/vi/Lu8lXXlstvM/hqdefault_6808966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtTrG60Lgd2KeFrZomjSAESuz9rw",
+          "time_start": 6779
+        }
+      ]
+    },
+    {
+      "position_on_page": 23,
+      "title": "FastAPI Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=tLKKmouUams",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tLKKmouUams",
+      "video_id": "tLKKmouUams",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 634223,
+      "length": "1:04:33",
+      "description": "This video is a full FastAPI crash course. In the course, you will learn everything you need to know to start building APIs using ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/tLKKmouUams/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmkshhaWuP2J1lOMdSXXFCgdkPUQ",
+        "rich": "https://i.ytimg.com/an_webp/tLKKmouUams/mqdefault_6s.webp?du=3000&sqp=CKD8hNgG&rs=AOn4CLAfcsDF9SnwqN2z4F_HqYioDu-uaA"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/tLKKmouUams/hqdefault_2033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsN4X_uuQQmhBH2L7PjRjPHhWpQw",
+          "time_start": 0
+        },
+        {
+          "title": "Installation and Creating Your First API",
+          "thumbnail": "https://i.ytimg.com/vi/tLKKmouUams/hqdefault_71933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAy1xV_D34bswVe_vKPWZt-GrMEPA",
+          "time_start": 70
+        },
+        {
+          "title": "Path Parameters",
+          "thumbnail": "https://i.ytimg.com/vi/tLKKmouUams/hqdefault_937833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnXASlijbnp40tPhbkNdW0rBY4BQ",
+          "time_start": 935
+        },
+        {
+          "title": "Query Parameters",
+          "thumbnail": "https://i.ytimg.com/vi/tLKKmouUams/hqdefault_1647833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhxT8-zs9SmUVJ03mZjJ6V-K9UeA",
+          "time_start": 1644
+        },
+        {
+          "title": "Combining Path and Query Parameters",
+          "thumbnail": "https://i.ytimg.com/vi/tLKKmouUams/hqdefault_2257866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsnB-SP0Hrd5w2GuYvFXq6BBHS0A",
+          "time_start": 2256
+        },
+        {
+          "title": "Request Body and The Post Method",
+          "thumbnail": "https://i.ytimg.com/vi/tLKKmouUams/hqdefault_2390800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoEaYjlB9b0mZ7STDCmf_kyOtFng",
+          "time_start": 2390
+        },
+        {
+          "title": "Put Method",
+          "thumbnail": "https://i.ytimg.com/vi/tLKKmouUams/hqdefault_2820733.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAU87_vp4pWb9sIKP9Qf2gLfdBJ_A",
+          "time_start": 2818
+        },
+        {
+          "title": "Delete Method",
+          "thumbnail": "https://i.ytimg.com/vi/tLKKmouUams/hqdefault_3629233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDA38akP5iJaLI1F_l5NaRZriUcNg",
+          "time_start": 3626
+        }
+      ]
+    },
+    {
+      "position_on_page": 24,
+      "title": "Python FastAPI Tutorial: Full Course for Beginners - Build a Full-Stack Web App",
+      "link": "https://www.youtube.com/watch?v=iukOehU5aF4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=iukOehU5aF4",
+      "video_id": "iukOehU5aF4",
+      "channel": {
+        "name": "Corey Schafer",
+        "channel_id": "UCCezIgC97PvUuR4_gbFUs5g",
+        "link": "https://www.youtube.com/@coreyms",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lD6K9DGGqWttThktCDttOdlHIHWZQ7Gcdd9WRSEqYUxw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6mo ago",
+      "views": 189058,
+      "length": "14:23:37",
+      "description": "In this video, we'll be learning how to build a full-featured web application from the ground up using the FastAPI framework in ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/iukOehU5aF4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkvcQKvJIFex3lkqGmqmLzLK94oQ",
+        "rich": "https://i.ytimg.com/an_webp/iukOehU5aF4/mqdefault_6s.webp?du=3000&sqp=CMTchNgG&rs=AOn4CLDPa3WtYDqIXDPnvmptz_fR2Oe_ZQ"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=FastAPI+full+course+tutorial+for+Backend+Python+Developer&gl=in&hl=en",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=FastAPI%20full%20course%20tutorial%20for%20Backend%20Python%20Developer&sp=SBSCASJQTC1vc2lFODBUZVRzYWstYy1Rc1ZlZzBZWUdfMFRleVhJggEiUExVaFk1TUUxVmRJdW1hU2EtbTVTUS16dFRMOE5XWThHaIIBIlBMc2pwUm8yRVpQMUlZWVBvQUM5dmsyaHdfMGRqUEFRMS2CAQtpV1M5b2dNUE9JMIIBIlBMc3llb2J6V3hsN3FGNEFTd0NaWkRYb3JfWTBZSjNRZmOCASJQTEtkVTBmdVk0T0ZlTkdCMW05cGJ2UHVrTkQ2TmhqSzRMggELN0FNam1DVHVtdW-CASJQTDhWekZROGs0VTFMNVFwU2FwVkV6b1Nmb2ItNENSOHpNggELOFRNUWNSY0JuVziCASJQTDBCd0xnbTZBY0ZaaEplaGRsZXoyTlp0UTlLbjEzT3NQggEiUEwtMkVCZURZTUliUWdobW5iODY1bHBkbVl5V1UzSTVGMYIBIlBMS25JQTE2X1Jtdlo0MXRqYktCMlpud2NoZm5pTnNNdVGCASJQTGRLZC1qNjRnRGNCY25feTk3RkJ0NnB3LU56bVktLTIwggELSnVIekVzYXBpSXOCAQt1bWJVNVBrMDNDTYIBC1NSNU5ZQ2R6S2tjggELTHU4bFhYbHN0dk2CASJQTGZYV1NndVJYR3VYM3NFcHlmYi1BM0prQkducllMZmdRggELdExLS21vdVVhbXOCAQtpdWtPZWhVNWFGNLIBBgoECBkQAg%253D%253D",
+    "next_page_token": "SBSCASJQTC1vc2lFODBUZVRzYWstYy1Rc1ZlZzBZWUdfMFRleVhJggEiUExVaFk1TUUxVmRJdW1hU2EtbTVTUS16dFRMOE5XWThHaIIBIlBMc2pwUm8yRVpQMUlZWVBvQUM5dmsyaHdfMGRqUEFRMS2CAQtpV1M5b2dNUE9JMIIBIlBMc3llb2J6V3hsN3FGNEFTd0NaWkRYb3JfWTBZSjNRZmOCASJQTEtkVTBmdVk0T0ZlTkdCMW05cGJ2UHVrTkQ2TmhqSzRMggELN0FNam1DVHVtdW-CASJQTDhWekZROGs0VTFMNVFwU2FwVkV6b1Nmb2ItNENSOHpNggELOFRNUWNSY0JuVziCASJQTDBCd0xnbTZBY0ZaaEplaGRsZXoyTlp0UTlLbjEzT3NQggEiUEwtMkVCZURZTUliUWdobW5iODY1bHBkbVl5V1UzSTVGMYIBIlBMS25JQTE2X1Jtdlo0MXRqYktCMlpud2NoZm5pTnNNdVGCASJQTGRLZC1qNjRnRGNCY25feTk3RkJ0NnB3LU56bVktLTIwggELSnVIekVzYXBpSXOCAQt1bWJVNVBrMDNDTYIBC1NSNU5ZQ2R6S2tjggELTHU4bFhYbHN0dk2CASJQTGZYV1NndVJYR3VYM3NFcHlmYi1BM0prQkducllMZmdRggELdExLS21vdVVhbXOCAQtpdWtPZWhVNWFGNLIBBgoECBkQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=FastAPI+full+course+tutorial+for+Backend+Python+Developer",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=FastAPI+full+course+tutorial+for+Backend+Python+Developer&sp=SBSCASJQTC1vc2lFODBUZVRzYWstYy1Rc1ZlZzBZWUdfMFRleVhJggEiUExVaFk1TUUxVmRJdW1hU2EtbTVTUS16dFRMOE5XWThHaIIBIlBMc2pwUm8yRVpQMUlZWVBvQUM5dmsyaHdfMGRqUEFRMS2CAQtpV1M5b2dNUE9JMIIBIlBMc3llb2J6V3hsN3FGNEFTd0NaWkRYb3JfWTBZSjNRZmOCASJQTEtkVTBmdVk0T0ZlTkdCMW05cGJ2UHVrTkQ2TmhqSzRMggELN0FNam1DVHVtdW-CASJQTDhWekZROGs0VTFMNVFwU2FwVkV6b1Nmb2ItNENSOHpNggELOFRNUWNSY0JuVziCASJQTDBCd0xnbTZBY0ZaaEplaGRsZXoyTlp0UTlLbjEzT3NQggEiUEwtMkVCZURZTUliUWdobW5iODY1bHBkbVl5V1UzSTVGMYIBIlBMS25JQTE2X1Jtdlo0MXRqYktCMlpud2NoZm5pTnNNdVGCASJQTGRLZC1qNjRnRGNCY25feTk3RkJ0NnB3LU56bVktLTIwggELSnVIekVzYXBpSXOCAQt1bWJVNVBrMDNDTYIBC1NSNU5ZQ2R6S2tjggELTHU4bFhYbHN0dk2CASJQTGZYV1NndVJYR3VYM3NFcHlmYi1BM0prQkducllMZmdRggELdExLS21vdVVhbXOCAQtpdWtPZWhVNWFGNLIBBgoECBkQAg%253D%253D",
+    "next_page_token": "SBSCASJQTC1vc2lFODBUZVRzYWstYy1Rc1ZlZzBZWUdfMFRleVhJggEiUExVaFk1TUUxVmRJdW1hU2EtbTVTUS16dFRMOE5XWThHaIIBIlBMc2pwUm8yRVpQMUlZWVBvQUM5dmsyaHdfMGRqUEFRMS2CAQtpV1M5b2dNUE9JMIIBIlBMc3llb2J6V3hsN3FGNEFTd0NaWkRYb3JfWTBZSjNRZmOCASJQTEtkVTBmdVk0T0ZlTkdCMW05cGJ2UHVrTkQ2TmhqSzRMggELN0FNam1DVHVtdW-CASJQTDhWekZROGs0VTFMNVFwU2FwVkV6b1Nmb2ItNENSOHpNggELOFRNUWNSY0JuVziCASJQTDBCd0xnbTZBY0ZaaEplaGRsZXoyTlp0UTlLbjEzT3NQggEiUEwtMkVCZURZTUliUWdobW5iODY1bHBkbVl5V1UzSTVGMYIBIlBMS25JQTE2X1Jtdlo0MXRqYktCMlpud2NoZm5pTnNNdVGCASJQTGRLZC1qNjRnRGNCY25feTk3RkJ0NnB3LU56bVktLTIwggELSnVIekVzYXBpSXOCAQt1bWJVNVBrMDNDTYIBC1NSNU5ZQ2R6S2tjggELTHU4bFhYbHN0dk2CASJQTGZYV1NndVJYR3VYM3NFcHlmYi1BM0prQkducllMZmdRggELdExLS21vdVVhbXOCAQtpdWtPZWhVNWFGNLIBBgoECBkQAg%3D%3D"
+  }
+}

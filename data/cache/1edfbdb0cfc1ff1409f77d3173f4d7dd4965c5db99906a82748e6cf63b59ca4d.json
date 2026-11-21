@@ -1,0 +1,1098 @@
+{
+  "search_metadata": {
+    "id": "6b014a7ae3567ade78a5f6e3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/m8tjxGZzDi4scrfCFHGO6I_ZiQNAZSU1QN0Ozji0F2o/6b014a7ae3567ade78a5f6e3.json",
+    "markdown_endpoint": "https://serpapi.com/searches/m8tjxGZzDi4scrfCFHGO6I_ZiQNAZSU1QN0Ozji0F2o/6b014a7ae3567ade78a5f6e3.md",
+    "created_at": "2026-11-21 07:38:34 UTC",
+    "processed_at": "2026-11-21 07:38:34 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Cypress+full+course+tutorial+for+Frontend+Developer&gl=in&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/m8tjxGZzDi4scrfCFHGO6I_ZiQNAZSU1QN0Ozji0F2o/6b014a7ae3567ade78a5f6e3.html",
+    "total_time_taken": 3.14
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Cypress full course tutorial for Frontend Developer",
+    "gl": "in",
+    "hl": "en"
+  },
+  "search_information": {
+    "total_results": 22264,
+    "video_results_state": "Results for exact spelling"
+  },
+  "ads_results": [
+    {
+      "position_on_page": 1,
+      "title": "Modify and Upgrade 360. Additional blocks and features unlocked.",
+      "link": "https://www.youtube.com/watch?v=rqNqtSvlIps",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=rqNqtSvlIps",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=C-CyPe0oBa5HjC5j6n88Piaz_0AK5lZiLf_Dr-aS0FLCQHxABIABgye7zh-yj2BeCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABkKXr0QKoAwTIAwqqBNYCT9BdWs3urJYdkGCpl_CZDZbyJe8m1RRd-6aQNP50oxItiIHVBLePCVcWvnYKl9Jcxw-bVC9I-hnjgHtE7TdLz3g5CrEkYYFps45efiO3Q5Vztlp6Pg87KvdAOIDi42CmlQVOVsFLYzsdHAMJJBnbdOBWWo8Dcn3nDwzfFxKKdTyyTgSfi05jobt7YR9jEyRTebJPoH45ldfEauS5Ze8B1JQZwIcxMvJKYUYX3_UD2BKXd1XQ9NbpTqxCsrZNZe9F5uAV9AOlRiMYReeOLMRTlkHhDq3NTtOOfQvmszqOtVWU5m0qsKYXK3Pbzww8xyyJ20F-WXRqClon5I3ppctWvo3sX15H9G1whfMU7vY6QaF3jTewbIOdhPVnC3LE5WbRfWnj3JJDcecJfos8IaNSi1aroxWk5wrUranC5qRuywlo--d-TpCmrb2WL4K3mZf3Z1jI_y7fiAXO9aj3U5IFCAgTeI6ftK4BoAahAYAH2NqUrgGQBwSoB6XPsQKoB-edsQKoB-idsQKoB4P2sQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAee6rECqAef6rECqAf467ECqAe86rECqAfv8bECqAf8r7ECqAfVzhuoB77ZsQKoB7_ZsQKoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC3JxTnF0U3ZsSXBzqAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAGEjZoNI1UBRY8PX4lceYmANgAZoJHWh0dHBzOi8vZGVzaWdud2l0aG1pZ2h0eS5jb20vsQmK74GG4kmYyMgJF8gJjwHICcIBmAsBugs6CAMQBRgEIAcoATAcQAFIAFh9YABoAHABiAEAmAEBogEICgCoAgHYAgLYAQGAAgGIAga6AwV2aWRsc9ALEtIMAhAB2gwmCgsQsKTS1JTzuqXeARICAQMaDRjO9aj3UyCVgcKGkAVAAUoCEB-aDQESqg0CVVPIDQHSDdICaHR0cHM6Ly9kZXNpZ253aXRobWlnaHR5LmNvbS8_dXRtX3Rlcm09JnV0bV9jYW1wYWlnbj1EZW1hbmQrR2VuKy0rWW91VHViZSwrRGlzY292ZXIsK0dtYWlsKyhSKSstK1RQQSs4NSZ1dG1fc291cmNlPWFkd29yZHMmdXRtX21lZGl1bT1wcGMmaHNhX2FjYz00ODMxNTQxODcyJmhzYV9jYW09MjI1MzAzNzQzNTAmaHNhX2dycD0xNzYxMDczMjM1NDEmaHNhX2FkPTc1MTAwNzEyODcyNyZoc2Ffc3JjPXl0aWYmaHNhX3RndD1hdWQtMjMxMDkzMTMxMTA3MyZoc2Ffa3c9JmhzYV9tdD0maHNhX25ldD1hZHdvcmRzJmhzYV92ZXI9MyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjI1MzAzNzQzNTC4E____________wGIFAKwFAPAFYGAgEDQFQHYFQHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXRoA42680GeW6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI0Yz5lceYmAMVGP3nAx0J1h8qEAEYASAAEgK3w_D_BwE&num=1&cid=CAASqgHkaBJNnSRm2-Aw6vZE8LNcxEwjXt0ElNaxoyHpn6CKUMJt0mA_4kExnN_c7yp3YYaLDvYlBo8tw_vkdwb2nZsedIeX3d_e5UwwwfEDy3UCnATGKhR43V7w1Smrd_NmRuPswqF6cLip5LASb-NmGS9UtRR4ISTFSxG7_2OHVXEBmWJyU7PRuj_RjhSuPQWtyaLSfdJyaDjD89Jw5KEuNo9J4iS4VO2PIAvB1A&ad_cpn=%5BCPN%5D&sig=AOD64_2PaTHFzMvVYKjVSsJRng8chA_aoQ&ctype=110&video_id=rqNqtSvlIps&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Maestro",
+        "thumbnail": "https://yt3.ggpht.com/proxy/hAs-aMdfAHpDDBcjrHM7dqvUiJ1Cl46wC0LFKaR3yBTTpcrSxz6TQhnayfeWkFkqgWbyCjtJ7VYIkEjQSTkALzgrV4E__v8wRNeNCg4zvoYTOAp5ufHHirhUe-wTlx62js0v02D2BtB5zSZqV4OYWMXNvGmih_sLlC3720Zxil6rlcG4XQLCRDc8jNiF4p6euIIsBD--ia2XRn9gZcc8QZQzG4Whe7Gd_d6orIwfiJ6ltGGJ2naAKivtO-e0wsv9dmfN=w68-h68-nd"
+      },
+      "description": "Modify and Upgrade 360. Additional blocks and features unlocked.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/rqNqtSvlIps/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVd093pRMk1bMyw0jCcIZ4bSBQhA"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Copilot in Excel helps you get more out of your spreadsheets.",
+      "link": "https://www.youtube.com/watch?v=sELkfcZmeKA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=sELkfcZmeKA",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CEcqde0oBa5HjC5j6n88Piaz_0AKh0vzHigH3-umHshawkB8QBSAAYMnu84fso9gXggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAenqov1DqAMEyAMKqgTjAk_QXVrN7qyWHZBgqZfwmQ2W8iXvJtUUXfumkDT-dKMSLYiB1QS3jwlXFr52CpfSXMcPm1QvSPoZ44B7RO03S894OQqxJGGBabOOXn4jt0OVc7Zaej4POyr3QDiA4uNgppUFTlbBS2M7HRwDCSQZ23TgVlqPA3J95w8M3xcSinU8sk4En4tOY6G7e2EfYxMkU3myT6B-OZXXxGrkuWXvAdSUGcCHMTLySmFGF9_1A9gSl3dV0PTW6U6sQrK2TWXvRebgFfQDpUYjGEXnjizEU5ZB4Q6tzU7Tjn0L5rM6jrVVlOZtKrCmFytz288MPMcsidtBfll0agpaJ-SN6aXLVuGC7F9WR_R8d4zTEfz1v5wc0YzquxqiMvssjw89StkC2SprpZiHsVE6L_YbZtWFd7DEgrkRLv-OSGRLbNy8Vqg7Fe_t-ke-vj8rQw9WLlCk23-jAxdmGIOhh5OGbsacL-yWYxCIBbb4muVakgUICBN4z4fngh-gBqEBgAfpovPcHpAHBKgHpc-xAqgH552xAqgH6J2xAqgHg_axAqgH-dOxAqgHydqxAqgHqeCxAqgHqNIbqAex3BuoB7CbsQKoB_2ysQKoB8jPsQKoB8nPsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB57qsQKoB5_qsQKoB_jrsQKoB7zqsQKoB-_xsQKoB_yvsQKoB9XOG6gHvtmxAqgHv9mxAqgHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLc0VMa2ZjWm1lS0GoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFjw9fiVx5iYA2ABmgk1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9jb3BpbG90L3dvcmsvYnVzaW5lc3OxCf4Lxh5gx2cdyAkXyAmPAcgJwgHICZcCugs6CAMQBRgEIAcoATAcQAFIAFh9YABoAHABiAEAmAEBogEICgCoAgHYAgLYAQOAAgGIAgW6AwV2aWRsc9ALEuALAdIMAhAB2gwlCgoQkP2DkbfXsdJCEgIBAxoNGLb4muVaIMi0wO7xBUABSgIQH5oNARKqDQJVU8gNAdIN9gRodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9kZG0vdHJhY2tjbGsvTjU3MjYwOC40MTAxMDM2WU9VVFVCRVZJQURWMzYwQVUvQjM2OTk0OTE4LjQ2MDIzOTgyMztkY190cmtfYWlkPTY1NTIyMDg2MTtkY190cmtfY2lkPTI2ODM0NzIzNztkY19kYm1fdG9rZW49QU9qZUxORUFBQUE4Q2pRS0RBZ0FGUUFBQUFBZEFBQUFBQklNQ0FBVkFBQUFBQjBBQUFBQUloUUl0dmlhNVZxb0FzLUg1NElmc0FMTDVQVHJBMEE3RUtIQV83SWRycmcxNlB1WERmbHYybS0tQ1E0VEh3PT07ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTs7ZGNfdHJhbnNwYXJlbnQ9MTtkY19ydWk9MTtkY19lcHM9QUhhczhjRFJEaUdKYU00d29hZEZvT0F0SHplVDZ0MklmUFNHeGtFTmUtVzh5M2ZYcW5TaDlRWTZpVzZGSjdGN0dVUENEemFiV25INF90eXUzblZ2cWc7ZGNfcHViaWQ9Nj9odHRwczovL3d3dy5taWNyb3NvZnQuY29tL2VuLXVzL2NvcGlsb3Qvd29yay9idXNpbmVzcz9PQ0lEPUFJRGNtbWw1YXJqb3puX09MQV8zNjk5NDkxOF80NjAyMzk4MjNfMjY4MzQ3MjM3JnNpdGVJRD0xMDY1Nzk1NSZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjQzNzE0NDQ3OTCwE5m2pSa4E____________wGIFAGwFAPAFYGAgEDQFQHYFQGoFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXhAYh0dMcTF66FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI0Yz5lceYmAMVGP3nAx0J1h8qEAEYBSAAEgIqoPD_BwE&num=5&cid=CAASqgHkaBJNnSRm2-Aw6vZE8LNcxEwjXt0ElNaxoyHpn6CKUMJt0mA_4kExnN_c7yp3YYaLDvYlBo8tw_vkdwb2nZsedIeX3d_e5UwwwfEDy3UCnATGKhR43V7w1Smrd_NmRuPswqF6cLip5LASb-NmGS9UtRR4ISTFSxG7_2OHVXEBmWJyU7PRuj_RjhSuPQWtyaLSfdJyaDjD89Jw5KEuNo9J4iS4VO2PIAvB1A&ad_cpn=%5BCPN%5D&sig=AOD64_2Iqpq9QqiS1AQfxGUJ7luOa3RYZg&ctype=110&video_id=sELkfcZmeKA&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Microsoft Copilot",
+        "thumbnail": "https://yt3.ggpht.com/proxy/QZsKF8uymkSSgcIQLIQR24pXjFAAm9dvPTDfUaFKTKVhufA2nyuKNgKVJ73VlYIcXjZEP9v4jeIWvI_odsUd2vLGbwu2LBXFzREk6wueOsaeosEuFlEckTDTqpmm9hHvSVQiZIKMrYJzz_HqIvZPEstVdqmRJvG1lrA307PP6MnUFR6Utes5ybs3BElWa4CfsoUiaChSBwkQDXJf0MefcdVXul4Z5ziGzUlo9MDI4y5V8ofhmMJC2VZqMKUUHkKMYci6=w68-h68-nd"
+      },
+      "description": "Intelligence Built for Work",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/sELkfcZmeKA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwCoPgXrMzNkY4r6KDwmWB9nue3Q"
+      }
+    }
+  ],
+  "video_results": [
+    {
+      "position_on_page": 2,
+      "title": "Cypress in 100 Seconds",
+      "link": "https://www.youtube.com/watch?v=BQqzfHQkREo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=BQqzfHQkREo",
+      "video_id": "BQqzfHQkREo",
+      "channel": {
+        "name": "Fireship",
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "link": "https://www.youtube.com/@Fireship",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/3fPNbkf_xPyCleq77ZhcxyeorY97NtMHVNUbaAON_RBDH9ydL4hJkjxC8x_4mpuopkB8oI7Ct6Y=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 474141,
+      "length": "2:31",
+      "description": "Cypress is a complete testing solution for web developers. It uses a browser-based test-runner to visually validate your JavaScript ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/BQqzfHQkREo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDe5Djx05QYbe_CnTi7KQLhf4RZBQ",
+        "rich": "https://i.ytimg.com/an_webp/BQqzfHQkREo/mqdefault_6s.webp?du=3000&sqp=CPbthNgG&rs=AOn4CLCWwvRNMZozYqnTcchKuec4Cffu2w"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Testing JavaScript with Cypress – Full Course",
+      "link": "https://www.youtube.com/watch?v=u8vMu7viCm8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=u8vMu7viCm8",
+      "video_id": "u8vMu7viCm8",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 319995,
+      "length": "2:39:33",
+      "description": "Learn how to use Cypress to test JavaScript applications in this full course for beginners! You'll dive deep into the world of ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/u8vMu7viCm8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoGeBJ7Dqi9AONfw5VWWeJSkDk1g",
+        "rich": "https://i.ytimg.com/an_webp/u8vMu7viCm8/mqdefault_6s.webp?du=3000&sqp=CMT_hNgG&rs=AOn4CLD2CAALVExp9giPm9E7vqaLj8T4Lg"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "Cypress Tutorial: Complete Cypress Crash Course In 3 Hours (For Beginners)",
+      "link": "https://www.youtube.com/watch?v=jX3v3N6oN5M",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=jX3v3N6oN5M",
+      "video_id": "jX3v3N6oN5M",
+      "channel": {
+        "name": "TestMu AI (Formerly LambdaTest)",
+        "channel_id": "UCCymWVaTozpEng_ep0mdUyw",
+        "link": "https://www.youtube.com/@TestMuAI",
+        "thumbnail": "https://yt3.ggpht.com/QsiRqv8rzM0IpZEhnIWyHKU2diV7B2A4ustCDZmzso-UbgWM7zWqVk0nzXAQ4AGS_7ME6tudzw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 250544,
+      "length": "3:02:18",
+      "description": "Cypress tutorial is for both beginners and experienced QA engineers, this in-depth Cypress automation guide by TestMu AI, we ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/jX3v3N6oN5M/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcmDHNm-FJ1ezihMHonnkvag9aJg",
+        "rich": "https://i.ytimg.com/an_webp/jX3v3N6oN5M/mqdefault_6s.webp?du=3000&sqp=CMDqhNgG&rs=AOn4CLALAW6N5709L5jPUPUqJGOyzw9PYQ"
+      },
+      "chapters": [
+        {
+          "title": "Introduction to Cypress Tutorial",
+          "thumbnail": "https://i.ytimg.com/vi/jX3v3N6oN5M/hqdefault_4866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBn3krSo2eW4AOECanO-Qf22CIMdw",
+          "time_start": 0
+        },
+        {
+          "title": "Getting started with Cypress Testing",
+          "thumbnail": "https://i.ytimg.com/vi/jX3v3N6oN5M/hqdefault_24866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSvMejHjR2Y7gTgWv47LIe5Ya1Eg",
+          "time_start": 17
+        },
+        {
+          "title": "Understanding get and find commands",
+          "thumbnail": "https://i.ytimg.com/vi/jX3v3N6oN5M/hqdefault_884833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADSx-B_EIKhqhDssUE9NbQwWrxKg",
+          "time_start": 867
+        },
+        {
+          "title": "Installing Cypress Plugins",
+          "thumbnail": "https://i.ytimg.com/vi/jX3v3N6oN5M/hqdefault_2057833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzy2bLjbTWHD5PMqaEHEydPIWYyg",
+          "time_start": 2046
+        },
+        {
+          "title": "Handling Cypress Async Commands",
+          "thumbnail": "https://i.ytimg.com/vi/jX3v3N6oN5M/hqdefault_3124866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDf1pdDDEwp1Q72W_EaJFp1rbqDyg",
+          "time_start": 3100
+        },
+        {
+          "title": "What are Non-Cypress Async promises",
+          "thumbnail": "https://i.ytimg.com/vi/jX3v3N6oN5M/hqdefault_3823266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPvKpVAPSh94mUbek3zaX1Zc1hPg",
+          "time_start": 3818
+        },
+        {
+          "title": "Assertions in Cypress",
+          "thumbnail": "https://i.ytimg.com/vi/jX3v3N6oN5M/hqdefault_4476200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmyCysjQPLGsxko0IPi_yJ5QgICQ",
+          "time_start": 4468
+        },
+        {
+          "title": "What are Cypress UI commands",
+          "thumbnail": "https://i.ytimg.com/vi/jX3v3N6oN5M/hqdefault_5018166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmBAfccgOlFoI23DYYDZXW3OpnyQ",
+          "time_start": 5003
+        },
+        {
+          "title": "Hooks in Cypress",
+          "thumbnail": "https://i.ytimg.com/vi/jX3v3N6oN5M/hqdefault_5935166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCy2h5JwCe0evpx-jd9jomNynhYAA",
+          "time_start": 5922
+        },
+        {
+          "title": "Setting up Cypress Fixtures",
+          "thumbnail": "https://i.ytimg.com/vi/jX3v3N6oN5M/hqdefault_6619133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAT8iX8QsowmIAwZ3D7Yxck5ipCZA",
+          "time_start": 6619
+        },
+        {
+          "title": "How to use Cypress custom commands",
+          "thumbnail": "https://i.ytimg.com/vi/jX3v3N6oN5M/hqdefault_7624133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1nykef1h69_YimPzRjj6gGGjDZg",
+          "time_start": 7612
+        },
+        {
+          "title": "What Are Cypress Mouse Commands?",
+          "thumbnail": "https://i.ytimg.com/vi/jX3v3N6oN5M/hqdefault_8618033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCJfBTsMzJwuYpIpNibxjbl6N_1g",
+          "time_start": 8615
+        },
+        {
+          "title": "Learning Cypress actions",
+          "thumbnail": "https://i.ytimg.com/vi/jX3v3N6oN5M/hqdefault_9452000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4JtaTOtXluQ2iizbbJtg0mE5qXw",
+          "time_start": 9442
+        },
+        {
+          "title": "Cross Browser Testing on Cloud with Cypress",
+          "thumbnail": "https://i.ytimg.com/vi/jX3v3N6oN5M/hqdefault_10055966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPGzXKWrTcZBj9CLzHB8VwMNBgrw",
+          "time_start": 10048
+        },
+        {
+          "title": "Conclusion of Session",
+          "thumbnail": "https://i.ytimg.com/vi/jX3v3N6oN5M/hqdefault_10890933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBllIoKXns2kwqV6fjgJwFwp_FpCA",
+          "time_start": 10876
+        }
+      ]
+    },
+    {
+      "position_on_page": 8,
+      "title": "Easy Cypress Testing Starter Tutorial for Automating Front-end Tests",
+      "link": "https://www.youtube.com/watch?v=sg2RYbd5AFE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=sg2RYbd5AFE",
+      "video_id": "sg2RYbd5AFE",
+      "channel": {
+        "name": "Late Developer",
+        "channel_id": "UCESRaa1kEAjgHngscLjBf_A",
+        "link": "https://www.youtube.com/@latedeveloper7836",
+        "thumbnail": "https://yt3.ggpht.com/b3o5riM3I8pndZVTj8o2CNVlpdw92qJfOOcWkZ3Km_Gxvq4EqasQlvKK13L9oPdWWgcH3s2gVTE=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 776,
+      "length": "6:10",
+      "description": "This is how to simply start with Cypress for running some initial front-end tests for automation. Remember - it's never too late!",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/sg2RYbd5AFE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQYfQR0rGA-VvTKgGdY0l85J93Sw",
+        "rich": "https://i.ytimg.com/an_webp/sg2RYbd5AFE/mqdefault_6s.webp?du=3000&sqp=CN2QhdgG&rs=AOn4CLB3chwU5cyBcHgywo-twoKbyX9vkQ"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "Cypress Testing with React - Simple Tutorial",
+      "link": "https://www.youtube.com/watch?v=6BkcHAEWeTU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6BkcHAEWeTU",
+      "video_id": "6BkcHAEWeTU",
+      "channel": {
+        "name": "Cosden Solutions",
+        "channel_id": "UCrL69sErRwEyr7_p0qVCkOQ",
+        "link": "https://www.youtube.com/@cosdensolutions",
+        "thumbnail": "https://yt3.ggpht.com/FmWYlK7EHIHb1FBbEnf3HzjBqHPKje-kI_A88-qvLiRmhT570CAWCFk4aFfxN1Li472nERL_vw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 103182,
+      "length": "12:43",
+      "description": "Cosden Code → https://cosdencode.com Join The Discord! → https://discord.cosdensolutions.io In this video we will learn about ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/6BkcHAEWeTU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8H7Oirhyzr-wr3xjXPAJRCW9eSA",
+        "rich": "https://i.ytimg.com/an_webp/6BkcHAEWeTU/mqdefault_6s.webp?du=3000&sqp=CMuKhdgG&rs=AOn4CLDw-iG1f0Nzsrm1SysXnSblssiqnA"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Front-end Testing on Steroids (Testing with Cypress)",
+      "link": "https://www.youtube.com/watch?v=eU_ynHlLY0s",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=eU_ynHlLY0s",
+      "video_id": "eU_ynHlLY0s",
+      "channel": {
+        "name": "freeCodeCamp Talks",
+        "channel_id": "UCVk8weS4S2kJfja72fTxh5A",
+        "link": "https://www.youtube.com/@freeCodeCampTalks",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_m7R-OEBPcuHV2OeLsdEhH9OVM2fSSDCcc3AL7xOpu5xX0=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 1502,
+      "length": "48:45",
+      "description": "Writing tests is like using GIT: as soon as you gain a bit of experience you wonder how you could work before discovering it.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/eU_ynHlLY0s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABR_T-m_HeAMkpO8hb5tJRxfeH5w",
+        "rich": "https://i.ytimg.com/an_webp/eU_ynHlLY0s/mqdefault_6s.webp?du=3000&sqp=COTthNgG&rs=AOn4CLBtK19wtxGq43gwO8pyUHePivbI6g"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/eU_ynHlLY0s/hqdefault_23066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6WHaG2RAYZBDqfqonXgkNpt61Yg",
+          "time_start": 0
+        },
+        {
+          "title": "Who am I",
+          "thumbnail": "https://i.ytimg.com/vi/eU_ynHlLY0s/hqdefault_62200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzq2BNYY5RMEXeS6XIK8tFfy9u7w",
+          "time_start": 38
+        },
+        {
+          "title": "What is Cypress",
+          "thumbnail": "https://i.ytimg.com/vi/eU_ynHlLY0s/hqdefault_71466.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9SF4jKTjxcvFMdeNilxHaLNaq4w",
+          "time_start": 71
+        },
+        {
+          "title": "Endtoend test",
+          "thumbnail": "https://i.ytimg.com/vi/eU_ynHlLY0s/hqdefault_246800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtSo_T7OFwv4DYUDAr0rNYz8X8DQ",
+          "time_start": 219
+        },
+        {
+          "title": "Static response",
+          "thumbnail": "https://i.ytimg.com/vi/eU_ynHlLY0s/hqdefault_440200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQE16Wa8yz7WUYtr97m1wsCZbL3g",
+          "time_start": 440
+        },
+        {
+          "title": "Test Refresh",
+          "thumbnail": "https://i.ytimg.com/vi/eU_ynHlLY0s/hqdefault_752000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrC3H8c7i9fWQ_2NXDvkYfgZ1OvQ",
+          "time_start": 739
+        },
+        {
+          "title": "Test Edge Cases",
+          "thumbnail": "https://i.ytimg.com/vi/eU_ynHlLY0s/hqdefault_834266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAR4ZEWD62m4Xi3FQC0pfnEafzKaA",
+          "time_start": 821
+        },
+        {
+          "title": "Test Delays",
+          "thumbnail": "https://i.ytimg.com/vi/eU_ynHlLY0s/hqdefault_994300.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8u07uz115unNqcM1ijeF97RSFtQ",
+          "time_start": 975
+        },
+        {
+          "title": "Debug",
+          "thumbnail": "https://i.ytimg.com/vi/eU_ynHlLY0s/hqdefault_1241433.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARPUheog1f4bXc9zYlGXM-q2AU3g",
+          "time_start": 1241
+        },
+        {
+          "title": "Framework Specific Tools",
+          "thumbnail": "https://i.ytimg.com/vi/eU_ynHlLY0s/hqdefault_1488066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzyGpB7dtxv1RMXbIvy1-0f8Zavg",
+          "time_start": 1462
+        },
+        {
+          "title": "External Resources",
+          "thumbnail": "https://i.ytimg.com/vi/eU_ynHlLY0s/hqdefault_1698200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZLNv018SC1bDNgaOpGQ1c1I4o_Q",
+          "time_start": 1682
+        },
+        {
+          "title": "Multiple Browser Testing",
+          "thumbnail": "https://i.ytimg.com/vi/eU_ynHlLY0s/hqdefault_1776133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJm_EKBvv8lpEXcm4NblJ1vYkxMQ",
+          "time_start": 1770
+        },
+        {
+          "title": "Splitting Tests",
+          "thumbnail": "https://i.ytimg.com/vi/eU_ynHlLY0s/hqdefault_1988833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyam4bbHBXQo-FqKrXKsDBmOM95w",
+          "time_start": 1976
+        },
+        {
+          "title": "CSS Testing",
+          "thumbnail": "https://i.ytimg.com/vi/eU_ynHlLY0s/hqdefault_2110800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBr_yWEBb4WYMNz52aO-ueOHqYgkQ",
+          "time_start": 2107
+        },
+        {
+          "title": "QA Testing",
+          "thumbnail": "https://i.ytimg.com/vi/eU_ynHlLY0s/hqdefault_2271100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuE8v0FGwlr8bOWQWb-PkHYzFvhw",
+          "time_start": 2261
+        },
+        {
+          "title": "Learning Unit Testing",
+          "thumbnail": "https://i.ytimg.com/vi/eU_ynHlLY0s/hqdefault_2469333.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1n3qGlU_5LtJDbFGzBFDO8nfE-g",
+          "time_start": 2449
+        }
+      ]
+    },
+    {
+      "position_on_page": 11,
+      "title": "The Basics of Cypress - Frontend Testing Made Easy",
+      "link": "https://www.youtube.com/watch?v=OmPxptVabpE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OmPxptVabpE",
+      "video_id": "OmPxptVabpE",
+      "channel": {
+        "name": "Ijemma Onwuzulike",
+        "channel_id": "UC-db2t_fVN3T_kzKYSNUioA",
+        "link": "https://www.youtube.com/@IjemmaOnwuzulike",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k2XOzEb547Nw-CGsarUwXOAe3kYNMshXQn8AKMByWmY48=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 770,
+      "length": "11:49",
+      "description": "Testing frontend applications with Cypress is a must!! if you wanna build stable, and reliable applications for the web. In this video ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/OmPxptVabpE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBO6ineCQjIUBn8CLBfmXm9W21_Qw",
+        "rich": "https://i.ytimg.com/an_webp/OmPxptVabpE/mqdefault_6s.webp?du=3000&sqp=COaOhdgG&rs=AOn4CLBRPp0MSBrdnzLQLeojLjmxtes1Sw"
+      },
+      "chapters": [
+        {
+          "title": "intro",
+          "thumbnail": "https://i.ytimg.com/vi/OmPxptVabpE/hqdefault_266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBApyp6Vm8uP6JDjtDpyxQxTD8gnw",
+          "time_start": 0
+        },
+        {
+          "title": "what's going down in this video",
+          "thumbnail": "https://i.ytimg.com/vi/OmPxptVabpE/hqdefault_50800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvaRW9l1Yj496jcqRGZfTd_QlNEQ",
+          "time_start": 46
+        },
+        {
+          "title": "create a new next.js app",
+          "thumbnail": "https://i.ytimg.com/vi/OmPxptVabpE/hqdefault_85966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNZnqhJ5kuIq5h-1dyD-aL6LRNZA",
+          "time_start": 65
+        },
+        {
+          "title": "install cypress",
+          "thumbnail": "https://i.ytimg.com/vi/OmPxptVabpE/hqdefault_138933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChtLMzPG94PJ_K1bZw8Ei1itThtg",
+          "time_start": 126
+        },
+        {
+          "title": "generated cypress directory",
+          "thumbnail": "https://i.ytimg.com/vi/OmPxptVabpE/hqdefault_213766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDafDlZbwE-hdi1CGD3kSfLoierRA",
+          "time_start": 192
+        },
+        {
+          "title": "how to write meaningful tests?",
+          "thumbnail": "https://i.ytimg.com/vi/OmPxptVabpE/hqdefault_279766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfj8uL-W8p0po_sfIoldZCpEqJnw",
+          "time_start": 268
+        },
+        {
+          "title": "read throught the cypress docs ❗️",
+          "thumbnail": "https://i.ytimg.com/vi/OmPxptVabpE/hqdefault_375833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmxu_8x2POsyffPOGwN416VUqEPQ",
+          "time_start": 374
+        },
+        {
+          "title": "stepping through Cypress tests",
+          "thumbnail": "https://i.ytimg.com/vi/OmPxptVabpE/hqdefault_476266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc7ymZ_sC7SHbLyvzrFCN4wE_9pw",
+          "time_start": 473
+        },
+        {
+          "title": "using describe blocks",
+          "thumbnail": "https://i.ytimg.com/vi/OmPxptVabpE/hqdefault_528133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVSnflgzFNB-pcghyGsMEyiHqdYQ",
+          "time_start": 527
+        },
+        {
+          "title": "volunteer to the Igbo API!!",
+          "thumbnail": "https://i.ytimg.com/vi/OmPxptVabpE/hqdefault_700966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJJ_KLJjtykSOIWjVi7N0w4tr7mg",
+          "time_start": 688
+        }
+      ]
+    },
+    {
+      "position_on_page": 13,
+      "title": "Introduction to Cypress/Get started with Automated Tesing | by Lucia Cangarova",
+      "link": "https://www.youtube.com/watch?v=SAxAFnufb9c",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=SAxAFnufb9c",
+      "video_id": "SAxAFnufb9c",
+      "channel": {
+        "name": "Lucia Cangarova",
+        "channel_id": "UCLJhbBFjSNgS2OT62vMvwOw",
+        "link": "https://www.youtube.com/@luciacangarova712",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l7g0fvIP_JdcLQJpGkVZPT-eOhKZUiLPnLKiObJyc0DHk=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 71,
+      "length": "17:39",
+      "description": "This video was created by Lucia Cangarova as a part of her course at the University of Glasgow. In this video: what is automated ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/SAxAFnufb9c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBU4-3cikoEqK76Btesq92YzlPUTQ"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "Cypress Tutorial in JavaScript (Free Course + Certification)",
+      "link": "https://www.youtube.com/watch?v=Ty406iWkgN4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Ty406iWkgN4",
+      "video_id": "Ty406iWkgN4",
+      "channel": {
+        "name": "testingbot",
+        "channel_id": "UCTQ4lX_S9r3It7A1hj_ef_A",
+        "link": "https://www.youtube.com/@testingbot-com",
+        "thumbnail": "https://yt3.ggpht.com/hE5cqxru-mu_bPUDon_AcWOaXHApSBWM-YbG9b040i-MXF51SDzzniUBYw2WLGaP0nhD8dFqvg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1d ago",
+      "views": 14,
+      "length": "9:03",
+      "description": "A hands-on Cypress tutorial in JavaScript: from npm install cypress to a suite that runs on Chrome and Firefox in the cloud and in ...",
+      "extensions": [
+        "New"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Ty406iWkgN4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcGtbloJdBX0CG46c3NtsPasLYYQ",
+        "rich": "https://i.ytimg.com/an_webp/Ty406iWkgN4/mqdefault_6s.webp?du=3000&sqp=CM7ghNgG&rs=AOn4CLD1T3NIiIhF_3_8hVNfNpnv1lr0cw"
+      },
+      "chapters": [
+        {
+          "title": "Course introduction",
+          "thumbnail": "https://i.ytimg.com/vi_webp/Ty406iWkgN4/hqdefault.webp",
+          "time_start": 0
+        },
+        {
+          "title": "Cypress: the command queue and retry-ability",
+          "thumbnail": "https://i.ytimg.com/vi_webp/Ty406iWkgN4/hqdefault.webp",
+          "time_start": 52
+        },
+        {
+          "title": "Chapter 1: Install Cypress and Run a First Spec",
+          "thumbnail": "https://i.ytimg.com/vi_webp/Ty406iWkgN4/hqdefault.webp",
+          "time_start": 74
+        },
+        {
+          "title": "Chapter 2: Selectors and the Cypress Command Queue",
+          "thumbnail": "https://i.ytimg.com/vi_webp/Ty406iWkgN4/hqdefault.webp",
+          "time_start": 108
+        },
+        {
+          "title": "Chapter 3: Cypress Assertions and Waiting Without Sleeps",
+          "thumbnail": "https://i.ytimg.com/vi_webp/Ty406iWkgN4/hqdefault.webp",
+          "time_start": 144
+        },
+        {
+          "title": "Chapter 4: Fixtures and Network Stubbing with cy.intercept",
+          "thumbnail": "https://i.ytimg.com/vi_webp/Ty406iWkgN4/hqdefault.webp",
+          "time_start": 183
+        },
+        {
+          "title": "Chapter 5: Custom Commands and Logging In Once with cy.session",
+          "thumbnail": "https://i.ytimg.com/vi_webp/Ty406iWkgN4/hqdefault.webp",
+          "time_start": 220
+        },
+        {
+          "title": "Chapter 6: Cypress Configuration, Environment Variables and Retries",
+          "thumbnail": "https://i.ytimg.com/vi_webp/Ty406iWkgN4/hqdefault.webp",
+          "time_start": 261
+        },
+        {
+          "title": "Chapter 7: Cypress Component Testing vs End-to-End Testing",
+          "thumbnail": "https://i.ytimg.com/vi_webp/Ty406iWkgN4/hqdefault.webp",
+          "time_start": 290
+        },
+        {
+          "title": "Chapter 8: Run Cypress on TestingBot and in CI",
+          "thumbnail": "https://i.ytimg.com/vi_webp/Ty406iWkgN4/hqdefault.webp",
+          "time_start": 314
+        },
+        {
+          "title": "Chapter 9: Debugging Cypress Tests",
+          "thumbnail": "https://i.ytimg.com/vi_webp/Ty406iWkgN4/hqdefault.webp",
+          "time_start": 495
+        },
+        {
+          "title": "Chapter 10: Knowledge check",
+          "thumbnail": "https://i.ytimg.com/vi_webp/Ty406iWkgN4/hqdefault.webp",
+          "time_start": 518
+        }
+      ]
+    },
+    {
+      "position_on_page": 15,
+      "title": "Cypress Tutorial for Beginners | Complete Cypress Course",
+      "link": "https://www.youtube.com/watch?v=yhYirC9XqUk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=yhYirC9XqUk",
+      "video_id": "yhYirC9XqUk",
+      "channel": {
+        "name": "SQA World",
+        "channel_id": "UCkw1j_EU-VAy3v3rPLv_AcQ",
+        "link": "https://www.youtube.com/@SQAworld",
+        "thumbnail": "https://yt3.ggpht.com/v63F7--pO-MGmGu7oLDb-S4QOid-ROqft4LRZ3Om8UGTFJfDEa6xTQVXGe90Zlff_jjExFZt=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 3166,
+      "length": "4:37:28",
+      "description": "cypresstesting #cypressio #cypresstutorials #cypresscommands #automationtools #webautomation #automationtraining ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/yhYirC9XqUk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0PHipG6TAa1ya8w6DwvVa_wgTGA"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "How to write an E2E test in Cypress",
+      "link": "https://www.youtube.com/watch?v=HDd5W2Zw_jo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=HDd5W2Zw_jo",
+      "video_id": "HDd5W2Zw_jo",
+      "channel": {
+        "name": "Fabio Biondi",
+        "channel_id": "UC5NfIMMm_nXshOKufgI7vmw",
+        "link": "https://www.youtube.com/@FabioBiondi",
+        "thumbnail": "https://yt3.ggpht.com/0th09FVSm-_aoHNGEnJHb-uNXlz15QsAdXe4JNT6187HzxI8KfzIjIKBycaZkZfOXWAtvsDNCQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 7168,
+      "length": "0:38",
+      "description": "Writing E2E tests has never been easier. What does it mean? That you can simulate user interactions to verify if your application ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/HDd5W2Zw_jo/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAv4OigIMCAAQARg6IFYocjAP&rs=AOn4CLA_7Kc3eWRI6r53s-INDJsJWaS1MA",
+        "rich": "https://i.ytimg.com/an_webp/HDd5W2Zw_jo/mqdefault_6s.webp?du=3000&sqp=CKDYhNgG&rs=AOn4CLAcCJV46tQGiCAyPiiC5ZyUFyicVw"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Introduction to Cypress Test Automation",
+      "link": "https://www.youtube.com/watch?v=GDVOthZpFvM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=GDVOthZpFvM",
+      "video_id": "GDVOthZpFvM",
+      "channel": {
+        "name": "BlueSky Citadel",
+        "channel_id": "UCGobnhMroJc7vgc2l2UuYOw",
+        "link": "https://www.youtube.com/@blueskycitadel",
+        "thumbnail": "https://yt3.ggpht.com/e0u20eVpdP2fYq6KGNshkQstkh_56ib8V3RckHDp_KMQQJ1lIs5ofER6_A9xFAuhyZv4pR3C=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "Streamed 3y ago",
+      "views": 309,
+      "length": "1:07:54",
+      "description": "So it's called service training click on open right and then like I said we don't have anything on the Cypress training um order itself ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/GDVOthZpFvM/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGiqarLS8VUWrxdVR5U1kl3NHbNQ"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Cypress Tutorial Full Course | Cypress Automation | Learn Cypress in 5 Hrs",
+      "link": "https://www.youtube.com/watch?v=oJV5whmzfZI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=oJV5whmzfZI",
+      "video_id": "oJV5whmzfZI",
+      "channel": {
+        "name": "Testers Talk",
+        "channel_id": "UCutQjK5N6zIT-vXqXa4WI0A",
+        "link": "https://www.youtube.com/@testerstalk",
+        "thumbnail": "https://yt3.ggpht.com/YJhKLESPpcejy8hzRsCEOjHd3v14ZZPJrSaV-dfdz1YfeZdTE1YUfw0EJQvXJHP5tIpqcZhGtg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 85964,
+      "length": "5:04:18",
+      "description": "Cypress Tutorial Full Course 2023 | Learn Cypress in 5 Hrs | #cypress #cypresstutorial #tutorial Cypress Automation Testing End ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/oJV5whmzfZI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoF9W1-ZtSJe0i3RWa6QIcFd4gVg",
+        "rich": "https://i.ytimg.com/an_webp/oJV5whmzfZI/mqdefault_6s.webp?du=3000&sqp=CMKThdgG&rs=AOn4CLD1KyqV-LV_B03OB-5_Sv2KKF70MA"
+      },
+      "chapters": [
+        {
+          "title": "Cypress Tutorial Full Course",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 0
+        },
+        {
+          "title": "Cypress Getting Started Chapter01",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 45
+        },
+        {
+          "title": "What is cypress advantages and limitations",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 170
+        },
+        {
+          "title": "Cypress vs Selenium WebDriver",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 543
+        },
+        {
+          "title": "Install nodejs and visual studio code",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 760
+        },
+        {
+          "title": "How to install cypress",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 1012
+        },
+        {
+          "title": "open Cypress Test Runner",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 1345
+        },
+        {
+          "title": "Cypress Scaffold examples",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 1401
+        },
+        {
+          "title": "Cypress folder structure",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 1594
+        },
+        {
+          "title": "Cypress Studio Record and Play Test",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 1833
+        },
+        {
+          "title": "How to Write First Cypress Automation Test",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 2628
+        },
+        {
+          "title": "How create logs in cypress",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 3222
+        },
+        {
+          "title": "How to run test on chrome edge firefox",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 3457
+        },
+        {
+          "title": "How to run test in headless mode",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 4013
+        },
+        {
+          "title": "How to disable auto rerun test in cypress",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 4344
+        },
+        {
+          "title": "Cypress tutorial Chapter02",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 4692
+        },
+        {
+          "title": "Disable FETCH and XHR logs in cypress",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 4808
+        },
+        {
+          "title": "Intellisense auto code completion in cypress",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 5286
+        },
+        {
+          "title": "Assertions in Cypress",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 5651
+        },
+        {
+          "title": "Selectors in Cypress",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 7315
+        },
+        {
+          "title": "Xpath in Cypress",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 9165
+        },
+        {
+          "title": "Run cypress test from VS code",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 9752
+        },
+        {
+          "title": "Handle dropdwon in cypress",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 9889
+        },
+        {
+          "title": "Work with iframes in cypress",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 10375
+        },
+        {
+          "title": "How to scroll down up in cypress",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 10933
+        },
+        {
+          "title": "Cypress tutorial Chapter03",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 11371
+        },
+        {
+          "title": "Implement hooks in cypress",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 11510
+        },
+        {
+          "title": "How to skip a test in cypress",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 12135
+        },
+        {
+          "title": "Repeat test in cypress",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 12396
+        },
+        {
+          "title": "Retry Rerun test in cypress",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 12654
+        },
+        {
+          "title": "Generate HTML report in cypress",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 13059
+        },
+        {
+          "title": "Run multiple spec files in cypress",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 13803
+        },
+        {
+          "title": "Group test and execute test in cypress",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 14115
+        },
+        {
+          "title": "Cypress tutorial Chapter04",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 14687
+        },
+        {
+          "title": "Data Driven testing in cypress",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 14783
+        },
+        {
+          "title": "Cypress Data driven testing using json file",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 15638
+        },
+        {
+          "title": "page object mode in cypress",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 16160
+        },
+        {
+          "title": "Test execution recording as video in cypress",
+          "thumbnail": "https://i.ytimg.com/vi_webp/oJV5whmzfZI/hqdefault.webp",
+          "time_start": 17860
+        }
+      ]
+    },
+    {
+      "position_on_page": 22,
+      "title": "TypeScript Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=d56mG7DezGs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=d56mG7DezGs",
+      "video_id": "d56mG7DezGs",
+      "channel": {
+        "name": "Programming with Mosh",
+        "channel_id": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "link": "https://www.youtube.com/@programmingwithmosh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 2282783,
+      "length": "1:04:28",
+      "description": "Write better, more scalable JavaScript with TypeScript! This beginner-friendly tutorial gets you started fast. Ready for a deep ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/d56mG7DezGs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCp58c546g6epp5q2y8i2X2t5IUgQ",
+        "rich": "https://i.ytimg.com/an_webp/d56mG7DezGs/mqdefault_6s.webp?du=3000&sqp=CMnkhNgG&rs=AOn4CLAPdMjuPWj7jrx0CwaW8bpjG0wD-w"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_26266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASet_XoMcZLZUj6E6Wo8AuAqTOkg",
+          "time_start": 0
+        },
+        {
+          "title": "Prerequisites",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_52466.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBv9rVQOpkSXcLDZHKvg2uDZve6Bw",
+          "time_start": 52
+        },
+        {
+          "title": "How to Take This Course",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_114266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhqtZ051zfmG54fDENh1J4myEYFw",
+          "time_start": 88
+        },
+        {
+          "title": "What is TypeScript?",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_204066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2OS0D-j24b9CMSi6Sj8jcPSunIQ",
+          "time_start": 177
+        },
+        {
+          "title": "Setting Up the Development Environment",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_458866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmAygcD9VtI-5_yZ12bBllaGpYvw",
+          "time_start": 458
+        },
+        {
+          "title": "Your First TypeScript Program",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_570833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa3Bbnz3SgRT_sv-JQBr4sW78SQQ",
+          "time_start": 570
+        },
+        {
+          "title": "Configuring the TypeScript Compiler",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_801300.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_2sesfrVjzWNcKzXvdwHakV9FyA",
+          "time_start": 800
+        },
+        {
+          "title": "Debugging TypeScript Applications",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_1045266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoPl_orpsB6YwZpsFbsa2Xx-Qj_A",
+          "time_start": 1044
+        },
+        {
+          "title": "Fundamentals",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_1379166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwNxUOZTRhPBiQGOjPeuXNQ2UvFw",
+          "time_start": 1375
+        },
+        {
+          "title": "Built-In Types",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_1404233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCznpJs_LXXR2ZrC1cMFgaq7mCJKQ",
+          "time_start": 1403
+        },
+        {
+          "title": "The any Type",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_1522200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1fU8ZErz_er76i6Xj_rx63Opd2g",
+          "time_start": 1521
+        },
+        {
+          "title": "Arrays",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_1687166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdbmEFFJKrju1iXg4TG4gGe_YFNA",
+          "time_start": 1686
+        },
+        {
+          "title": "Tuples",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_1827000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTsZJTXtjovJyt198qv6brVR5S5A",
+          "time_start": 1824
+        },
+        {
+          "title": "Enums",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_1991966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJ1yRnkgyttBPod6saXeUQ5Bk12A",
+          "time_start": 1988
+        },
+        {
+          "title": "Functions",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_2192066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHHfVJPkjEfcgQBchNbUBzkjSVZA",
+          "time_start": 2191
+        },
+        {
+          "title": "Objects",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_2603033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKFgP7-Eyh7LUJUgTRho3mHF2Avw",
+          "time_start": 2602
+        },
+        {
+          "title": "Advanced Types",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_2885966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwD4Rz2nkHIdhEYF-BqFWE7F2aBQ",
+          "time_start": 2877
+        },
+        {
+          "title": "Type Aliases",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_2910866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYzG_XIsiTNXqM8mZGl-arKiAe7Q",
+          "time_start": 2906
+        },
+        {
+          "title": "Union Types",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_3006966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAP6cEB2hUJlLNTMVWxVbzahCluog",
+          "time_start": 3004
+        },
+        {
+          "title": "Intersection Types",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_3163800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyFJAoL10XFfs--xLqR5ouRRPRAQ",
+          "time_start": 3160
+        },
+        {
+          "title": "Literal Types",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_3284900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_24L_NF3VRbCrvgbwG9TsFVpAWw",
+          "time_start": 3284
+        },
+        {
+          "title": "Nullable Types",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_3390333.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnwvo_0ak1_HRcAZEhX-VwqbnhLQ",
+          "time_start": 3390
+        },
+        {
+          "title": "Optional Chaining",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_3550200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaCrUNkqU0t7Ik_5IRcW8Bup4qLQ",
+          "time_start": 3546
+        }
+      ]
+    }
+  ],
+  "playlist_results": [
+    {
+      "position_on_page": 4,
+      "title": "CYPRESS TUTORIAL | Complete Course on Cypress Web Automation using JavaScript",
+      "link": "https://www.youtube.com/playlist?list=PLL34mf651faP_cOOErNUi33GeRHhr2QsP",
+      "channel": {
+        "name": "Software Testing Mentor",
+        "channel_id": "UCzOMBStlSDfyai6rWdK3hWw",
+        "link": "https://www.youtube.com/@softwaretestingmentor"
+      },
+      "videos": [
+        {
+          "title": "Cypress Tutorial #1 - Introduction to Cypress | Cypress Web Automation",
+          "length": "8:28",
+          "link": "https://www.youtube.com/watch?v=bpuEAzYDTy4&list=PLL34mf651faP_cOOErNUi33GeRHhr2QsP"
+        },
+        {
+          "title": "Cypress Tutorial #2 - Architecture of Cypress vs Selenium",
+          "length": "7:58",
+          "link": "https://www.youtube.com/watch?v=pmnMx7tIB9E&list=PLL34mf651faP_cOOErNUi33GeRHhr2QsP"
+        }
+      ],
+      "video_count": 21,
+      "thumbnail": "https://i.ytimg.com/vi/bpuEAzYDTy4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBCSWXZ3dzpaOeTTQ5qobICgqnRMw"
+    },
+    {
+      "position_on_page": 6,
+      "title": "Learn Cypress in 3 Hours | Full Cypress Tutorial | Cypress Automation",
+      "link": "https://www.youtube.com/playlist?list=PLUeDIlio4THH_fGwBiFk79BCktNLVKzHm",
+      "channel": {
+        "name": "Testers Talk",
+        "channel_id": "UCutQjK5N6zIT-vXqXa4WI0A",
+        "link": "https://www.youtube.com/@testerstalk"
+      },
+      "videos": [
+        {
+          "title": "Cypress Tutorial Full Course | Cypress Automation | Learn Cypress in 5 Hrs",
+          "length": "5:04:18",
+          "link": "https://www.youtube.com/watch?v=oJV5whmzfZI&list=PLUeDIlio4THH_fGwBiFk79BCktNLVKzHm"
+        },
+        {
+          "title": "Cypress GitHub Repository E2E Testing",
+          "length": "0:43",
+          "link": "https://www.youtube.com/watch?v=Eilrdx99t60&list=PLUeDIlio4THH_fGwBiFk79BCktNLVKzHm"
+        }
+      ],
+      "video_count": 41,
+      "thumbnail": "https://i.ytimg.com/vi/oJV5whmzfZI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAKZ73a537mwcdwIPunJ2OTDx-zIg"
+    },
+    {
+      "position_on_page": 7,
+      "title": "🔥 Master Cypress Automation Testing | Complete Cypress Tutorial Series 🚀",
+      "link": "https://www.youtube.com/playlist?list=PLBw1ubD1J1Ujws5XLs7BGJqQkQVpJtmBJ",
+      "channel": {
+        "name": "Testing Funda by Zeeshan Asghar",
+        "channel_id": "UC6DkGolZsfhpIf1rVc2s_6A",
+        "link": "https://www.youtube.com/@TestingFunda"
+      },
+      "videos": [
+        {
+          "title": "Cypress Tutorial #1: The Ultimate Guide to Getting Started",
+          "length": "8:02",
+          "link": "https://www.youtube.com/watch?v=OvCLwh5vN8g&list=PLBw1ubD1J1Ujws5XLs7BGJqQkQVpJtmBJ"
+        },
+        {
+          "title": "Cypress tutorial #2 | Installation and Configuration on Windows",
+          "length": "17:20",
+          "link": "https://www.youtube.com/watch?v=1VkwWv3YLt0&list=PLBw1ubD1J1Ujws5XLs7BGJqQkQVpJtmBJ"
+        }
+      ],
+      "video_count": 41,
+      "thumbnail": "https://i.ytimg.com/vi/OvCLwh5vN8g/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDdpT32IkOUpc1hGDKZhSNoTXX9JA"
+    },
+    {
+      "position_on_page": 12,
+      "title": "Cypress Tutorial for Beginners || Step by Step",
+      "link": "https://www.youtube.com/playlist?list=PL8VbCbavWfeG5eS7QsIQLhTKtUVNvAiki",
+      "channel": {
+        "name": "The Testing Academy",
+        "channel_id": "UC2TpiJFaC0f4_5GopyMkDdQ",
+        "link": "https://www.youtube.com/@TheTestingAcademy"
+      },
+      "videos": [
+        {
+          "title": "Cypress Tutorial For Beginners : Part 1 ( Creating your first script )",
+          "length": "12:57",
+          "link": "https://www.youtube.com/watch?v=vQH-2Sq0cKk&list=PL8VbCbavWfeG5eS7QsIQLhTKtUVNvAiki"
+        },
+        {
+          "title": "Cypress Tutorial For Beginners : Part 2 ( Upload a File )",
+          "length": "6:26",
+          "link": "https://www.youtube.com/watch?v=XS1iyb5ZT2Y&list=PL8VbCbavWfeG5eS7QsIQLhTKtUVNvAiki"
+        }
+      ],
+      "video_count": 11,
+      "thumbnail": "https://i.ytimg.com/vi/vQH-2Sq0cKk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC4m4J7TYcNVoh-yqTFWwoWFtL0rA"
+    },
+    {
+      "position_on_page": 20,
+      "title": "Cypress Beginner Tutorials",
+      "link": "https://www.youtube.com/playlist?list=PLhW3qG5bs-L9LTfxZ5LEBiM1WFfvX3dJo",
+      "channel": {
+        "name": "Automation Step by Step",
+        "channel_id": "UCTt7pyY-o0eltq14glaG5dg",
+        "link": "https://www.youtube.com/@RaghavPal"
+      },
+      "videos": [
+        {
+          "title": "Cypress Beginner Tutorial 1 | Introduction",
+          "length": "3:41",
+          "link": "https://www.youtube.com/watch?v=CYcdT-tOvB0&list=PLhW3qG5bs-L9LTfxZ5LEBiM1WFfvX3dJo"
+        },
+        {
+          "title": "Cypress Beginner Tutorial 2 | Features",
+          "length": "2:59",
+          "link": "https://www.youtube.com/watch?v=3T9F7TnUgWs&list=PLhW3qG5bs-L9LTfxZ5LEBiM1WFfvX3dJo"
+        }
+      ],
+      "video_count": 21,
+      "thumbnail": "https://i.ytimg.com/vi/CYcdT-tOvB0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB1VQ8JcvPy5AZGF0BYu3nSaOojSQ"
+    },
+    {
+      "position_on_page": 21,
+      "title": "Front End Developer Learning Path",
+      "link": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbmMuZ3saqRIBimAKIMYkt0E",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp"
+      },
+      "videos": [
+        {
+          "title": "Front End Developer Roadmap",
+          "length": "12:09",
+          "link": "https://www.youtube.com/watch?v=9He4UBLyk8Y&list=PLWKjhJtqVAbmMuZ3saqRIBimAKIMYkt0E"
+        },
+        {
+          "title": "HTML Tutorial - Website Crash Course for Beginners",
+          "length": "45:20",
+          "link": "https://www.youtube.com/watch?v=916GWv2Qs08&list=PLWKjhJtqVAbmMuZ3saqRIBimAKIMYkt0E"
+        }
+      ],
+      "video_count": 22,
+      "thumbnail": "https://i.ytimg.com/vi/9He4UBLyk8Y/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAUoUjvLRM9C5x2jKy_STBVH-UUaA"
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Cypress+full+course+tutorial+for+Frontend+Developer&gl=in&hl=en",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Cypress%20full%20course%20tutorial%20for%20Frontend%20Developer&sp=SBSCAQtCUXF6ZkhRa1JFb4IBC3U4dk11N3ZpQ204ggEiUExMMzRtZjY1MWZhUF9jT09Fck5VaTMzR2VSSGhyMlFzUIIBC2pYM3YzTjZvTjVNggEiUExVZURJbGlvNFRISF9mR3dCaUZrNzlCQ2t0TkxWS3pIbYIBIlBMQncxdWJEMUoxVWp3czVYTHM3QkdKcVFrUVZwSnRtQkqCAQtzZzJSWWJkNUFGRYIBCzZCa2NIQUVXZVRVggELZVVfeW5IbExZMHOCAQtPbVB4cHRWYWJwRYIBIlBMOFZiQ2JhdldmZUc1ZVM3UXNJUUxoVEt0VVZOdkFpa2mCAQtTQXhBRm51ZmI5Y4IBC1R5NDA2aVdrZ040ggELeWhZaXJDOVhxVWuCAQtIRGQ1VzJad19qb4IBC0dEVk90aFpwRnZNggELb0pWNXdobXpmWkmCASJQTGhXM3FHNWJzLUw5TFRmeFo1TEVCaU0xV0ZmdlgzZEpvggEiUExXS2poSnRxVkFibU11WjNzYXFSSUJpbUFLSU1Za3QwRYIBC2Q1Nm1HN0RlekdzsgEGCgQIGRAC",
+    "next_page_token": "SBSCAQtCUXF6ZkhRa1JFb4IBC3U4dk11N3ZpQ204ggEiUExMMzRtZjY1MWZhUF9jT09Fck5VaTMzR2VSSGhyMlFzUIIBC2pYM3YzTjZvTjVNggEiUExVZURJbGlvNFRISF9mR3dCaUZrNzlCQ2t0TkxWS3pIbYIBIlBMQncxdWJEMUoxVWp3czVYTHM3QkdKcVFrUVZwSnRtQkqCAQtzZzJSWWJkNUFGRYIBCzZCa2NIQUVXZVRVggELZVVfeW5IbExZMHOCAQtPbVB4cHRWYWJwRYIBIlBMOFZiQ2JhdldmZUc1ZVM3UXNJUUxoVEt0VVZOdkFpa2mCAQtTQXhBRm51ZmI5Y4IBC1R5NDA2aVdrZ040ggELeWhZaXJDOVhxVWuCAQtIRGQ1VzJad19qb4IBC0dEVk90aFpwRnZNggELb0pWNXdobXpmWkmCASJQTGhXM3FHNWJzLUw5TFRmeFo1TEVCaU0xV0ZmdlgzZEpvggEiUExXS2poSnRxVkFibU11WjNzYXFSSUJpbUFLSU1Za3QwRYIBC2Q1Nm1HN0RlekdzsgEGCgQIGRAC"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Cypress+full+course+tutorial+for+Frontend+Developer",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Cypress+full+course+tutorial+for+Frontend+Developer&sp=SBSCAQtCUXF6ZkhRa1JFb4IBC3U4dk11N3ZpQ204ggEiUExMMzRtZjY1MWZhUF9jT09Fck5VaTMzR2VSSGhyMlFzUIIBC2pYM3YzTjZvTjVNggEiUExVZURJbGlvNFRISF9mR3dCaUZrNzlCQ2t0TkxWS3pIbYIBIlBMQncxdWJEMUoxVWp3czVYTHM3QkdKcVFrUVZwSnRtQkqCAQtzZzJSWWJkNUFGRYIBCzZCa2NIQUVXZVRVggELZVVfeW5IbExZMHOCAQtPbVB4cHRWYWJwRYIBIlBMOFZiQ2JhdldmZUc1ZVM3UXNJUUxoVEt0VVZOdkFpa2mCAQtTQXhBRm51ZmI5Y4IBC1R5NDA2aVdrZ040ggELeWhZaXJDOVhxVWuCAQtIRGQ1VzJad19qb4IBC0dEVk90aFpwRnZNggELb0pWNXdobXpmWkmCASJQTGhXM3FHNWJzLUw5TFRmeFo1TEVCaU0xV0ZmdlgzZEpvggEiUExXS2poSnRxVkFibU11WjNzYXFSSUJpbUFLSU1Za3QwRYIBC2Q1Nm1HN0RlekdzsgEGCgQIGRAC",
+    "next_page_token": "SBSCAQtCUXF6ZkhRa1JFb4IBC3U4dk11N3ZpQ204ggEiUExMMzRtZjY1MWZhUF9jT09Fck5VaTMzR2VSSGhyMlFzUIIBC2pYM3YzTjZvTjVNggEiUExVZURJbGlvNFRISF9mR3dCaUZrNzlCQ2t0TkxWS3pIbYIBIlBMQncxdWJEMUoxVWp3czVYTHM3QkdKcVFrUVZwSnRtQkqCAQtzZzJSWWJkNUFGRYIBCzZCa2NIQUVXZVRVggELZVVfeW5IbExZMHOCAQtPbVB4cHRWYWJwRYIBIlBMOFZiQ2JhdldmZUc1ZVM3UXNJUUxoVEt0VVZOdkFpa2mCAQtTQXhBRm51ZmI5Y4IBC1R5NDA2aVdrZ040ggELeWhZaXJDOVhxVWuCAQtIRGQ1VzJad19qb4IBC0dEVk90aFpwRnZNggELb0pWNXdobXpmWkmCASJQTGhXM3FHNWJzLUw5TFRmeFo1TEVCaU0xV0ZmdlgzZEpvggEiUExXS2poSnRxVkFibU11WjNzYXFSSUJpbUFLSU1Za3QwRYIBC2Q1Nm1HN0RlekdzsgEGCgQIGRAC"
+  }
+}

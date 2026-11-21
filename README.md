@@ -7,7 +7,7 @@
 ## Key Features
 
 - **PDF & Preset Resume Parsing**: Extracts and normalizes text from uploaded PDF resumes via `pdfplumber` or loads 1-click demo personas from `data/sample_resumes.json`.
-- **Hybrid LLM + Regex Skill Normalization**: Uses `gemini-2.5-flash` (`google-genai`) structured JSON output when `GEMINI_API_KEY` is configured, with an automatic regex word-boundary fallback against `data/skills_list.json` (including symbol-heavy skills like `C++`, `C#`, `.NET`, and `Node.js`).
+- **Hybrid LLM + Regex Skill Normalization**: Uses `gemini-3.5-flash-lite` (`google-genai`, with Flash fallbacks) structured JSON output when `GEMINI_API_KEY` is configured, with an automatic regex word-boundary fallback against `data/skills_list.json` (including symbol-heavy skills like `C++`, `C#`, `.NET`, and `Node.js`).
 - **Live Market Demand & Credit-Safe Disk Caching**: Fetches real-time Google Jobs postings via SerpApi (`google_jobs`) and caches responses deterministically under `data/cache/`.
 - **Interactive "What-If" Skill Simulator**: Toggle any of the top 5 missing skills to watch your **Readiness Score (%)**, **Ready to Apply Today** job count, and job buckets update instantaneously.
 - **Zero-Credit Offline Demo Mode**: Includes a deterministic **Load Offline Demo** flow so judges and reviewers can test the full dashboard without any API keys.
@@ -35,10 +35,12 @@ app.py                          # Streamlit entrypoint wiring ui/* and src/*
 │   └── courses.py              # SerpApi YouTube course fetcher & mini-project generator
 ├── data/
 │   ├── skills_list.json        # Canonical technical skills & alias dictionary
-│   └── sample_resumes.json     # Demo personas (Frontend Student & Junior Backend Python Dev)
+│   ├── sample_resumes.json     # Demo personas (Frontend Student & Junior Backend Python Dev)
+│   └── cache/                  # Seeded SerpApi & Gemini JSON cache for Wi-Fi-proof demos
 └── tests/
     ├── test_backend.py         # Offline end-to-end backend pipeline smoke tests
-    └── test_app.py             # Streamlit AppTest UI wiring & SerpApi error-safety tests
+    ├── test_app.py             # Streamlit AppTest UI wiring & SerpApi error-safety tests
+    └── test_frontend.py        # Headless UI smoke tests (1-click demos, simulator, seeded cache)
 ```
 
 ---
@@ -76,15 +78,29 @@ GEMINI_API_KEY=your_gemini_api_key_here
 streamlit run app.py
 ```
 
-Click **Load Offline Demo** in the sidebar to run immediately with **0 API credits**, or click **Analyze Live Market** when your keys are configured.
+Click **CS Final-Year Student** or **Junior Backend Dev** in the sidebar for a 1-click demo, **Load Offline Demo** for a 0-credit snapshot, or **Analyze Live Market** when your keys are configured.
+
+---
+
+## Deploying to Streamlit Community Cloud
+
+1. Ensure `.env` and `.streamlit/secrets.toml` remain in `.gitignore` while keeping `data/cache/*.json` committed as a Wi-Fi-safe fallback.
+2. Push your repository to GitHub (`git push origin main`).
+3. Create a new app on [share.streamlit.io](https://share.streamlit.io) pointing to `app.py`.
+4. Under **Advanced settings → Secrets**, paste your API keys in TOML format:
+   ```toml
+   SERPAPI_KEY = "your_serpapi_key_here"
+   GEMINI_API_KEY = "your_gemini_api_key_here"
+   ```
 
 ---
 
 ## Running Tests
 
-Both test suites run completely offline with 0 API credits:
+All three test suites run completely offline with 0 API credits:
 
 ```bash
 python tests/test_backend.py
 python tests/test_app.py
+python tests/test_frontend.py
 ```

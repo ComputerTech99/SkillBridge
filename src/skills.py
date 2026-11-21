@@ -6,18 +6,21 @@ import json
 import os
 import re
 from collections import defaultdict
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 from dotenv import load_dotenv
 from google import genai
 from google.genai import types
 
+from src.cache import get_cached, set_cached
 from src.schemas import JobPosting, SkillDemand
 
 load_dotenv()
 
 _SKILLS_LIST_PATH = Path(__file__).resolve().parent.parent / "data" / "skills_list.json"
-_GEMINI_MODEL = "gemini-2.5-flash"
+_GEMINI_MODEL = "gemini-3.5-flash-lite"
+_GEMINI_FALLBACK_MODELS = ("gemini-3.5-flash-lite", "gemini-3.7-flash", "gemini-3.8-flash")
 
 
 def _load_skills_catalog(
@@ -86,6 +89,11 @@ def _extract_skills_regex(text: str) -> list[str]:
 
 def _extract_skills_llm(text: str, api_key: str) -> list[str]:
     """Extract and normalize canonical technical skills using Gemini structured JSON output."""
+    cache_params = {"model": _GEMINI_MODEL, "text": text}
+    cached = get_cached("gemini_skills", cache_params)
+    if cached is not None and isinstance(cached.get("skills"), list):
+        return _deduplicate_and_normalize([str(item) for item in cached["skills"]])
+
     canonical_names = ", ".join(_SKILLS_CATALOG.keys())
     prompt = (
         "Extract all technical skills, programming languages, frameworks, databases, "
@@ -99,15 +107,25 @@ def _extract_skills_llm(text: str, api_key: str) -> list[str]:
     )
 
     client = genai.Client(api_key=api_key)
-    response = client.models.generate_content(
-        model=_GEMINI_MODEL,
-        contents=prompt,
-        config=types.GenerateContentConfig(
-            response_mime_type="application/json",
-            response_schema=list[str],
-            temperature=0.0,
-        ),
-    )
+    last_error: Exception | None = None
+    response = None
+    for model_name in _GEMINI_FALLBACK_MODELS:
+        try:
+            response = client.models.generate_content(
+                model=model_name,
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    response_mime_type="application/json",
+                    response_schema=list[str],
+                    temperature=0.0,
+                ),
+            )
+            break
+        except Exception as exc:
+            last_error = exc
+
+    if response is None:
+        raise last_error or RuntimeError("All Gemini models failed")
 
     parsed = getattr(response, "parsed", None)
     if parsed is None:
@@ -117,15 +135,17 @@ def _extract_skills_llm(text: str, api_key: str) -> list[str]:
     if not isinstance(parsed, list):
         raise ValueError("LLM response was not a JSON list of skills")
 
-    return _deduplicate_and_normalize([str(item) for item in parsed])
+    normalized = _deduplicate_and_normalize([str(item) for item in parsed])
+    set_cached("gemini_skills", cache_params, {"skills": normalized})
+    return normalized
 
 
 def extract_skills_from_text(text: str) -> list[str]:
     """Extract deduplicated canonical technical skills from resume or job text.
 
-    Uses Gemini (`gemini-2.5-flash`) structured JSON output when `GEMINI_API_KEY` is
-    configured, automatically falling back to regex word-boundary matching against
-    `data/skills_list.json` if the key is missing or the API call fails.
+    Uses Gemini (`gemini-3.5-flash-lite` with Flash fallbacks) structured JSON output when
+    `GEMINI_API_KEY` is configured, automatically falling back to regex word-boundary matching
+    against `data/skills_list.json` if the key is missing or the API call fails.
     """
     if not text or not text.strip():
         return []
@@ -142,11 +162,22 @@ def extract_skills_from_text(text: str) -> list[str]:
 
 def enrich_jobs_with_skills(jobs: list[JobPosting]) -> list[JobPosting]:
     """Populate `extracted_skills` on each JobPosting from qualifications and description."""
-    for job in jobs:
-        combined_text = "\n".join(
-            part for part in [*job.qualifications, job.description] if part and part.strip()
-        )
-        job.extracted_skills = extract_skills_from_text(combined_text)
+    if not jobs:
+        return jobs
+
+    texts = [
+        "\n".join(part for part in [*job.qualifications, job.description] if part and part.strip())
+        for job in jobs
+    ]
+    api_key = (os.getenv("GEMINI_API_KEY") or "").strip()
+    if api_key and len(jobs) > 1:
+        with ThreadPoolExecutor(max_workers=min(5, len(jobs))) as pool:
+            extracted_list = list(pool.map(extract_skills_from_text, texts))
+        for job, extracted in zip(jobs, extracted_list):
+            job.extracted_skills = extracted
+    else:
+        for job, combined_text in zip(jobs, texts):
+            job.extracted_skills = extract_skills_from_text(combined_text)
     return jobs
 
 

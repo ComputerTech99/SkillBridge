@@ -1,0 +1,1554 @@
+{
+  "search_metadata": {
+    "id": "6b014aadc258c1bfd7d08381",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/VlWRNS1rUM09nvdhKjnhJMyPWxiAoYOsr70FDEfd9XA/6b014aadc258c1bfd7d08381.json",
+    "markdown_endpoint": "https://serpapi.com/searches/VlWRNS1rUM09nvdhKjnhJMyPWxiAoYOsr70FDEfd9XA/6b014aadc258c1bfd7d08381.md",
+    "created_at": "2026-11-21 07:39:25 UTC",
+    "processed_at": "2026-11-21 07:39:25 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Next.js+full+course+tutorial+for+Data+Analyst&gl=in&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/VlWRNS1rUM09nvdhKjnhJMyPWxiAoYOsr70FDEfd9XA/6b014aadc258c1bfd7d08381.html",
+    "total_time_taken": 2.9
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Next.js full course tutorial for Data Analyst",
+    "gl": "in",
+    "hl": "en"
+  },
+  "search_information": {
+    "total_results": 4592760,
+    "video_results_state": "Results for exact spelling"
+  },
+  "ads_results": [
+    {
+      "position_on_page": 1,
+      "title": "Copilot can help take on complex work in less time.",
+      "link": "https://www.youtube.com/watch?v=O9UkpFWK7W8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=O9UkpFWK7W8",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=C-4tsrkoBa4OlE_HUn88PoZ-K2Qah0vzHigG5ztDhuRawkB8QASAAYMmm2YbIo6AZggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAenqov1DqAMEyAMKqgTdAk_QgRzqnbe2wDT68R9ssmsRYgTUuUJ2lhDx1XwYN3YS6FAo_jFh-62p354vm_n09hVIcYada7yn71ikOEPqYCf2O8roMmYhTL8IVPeCCSu7xHvqyumYH9URG1Icosgit-ec2aznu8WIgMZ4jvIdy7SGS43vRvxPl9NDKTvBvWsTy34jQo_y80CYY86i7GR6wdyGN7jn3jSs5aRYzt9zG1OHNP7hWmeEPcWFEOEQALQCHiMh0UgPtDcD71YrUAztE9eheEYfswJlSP7Om0MdZq1Jry4LreHb8Zso4LfWfDIsNB6R0e7-EcXjNnMG6ekXV0PWcVB24szp0qoAvU9TdJbu-qdAqkz-7c4qvEGMyp90UcyeXgxDLseqxZ5eV9aRIzdoyTbQu92uNSUI0b9wQ2w_Dq-8hzREn2SCfQDqXTDnTkJQ-wSp0S8MT6neEHb4FIEUOA-K4IMxESwhIQCIBbb4muVakgUICBN4z4fngh-gBqEBgAfpovPcHpAHBKgHpc-xAqgH552xAqgH6J2xAqgHg_axAqgH-dOxAqgHydqxAqgHqeCxAqgHqNIbqAex3BuoB7CbsQKoB_2ysQKoB8jPsQKoB8nPsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB57qsQKoB5_qsQKoB_jrsQKoB7zqsQKoB-_xsQKoB_yvsQKoB9XOG6gHvtmxAqgHv9mxAqgHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLTzlVa3BGV0s3VzioCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFiQpKmux5iYA2ABmgk1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9jb3BpbG90L3dvcmsvYnVzaW5lc3OxCcGMjf6UaG4OyAkXyAmPAcgJwgHICZcCugs6CAMQBRgEIAcoATAcQAFIAFh9YABoAHABiAEAmAEBogEICgCoAgHYAgLYAQOAAgGIAgW6AwV2aWRsc9ALEuALAdIMAhAB2gwmCgsQoOmtg-Se2s__ARICAQMaDRi2-JrlWiDItMDu8QVAAUoCEB-aDQESqg0CVVPIDQHSDfYEaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL041NzI2MDguNDEwMTAzNllPVVRVQkVWSUFEVjM2MEFVL0IzNjk5NDkxOC40NjA3MDU2NDI7ZGNfdHJrX2FpZD02NTU1MzIzNDg7ZGNfdHJrX2NpZD0yNjg4NTMyMjM7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBOENqUUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaFFJdHZpYTVWcW9Bcy1INTRJZnNBTEw1UFRyQTBBN0VLSEFfN0lkU2FCaWNuTEpyWEUyc1RSVUlBRmhsdz09O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2x0ZD07ZGNfdGR2PTE7O2RjX3RyYW5zcGFyZW50PTE7ZGNfcnVpPTE7ZGNfZXBzPUFIYXM4Y0R1OEhjR0RpQkV1Z1dmZzhyTFhxQkpKZi03Zkc2WnNiR1VCZWk5WEptMHVhR3NzRW15TV80UlJsTTZnU1M2bU1lUVFpMGNjMVRiUTBfVTBnO2RjX3B1YmlkPTY_aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9jb3BpbG90L3dvcmsvYnVzaW5lc3M_T0NJRD1BSURjbW1sNWFyam96bl9PTEFfMzY5OTQ5MThfNDYwNzA1NjQyXzI2ODg1MzIyMyZzaXRlSUQ9MTA2NTc5NTUmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTI0MzcxNDQ0NzkwsBOZtqUmuBP___________8BiBQBsBQDwBWBgIBA0BUB2BUBqBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF4QGIdHTHExeuhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMIg7SprseYmAMVcernAx2hjyJrEAEYASAAEgIFEPD_BwE&num=1&cid=CAASwgHkaP7AjM8LEVjSNdXid2htCDvLfZqrh7Y9rz6DSfht_GywP7PWg5BZ2KdIiEarTwjwZFHia9hoCBv3sqekTfQq8yxCqVZ29qWmMNmDLOl5mUfjjJGz6oox3-_nh2MlQx1z_quoTumhXBLgC0KYT8JAwy_a332KWpp5wUxHpBVLU4dMgJAin5Bnp9JfYy0KajYwSSGKNjALCSgK_eTX8ycQ3BC-O0hm3i01IUkyFrSD0tUoK4BzsC2p93KqEHppf813eA&ad_cpn=%5BCPN%5D&sig=AOD64_03YRjk5WO4M1iOP9nJCQB2WIEWvw&ctype=110&video_id=O9UkpFWK7W8&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Microsoft Copilot",
+        "thumbnail": "https://yt3.ggpht.com/proxy/QZsKF8uymkSSgcIQLIQR24pXjFAAm9dvPTDfUaFKTKVhufA2nyuKNgKVJ73VlYIcXjZEP9v4jeIWvI_odsUd2vLGbwu2LBXFzREk6wueOsaeosEuFlEckTDTqpmm9hHvSVQiZIKMrYJzz_HqIvZPEstVdqmRJvG1lrA307PP6MnUFR6Utes5ybs3BElWa4CfsoUiaChSBwkQDXJf0MefcdVXul4Z5ziGzUlo9MDI4y5V8ofhmMJC2VZqMKUUHkKMYci6=w68-h68-nd"
+      },
+      "description": "Intelligence Built for Work",
+      "thumbnail": {
+        "static": "https://tpc.googlesyndication.com/simgad/4762556500269628886"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Devour knowledge with Student Spaces",
+      "link": "https://www.youtube.com/watch?v=VdDiEf6YJnQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VdDiEf6YJnQ",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CeOQ_rkoBa4OlE_HUn88PoZ-K2QaXouaPiwGH_-O_vBWwkB8QAyAAYMmm2YbIo6AZggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAbH6_-oCqAMEyAMKqgTqAk_QgRzqnbe2wDT68R9ssmsRYgTUuUJ2lhDx1XwYN3YS6FAo_jFh-62p354vm_n09hVIcYada7yn71ikOEPqYCf2O8roMmYhTL8IVPeCCSu7xHvqyumYH9URG1Icosgit-ec2aznu8WIgMZ4jvIdy7SGS43vRvxPl9NDKTvBvWsTy34jQo_y80CYY86i7GR6wdyGN7jn3jSs5aRYzt9zG1OHNP7hWmeEPcWFEOEQALQCHiMh0UgPtDcD71YrUAztE9eheEYfswJlSP7Om0MdZq1Jry4LreHb8Zso4LfWfDIsNB6R0e7-EcXjNnMG6ekXV0PWcVBu4n93EHgNtU_5bAD3Wf7xufzx7mImpEK0Keq0SWyZRMcTPCHl0jVXLdOvFu3gwmus_KJ2N4eD75nn8ZqRAddsKdXgxGEKtIdWBN72Zkt5461MciCR9zrsPm5t9Htor99j068ppfe0J6SE_AtLOyFf1GOp8paJiAXm0O-tWJIFCAgTePrNn5UBoAahAYAHt4WAlQGQBwSoB6XPsQKoB-edsQKoB-idsQKoB4P2sQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAee6rECqAef6rECqAf467ECqAe86rECqAfv8bECqAf8r7ECqAfVzhuoB77ZsQKoB7_ZsQKoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC1ZkRGlFZjZZSm5RqAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAGEjZoNI1UBRYkKSprseYmANgAZoJLGh0dHBzOi8vYWNyb2JhdC5hZG9iZS5jb20vc3R1ZGVudHNwYWNlcy9ob21lsQmBsBAnPS2pYcgJF8gJjwHICcIBugs6CAMQBRgEIAcoATAcQAFIAFh9YABoAHABiAEAmAEBogEICgCoAgHYAgLYAQOAAgGIAhK6AwV2aWRsc9ALE-ALAaIMH2IYChZjb20uYWRvYmUuZWNob3NpZ24uaW9zeACIAQDSDAIQAdoMJQoKEMCF2p3HgrnsdRICAQMaDRjm0O-tWCD37evl0wVAAUoCEB-aDQETqg0CVVPIDQHSDekEaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL045NzI5NTIuMjc5MzgyQklETUFOQUdFUl9ERkFTSVRFL0IyMjM0NDQxMy4yNDE1MzkzMjE7ZGNfdHJrX2FpZD00MzgxMjg2MjI7ZGNfdHJrX2NpZD0xMTI4ODQ2MTM7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBNkNqTUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaE1JNXREdnJWaW9Bc080OUFHd0FzeVc0dWtEUURzUWwtZTZBYXBTbzNMajY5SHFtUlNHRDdObEp0Yz07ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTtkY190cmFuc3BhcmVudD0xO2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNBMkYtdHBhd2NET3FBSHpBdk5IZ1BjUkxSaVFFTFM1YnVVYkJSc00yemlpc1JCYy1WSjRJQXRUMmhkdnNnUVRad3Z4TlJkcmxNV3lMYmNGdztkY19wdWJpZD02P2h0dHBzOi8vYWNyb2JhdC5hZG9iZS5jb20vc3R1ZGVudHNwYWNlcy9ob21lP3NkaWQ9VjZOWktDUzYmbXY9c29jaWFsJm12Mj1wYWlkc29jJnhfYXBpX2NsaWVudF9pZD1wYWlkbWVkaWEmeF9hcGlfY2xpZW50X2xvY2F0aW9uPWFkc19WNk5aS0NTNiZnYWRfc291cmNlPTKwE9fdwSa4E____________wGIFAiwFAPAFYGAgEDQFQHYFQGYFgGoFgGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF1e_wgIaPhjwuhcGKAAwADgB0BgB8BgB&ase=2&gclid=EAIaIQobChMIg7SprseYmAMVcernAx2hjyJrEAEYAyAAEgL-kPD_BwE&num=3&cid=CAASwgHkaP7AjM8LEVjSNdXid2htCDvLfZqrh7Y9rz6DSfht_GywP7PWg5BZ2KdIiEarTwjwZFHia9hoCBv3sqekTfQq8yxCqVZ29qWmMNmDLOl5mUfjjJGz6oox3-_nh2MlQx1z_quoTumhXBLgC0KYT8JAwy_a332KWpp5wUxHpBVLU4dMgJAin5Bnp9JfYy0KajYwSSGKNjALCSgK_eTX8ycQ3BC-O0hm3i01IUkyFrSD0tUoK4BzsC2p93KqEHppf813eA&ad_cpn=%5BCPN%5D&sig=AOD64_0IJd1NA6b4xdseutOFK0zzZXAr5w&ctype=110&video_id=VdDiEf6YJnQ&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Adobe",
+        "thumbnail": "https://yt3.ggpht.com/proxy/MOuz2I13I1fAnFfngtXtL_W4we9dtMgr0pZOHx9ZvXrWe0TzDLTj2mq2_seyh8bAOYiFhihUkC0bcCbQ2Rr3ROUyAm-g7fKx7ikqVy2aYwv8ap82JEQltB0uNj5JlrrMcTbQ-wFlNo0DfytWwYBrrCyx4-VnwgCwx-dn0fy6KEEwJzLjssuJHIvXA-MdWMvBvChh3bzxW7-sQCuvX2mDwrBOQUGt_eZzMbPzNL_oO6Ke1vjjr2458wPYmALVc80eUKLvvs8=w68-h68-nd"
+      },
+      "description": "Student Spaces is a smarter way to study. Free for students.",
+      "thumbnail": {
+        "static": "https://tpc.googlesyndication.com/simgad/16682586792110191416"
+      }
+    }
+  ],
+  "playlist_results": [
+    {
+      "position_on_page": 2,
+      "title": "Next.js 15 Tutorial - Beginner to Advanced",
+      "link": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY",
+      "channel": {
+        "name": "Codevolution",
+        "channel_id": "UC80PWRj_ZU8Zu0HSMNVwKWw",
+        "link": "https://www.youtube.com/@Codevolution"
+      },
+      "videos": [
+        {
+          "title": "Next.js 15 Tutorial - 1 - Introduction",
+          "length": "4:16",
+          "link": "https://www.youtube.com/watch?v=b4ba60j_4o8&list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY"
+        },
+        {
+          "title": "Next.js 15 Tutorial - 2 - Hello World",
+          "length": "3:12",
+          "link": "https://www.youtube.com/watch?v=xiSuX0f1mEI&list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY"
+        }
+      ],
+      "video_count": 92,
+      "thumbnail": "https://i.ytimg.com/vi/b4ba60j_4o8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC6PRSrs92k4XnghRTgyaPVh6nYlw"
+    },
+    {
+      "position_on_page": 3,
+      "title": "Next.js Tutorial for Beginners",
+      "link": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw",
+      "channel": {
+        "name": "Net Ninja",
+        "channel_id": "UCW5YeuERMmlnqo4oq8vwUpg",
+        "link": "https://www.youtube.com/@NetNinja"
+      },
+      "videos": [
+        {
+          "title": "Next.js Tutorial #1 - Introduction & Setup",
+          "length": "8:43",
+          "link": "https://www.youtube.com/watch?v=A63UxsQsEbU&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw"
+        },
+        {
+          "title": "Next.js Tutorial #2 - Pages & Routes",
+          "length": "5:03",
+          "link": "https://www.youtube.com/watch?v=zktJ8-k0JDc&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw"
+        }
+      ],
+      "video_count": 14,
+      "thumbnail": "https://i.ytimg.com/vi/A63UxsQsEbU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBzE-_UHg32q9m5Ozanm_9GWQd79g"
+    },
+    {
+      "position_on_page": 4,
+      "title": "Next.js Tutorials for Beginners",
+      "link": "https://www.youtube.com/playlist?list=PL0Zuz27SZ-6Pk-QJIdGd1tGZEzy9RTgtj",
+      "channel": {
+        "name": "Dave Gray",
+        "channel_id": "UCY38RvRIxYODO4penyxUwTg",
+        "link": "https://www.youtube.com/@DaveGrayTeachesCode"
+      },
+      "videos": [
+        {
+          "title": "Next.js Tutorial for Beginners | Next.js 13",
+          "length": "16:44",
+          "link": "https://www.youtube.com/watch?v=6h649f2fB9Q&list=PL0Zuz27SZ-6Pk-QJIdGd1tGZEzy9RTgtj"
+        },
+        {
+          "title": "Next.js Pages, Layout, Links, Routes & Loading | Next.js 13 tutorial",
+          "length": "24:42",
+          "link": "https://www.youtube.com/watch?v=vuznUqirz5I&list=PL0Zuz27SZ-6Pk-QJIdGd1tGZEzy9RTgtj"
+        }
+      ],
+      "video_count": 55,
+      "thumbnail": "https://i.ytimg.com/vi/6h649f2fB9Q/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDxHmnCfUY53ZS_RXCCFEnNb240iQ"
+    },
+    {
+      "position_on_page": 5,
+      "title": "NextJS Master Course",
+      "link": "https://www.youtube.com/playlist?list=PLinedj3B30sDP2CHN5P0lDD64yYZ0Nn4J",
+      "channel": {
+        "name": "Piyush Garg",
+        "channel_id": "UCf9T51_FmMlfhiGpoes0yFA",
+        "link": "https://www.youtube.com/@piyushgargdev"
+      },
+      "videos": [
+        {
+          "title": "What is NextJS | NextJS in Hindi",
+          "length": "7:43",
+          "link": "https://www.youtube.com/watch?v=PiN5Op_Lnmw&list=PLinedj3B30sDP2CHN5P0lDD64yYZ0Nn4J"
+        },
+        {
+          "title": "Setting up NextJS Project | NextJS in Hindi",
+          "length": "11:15",
+          "link": "https://www.youtube.com/watch?v=F2aBPzonYHE&list=PLinedj3B30sDP2CHN5P0lDD64yYZ0Nn4J"
+        }
+      ],
+      "video_count": 17,
+      "thumbnail": "https://i.ytimg.com/vi/PiN5Op_Lnmw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAbmyKtgTH9_tlxx_UUNALqhxqx3A"
+    },
+    {
+      "position_on_page": 8,
+      "title": "Next.js Tutorial for Beginners",
+      "link": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH",
+      "channel": {
+        "name": "Codevolution",
+        "channel_id": "UC80PWRj_ZU8Zu0HSMNVwKWw",
+        "link": "https://www.youtube.com/@Codevolution"
+      },
+      "videos": [
+        {
+          "title": "Next.js Tutorial - 1 - Introduction",
+          "length": "6:46",
+          "link": "https://www.youtube.com/watch?v=9P8mASSREYM&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH"
+        },
+        {
+          "title": "Next.js Tutorial - 2 - Hello World",
+          "length": "3:29",
+          "link": "https://www.youtube.com/watch?v=RY6B7JSBRRg&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH"
+        }
+      ],
+      "video_count": 79,
+      "thumbnail": "https://i.ytimg.com/vi/9P8mASSREYM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCELNjUrX25pp7sjeNg_vp09j2oAg"
+    },
+    {
+      "position_on_page": 9,
+      "title": "Next.js Full Course 2026 | Full Course with App Router, SEO & Deployment - React to Next.js Step-by-Step",
+      "link": "https://www.youtube.com/playlist?list=PLsjpRo2EZP1IThXeCNj_QBG8hWQu7YpSK",
+      "channel": {
+        "name": "Mohit Decodes",
+        "channel_id": "UC00Ni0CJFFLpaPf3lyHx5NA",
+        "link": "https://www.youtube.com/@MohitDecodes"
+      },
+      "videos": [
+        {
+          "title": "NextJS Tutorial #1 - Introduction | NextJS vs ReactJS",
+          "length": "7:54",
+          "link": "https://www.youtube.com/watch?v=TzRJZlkGKVc&list=PLsjpRo2EZP1IThXeCNj_QBG8hWQu7YpSK&pp=0gcJCRYF0aJEHMZM"
+        },
+        {
+          "title": "NextJS Tutorial #2 - Rendering User Interfaces | JSX",
+          "length": "8:10",
+          "link": "https://www.youtube.com/watch?v=CCy8Ke_VwW0&list=PLsjpRo2EZP1IThXeCNj_QBG8hWQu7YpSK"
+        }
+      ],
+      "video_count": 52,
+      "thumbnail": "https://i.ytimg.com/vi/TzRJZlkGKVc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDPBoHA4JxEVpw0DFQYaIgb2RxNQg"
+    },
+    {
+      "position_on_page": 11,
+      "title": "Next.js Tutorial - Beginner to Advanced",
+      "link": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI",
+      "channel": {
+        "name": "Codevolution",
+        "channel_id": "UC80PWRj_ZU8Zu0HSMNVwKWw",
+        "link": "https://www.youtube.com/@Codevolution"
+      },
+      "videos": [
+        {
+          "title": "Next.js 14 Tutorial - 1 - Introduction",
+          "length": "5:06",
+          "link": "https://www.youtube.com/watch?v=ZjAqacIC_3c&list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI"
+        },
+        {
+          "title": "Next.js 14 Tutorial - 2 - Hello World",
+          "length": "3:21",
+          "link": "https://www.youtube.com/watch?v=kVddMV-TrSw&list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI"
+        }
+      ],
+      "video_count": 72,
+      "thumbnail": "https://i.ytimg.com/vi/ZjAqacIC_3c/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBmy6m4sL0DwPHSxjBC8LEzl3lU_A"
+    },
+    {
+      "position_on_page": 12,
+      "title": "Next.JS Full Course Tutorial in Hindi",
+      "link": "https://www.youtube.com/playlist?list=PLwGdqUZWnOp0lwvSBaIzzgV9X0ZiZ-42O",
+      "channel": {
+        "name": "Thapa Technical",
+        "channel_id": "UCwfaAHy4zQUb2APNOGXUCCA",
+        "link": "https://www.youtube.com/@ThapaTechnical"
+      },
+      "videos": [
+        {
+          "title": "#1: Next.JS v15 Tutorial in Hindi 2025🔥Next.JS Introduction & Prerequisites to Learn Next JS",
+          "length": "12:15",
+          "link": "https://www.youtube.com/watch?v=1I6Ta_cL7p8&list=PLwGdqUZWnOp0lwvSBaIzzgV9X0ZiZ-42O"
+        },
+        {
+          "title": "Next.JS Tutorial in Hindi #2: Install Next.js & First App Explained!",
+          "length": "9:49",
+          "link": "https://www.youtube.com/watch?v=2VUPqRLpVVE&list=PLwGdqUZWnOp0lwvSBaIzzgV9X0ZiZ-42O"
+        }
+      ],
+      "video_count": 53,
+      "thumbnail": "https://i.ytimg.com/vi/1I6Ta_cL7p8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDVnSRMvGgUFe_fQvVq3lpBWqaPSQ"
+    },
+    {
+      "position_on_page": 14,
+      "title": "Chai aur full stack NextJS",
+      "link": "https://www.youtube.com/playlist?list=PLu71SKxNbfoBAaWGtn9GA2PTw0HO0tXzq",
+      "channel": {
+        "name": "Chai aur Code",
+        "channel_id": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "link": "https://www.youtube.com/@chaiaurcode"
+      },
+      "videos": [
+        {
+          "title": "Complete full stack freelance ready course",
+          "length": "12:17",
+          "link": "https://www.youtube.com/watch?v=OgS1ZWZItno&list=PLu71SKxNbfoBAaWGtn9GA2PTw0HO0tXzq"
+        },
+        {
+          "title": "Mastering ZOD for validation in Nextjs",
+          "length": "41:14",
+          "link": "https://www.youtube.com/watch?v=g1iqZpXklnY&list=PLu71SKxNbfoBAaWGtn9GA2PTw0HO0tXzq"
+        }
+      ],
+      "video_count": 17,
+      "thumbnail": "https://i.ytimg.com/vi/OgS1ZWZItno/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD0B6G5F5kz63EkAn9G-Z49dR16PQ"
+    },
+    {
+      "position_on_page": 17,
+      "title": "Next.js Tutorials for Beginners in Hindi",
+      "link": "https://www.youtube.com/playlist?list=PLu0W_9lII9agtWvR_TZdb_r0dNI8-lDwG",
+      "channel": {
+        "name": "CodeWithHarry",
+        "channel_id": "UCeVMnSShP_Iviwkknt83cww",
+        "link": "https://www.youtube.com/@CodeWithHarry"
+      },
+      "videos": [
+        {
+          "title": "Introduction to Next.js | NextJs Tutorial for Beginners #1",
+          "length": "8:31",
+          "link": "https://www.youtube.com/watch?v=DZKOunP-WLQ&list=PLu0W_9lII9agtWvR_TZdb_r0dNI8-lDwG"
+        },
+        {
+          "title": "Our first Next.js website | NextJs Tutorial for Beginners #2",
+          "length": "21:04",
+          "link": "https://www.youtube.com/watch?v=ne_h515wcv4&list=PLu0W_9lII9agtWvR_TZdb_r0dNI8-lDwG"
+        }
+      ],
+      "video_count": 79,
+      "thumbnail": "https://i.ytimg.com/vi/DZKOunP-WLQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCW8QeBwE_C296jNu6A2HMDFXvXHA"
+    },
+    {
+      "position_on_page": 18,
+      "title": "Next js tutorial in Hindi",
+      "link": "https://www.youtube.com/playlist?list=PL8p2I9GklV44sj_Ikp8jQSvwD-m9htnHT",
+      "channel": {
+        "name": "Code Step By Step",
+        "channel_id": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "link": "https://www.youtube.com/@codestepbystep"
+      },
+      "videos": [
+        {
+          "title": "Next JS tutorial in Hindi #1 What is Next.js | Introduction",
+          "length": "6:42",
+          "link": "https://www.youtube.com/watch?v=YIqLzP0sVdc&list=PL8p2I9GklV44sj_Ikp8jQSvwD-m9htnHT"
+        },
+        {
+          "title": "Pay After Placement Program for Job | Sharpener Tech",
+          "length": "0:36",
+          "link": "https://www.youtube.com/watch?v=62qemXJfqy0&list=PL8p2I9GklV44sj_Ikp8jQSvwD-m9htnHT"
+        }
+      ],
+      "video_count": 76,
+      "thumbnail": "https://i.ytimg.com/vi/YIqLzP0sVdc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD91PY6Y8gigSnmr5fgQwSGlci-cg"
+    },
+    {
+      "position_on_page": 20,
+      "title": "Master Next.js by Building Real Apps",
+      "link": "https://www.youtube.com/playlist?list=PL6QREj8te1P7gixBDSU8JLvQndTEEX3c3",
+      "channel": {
+        "name": "JavaScript Mastery",
+        "channel_id": "UCmXmlB4-HJytD7wek0Uo97A",
+        "link": "https://www.youtube.com/@javascriptmastery"
+      },
+      "videos": [
+        {
+          "title": "Next.js Full Course 2024 | Build and Deploy a Full Stack App Using the Official React Framework",
+          "length": "3:26:29",
+          "link": "https://www.youtube.com/watch?v=wm5gMKuwSYk&list=PL6QREj8te1P7gixBDSU8JLvQndTEEX3c3"
+        },
+        {
+          "title": "Next.js isn't React",
+          "length": "17:11",
+          "link": "https://www.youtube.com/watch?v=r8nXMA_pf0w&list=PL6QREj8te1P7gixBDSU8JLvQndTEEX3c3"
+        }
+      ],
+      "video_count": 18,
+      "thumbnail": "https://i.ytimg.com/vi/wm5gMKuwSYk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBJDP16sFJYjrI0L_eNqturNoq4XQ"
+    },
+    {
+      "position_on_page": 22,
+      "title": "The Complete Next.js Course",
+      "link": "https://www.youtube.com/playlist?list=PLfEr2kn3s-bpXj_TMONjRwasyjiFgEwj0",
+      "channel": {
+        "name": "Anurag Singh ProCodrr",
+        "channel_id": "UCbK5xfFYH99Hu2pl4CBarNg",
+        "link": "https://www.youtube.com/@procodrr"
+      },
+      "videos": [
+        {
+          "title": "Next.js Full-Stack Course Launch | Next.js 15",
+          "length": "4:34",
+          "link": "https://www.youtube.com/watch?v=yQhPWGzQZYQ&list=PLfEr2kn3s-bpXj_TMONjRwasyjiFgEwj0"
+        },
+        {
+          "title": "Complete Next.js Course Overview | In-Depth Curriculum Walkthrough | Next.js 15",
+          "length": "10:17",
+          "link": "https://www.youtube.com/watch?v=7tbMNvWSXqU&list=PLfEr2kn3s-bpXj_TMONjRwasyjiFgEwj0"
+        }
+      ],
+      "video_count": 88,
+      "thumbnail": "https://i.ytimg.com/vi/yQhPWGzQZYQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBB-Hs8ZTzK82SVRzRLM5eoesyaYw"
+    }
+  ],
+  "video_results": [
+    {
+      "position_on_page": 7,
+      "title": "Next js Tutorial for Beginners | Nextjs 13 (App Router) with TypeScript",
+      "link": "https://www.youtube.com/watch?v=ZVnjOPwW4ZA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ZVnjOPwW4ZA",
+      "video_id": "ZVnjOPwW4ZA",
+      "channel": {
+        "name": "Programming with Mosh",
+        "channel_id": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "link": "https://www.youtube.com/@programmingwithmosh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 1398405,
+      "length": "1:02:55",
+      "description": "Master Next.js 13 and build amazing full-stack apps! This beginner-friendly tutorial covers the new App Router, TypeScript, and ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ZVnjOPwW4ZA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLWz91sunYRZ4MmKxOVgnJ_P03Lg",
+        "rich": "https://i.ytimg.com/an_webp/ZVnjOPwW4ZA/mqdefault_6s.webp?du=3000&sqp=CJD_hNgG&rs=AOn4CLBmFY-uR4-t7r8bT5d0aFQjUa7HSQ"
+      },
+      "chapters": [
+        {
+          "title": "Course Intro",
+          "thumbnail": "https://i.ytimg.com/vi/ZVnjOPwW4ZA/hqdefault_24966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDRh0KQ8Ulkvnr-H4c_aXuMDyGAw",
+          "time_start": 0
+        },
+        {
+          "title": "Prerequisites",
+          "thumbnail": "https://i.ytimg.com/vi/ZVnjOPwW4ZA/hqdefault_132066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUuRi-dWHdElxFSJpBvedzwAwSiQ",
+          "time_start": 132
+        },
+        {
+          "title": "Next.js Fundamentals",
+          "thumbnail": "https://i.ytimg.com/vi/ZVnjOPwW4ZA/hqdefault_222933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByJ0JfzIwgAGyiT6pn7ooqxNE02A",
+          "time_start": 196
+        },
+        {
+          "title": "What is Next.js?",
+          "thumbnail": "https://i.ytimg.com/vi/ZVnjOPwW4ZA/hqdefault_238866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCj2TSOm_qTooYqq296uBpxTI6SbQ",
+          "time_start": 234
+        },
+        {
+          "title": "Setting Up the Development Environment",
+          "thumbnail": "https://i.ytimg.com/vi/ZVnjOPwW4ZA/hqdefault_395866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTKxzNrSrRNNf4Iz2N2UidaB2HPQ",
+          "time_start": 394
+        },
+        {
+          "title": "Creating Your First Next.js Project",
+          "thumbnail": "https://i.ytimg.com/vi/ZVnjOPwW4ZA/hqdefault_479833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5rSraPWexwOCQWKPIz0GiGndfDg",
+          "time_start": 479
+        },
+        {
+          "title": "Project Structure",
+          "thumbnail": "https://i.ytimg.com/vi/ZVnjOPwW4ZA/hqdefault_623266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBT_pzMIpmmMdfM5u4CDfsTfrS3vw",
+          "time_start": 621
+        },
+        {
+          "title": "Routing and Navigation",
+          "thumbnail": "https://i.ytimg.com/vi/ZVnjOPwW4ZA/hqdefault_790766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRQI4icmSoZ4GZ345hGMmRmVfGGA",
+          "time_start": 790
+        },
+        {
+          "title": "Client and Server Components",
+          "thumbnail": "https://i.ytimg.com/vi/ZVnjOPwW4ZA/hqdefault_1106233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9H9ZjgEF8X34om4xm255azz26uQ",
+          "time_start": 1105
+        },
+        {
+          "title": "Data Fetching",
+          "thumbnail": "https://i.ytimg.com/vi/ZVnjOPwW4ZA/hqdefault_1644200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyZIsRdBWIBD9lnm9sX-qPWux20Q",
+          "time_start": 1639
+        },
+        {
+          "title": "Caching",
+          "thumbnail": "https://i.ytimg.com/vi/ZVnjOPwW4ZA/hqdefault_2008133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDLRFt2BiH9WdFqmsOvr03rm8zRA",
+          "time_start": 2003
+        },
+        {
+          "title": "Static and Dynamic Rendering",
+          "thumbnail": "https://i.ytimg.com/vi/ZVnjOPwW4ZA/hqdefault_2149100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFf9VrbWWmHW82L5GjhpRhawq0Ug",
+          "time_start": 2148
+        },
+        {
+          "title": "Styling Next.js Applications",
+          "thumbnail": "https://i.ytimg.com/vi/ZVnjOPwW4ZA/hqdefault_2415100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMnBdfVo7H7g7baWCRXw8GJx_eKw",
+          "time_start": 2396
+        },
+        {
+          "title": "Global Styles",
+          "thumbnail": "https://i.ytimg.com/vi/ZVnjOPwW4ZA/hqdefault_2418966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAov7b2yFOmTGxB_NAwjVtNXVBcfA",
+          "time_start": 2416
+        },
+        {
+          "title": "CSS Modules",
+          "thumbnail": "https://i.ytimg.com/vi/ZVnjOPwW4ZA/hqdefault_2575000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYtrO8t83TSqd-uhMLmEVoA8_urA",
+          "time_start": 2570
+        },
+        {
+          "title": "Tailwind CSS",
+          "thumbnail": "https://i.ytimg.com/vi/ZVnjOPwW4ZA/hqdefault_2840033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaSxBFRznR2IruY2UZ_pM6zLMpiw",
+          "time_start": 2837
+        },
+        {
+          "title": "DaisyUI",
+          "thumbnail": "https://i.ytimg.com/vi/ZVnjOPwW4ZA/hqdefault_3299866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABO5-5ueVjk8DCDJVsrq7tv_bU4Q",
+          "time_start": 3296
+        }
+      ]
+    },
+    {
+      "position_on_page": 10,
+      "title": "My Biggest Tutorial Ever (Build A FULL Google Drive Clone with React, Next, TypeScript and more)",
+      "link": "https://www.youtube.com/watch?v=c-hKSbzooAg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=c-hKSbzooAg",
+      "video_id": "c-hKSbzooAg",
+      "channel": {
+        "name": "Theo - t3․gg",
+        "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
+        "link": "https://www.youtube.com/@theo",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/Y6jut5A-dhWRlv7W81kGxVFPtZGjZN97IhBP75uLnx2AVV7ZEJUUUxBKHlFw9GcwILxkz1E_cLc=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 284648,
+      "length": "3:27:34",
+      "description": "What a journey this one was. I thought I picked a \"reasonable\" task with a Google Drive clone...nope. IMPORTANT LINKS: UI ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/c-hKSbzooAg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3LmOCIYk3l8nQsF7-gG3tfdrq3w",
+        "rich": "https://i.ytimg.com/an_webp/c-hKSbzooAg/mqdefault_6s.webp?du=3000&sqp=CPD0hNgG&rs=AOn4CLCqHURUysAa-hbXn7Ud06eHU0B4wA"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/c-hKSbzooAg/hqdefault_29233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAE79Vzj75JUwQisWuZEQsWcAhUhQ",
+          "time_start": 0
+        },
+        {
+          "title": "Init",
+          "thumbnail": "https://i.ytimg.com/vi/c-hKSbzooAg/hqdefault_143833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzsoJ2YVpHrpOUAKUsT03ZAcEF5w",
+          "time_start": 123
+        },
+        {
+          "title": "UI scaffolding",
+          "thumbnail": "https://i.ytimg.com/vi/c-hKSbzooAg/hqdefault_470833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSOQIhyUpCjmLm_RxA872-r5WUJQ",
+          "time_start": 446
+        },
+        {
+          "title": "CI/CD and deployment",
+          "thumbnail": "https://i.ytimg.com/vi/c-hKSbzooAg/hqdefault_764866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCz2nEJnwITVDLkm-G5aWgfRZ1MrQ",
+          "time_start": 743
+        },
+        {
+          "title": "Database setup (with SingleStore)",
+          "thumbnail": "https://i.ytimg.com/vi/c-hKSbzooAg/hqdefault_1384233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFl0UCpj-vjyAbW_HtujoDGujjXA",
+          "time_start": 1378
+        },
+        {
+          "title": "Database schema and table creation",
+          "thumbnail": "https://i.ytimg.com/vi/c-hKSbzooAg/hqdefault_3200200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLQ8l5FOkhWZH9JleqrjvMJQytCg",
+          "time_start": 3184
+        },
+        {
+          "title": "Connecting the UI to the database",
+          "thumbnail": "https://i.ytimg.com/vi/c-hKSbzooAg/hqdefault_4120800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBru_JI7qanje5hy_JP15u-y_P0g",
+          "time_start": 4098
+        },
+        {
+          "title": "Fixing breadcrumbs",
+          "thumbnail": "https://i.ytimg.com/vi/c-hKSbzooAg/hqdefault_5490200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5Nc3LzAbsXa-_xYlaginBc1NIYg",
+          "time_start": 5482
+        },
+        {
+          "title": "Tidying up data layer",
+          "thumbnail": "https://i.ytimg.com/vi/c-hKSbzooAg/hqdefault_6004233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfVZWhfq_pJcBqi9xBN0v9k6p5FA",
+          "time_start": 5988
+        },
+        {
+          "title": "Authentication (with Clerk)",
+          "thumbnail": "https://i.ytimg.com/vi/c-hKSbzooAg/hqdefault_6586133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEhGTxFsUJ7R6nGdO4z5VAcO2Rrg",
+          "time_start": 6570
+        },
+        {
+          "title": "File uploads (with UploadThing)",
+          "thumbnail": "https://i.ytimg.com/vi/c-hKSbzooAg/hqdefault_7400133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOpujywj7ucFkmZneo2bS3PfoL4g",
+          "time_start": 7375
+        },
+        {
+          "title": "Modeling files in DB",
+          "thumbnail": "https://i.ytimg.com/vi/c-hKSbzooAg/hqdefault_8628000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsUtC2LEVdOSJAiVcgkybYzAJ_kg",
+          "time_start": 8619
+        },
+        {
+          "title": "Analytics (with Posthog)",
+          "thumbnail": "https://i.ytimg.com/vi/c-hKSbzooAg/hqdefault_9662066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhspcXsjgn0JFJY9h0NhYQb_qn4A",
+          "time_start": 9646
+        },
+        {
+          "title": "General tidying up",
+          "thumbnail": "https://i.ytimg.com/vi/c-hKSbzooAg/hqdefault_10734066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKEXmCunlc32l9trU_HdG07AyL1w",
+          "time_start": 10720
+        },
+        {
+          "title": "Home page and onboarding flows",
+          "thumbnail": "https://i.ytimg.com/vi/c-hKSbzooAg/hqdefault_11463966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVND1Nw7iD9iKppgXd5VeElkpUFA",
+          "time_start": 11449
+        },
+        {
+          "title": "Homework",
+          "thumbnail": "https://i.ytimg.com/vi/c-hKSbzooAg/hqdefault_12243900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgkzcVdBFRyL-tsy5QHYhViYrHJQ",
+          "time_start": 12233
+        },
+        {
+          "title": "Outro",
+          "thumbnail": "https://i.ytimg.com/vi/c-hKSbzooAg/hqdefault_12421866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2E34mk2Hc8XY_za3rDrRrsMHSBg",
+          "time_start": 12411
+        }
+      ]
+    },
+    {
+      "position_on_page": 13,
+      "title": "Next.js Tutorial 2026 (UPDATED) - Full Course - Start Your Next.js Journey Here",
+      "link": "https://www.youtube.com/watch?v=jZInNd6djz4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=jZInNd6djz4",
+      "video_id": "jZInNd6djz4",
+      "channel": {
+        "name": "ByteGrad",
+        "channel_id": "UCf6AGqO98eGk11nfazociVQ",
+        "link": "https://www.youtube.com/@ByteGrad",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/sCzTrM7ozIznC0TQjQFg6f4VQpuOFJC7pcZWAQsK4CI4EdaPvqFCJ7tXnQUfnGmcJc-I9UGFGAU=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5mo ago",
+      "views": 122440,
+      "length": "1:28:23",
+      "description": "Kinde $50 credit for auth and more: https://www.kinde.com/r/?kinde_ref=e95bc6f8f17eda7c (sponsored) Hostinger VPS (use ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/jZInNd6djz4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTBydpQmO3hcYehb5m6cbovcfXNA",
+        "rich": "https://i.ytimg.com/an_webp/jZInNd6djz4/mqdefault_6s.webp?du=3000&sqp=CL7thNgG&rs=AOn4CLDZ5R6-66ESO8TKzbAEHaBsUYvIbQ"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/jZInNd6djz4/hqdefault_23966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnJvGU_w_YO8MTE62w6Rk7W_0nPA",
+          "time_start": 0
+        },
+        {
+          "title": "Next.js overview",
+          "thumbnail": "https://i.ytimg.com/vi/jZInNd6djz4/hqdefault_146866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNpynBhdszWWSlj7s8K-G68F4Slw",
+          "time_start": 117
+        },
+        {
+          "title": "Create a new Next.js app",
+          "thumbnail": "https://i.ytimg.com/vi/jZInNd6djz4/hqdefault_324866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCR1g_PawjAe2BdsM2BgybgcE3jOg",
+          "time_start": 299
+        },
+        {
+          "title": "Fresh app lookaround",
+          "thumbnail": "https://i.ytimg.com/vi/jZInNd6djz4/hqdefault_364800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqxTDhGXHqnX3-175F764JtOiEIg",
+          "time_start": 358
+        },
+        {
+          "title": "AI updates in Next.js",
+          "thumbnail": "https://i.ytimg.com/vi/jZInNd6djz4/hqdefault_582866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9qN0I7RM3pT5eBrO4oLfZWcjc9A",
+          "time_start": 582
+        },
+        {
+          "title": "Build a Next.js blog app",
+          "thumbnail": "https://i.ytimg.com/vi/jZInNd6djz4/hqdefault_837333.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7UlUHknH6zvQtynm81mUE4_7h8Q",
+          "time_start": 837
+        },
+        {
+          "title": "Routing",
+          "thumbnail": "https://i.ytimg.com/vi/jZInNd6djz4/hqdefault_1070266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQFBD2cCxEeYTEzEqMiWnvz3lzRw",
+          "time_start": 1049
+        },
+        {
+          "title": "Link component",
+          "thumbnail": "https://i.ytimg.com/vi/jZInNd6djz4/hqdefault_1073166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAX4n4YRxQ3W8O5uU8Y4uFX-cbeAA",
+          "time_start": 1072
+        },
+        {
+          "title": "Image component",
+          "thumbnail": "https://i.ytimg.com/vi/jZInNd6djz4/hqdefault_1237766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoS0zuhxUkxGyUf_ux6EA-uVvZQA",
+          "time_start": 1221
+        },
+        {
+          "title": "Data fetching in Server Components",
+          "thumbnail": "https://i.ytimg.com/vi/jZInNd6djz4/hqdefault_1436166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCY1xmunXwxhFg8dTJg10Z3raCA8w",
+          "time_start": 1409
+        },
+        {
+          "title": "Dynamic routes, params and search params",
+          "thumbnail": "https://i.ytimg.com/vi/jZInNd6djz4/hqdefault_1604200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmk-1V-rNMqjcPW2tGcZztBPC6OQ",
+          "time_start": 1590
+        },
+        {
+          "title": "notFound, loading and error files",
+          "thumbnail": "https://i.ytimg.com/vi/jZInNd6djz4/hqdefault_1913166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIdNiMBPe-pFBuINT4uRaG0lpPYw",
+          "time_start": 1899
+        },
+        {
+          "title": "Database fetching with Prisma",
+          "thumbnail": "https://i.ytimg.com/vi/jZInNd6djz4/hqdefault_2030033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5JVBrzMzX4kp5ZSKoAYbbYY7K-A",
+          "time_start": 2007
+        },
+        {
+          "title": "Caching",
+          "thumbnail": "https://i.ytimg.com/vi/jZInNd6djz4/hqdefault_2205000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOrRaNyL-jjXCrQ7pFu9SpWFSL7w",
+          "time_start": 2192
+        },
+        {
+          "title": "Production build",
+          "thumbnail": "https://i.ytimg.com/vi/jZInNd6djz4/hqdefault_2239033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXivQ3b46dvVa9jRcSqG2kDcH_lg",
+          "time_start": 2221
+        },
+        {
+          "title": "SSG / Static rendering",
+          "thumbnail": "https://i.ytimg.com/vi/jZInNd6djz4/hqdefault_2308000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsgTi17rrI6gzuaYct9BvSxW0J3w",
+          "time_start": 2278
+        },
+        {
+          "title": "SSR / Dynamic rendering",
+          "thumbnail": "https://i.ytimg.com/vi/jZInNd6djz4/hqdefault_2379966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzet2uyanzEK5mrZNJ4_oc-XQgqw",
+          "time_start": 2359
+        },
+        {
+          "title": "Suspense and streaming",
+          "thumbnail": "https://i.ytimg.com/vi/jZInNd6djz4/hqdefault_2648933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZWqmeW3j4O0SarHhz1zCRWMUHcg",
+          "time_start": 2636
+        },
+        {
+          "title": "PPR / Partial Prerendering",
+          "thumbnail": "https://i.ytimg.com/vi/jZInNd6djz4/hqdefault_2739933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEjuv3wXrQsSDaIWn4u4-wBjiWQQ",
+          "time_start": 2732
+        },
+        {
+          "title": "Cache Components",
+          "thumbnail": "https://i.ytimg.com/vi/jZInNd6djz4/hqdefault_2898833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpZj8XfZmJFVV13-Ago5gnJfTQyg",
+          "time_start": 2875
+        },
+        {
+          "title": "Server Actions",
+          "thumbnail": "https://i.ytimg.com/vi/jZInNd6djz4/hqdefault_3153800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHQXWY99X-rp36Yu2hq1S-LgCcdQ",
+          "time_start": 3128
+        },
+        {
+          "title": "Revalidation / cache invalidation",
+          "thumbnail": "https://i.ytimg.com/vi/jZInNd6djz4/hqdefault_3589866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYdSFKWcaJIYZLfkw0C_sJC8szjA",
+          "time_start": 3577
+        },
+        {
+          "title": "Route Handlers / API endpoints",
+          "thumbnail": "https://i.ytimg.com/vi/jZInNd6djz4/hqdefault_3698200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNjk1uEq-hgufJVM2FJg7J0EdU-w",
+          "time_start": 3694
+        },
+        {
+          "title": "Client Components",
+          "thumbnail": "https://i.ytimg.com/vi/jZInNd6djz4/hqdefault_3885300.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCevqtIUaLwKH3jcP0jr31v5Qq23g",
+          "time_start": 3863
+        },
+        {
+          "title": "Deploying Next.js",
+          "thumbnail": "https://i.ytimg.com/vi/jZInNd6djz4/hqdefault_4295233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDq_5_VtmZBa8vaIS9-FtBPSzBOag",
+          "time_start": 4269
+        },
+        {
+          "title": "Proxy / Middleware",
+          "thumbnail": "https://i.ytimg.com/vi/jZInNd6djz4/hqdefault_4414233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqeKQ__HUtLUb0DJieQ3MMgVwEKA",
+          "time_start": 4394
+        },
+        {
+          "title": "Authentication",
+          "thumbnail": "https://i.ytimg.com/vi/jZInNd6djz4/hqdefault_4727633.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVnk5cKyLO9vIsxUHzt0RdmPmJDQ",
+          "time_start": 4698
+        },
+        {
+          "title": "Final thoughts",
+          "thumbnail": "https://i.ytimg.com/vi/jZInNd6djz4/hqdefault_5283600.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4xa5onGSfD5KfjHrggbRv3NZdPw",
+          "time_start": 5254
+        }
+      ]
+    },
+    {
+      "position_on_page": 15,
+      "title": "SQL Tutorial for Beginners (Complete Course using MySQL)",
+      "link": "https://www.youtube.com/watch?v=yE6tIle64tU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=yE6tIle64tU",
+      "video_id": "yE6tIle64tU",
+      "channel": {
+        "name": "CodeWithHarry",
+        "channel_id": "UCeVMnSShP_Iviwkknt83cww",
+        "link": "https://www.youtube.com/@CodeWithHarry",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kX3sdbuu3KFmRPsmlu0R5Rx_BhpxwupjtvJmkEdNfla7w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 5471955,
+      "length": "3:57:54",
+      "description": "Learn complete MySQL in one shot using this full course in 4 hours. Data Science Course discount Link: ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/yE6tIle64tU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBu3itQSrfY13vpf28qSOf7C0Z_JQ",
+        "rich": "https://i.ytimg.com/an_webp/yE6tIle64tU/mqdefault_6s.webp?du=3000&sqp=CN_YhNgG&rs=AOn4CLC7xoXXi7jm_IZFLZxNTTz9kNc-FQ"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/yE6tIle64tU/hqdefault_22866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB73dZsYFuHTGXq8rjXMMY4a92-2w",
+          "time_start": 0
+        },
+        {
+          "title": "What is a Database?",
+          "thumbnail": "https://i.ytimg.com/vi/yE6tIle64tU/hqdefault_181166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCH9aOhYd-u7Hkoc4JCMriFIXaqpA",
+          "time_start": 163
+        },
+        {
+          "title": "Windows Installation",
+          "thumbnail": "https://i.ytimg.com/vi/yE6tIle64tU/hqdefault_592833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBqmuxyJ6g-Z_TggJa0iOUxTjiXA",
+          "time_start": 591
+        },
+        {
+          "title": "Linux Installation",
+          "thumbnail": "https://i.ytimg.com/vi/yE6tIle64tU/hqdefault_708000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWmLv7Rdh5z_ckfn_iE7bxux00-A",
+          "time_start": 706
+        },
+        {
+          "title": "Mac OS Installation",
+          "thumbnail": "https://i.ytimg.com/vi/yE6tIle64tU/hqdefault_875800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWGb7xaEvubE5vl5CnFNkuRfzKHA",
+          "time_start": 869
+        },
+        {
+          "title": "Creating a Table",
+          "thumbnail": "https://i.ytimg.com/vi/yE6tIle64tU/hqdefault_1401066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1rV_UzUE_2j0mjzCkqc0wz6zs-A",
+          "time_start": 1398
+        },
+        {
+          "title": "Dropping the Database",
+          "thumbnail": "https://i.ytimg.com/vi/yE6tIle64tU/hqdefault_1757766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXsvyHkLAOU6hpN7zuvertQA9FqA",
+          "time_start": 1757
+        },
+        {
+          "title": "Writing and Saving our SQL Script",
+          "thumbnail": "https://i.ytimg.com/vi/yE6tIle64tU/hqdefault_1801766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKfEXedsFm3OAZMXi5hnDV6toEHQ",
+          "time_start": 1800
+        },
+        {
+          "title": "Datatypes and Constraints in MySQL",
+          "thumbnail": "https://i.ytimg.com/vi/yE6tIle64tU/hqdefault_1966233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFjDAY0RQiduKD8z0zr0iAxhYJng",
+          "time_start": 1965
+        },
+        {
+          "title": "Selecting Data From Table",
+          "thumbnail": "https://i.ytimg.com/vi/yE6tIle64tU/hqdefault_2275600.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcKBYF-ilG9GijMuBV9LpaIAIRjA",
+          "time_start": 2270
+        },
+        {
+          "title": "Altering a Table",
+          "thumbnail": "https://i.ytimg.com/vi/yE6tIle64tU/hqdefault_2425133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEJN10wYfMZiHuBSqRbbo1vcNCvQ",
+          "time_start": 2425
+        },
+        {
+          "title": "Inserting Data",
+          "thumbnail": "https://i.ytimg.com/vi/yE6tIle64tU/hqdefault_2928000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAestO9hQ5AqdpYk1RGEzB5QFL-Cg",
+          "time_start": 2909
+        },
+        {
+          "title": "Using Starter SQL",
+          "thumbnail": "https://i.ytimg.com/vi/yE6tIle64tU/hqdefault_3459033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbOfihb8poIuAA_d_UqdzcsZo9_g",
+          "time_start": 3458
+        },
+        {
+          "title": "Querying Data",
+          "thumbnail": "https://i.ytimg.com/vi/yE6tIle64tU/hqdefault_3617100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPFj3WbAoLWdBAFfoaNYLFBtOQaQ",
+          "time_start": 3615
+        },
+        {
+          "title": "Updating the Data",
+          "thumbnail": "https://i.ytimg.com/vi/yE6tIle64tU/hqdefault_4290166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA903rGG7DEtWfVjdH_PjGs9i7qiw",
+          "time_start": 4288
+        },
+        {
+          "title": "Deleting Data",
+          "thumbnail": "https://i.ytimg.com/vi/yE6tIle64tU/hqdefault_4700133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQDZpF9XF76xaXT6eyTr_pSmT_SQ",
+          "time_start": 4686
+        },
+        {
+          "title": "Constraints in Detail",
+          "thumbnail": "https://i.ytimg.com/vi/yE6tIle64tU/hqdefault_5085033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAykEFBcqWCIRtjTXHf388045MEvQ",
+          "time_start": 5057
+        },
+        {
+          "title": "Functions in MySQL",
+          "thumbnail": "https://i.ytimg.com/vi/yE6tIle64tU/hqdefault_5720800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnZ_XTSVG7fmEkXPm08H3540HTDw",
+          "time_start": 5720
+        },
+        {
+          "title": "Auto Commit and Transactions",
+          "thumbnail": "https://i.ytimg.com/vi/yE6tIle64tU/hqdefault_6530900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiYlspicCLrKOYXwlFNJGtDKut7w",
+          "time_start": 6504
+        },
+        {
+          "title": "Primary Key & Auto Increment",
+          "thumbnail": "https://i.ytimg.com/vi/yE6tIle64tU/hqdefault_7084766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAN1u7jyO678T_OBvK1TzQIBASe8w",
+          "time_start": 7079
+        },
+        {
+          "title": "Foreign Keys",
+          "thumbnail": "https://i.ytimg.com/vi/yE6tIle64tU/hqdefault_7451866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC23QtlGNgNkubuZFNFKwFZOhB7Pg",
+          "time_start": 7448
+        },
+        {
+          "title": "MySQL Joins",
+          "thumbnail": "https://i.ytimg.com/vi/yE6tIle64tU/hqdefault_8283666.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhI6_7Z75gHJofDp1_ozuXnSPaiQ",
+          "time_start": 8278
+        },
+        {
+          "title": "UNION & UNION ALL in MySQL",
+          "thumbnail": "https://i.ytimg.com/vi/yE6tIle64tU/hqdefault_8920266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGMHyjxTxzqbj2i2xLV3b3fS_xTw",
+          "time_start": 8891
+        },
+        {
+          "title": "Self Joins in MySQL",
+          "thumbnail": "https://i.ytimg.com/vi/yE6tIle64tU/hqdefault_9523833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnIjSDbu1LNt24W0tzrgOAnpmhVQ",
+          "time_start": 9512
+        },
+        {
+          "title": "Views in MySQL",
+          "thumbnail": "https://i.ytimg.com/vi/yE6tIle64tU/hqdefault_10074066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIpQLJFwpGB4Gk4T6irHl9_PdywA",
+          "time_start": 10052
+        },
+        {
+          "title": "MySQL Indexes",
+          "thumbnail": "https://i.ytimg.com/vi/yE6tIle64tU/hqdefault_10647000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc9DM2fHh5Z1Zq9ejARu-21lDLww",
+          "time_start": 10632
+        },
+        {
+          "title": "Subqueries in MySQL",
+          "thumbnail": "https://i.ytimg.com/vi/yE6tIle64tU/hqdefault_11225266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjSzHDR_zRA5BPSkd5wAaiplpX0Q",
+          "time_start": 11213
+        },
+        {
+          "title": "GROUP BY & HAVING in MySQL",
+          "thumbnail": "https://i.ytimg.com/vi/yE6tIle64tU/hqdefault_11638166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7WI8NRncNPUH-xX20V25rhdCzsg",
+          "time_start": 11636
+        },
+        {
+          "title": "Stored Procedures in MySQL",
+          "thumbnail": "https://i.ytimg.com/vi/yE6tIle64tU/hqdefault_12265066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqmDoDyR4ewxgO0T82N0yjBKysVw",
+          "time_start": 12239
+        },
+        {
+          "title": "Triggers in MySQL",
+          "thumbnail": "https://i.ytimg.com/vi/yE6tIle64tU/hqdefault_12972133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdEAzz5A7VXKMwSi4iMJOwjFXzng",
+          "time_start": 12946
+        },
+        {
+          "title": "More on MySQL",
+          "thumbnail": "https://i.ytimg.com/vi/yE6tIle64tU/hqdefault_13615266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCx27zUn7YdKUxdKvrLj7MV6hoiaA",
+          "time_start": 13603
+        }
+      ]
+    },
+    {
+      "position_on_page": 16,
+      "title": "Next.js in 100 Seconds // Plus Full Beginner's Tutorial",
+      "link": "https://www.youtube.com/watch?v=Sklc_fQBmcs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Sklc_fQBmcs",
+      "video_id": "Sklc_fQBmcs",
+      "channel": {
+        "name": "Fireship",
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "link": "https://www.youtube.com/@Fireship",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/3fPNbkf_xPyCleq77ZhcxyeorY97NtMHVNUbaAON_RBDH9ydL4hJkjxC8x_4mpuopkB8oI7Ct6Y=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 1545989,
+      "length": "11:52",
+      "description": "Learn the basics of Next.js in 100 Seconds! Then build your first server-rendered react app with a full Next.js beginner's tutorial.",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Sklc_fQBmcs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyju9_MqmXnE3JV6wYSxEmAGwH9Q",
+        "rich": "https://i.ytimg.com/an_webp/Sklc_fQBmcs/mqdefault_6s.webp?du=3000&sqp=CJSVhdgG&rs=AOn4CLCsbrwJ4ry07_ofWnKDAaY64dhq3Q"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Next.js for Beginners - Full Course",
+      "link": "https://www.youtube.com/watch?v=1WmNXEVia8I",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=1WmNXEVia8I",
+      "video_id": "1WmNXEVia8I",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 241903,
+      "length": "2:38:25",
+      "description": "Learn how to get started and get proficient with Next.js. ⚠️ Minor error in course- At 5:15, to get to that Next.js starting point, ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/1WmNXEVia8I/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDycTrADdTvaoqHQ-1JEPfV8FnqOg",
+        "rich": "https://i.ytimg.com/an_webp/1WmNXEVia8I/mqdefault_6s.webp?du=3000&sqp=CLyThdgG&rs=AOn4CLAAF6xg0HfkoFAXHukpq5bzJdPrSQ"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/1WmNXEVia8I/hqdefault_25100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXr6d3gKcI9ggEacsg1DrjIOzKUw",
+          "time_start": 0
+        },
+        {
+          "title": "What is Next.js",
+          "thumbnail": "https://i.ytimg.com/vi/1WmNXEVia8I/hqdefault_172466.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBVxFkUbHbPfj1W7lw72DAihxSAg",
+          "time_start": 172
+        },
+        {
+          "title": "Tools: Node.js, VS Code, and the command line",
+          "thumbnail": "https://i.ytimg.com/vi/1WmNXEVia8I/hqdefault_253800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACGVjIp4nu1H_hg_UjSrZ2R4ODoA",
+          "time_start": 245
+        },
+        {
+          "title": "Setting up Next.js",
+          "thumbnail": "https://i.ytimg.com/vi/1WmNXEVia8I/hqdefault_327766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAaMD-2WO6AMaSanp5WGDjJ8ccQQ",
+          "time_start": 315
+        },
+        {
+          "title": "Setting the Sanity Studio CMS",
+          "thumbnail": "https://i.ytimg.com/vi/1WmNXEVia8I/hqdefault_621833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBGGSLc41XM1XwW2gDnLlOcTffaw",
+          "time_start": 602
+        },
+        {
+          "title": "Connecting Next.js with your content lake",
+          "thumbnail": "https://i.ytimg.com/vi/1WmNXEVia8I/hqdefault_3212200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTJuRgmiCO9z87FJP9PDwanIRBuA",
+          "time_start": 3192
+        },
+        {
+          "title": "Making a simple navigation bar in _app.js",
+          "thumbnail": "https://i.ytimg.com/vi/1WmNXEVia8I/hqdefault_3900200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJlJIc2gI5uP6-f8rr9rrUlqTPSg",
+          "time_start": 3894
+        },
+        {
+          "title": "Making your first page template in index.js",
+          "thumbnail": "https://i.ytimg.com/vi/1WmNXEVia8I/hqdefault_4271233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxiT2y7QspgBssh_HHrK15mIfYnQ",
+          "time_start": 4245
+        },
+        {
+          "title": "Setting up dynamic routes with [slug].js",
+          "thumbnail": "https://i.ytimg.com/vi/1WmNXEVia8I/hqdefault_5419133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQSez4jE-Y3F1a7NNLJYqjc8JzEQ",
+          "time_start": 5415
+        },
+        {
+          "title": "Diving into data fetching and pre-rendering with getStaticPaths & getStaticProps",
+          "thumbnail": "https://i.ytimg.com/vi/1WmNXEVia8I/hqdefault_5781100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQugP38RcA9Vfc8vMp3ieNyU4qvA",
+          "time_start": 5774
+        },
+        {
+          "title": "Create a like button with API routes and serverless functions",
+          "thumbnail": "https://i.ytimg.com/vi/1WmNXEVia8I/hqdefault_7317166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9VZVo9nADykWfYS4xEVYRuj2RoA",
+          "time_start": 7296
+        },
+        {
+          "title": "Adding live real-time preview with Sanity.io's content lake",
+          "thumbnail": "https://i.ytimg.com/vi/1WmNXEVia8I/hqdefault_8230000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmypzGJczjt8XSaTHVp21VXIW0bA",
+          "time_start": 8206
+        },
+        {
+          "title": "Set up automatic deployment with GitHub and Vercel",
+          "thumbnail": "https://i.ytimg.com/vi/1WmNXEVia8I/hqdefault_8737000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7TX4BIliJVjK37eNRgyTjgaVjWg",
+          "time_start": 8711
+        },
+        {
+          "title": "Summary: What you have learned and next steps",
+          "thumbnail": "https://i.ytimg.com/vi/1WmNXEVia8I/hqdefault_9319366.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0TBaUyvvsJ7fHHgp1_W1Xcq594g",
+          "time_start": 9318
+        }
+      ]
+    },
+    {
+      "position_on_page": 21,
+      "title": "Next.js Full Tutorial - Beginner to Advanced",
+      "link": "https://www.youtube.com/watch?v=k7o9R6eaSes",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=k7o9R6eaSes",
+      "video_id": "k7o9R6eaSes",
+      "channel": {
+        "name": "Codevolution",
+        "channel_id": "UC80PWRj_ZU8Zu0HSMNVwKWw",
+        "link": "https://www.youtube.com/@Codevolution",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/CZz3YkQI3pkX-F9yoNrKG1KDWWtcas4jXPcZ98ldQx6T-dGdo1t30kKKXHpZ4k4tjfEY4pskoQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 490291,
+      "length": "6:54:09",
+      "description": "Github - https://github.com/gopinav/Next.js-15-Tutorials 00:00 Introduction to Next.js 04:09 Hello World 07:15 Project Structure ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/k7o9R6eaSes/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjpdjYWZR70Deh4e0AFwhR8k39VA",
+        "rich": "https://i.ytimg.com/an_webp/k7o9R6eaSes/mqdefault_6s.webp?du=3000&sqp=CPLyhNgG&rs=AOn4CLBDYy4DAjpVmKKUKPWcc5tlWMsr5Q"
+      },
+      "chapters": [
+        {
+          "title": "Introduction to Next.js",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 0
+        },
+        {
+          "title": "Hello World",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 249
+        },
+        {
+          "title": "Project Structure",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 435
+        },
+        {
+          "title": "Before We Start",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 687
+        },
+        {
+          "title": "Routing",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 793
+        },
+        {
+          "title": "Nested Routes",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 1137
+        },
+        {
+          "title": "Dynamic Routes",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 1310
+        },
+        {
+          "title": "Nested Dynamic Routes",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 1669
+        },
+        {
+          "title": "Catch-all Segments",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 1883
+        },
+        {
+          "title": "Not Found Page",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 2252
+        },
+        {
+          "title": "File Colocation",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 2565
+        },
+        {
+          "title": "Private Folders",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 2733
+        },
+        {
+          "title": "Route Groups",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 2896
+        },
+        {
+          "title": "Layouts",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 3129
+        },
+        {
+          "title": "Nested Layouts",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 3393
+        },
+        {
+          "title": "Multiple Root Layouts",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 3625
+        },
+        {
+          "title": "Routing Metadata",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 3825
+        },
+        {
+          "title": "title Metadata",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 4306
+        },
+        {
+          "title": "Linking Component Navigation",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 4493
+        },
+        {
+          "title": "Active Links",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 4790
+        },
+        {
+          "title": "params and searchParams",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 5021
+        },
+        {
+          "title": "Navigating Programmatically",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 5356
+        },
+        {
+          "title": "Templates",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 5591
+        },
+        {
+          "title": "Loading UI",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 5816
+        },
+        {
+          "title": "Error Handling",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 6006
+        },
+        {
+          "title": "Recovering from Errors",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 6308
+        },
+        {
+          "title": "Handling Errors in Nested Routes",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 6475
+        },
+        {
+          "title": "Handling Errors in Layouts",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 6599
+        },
+        {
+          "title": "Handling Global Errors",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 6726
+        },
+        {
+          "title": "Parallel Routes",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 7051
+        },
+        {
+          "title": "Unmatched Routes",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 7559
+        },
+        {
+          "title": "Conditional Routes",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 7935
+        },
+        {
+          "title": "Intercepting Routes",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 8092
+        },
+        {
+          "title": "Parallel Intercepting Routes",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 8889
+        },
+        {
+          "title": "Route Handlers",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 9224
+        },
+        {
+          "title": "GET Request",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 9567
+        },
+        {
+          "title": "POST Request",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 9737
+        },
+        {
+          "title": "Dynamic Route Handlers",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 9945
+        },
+        {
+          "title": "PATCH Request",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 10154
+        },
+        {
+          "title": "DELETE Request",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 10338
+        },
+        {
+          "title": "URL Query Parameters",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 10504
+        },
+        {
+          "title": "Headers in Route Handlers",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 10678
+        },
+        {
+          "title": "Cookies in Route Handlers",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 11015
+        },
+        {
+          "title": "Redirects in Route Handlers",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 11218
+        },
+        {
+          "title": "Caching in Route Handlers",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 11305
+        },
+        {
+          "title": "Middleware",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 11564
+        },
+        {
+          "title": "Rendering",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 11935
+        },
+        {
+          "title": "Client-side Rendering (CSR)",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 12015
+        },
+        {
+          "title": "Server-side Rendering (SSR)",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 12208
+        },
+        {
+          "title": "Suspense SSR",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 12497
+        },
+        {
+          "title": "React Server Components",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 12884
+        },
+        {
+          "title": "Server and Client Components",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 13274
+        },
+        {
+          "title": "Rendering Lifecycle in RSCs",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 13647
+        },
+        {
+          "title": "Static Rendering",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 13857
+        },
+        {
+          "title": "Dynamic Rendering",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 14524
+        },
+        {
+          "title": "generateStaticParams",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 14806
+        },
+        {
+          "title": "dynamicParams",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 15125
+        },
+        {
+          "title": "Streaming",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 15339
+        },
+        {
+          "title": "Server and Client Composition Patterns",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 15506
+        },
+        {
+          "title": "Server-only Code",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 15568
+        },
+        {
+          "title": "Third Party Packages",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 15871
+        },
+        {
+          "title": "Context Providers",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 16158
+        },
+        {
+          "title": "Client-only Code",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 16461
+        },
+        {
+          "title": "Client Component Placement",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 16711
+        },
+        {
+          "title": "Interleaving Server and Client Components",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 17000
+        },
+        {
+          "title": "Data Fetching",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 17486
+        },
+        {
+          "title": "Fetching Data in Client Components",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 17575
+        },
+        {
+          "title": "Fetching Data with Server Components",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 17822
+        },
+        {
+          "title": "Loading and Error States",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 18076
+        },
+        {
+          "title": "Sequential Data Fetching",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 18249
+        },
+        {
+          "title": "Parallel Data Fetching",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 18570
+        },
+        {
+          "title": "Fetching From a Database",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 18920
+        },
+        {
+          "title": "Data Mutations",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 19307
+        },
+        {
+          "title": "Forms with Server Actions",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 19494
+        },
+        {
+          "title": "useFormStatus Hook",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 19843
+        },
+        {
+          "title": "useActionState Hook",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 20054
+        },
+        {
+          "title": "Separating Server Actions",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 20464
+        },
+        {
+          "title": "useFormStatus vs useActionState",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 20672
+        },
+        {
+          "title": "Update Server Action",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 20763
+        },
+        {
+          "title": "Delete Server Action",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 21291
+        },
+        {
+          "title": "Optimistic Updates with useOptimistic Hook",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 21497
+        },
+        {
+          "title": "Form Component",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 21870
+        },
+        {
+          "title": "Authentication",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 22326
+        },
+        {
+          "title": "Clerk Setup",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 22466
+        },
+        {
+          "title": "Sign in and Sign out",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 22639
+        },
+        {
+          "title": "Profile Settings",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 22818
+        },
+        {
+          "title": "Conditional UI Rendering",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 23002
+        },
+        {
+          "title": "Protecting Routes",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 23092
+        },
+        {
+          "title": "Read Session and User Data",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 23325
+        },
+        {
+          "title": "Role Based Access Control",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 23623
+        },
+        {
+          "title": "Customizing Clerk Components",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 24289
+        },
+        {
+          "title": "Deploying Next.js Apps",
+          "thumbnail": "https://i.ytimg.com/vi/k7o9R6eaSes/hqdefault.jpg",
+          "time_start": 24683
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Next.js+full+course+tutorial+for+Data+Analyst&gl=in&hl=en",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Next.js%20full%20course%20tutorial%20for%20Data%20Analyst&sp=SBSCASJQTEMzeTgtckZIdndoSUVjNEk0WXNSejVDN0dPQm54U0pZggEiUEw0Y1V4ZUdrY0M5ZzlnUDJvbmF6VTUtMk0tQXpBOGVCd4IBIlBMMFp1ejI3U1otNlBrLVFKSWRHZDF0R1pFenk5UlRndGqCASJQTGluZWRqM0IzMHNEUDJDSE41UDBsREQ2NHlZWjBObjRKggELWlZuak9Qd1c0WkGCASJQTEMzeTgtckZIdndnQzltajBxdjk3MklPNURtRC1IMFpIggEiUExzanBSbzJFWlAxSVRoWGVDTmpfUUJHOGhXUXU3WXBTS4IBC2MtaEtTYnpvb0FnggEiUExDM3k4LXJGSHZ3ak9LZDZnZGY0UXRWMXVZTmlRbnJ1SYIBIlBMd0dkcVVaV25PcDBsd3ZTQmFJenpnVjlYMFppWi00Mk-CAQtqWkluTmQ2ZGp6NIIBIlBMdTcxU0t4TmJmb0JBYVdHdG45R0EyUFR3MEhPMHRYenGCAQt5RTZ0SWxlNjR0VYIBC1NrbGNfZlFCbWNzggEiUEx1MFdfOWxJSTlhZ3RXdlJfVFpkYl9yMGROSTgtbER3R4IBIlBMOHAySTlHa2xWNDRzal9Ja3A4alFTdndELW05aHRuSFSCAQsxV21OWEVWaWE4SYIBIlBMNlFSRWo4dGUxUDdnaXhCRFNVOEpMdlFuZFRFRVgzYzOCAQtrN285UjZlYVNlc4IBIlBMZkVyMmtuM3MtYnBYal9UTU9OalJ3YXN5amlGZ0V3ajCyAQYKBAgZEAI%253D",
+    "next_page_token": "SBSCASJQTEMzeTgtckZIdndoSUVjNEk0WXNSejVDN0dPQm54U0pZggEiUEw0Y1V4ZUdrY0M5ZzlnUDJvbmF6VTUtMk0tQXpBOGVCd4IBIlBMMFp1ejI3U1otNlBrLVFKSWRHZDF0R1pFenk5UlRndGqCASJQTGluZWRqM0IzMHNEUDJDSE41UDBsREQ2NHlZWjBObjRKggELWlZuak9Qd1c0WkGCASJQTEMzeTgtckZIdndnQzltajBxdjk3MklPNURtRC1IMFpIggEiUExzanBSbzJFWlAxSVRoWGVDTmpfUUJHOGhXUXU3WXBTS4IBC2MtaEtTYnpvb0FnggEiUExDM3k4LXJGSHZ3ak9LZDZnZGY0UXRWMXVZTmlRbnJ1SYIBIlBMd0dkcVVaV25PcDBsd3ZTQmFJenpnVjlYMFppWi00Mk-CAQtqWkluTmQ2ZGp6NIIBIlBMdTcxU0t4TmJmb0JBYVdHdG45R0EyUFR3MEhPMHRYenGCAQt5RTZ0SWxlNjR0VYIBC1NrbGNfZlFCbWNzggEiUEx1MFdfOWxJSTlhZ3RXdlJfVFpkYl9yMGROSTgtbER3R4IBIlBMOHAySTlHa2xWNDRzal9Ja3A4alFTdndELW05aHRuSFSCAQsxV21OWEVWaWE4SYIBIlBMNlFSRWo4dGUxUDdnaXhCRFNVOEpMdlFuZFRFRVgzYzOCAQtrN285UjZlYVNlc4IBIlBMZkVyMmtuM3MtYnBYal9UTU9OalJ3YXN5amlGZ0V3ajCyAQYKBAgZEAI%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Next.js+full+course+tutorial+for+Data+Analyst",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Next.js+full+course+tutorial+for+Data+Analyst&sp=SBSCASJQTEMzeTgtckZIdndoSUVjNEk0WXNSejVDN0dPQm54U0pZggEiUEw0Y1V4ZUdrY0M5ZzlnUDJvbmF6VTUtMk0tQXpBOGVCd4IBIlBMMFp1ejI3U1otNlBrLVFKSWRHZDF0R1pFenk5UlRndGqCASJQTGluZWRqM0IzMHNEUDJDSE41UDBsREQ2NHlZWjBObjRKggELWlZuak9Qd1c0WkGCASJQTEMzeTgtckZIdndnQzltajBxdjk3MklPNURtRC1IMFpIggEiUExzanBSbzJFWlAxSVRoWGVDTmpfUUJHOGhXUXU3WXBTS4IBC2MtaEtTYnpvb0FnggEiUExDM3k4LXJGSHZ3ak9LZDZnZGY0UXRWMXVZTmlRbnJ1SYIBIlBMd0dkcVVaV25PcDBsd3ZTQmFJenpnVjlYMFppWi00Mk-CAQtqWkluTmQ2ZGp6NIIBIlBMdTcxU0t4TmJmb0JBYVdHdG45R0EyUFR3MEhPMHRYenGCAQt5RTZ0SWxlNjR0VYIBC1NrbGNfZlFCbWNzggEiUEx1MFdfOWxJSTlhZ3RXdlJfVFpkYl9yMGROSTgtbER3R4IBIlBMOHAySTlHa2xWNDRzal9Ja3A4alFTdndELW05aHRuSFSCAQsxV21OWEVWaWE4SYIBIlBMNlFSRWo4dGUxUDdnaXhCRFNVOEpMdlFuZFRFRVgzYzOCAQtrN285UjZlYVNlc4IBIlBMZkVyMmtuM3MtYnBYal9UTU9OalJ3YXN5amlGZ0V3ajCyAQYKBAgZEAI%253D",
+    "next_page_token": "SBSCASJQTEMzeTgtckZIdndoSUVjNEk0WXNSejVDN0dPQm54U0pZggEiUEw0Y1V4ZUdrY0M5ZzlnUDJvbmF6VTUtMk0tQXpBOGVCd4IBIlBMMFp1ejI3U1otNlBrLVFKSWRHZDF0R1pFenk5UlRndGqCASJQTGluZWRqM0IzMHNEUDJDSE41UDBsREQ2NHlZWjBObjRKggELWlZuak9Qd1c0WkGCASJQTEMzeTgtckZIdndnQzltajBxdjk3MklPNURtRC1IMFpIggEiUExzanBSbzJFWlAxSVRoWGVDTmpfUUJHOGhXUXU3WXBTS4IBC2MtaEtTYnpvb0FnggEiUExDM3k4LXJGSHZ3ak9LZDZnZGY0UXRWMXVZTmlRbnJ1SYIBIlBMd0dkcVVaV25PcDBsd3ZTQmFJenpnVjlYMFppWi00Mk-CAQtqWkluTmQ2ZGp6NIIBIlBMdTcxU0t4TmJmb0JBYVdHdG45R0EyUFR3MEhPMHRYenGCAQt5RTZ0SWxlNjR0VYIBC1NrbGNfZlFCbWNzggEiUEx1MFdfOWxJSTlhZ3RXdlJfVFpkYl9yMGROSTgtbER3R4IBIlBMOHAySTlHa2xWNDRzal9Ja3A4alFTdndELW05aHRuSFSCAQsxV21OWEVWaWE4SYIBIlBMNlFSRWo4dGUxUDdnaXhCRFNVOEpMdlFuZFRFRVgzYzOCAQtrN285UjZlYVNlc4IBIlBMZkVyMmtuM3MtYnBYal9UTU9OalJ3YXN5amlGZ0V3ajCyAQYKBAgZEAI%3D"
+  }
+}

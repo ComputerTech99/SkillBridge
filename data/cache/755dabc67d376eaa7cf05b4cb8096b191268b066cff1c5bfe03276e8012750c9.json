@@ -1,0 +1,1303 @@
+{
+  "search_metadata": {
+    "id": "6b014aa8c9d30d56258242a8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/aM2BDHS4AWntUJfiUzPUTR2Pgdphx78yHFz7qPL2p6k/6b014aa8c9d30d56258242a8.json",
+    "markdown_endpoint": "https://serpapi.com/searches/aM2BDHS4AWntUJfiUzPUTR2Pgdphx78yHFz7qPL2p6k/6b014aa8c9d30d56258242a8.md",
+    "created_at": "2026-11-21 07:39:20 UTC",
+    "processed_at": "2026-11-21 07:39:20 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Power+BI+full+course+tutorial+for+Data+Analyst&gl=in&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/aM2BDHS4AWntUJfiUzPUTR2Pgdphx78yHFz7qPL2p6k/6b014aa8c9d30d56258242a8.html",
+    "total_time_taken": 4.15
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Power BI full course tutorial for Data Analyst",
+    "gl": "in",
+    "hl": "en"
+  },
+  "search_information": {
+    "total_results": 6020225,
+    "video_results_state": "Results for exact spelling"
+  },
+  "ads_results": [
+    {
+      "position_on_page": 1,
+      "title": "monday sidekick: AI built for leading",
+      "link": "https://www.youtube.com/watch?v=f0calnQxk50",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=f0calnQxk50",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CtxHNqUoBa7ndJ5CApLkP35mHyArO5ZuwigGd8qDLlBWwkB8QASAAYMnepYfYo-QPggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAZuBib0DqAMEyAMKqgTAAk_QNNJCaXAc3-KbX7-cjDQdYkrBWxM4FGZKplNPmJ7mVWx1MLjudZmoV1hMWuBS0ETjfTxmm2rab71esIbw0r9u_45VCMkFMPmZY1oWBeEshYpdhNY206ilgix92tX3pxoxPldbHebfYXJCvhlvpNN5Nuqo1stBeGSjqI4XX_iRqW7s0QmR_5j7MWlLJb_fLYCsAqY0dTJ2WncOF-dOJSJRfgvR1xwrNz6t8ZpKgs3jnRcZU8SKV2RPOFBwNdI2OToLFmDDT7-_io0RQGDHlaYkx3ovG3i-0Plnix1jpoIi2Dn1KfykF0Oi1G4gN-f59BHY2hOwQZ6UK2AsHvRhJ4AqgWEM1QeSm7apjQkwt8JPVhkEHWy6FKfP1KaDdrFdy33zmKhpb5HAXoUfnP3QeJQ-rJzNY75341lLU_MOmaAdiAWtqfzcU5IFBwgTeM_CnnKgBqEBgAeIyoBykAcEqAelz7ECqAfnnbECqAfonbECqAeD9rECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHnuqxAqgHn-qxAqgH-OuxAqgHvOqxAqgH7_GxAqgH_K-xAqgH1c4bqAe-2bECqAe_2bECqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKoB8LIsQKSCAtmMGNhbG5ReGs1MKgIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWMinjKzHmJgDYAGaCSJodHRwczovL21vbmRheS5jb20vZ3AvYWktd29ya3NwYWNlsQmBG1FdxeLN8MgJF8gJjwHICcIBugs-CAMQBRgEIAcoATAcQAFIAFh9YABoAHABiAEAmAEBogEICgCoAgHYAgLYAQGAAgGIAga6Awl2aWF0bHphYWHQCxLgCwGiDC9iEwoRY29tLm1vbmRheS5tb25kYXlqEwoRY29tLm1vbmRheS5tb25kYXl4AIgBANIMAhAB2gwmCgsQkMKjuPyAr_-QARICAQMaDRitqfzcUyCA9vLtrQVAAUoCEB-aDQESqg0CVVPIDQHSDfQEaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL043Mjg5MDkuMTI3NzMzR09PR0xFLVlPVVRVQkUvQjM0ODAwOTI4LjQzODQwOTU5ODtkY190cmtfYWlkPTYzMDI3MzM1NjtkY190cmtfY2lkPTI0NzQ0NTMxODtkY19sYXQ9O2RjX3JkaWQ9O3RhZ19mb3JfY2hpbGRfZGlyZWN0ZWRfdHJlYXRtZW50PTt0ZnVhPTtnZHByPSR7R0RQUn07Z2Rwcl9jb25zZW50PSR7R0RQUl9DT05TRU5UXzc1NX07bHRkPTtkY190ZHY9MTtkY190cmFuc3BhcmVudD0xOztkY19ydWk9MTtkY19lcHM9QUhhczhjQ2dES2RTT1Vjel9mbEo2QmhfZ0RydW1vY2VtZHRXc1ZGeTZ6THlTNWNaZUFJWXNuczJzdF83YTVqaVllNHBGXzRVQVRyQ0pScEdlSFRaMmc7ZGNfcHViaWQ9Nj9odHRwczovL21vbmRheS5jb20vZ3AvYWktd29ya3NwYWNlP3V0bV9tZWRpdW09Y3BjJnV0bV9zb3VyY2U9YWR3b3Jkc3lvdXR1YmUmdXRtX2NhbXBhaWduPXVzLWVuLXBybS13b3JrX21nbXQtZGVza3RvcC10b3BpY3MtZGcmdXRtX2FkZ3JvdXA9QnVzaW5lc3NQcm9kdWN0aXZpdHlTb2Z0d2FyZV9ULU11bHRpQWRzJnV0bV9iYW5uZXI9U0hfTGVhZGVyc2hpcF9Mb25nJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMjQ3NTExNzc0MbgT____________AYgUBLAUA8AVgYCAQNAVAdgVAZgWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRdG7vXzSZtt5boXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMI-dWMrMeYmAMVEAApAR3fzAGpEAEYASAAEgJQCfD_BwE&num=1&cid=CAASwgHkaFDIJQPkGfhy0sHIGIWBHQn5iBRrKTREt5lZYP-r9haKx-FqGIVULN5yWVy_gdhwvgLeNEjgrBRJGrfd5D8fl2E1a6RK5Lph_HZiU-dWJo1H29u1dIKuTXSbm9sSSCTdKVGtQIKUm2GAF4JINHtPH7F4OnArw_-ReOmxme3QEnJ1o5eqbtkxz7Q4OGrXwysYvE_DD-ii3FtxQzRjFB21C6vBRYU23yOvjlQy6rdnPD6wpzpkUIm3mQLrhRh0yttPiA&ad_cpn=%5BCPN%5D&sig=AOD64_1oEUoacvm_MRc_QR4au4bC1QPZQg&ctype=110&video_id=f0calnQxk50&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "monday.com",
+        "thumbnail": "https://yt3.ggpht.com/proxy/MitpYASoXb5zpT1UtIe5jk8OZOKujt0QgDyMDMZ7nJvaQi00r9BDw3mnZ6hmS-6KWtWo_uI_Rh_FELpCmhmja3ikSSpTTwiAvT5CVdC_it5YvVolWjMdu4hTzWK9HIzSeJ7oXYPW4l8P3g5GfYC1fFt2QRHmtKYn2_9Y2h7N5yMCMcu0hSu0ngKfW9QBiJtvkpgA55LCq0Bxr1e3BffN3Bp_MDumxWsJYPnVpT5-CYS3i0hLVAI0hDV5AVoizwwTmaCjy2M=w68-h68-nd"
+      },
+      "description": "Lead smarter with monday sidekick, the AI built for you. Try it now",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/f0calnQxk50/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-s-9-SJwi1KOIGre4oM6uVS6OMQ"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Devour knowledge with Student Spaces",
+      "link": "https://www.youtube.com/watch?v=VdDiEf6YJnQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VdDiEf6YJnQ",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CSXftqUoBa7ndJ5CApLkP35mHyAqXouaPiwGH_-O_vBWwkB8QAyAAYMnepYfYo-QPggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAbH6_-oCqAMEyAMKqgTrAk_QNNJCaXAc3-KbX7-cjDQdYkrBWxM4FGZKplNPmJ7mVWx1MLjudZmoV1hMWuBS0ETjfTxmm2rab71esIbw0r9u_45VCMkFMPmZY1oWBeEshYpdhNY206ilgix92tX3pxoxPldbHebfYXJCvhlvpNN5Nuqo1stBeGSjqI4XX_iRqW7s0QmR_5j7MWlLJb_fLYCsAqY0dTJ2WncOF-dOJSJRfgvR1xwrNz6t8ZpKgs3jnRcZU8SKV2RPOFBwNdI2OToLFmDDT7-_io0RQGDHlaYkx3ovG3i-0Plnix1jpoIi2Dn1KfykF0Oi1G4gN-f59BHY2hOwWZ4Bn6LdPfxhhJi8v-geFAowl3GFFmv-lyISNlk8E5T3gqZNGDQa2LfP0rpBCqkbvqZHJ60YHFUhYpjgpar71I2HR6useFdzysXgY8U1Pvc2FOrtuC9otpoQhSPIWwuB85xB5V3Vu9KMnB7b0SbDmhwz8eTyL4gF5tDvrViSBQgIE3j6zZ-VAaAGoQGAB7eFgJUBkAcEqAelz7ECqAfnnbECqAfonbECqAeD9rECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHnuqxAqgHn-qxAqgH-OuxAqgHvOqxAqgH7_GxAqgH_K-xAqgH1c4bqAe-2bECqAe_2bECqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAtWZERpRWY2WUpuUagIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWMinjKzHmJgDYAGaCSxodHRwczovL2Fjcm9iYXQuYWRvYmUuY29tL3N0dWRlbnRzcGFjZXMvaG9tZbEJgbAQJz0tqWHICRfICY8ByAnCAboLPggDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AIC2AEDgAIBiAISugMJdmlhdGx6YWFh0AsT4AsBogwfYhgKFmNvbS5hZG9iZS5lY2hvc2lnbi5pb3N4AIgBANIMAhAB2gwmCgsQwLO7pYbF1_jJARICAQMaDRjm0O-tWCD37evl0wVAAUoCEB-aDQETqg0CVVPIDQHSDekEaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL045NzI5NTIuMjc5MzgyQklETUFOQUdFUl9ERkFTSVRFL0IyMjM0NDQxMy4yNDE1MzkzMjE7ZGNfdHJrX2FpZD00MzgxMjg2MjI7ZGNfdHJrX2NpZD0xMTI4ODQ2MTM7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBNkNqTUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaE1JNXREdnJWaW9Bc080OUFHd0FzeVc0dWtEUURzUWwtZTZBYXBTbzNMajY5SHFtUlNHRDdObEp0Yz07ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTtkY190cmFuc3BhcmVudD0xO2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNCYVVmWjVvQUpMM0RPVE14U0xCTVJXbHhoWGcyX0FVeGNiekkzUlFBWF9HZWpaSllSY2lSNkNyMWZ5blNQNGFtVjdibllrRGxRSUtsTlVhQTtkY19wdWJpZD02P2h0dHBzOi8vYWNyb2JhdC5hZG9iZS5jb20vc3R1ZGVudHNwYWNlcy9ob21lP3NkaWQ9VjZOWktDUzYmbXY9c29jaWFsJm12Mj1wYWlkc29jJnhfYXBpX2NsaWVudF9pZD1wYWlkbWVkaWEmeF9hcGlfY2xpZW50X2xvY2F0aW9uPWFkc19WNk5aS0NTNiZnYWRfc291cmNlPTKwE9fdwSa4E____________wGIFAiwFAPAFYGAgEDQFQHYFQGYFgGoFgGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF1e_wgIaPhjwuhcGKAAwADgB0BgB8BgB&ase=2&gclid=EAIaIQobChMI-dWMrMeYmAMVEAApAR3fzAGpEAEYAyAAEgLLw_D_BwE&num=3&cid=CAASwgHkaFDIJQPkGfhy0sHIGIWBHQn5iBRrKTREt5lZYP-r9haKx-FqGIVULN5yWVy_gdhwvgLeNEjgrBRJGrfd5D8fl2E1a6RK5Lph_HZiU-dWJo1H29u1dIKuTXSbm9sSSCTdKVGtQIKUm2GAF4JINHtPH7F4OnArw_-ReOmxme3QEnJ1o5eqbtkxz7Q4OGrXwysYvE_DD-ii3FtxQzRjFB21C6vBRYU23yOvjlQy6rdnPD6wpzpkUIm3mQLrhRh0yttPiA&ad_cpn=%5BCPN%5D&sig=AOD64_3O2sBu-GNJWr-mD2qXWtlq3Y_GXg&ctype=110&video_id=VdDiEf6YJnQ&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Adobe",
+        "thumbnail": "https://yt3.ggpht.com/proxy/MOuz2I13I1fAnFfngtXtL_W4we9dtMgr0pZOHx9ZvXrWe0TzDLTj2mq2_seyh8bAOYiFhihUkC0bcCbQ2Rr3ROUyAm-g7fKx7ikqVy2aYwv8ap82JEQltB0uNj5JlrrMcTbQ-wFlNo0DfytWwYBrrCyx4-VnwgCwx-dn0fy6KEEwJzLjssuJHIvXA-MdWMvBvChh3bzxW7-sQCuvX2mDwrBOQUGt_eZzMbPzNL_oO6Ke1vjjr2458wPYmALVc80eUKLvvs8=w68-h68-nd"
+      },
+      "description": "Student Spaces is a smarter way to study. Free for students.",
+      "thumbnail": {
+        "static": "https://tpc.googlesyndication.com/simgad/16682586792110191416"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Every service pro deserves the right tools to grow. Put Jobber to work for yours.",
+      "link": "https://www.youtube.com/watch?v=LVqmUrWb7I4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LVqmUrWb7I4",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CDkQLqUoBa7ndJ5CApLkP35mHyArqzMmGiwGdi7iuoRZkEAQgAGDJ3qWH2KPkD4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAG99_a8A6kC9qRT1Lpkpz6oAwTIAwqqBL8CT9A00kJpcBzf4ptfv5yMNB1iSsFbEzgUZkqmU0-YnuZVbHUwuO51mahXWExa4FLQRON9PGabatpvvV6whvDSv27_jlUIyQUw-ZljWhYF4SyFil2E1jbTqKWCLH3a1fenGjE-V1sd5t9hckK-GW-k03k26qjWy0F4ZKOojhdf-JGpbuzRCZH_mPsxaUslv98tgKwCpjR1MnZadw4X504lIlF-C9HXHCs3Pq3xmkqCzeOdFxlTxIpXZE84UHA10jY5OgsWYMNPv7-KjRFAYMeVpiTHei8beL7Q-WeLHWOmgiLYOfUp_KQXQ6LUbiA35_n0EdjaE7BBnpQrYAg89GEvgCqEI0aGH5KblZ6lYjC3G8-nZgQdbLoUiKfUpoN3sWvkGLiUqHtavqhehem139B0gJOSuoXVr1XjV13ZsWWtDogFueDZ8lOSBQcIE3js9bYZoAahAYAHlK_ZGJAHBKgHpc-xAqgH552xAqgH6J2xAqgHg_axAqgH-dOxAqgHydqxAqgHqeCxAqgHqNIbqAex3BuoB7CbsQKoB_2ysQKoB8jPsQKoB8nPsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB57qsQKoB5_qsQKoB_jrsQKoB7zqsQKoB-_xsQKoB_yvsQKoB9XOG6gHvtmxAqgHv9mxAqgHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLTFZxbVVyV2I3STSoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFjIp4ysx5iYA2ABmgktaHR0cHM6Ly93d3cuZ2V0am9iYmVyLmNvbS9kbHAvZnNtLXNvZnR3YXJlLWIvsQlbpe2kIi9cxMgJF8gJjwHICcIBugs-CAMQBRgEIAcoATAcQAFIAFh9YABoAHABiAEAmAEBogEICgCoAgHYAgLYAQGAAgGIAgW6Awl2aWF0bHphYWHQCxLgCwGiDDViFgoUY29tLmdldGpvYmJlci5qb2JiZXJqFgoUY29tLmdldGpvYmJlci5qb2JiZXJ4AIgBANIMAhAB2gwlCgoQ0Oy9suj4nOJTEgIBAxoNGLng2fJTIPKppePFBUABSgIQH5oNARKqDQJVU8gNAdINpwNodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9kZG0vdHJhY2tjbGsvTjI3NDQ1NDguNTg3ODQzMkpPQkJFUi1ZT1VUVUJFLUQvQjM1MjI0MjAwLjQ0MDAwOTc0MTtkY190cmtfYWlkPTYzMzE2Mzk1ODtkY190cmtfY2lkPTI1MDI0OTcyMjtkY19sYXQ9O2RjX3JkaWQ9O3RhZ19mb3JfY2hpbGRfZGlyZWN0ZWRfdHJlYXRtZW50PTt0ZnVhPTtsdGQ9O2RjX3Rkdj0xO2RjX3RyYW5zcGFyZW50PTE7O2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNCaHFzTkhManZtWFQtVGZ5QURRc0hrOUN0TnpSM1d0bE5mU2JZSmRmTmZ2RE9FSlQzaWUwVkhFc3JqWWk3QloxR2NkamQ4RVNEb1dmdXpnUTtkY19wdWJpZD02P2h0dHBzOi8vd3d3LmdldGpvYmJlci5jb20vZGxwL2ZzbS1zb2Z0d2FyZS1iLz9nYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjI1MjA2ODg2OTe4E____________wGIFAGwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXBrIqlPcJQ6W6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI-dWMrMeYmAMVEAApAR3fzAGpEAEYBCAAEgKuVPD_BwE&num=4&cid=CAASwgHkaFDIJQPkGfhy0sHIGIWBHQn5iBRrKTREt5lZYP-r9haKx-FqGIVULN5yWVy_gdhwvgLeNEjgrBRJGrfd5D8fl2E1a6RK5Lph_HZiU-dWJo1H29u1dIKuTXSbm9sSSCTdKVGtQIKUm2GAF4JINHtPH7F4OnArw_-ReOmxme3QEnJ1o5eqbtkxz7Q4OGrXwysYvE_DD-ii3FtxQzRjFB21C6vBRYU23yOvjlQy6rdnPD6wpzpkUIm3mQLrhRh0yttPiA&ad_cpn=%5BCPN%5D&sig=AOD64_2fxUxkq2OUujcF7p1WFO-olyjkiA&ctype=110&video_id=LVqmUrWb7I4&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Jobber",
+        "thumbnail": "https://yt3.ggpht.com/proxy/vES2egJ3496AURVe-er3Q5L5Jrwwfty0LikF5CqZ4jE2FsXjrFSvigMzyyw7yJOfYexR3jfglk61QcCMV-ZI524ZX7TVNcWes8rZuMVNI5IywuDJttw5AlbDhYYxU7EwdHKSTxmKC7yi4Tt_nwqsnaiOvZYWjfRnTDkuW5-CdOb1g5qIR-XCrcVixt25ZgXT92OyjB6CpiZ3ylMz557cvSVDi9DBg-xWooZMMLCKFOcTRMD4OBnrbVbt1we7dX0S43Ja5ug=w68-h68-nd"
+      },
+      "description": "Keep building your business and make room for what’s next with Jobber.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/LVqmUrWb7I4/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhpIGkoaTAP&rs=AOn4CLDyhva8XvjZSjNHlIjGhdk6PHBPLw"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Scan every M365 tenant against 300+ security controls in under 60 seconds each.",
+      "link": "https://www.youtube.com/watch?v=u497J1fnBrk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=u497J1fnBrk",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CruFmqUoBa7ndJ5CApLkP35mHyArmu5_8iQH5xfWRyxawkB8QBSAAYMnepYfYo-QPggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAY7ShYVDqAMEyAMKqgTQAk_QNNJCaXAc3-KbX7-cjDQdYkrBWxM4FGZKplNPmJ7mVWx1MLjudZmoV1hMWuBS0ETjfTxmm2rab71esIbw0r9u_45VCMkFMPmZY1oWBeEshYpdhNY206ilgix92tX3pxoxPldbHebfYXJCvhlvpNN5Nuqo1stBeGSjqI4XX_iRqW7s0QmR_5j7MWlLJb_fLYCsAqY0dTJ2WncOF-dOJSJRfgvR1xwrNz6t8ZpKgs3jnRcZU8SKV2RPOFBwNdI2OToLFmDDT7-_io0RQGDHlaYkx3ovG3i-0Plnix1jpoIi2Dn1KfykF0Oi1G4gN-f59BHY2hOwQZ6UK2AFMPRhJoAqz1AyyhiSm97pkfzjcsrIJNTizWY4nTqzfTYTX4v5izSmOZbOf4jorp-BLB05haoOXhJo5oRNWJustmXlXhgLSFGAsTQEP_IrGK1yClWru4gFyqGDxFqSBQgIE3ingoKHHqAGoQGAB46K1uQdkAcEqAelz7ECqAfnnbECqAfonbECqAeD9rECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHnuqxAqgHn-qxAqgH-OuxAqgHvOqxAqgH7_GxAqgH_K-xAqgH1c4bqAe-2bECqAe_2bECqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAt1NDk3SjFmbkJya6gIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWMinjKzHmJgDYAGaCRtodHRwczovL3d3dy5jbG91ZGNhcHN1bGUuaW-xCQgEdjKQItjmyAkXyAmPAcgJwgHICZUCyAmXApgLAboLPggDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AIC2AEBgAIBiAIFugMJdmlhdGx6YWFh0AsS0gwCEAHaDCUKChCQ5cKc8Omr0CQSAgEDGg0YyqGDxFogqqSJjPcFQAFKAhAfmg0BEqoNAlVTyA0B0g3IAmh0dHBzOi8vd3d3LmNsb3VkY2Fwc3VsZS5pbz91dG1fdGVybT0mdXRtX2NhbXBhaWduPURlbWFuZCtHZW4rLSsyMDI2LTA5LTMwJnV0bV9zb3VyY2U9YWR3b3JkcyZ1dG1fbWVkaXVtPXBwYyZ1dG1faWQ9MjQzMDE4NTA4MjYmaHNhX2FjYz05Njk0ODQwNzU4JmhzYV9jYW09MjQzMDE4NTA4MjYmaHNhX2dycD0yMDM3Njc4MjkwMzQmaHNhX2FkPTgyNjQ5ODQ4NjAyMyZoc2Ffc3JjPXl0aWYmaHNhX3RndD1hdWQtMjQ5MjA1MTg5NTQ4NiZoc2Ffa3c9JmhzYV9tdD0maHNhX25ldD1hZHdvcmRzJmhzYV92ZXI9MyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjQzMDE4NTA4Mja4E____________wGwFAPAFYGAgEDQFQHYFQHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakX7QL6ZJz1Pg-6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMI-dWMrMeYmAMVEAApAR3fzAGpEAEYBSAAEgKwrPD_BwE&num=5&cid=CAASwgHkaFDIJQPkGfhy0sHIGIWBHQn5iBRrKTREt5lZYP-r9haKx-FqGIVULN5yWVy_gdhwvgLeNEjgrBRJGrfd5D8fl2E1a6RK5Lph_HZiU-dWJo1H29u1dIKuTXSbm9sSSCTdKVGtQIKUm2GAF4JINHtPH7F4OnArw_-ReOmxme3QEnJ1o5eqbtkxz7Q4OGrXwysYvE_DD-ii3FtxQzRjFB21C6vBRYU23yOvjlQy6rdnPD6wpzpkUIm3mQLrhRh0yttPiA&ad_cpn=%5BCPN%5D&sig=AOD64_2tyjSLiNeOhY5765deFqsf8rbFSQ&ctype=110&video_id=u497J1fnBrk&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "CloudCapsule",
+        "thumbnail": "https://yt3.ggpht.com/proxy/iWsDWaWWxUauMqb90oh62tCX4WLIK4hqWqSy2x0GHFJfruCW0QnB7Nsz8sL5LZXbMucC7Y26L8qNLc1twdNOBvmmSoqvilLk8xRXydChZzpfVlSng9oIOhGmQnl_cnAVjRQM8eFohVAihqZ9GWyKDVrWPVBLQn73mBZeOUUaNCETNNJYolwggMmwrc3nhjCXTF4FsF08srNrMA7byilgxA5E68jZZJufmmWYkL0bHJCmrU5jcUvny-Zxm8yPeeXHgWRC-FQ=w68-h68-nd"
+      },
+      "description": "Automated M365 security assessments for MSPs, mapped to CIS, NIST, and Essential 8.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/u497J1fnBrk/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIEsoKDAP&rs=AOn4CLDdjJsfJJkxDVLVLI0bTAAhVaTkEg"
+      }
+    }
+  ],
+  "video_results": [
+    {
+      "position_on_page": 2,
+      "title": "Power BI for Data Analytics - Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=FwjaHCVNBWA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=FwjaHCVNBWA",
+      "video_id": "FwjaHCVNBWA",
+      "channel": {
+        "name": "Luke Barousse",
+        "channel_id": "UCLLw7jmFsvfIVaUFsLs8mlQ",
+        "link": "https://www.youtube.com/@LukeBarousse",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_my6YXWfudW8qM_i1Na9IWEbiIUtVgb54u0XVVmtlYQig=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 1691099,
+      "length": "8:24:31",
+      "description": "FREE Course Files & Projects https://lukeb.co/powerbi-files Supporter Access: Problems, Certificate, & More ...",
+      "extensions": [
+        "1 product",
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/FwjaHCVNBWA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8Emngmd455eujjzAm-SXVqqERRg",
+        "rich": "https://i.ytimg.com/an_webp/FwjaHCVNBWA/mqdefault_6s.webp?du=3000&sqp=CMD0hNgG&rs=AOn4CLBj6faG7E2iR-usm2FqrhKTXfZBsA"
+      },
+      "chapters": [
+        {
+          "title": "Welcome",
+          "thumbnail": "https://i.ytimg.com/vi/FwjaHCVNBWA/hqdefault.jpg",
+          "time_start": 0
+        },
+        {
+          "title": "What is Power BI?",
+          "thumbnail": "https://i.ytimg.com/vi/FwjaHCVNBWA/hqdefault.jpg",
+          "time_start": 238
+        },
+        {
+          "title": "Course Intro",
+          "thumbnail": "https://i.ytimg.com/vi/FwjaHCVNBWA/hqdefault.jpg",
+          "time_start": 559
+        },
+        {
+          "title": "Power BI Desktop",
+          "thumbnail": "https://i.ytimg.com/vi/FwjaHCVNBWA/hqdefault.jpg",
+          "time_start": 787
+        },
+        {
+          "title": "Dashboard Build",
+          "thumbnail": "https://i.ytimg.com/vi/FwjaHCVNBWA/hqdefault.jpg",
+          "time_start": 2105
+        },
+        {
+          "title": "Power BI Service",
+          "thumbnail": "https://i.ytimg.com/vi/FwjaHCVNBWA/hqdefault.jpg",
+          "time_start": 3509
+        },
+        {
+          "title": "Column & Bar Charts",
+          "thumbnail": "https://i.ytimg.com/vi/FwjaHCVNBWA/hqdefault.jpg",
+          "time_start": 4407
+        },
+        {
+          "title": "Line & Area Charts",
+          "thumbnail": "https://i.ytimg.com/vi/FwjaHCVNBWA/hqdefault.jpg",
+          "time_start": 5536
+        },
+        {
+          "title": "Common Charts",
+          "thumbnail": "https://i.ytimg.com/vi/FwjaHCVNBWA/hqdefault.jpg",
+          "time_start": 6513
+        },
+        {
+          "title": "Map Charts",
+          "thumbnail": "https://i.ytimg.com/vi/FwjaHCVNBWA/hqdefault.jpg",
+          "time_start": 7499
+        },
+        {
+          "title": "Uncommon Charts",
+          "thumbnail": "https://i.ytimg.com/vi/FwjaHCVNBWA/hqdefault.jpg",
+          "time_start": 8265
+        },
+        {
+          "title": "Tables",
+          "thumbnail": "https://i.ytimg.com/vi/FwjaHCVNBWA/hqdefault.jpg",
+          "time_start": 9024
+        },
+        {
+          "title": "Cards",
+          "thumbnail": "https://i.ytimg.com/vi/FwjaHCVNBWA/hqdefault.jpg",
+          "time_start": 10068
+        },
+        {
+          "title": "Slicers",
+          "thumbnail": "https://i.ytimg.com/vi/FwjaHCVNBWA/hqdefault.jpg",
+          "time_start": 10643
+        },
+        {
+          "title": "Buttons & Bookmarks",
+          "thumbnail": "https://i.ytimg.com/vi/FwjaHCVNBWA/hqdefault.jpg",
+          "time_start": 11460
+        },
+        {
+          "title": "Main Dashboard",
+          "thumbnail": "https://i.ytimg.com/vi/FwjaHCVNBWA/hqdefault.jpg",
+          "time_start": 12377
+        },
+        {
+          "title": "Job Drill Through",
+          "thumbnail": "https://i.ytimg.com/vi/FwjaHCVNBWA/hqdefault.jpg",
+          "time_start": 13189
+        },
+        {
+          "title": "Share Dashboard",
+          "thumbnail": "https://i.ytimg.com/vi/FwjaHCVNBWA/hqdefault.jpg",
+          "time_start": 13775
+        },
+        {
+          "title": "Power Query Intro",
+          "thumbnail": "https://i.ytimg.com/vi/FwjaHCVNBWA/hqdefault.jpg",
+          "time_start": 15107
+        },
+        {
+          "title": "Power Query Editor",
+          "thumbnail": "https://i.ytimg.com/vi/FwjaHCVNBWA/hqdefault.jpg",
+          "time_start": 16452
+        },
+        {
+          "title": "Project #2: Data Import",
+          "thumbnail": "https://i.ytimg.com/vi/FwjaHCVNBWA/hqdefault.jpg",
+          "time_start": 17870
+        },
+        {
+          "title": "Advanced Transformations",
+          "thumbnail": "https://i.ytimg.com/vi/FwjaHCVNBWA/hqdefault.jpg",
+          "time_start": 19173
+        },
+        {
+          "title": "Append Vs Merge",
+          "thumbnail": "https://i.ytimg.com/vi/FwjaHCVNBWA/hqdefault.jpg",
+          "time_start": 20640
+        },
+        {
+          "title": "M Language",
+          "thumbnail": "https://i.ytimg.com/vi/FwjaHCVNBWA/hqdefault.jpg",
+          "time_start": 22204
+        },
+        {
+          "title": "DAX Intro",
+          "thumbnail": "https://i.ytimg.com/vi/FwjaHCVNBWA/hqdefault.jpg",
+          "time_start": 23557
+        },
+        {
+          "title": "Explicit Measures",
+          "thumbnail": "https://i.ytimg.com/vi/FwjaHCVNBWA/hqdefault.jpg",
+          "time_start": 25443
+        },
+        {
+          "title": "Parameters",
+          "thumbnail": "https://i.ytimg.com/vi/FwjaHCVNBWA/hqdefault.jpg",
+          "time_start": 27275
+        },
+        {
+          "title": "Dashboard Build",
+          "thumbnail": "https://i.ytimg.com/vi/FwjaHCVNBWA/hqdefault.jpg",
+          "time_start": 28155
+        },
+        {
+          "title": "Share Dashboard",
+          "thumbnail": "https://i.ytimg.com/vi/FwjaHCVNBWA/hqdefault.jpg",
+          "time_start": 29463
+        }
+      ]
+    },
+    {
+      "position_on_page": 3,
+      "title": "Learn Power BI in Under 3 Hours | Formatting, Visualizations, Dashboards + Full Project",
+      "link": "https://www.youtube.com/watch?v=I0vQ_VLZTWg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=I0vQ_VLZTWg",
+      "video_id": "I0vQ_VLZTWg",
+      "channel": {
+        "name": "Alex The Analyst",
+        "channel_id": "UC7cs8q-gJRlGwj4A8OmCmXg",
+        "link": "https://www.youtube.com/@AlexTheAnalyst",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l9wLnClpLKJeVmP5XwHy4NF_Gu13GfyRT1WTZDaSYS-g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1098923,
+      "length": "2:05:18",
+      "description": "Take my Full Power BI Course Here: https://www.analystbuilder.com/courses/microsoft-power-bi-desktop-for-business-intelligence ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/I0vQ_VLZTWg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNoG-GlNUOQyhMKwLDqv7xd_DrIQ",
+        "rich": "https://i.ytimg.com/an_webp/I0vQ_VLZTWg/mqdefault_6s.webp?du=3000&sqp=CLDdhNgG&rs=AOn4CLAMg_0s-6hEOHMER2zJqiJxSwhMKA"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/I0vQ_VLZTWg/hqdefault_27166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhQ6OxeQk-7aTN5Jx8Ed_3OM5iQg",
+          "time_start": 0
+        },
+        {
+          "title": "Download and UI Walkthrough",
+          "thumbnail": "https://i.ytimg.com/vi/I0vQ_VLZTWg/hqdefault_52166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlU5OXqrf8BlQM7-o_iok5WRifeA",
+          "time_start": 52
+        },
+        {
+          "title": "Power Query",
+          "thumbnail": "https://i.ytimg.com/vi/I0vQ_VLZTWg/hqdefault_730800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnYnzrMGSo2ewX4cqRCHEoLsZtSQ",
+          "time_start": 719
+        },
+        {
+          "title": "Joins and Relationships",
+          "thumbnail": "https://i.ytimg.com/vi/I0vQ_VLZTWg/hqdefault_1460833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdx5kMYFLkXs0stS9K20s1qNtPzg",
+          "time_start": 1454
+        },
+        {
+          "title": "DAX",
+          "thumbnail": "https://i.ytimg.com/vi/I0vQ_VLZTWg/hqdefault_1939800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmg2dUuO5Ud4koKufgGUD4aiovsw",
+          "time_start": 1917
+        },
+        {
+          "title": "Drill Down",
+          "thumbnail": "https://i.ytimg.com/vi/I0vQ_VLZTWg/hqdefault_2830733.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCS9_0s0hsC0OFgiFRVFDSZ79jBzw",
+          "time_start": 2801
+        },
+        {
+          "title": "Groups",
+          "thumbnail": "https://i.ytimg.com/vi/I0vQ_VLZTWg/hqdefault_3108166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8DDlobOsMHJa5Waq52uP6JZSfeg",
+          "time_start": 3108
+        },
+        {
+          "title": "Conditional Formatting",
+          "thumbnail": "https://i.ytimg.com/vi/I0vQ_VLZTWg/hqdefault_3628266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9a6WeuD7-BZQkEJWoBF3oVdD2og",
+          "time_start": 3628
+        },
+        {
+          "title": "Visualizations",
+          "thumbnail": "https://i.ytimg.com/vi/I0vQ_VLZTWg/hqdefault_4177166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBs34EqZJdZd74uTObBV9DUQjdM2w",
+          "time_start": 4166
+        },
+        {
+          "title": "Full Project",
+          "thumbnail": "https://i.ytimg.com/vi/I0vQ_VLZTWg/hqdefault_4989866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBor5z30zQUYmFFREXW0LxhXd59iQ",
+          "time_start": 4960
+        }
+      ]
+    },
+    {
+      "position_on_page": 9,
+      "title": "Learn Power BI FAST – Full Beginner Crash Course (1 Hour)",
+      "link": "https://www.youtube.com/watch?v=WdCltDhmRLo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=WdCltDhmRLo",
+      "video_id": "WdCltDhmRLo",
+      "channel": {
+        "name": "Data with Baraa",
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "link": "https://www.youtube.com/@DataWithBaraa",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/dqs3pZO_8d4K2zp2ebhb2klV_zOqfNrNTViTHggfJPrvMVCRvypJW8BGksEdQqYTPWdai3wUDg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "11mo ago",
+      "views": 423628,
+      "length": "45:54",
+      "description": "Learn Power BI from zero in under 1 hour. This fast Power BI crash course for beginners takes you through the full Power BI ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/WdCltDhmRLo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXA0o_xqZ3o3MEwQOwDRHsQOWAwA",
+        "rich": "https://i.ytimg.com/an_webp/WdCltDhmRLo/mqdefault_6s.webp?du=3000&sqp=CKiShdgG&rs=AOn4CLAZ9QcqEVcl5CmXEqShCjr3VyTsdQ"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/WdCltDhmRLo/hqdefault.jpg",
+          "time_start": 0
+        },
+        {
+          "title": "Power BI Desktop",
+          "thumbnail": "https://i.ytimg.com/vi/WdCltDhmRLo/hqdefault.jpg",
+          "time_start": 56
+        },
+        {
+          "title": "Download & Install Power BI",
+          "thumbnail": "https://i.ytimg.com/vi/WdCltDhmRLo/hqdefault.jpg",
+          "time_start": 87
+        },
+        {
+          "title": "Connect Data",
+          "thumbnail": "https://i.ytimg.com/vi/WdCltDhmRLo/hqdefault.jpg",
+          "time_start": 303
+        },
+        {
+          "title": "Model View",
+          "thumbnail": "https://i.ytimg.com/vi/WdCltDhmRLo/hqdefault.jpg",
+          "time_start": 423
+        },
+        {
+          "title": "Table View",
+          "thumbnail": "https://i.ytimg.com/vi/WdCltDhmRLo/hqdefault.jpg",
+          "time_start": 673
+        },
+        {
+          "title": "DAX",
+          "thumbnail": "https://i.ytimg.com/vi/WdCltDhmRLo/hqdefault.jpg",
+          "time_start": 880
+        },
+        {
+          "title": "Power Query",
+          "thumbnail": "https://i.ytimg.com/vi/WdCltDhmRLo/hqdefault.jpg",
+          "time_start": 1069
+        },
+        {
+          "title": "Save Your Work (PBIX)",
+          "thumbnail": "https://i.ytimg.com/vi/WdCltDhmRLo/hqdefault.jpg",
+          "time_start": 1287
+        },
+        {
+          "title": "Build Your First Dashboard",
+          "thumbnail": "https://i.ytimg.com/vi/WdCltDhmRLo/hqdefault.jpg",
+          "time_start": 1354
+        },
+        {
+          "title": "Power BI Service",
+          "thumbnail": "https://i.ytimg.com/vi/WdCltDhmRLo/hqdefault.jpg",
+          "time_start": 2039
+        },
+        {
+          "title": "Create Service Account",
+          "thumbnail": "https://i.ytimg.com/vi/WdCltDhmRLo/hqdefault.jpg",
+          "time_start": 2084
+        },
+        {
+          "title": "Service UI",
+          "thumbnail": "https://i.ytimg.com/vi/WdCltDhmRLo/hqdefault.jpg",
+          "time_start": 2264
+        },
+        {
+          "title": "Publish to Service",
+          "thumbnail": "https://i.ytimg.com/vi/WdCltDhmRLo/hqdefault.jpg",
+          "time_start": 2345
+        },
+        {
+          "title": "Interact with Dashboard in Service",
+          "thumbnail": "https://i.ytimg.com/vi/WdCltDhmRLo/hqdefault.jpg",
+          "time_start": 2387
+        },
+        {
+          "title": "Power BI Mobile",
+          "thumbnail": "https://i.ytimg.com/vi/WdCltDhmRLo/hqdefault.jpg",
+          "time_start": 2588
+        }
+      ]
+    },
+    {
+      "position_on_page": 13,
+      "title": "Power BI Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=VaOhNqNtGGE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VaOhNqNtGGE",
+      "video_id": "VaOhNqNtGGE",
+      "channel": {
+        "name": "Kevin Stratvert",
+        "channel_id": "UCfJT_eYDTmDE-ovKaxVE1ig",
+        "link": "https://www.youtube.com/@KevinStratvert",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/FHaircC3fnPqOhk3M4POJQlPF2_yVnCj5W60SNbFL_zK5jzmJ5mNyFVaoLKZufC4uPo4WP8gQw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 2293311,
+      "length": "12:11",
+      "description": "Want to learn Power BI fast? Start with this beginner-friendly tutorial where you'll import data, clean it, build your first interactive ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/VaOhNqNtGGE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASVGZ_aUFFY8_nKXBVqA-1FOvIZw",
+        "rich": "https://i.ytimg.com/an_webp/VaOhNqNtGGE/mqdefault_6s.webp?du=3000&sqp=CLX5hNgG&rs=AOn4CLCrjkP5G5yRYyjJn7Juuc4cNwSREw"
+      },
+      "chapters": [
+        {
+          "title": "Intro & What You’ll Learn",
+          "thumbnail": "https://i.ytimg.com/vi/VaOhNqNtGGE/hqdefault_900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3w_7D34noZJi9ge79QGIqhjtu5Q",
+          "time_start": 0
+        },
+        {
+          "title": "Install Power BI Desktop",
+          "thumbnail": "https://i.ytimg.com/vi/VaOhNqNtGGE/hqdefault_19133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGE5jJcZ7_wjSw8cPiCg3FRvpFEw",
+          "time_start": 16
+        },
+        {
+          "title": "Explore the Home Screen",
+          "thumbnail": "https://i.ytimg.com/vi/VaOhNqNtGGE/hqdefault_77966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_7sxVt64HMgSP2K2b8EXsPUudMw",
+          "time_start": 53
+        },
+        {
+          "title": "Import Data into Power BI",
+          "thumbnail": "https://i.ytimg.com/vi/VaOhNqNtGGE/hqdefault_84833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJMGjmnFt5XSlrScUC2x5BCMWsDw",
+          "time_start": 80
+        },
+        {
+          "title": "Preview Data in Navigator",
+          "thumbnail": "https://i.ytimg.com/vi/VaOhNqNtGGE/hqdefault_140800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD70kjoRCKZFZniy_sN5jdGR-JHKg",
+          "time_start": 114
+        },
+        {
+          "title": "Learn More with DataCamp & Certification",
+          "thumbnail": "https://i.ytimg.com/vi/VaOhNqNtGGE/hqdefault_176900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOroqSg-LoUR9c1ncHhhab2r1Vug",
+          "time_start": 174
+        },
+        {
+          "title": "Clean Data in Power Query Editor",
+          "thumbnail": "https://i.ytimg.com/vi/VaOhNqNtGGE/hqdefault_245066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAri8jTSHoXYL5fw55FA8mHIGxl6A",
+          "time_start": 245
+        },
+        {
+          "title": "Remove Unneeded Columns",
+          "thumbnail": "https://i.ytimg.com/vi/VaOhNqNtGGE/hqdefault_272733.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAt2p1CeDbVilGnPUkcaIjaiCcvUw",
+          "time_start": 265
+        },
+        {
+          "title": "Verify Data Types",
+          "thumbnail": "https://i.ytimg.com/vi/VaOhNqNtGGE/hqdefault_298266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6NDvc-bt5vIWIXzV0QuJ2abjqlw",
+          "time_start": 289
+        },
+        {
+          "title": "Use Applied Steps History",
+          "thumbnail": "https://i.ytimg.com/vi/VaOhNqNtGGE/hqdefault_327833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDPZk9jT-BP81IUo46U6hpVtB8gQ",
+          "time_start": 309
+        },
+        {
+          "title": "Fix Missing Headers",
+          "thumbnail": "https://i.ytimg.com/vi/VaOhNqNtGGE/hqdefault_340333.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXacMKcRu6muWKXg0_oJkbcewj5g",
+          "time_start": 340
+        },
+        {
+          "title": "Standardize Country Names",
+          "thumbnail": "https://i.ytimg.com/vi/VaOhNqNtGGE/hqdefault_396266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOW-CN5q52rHfCRr9PoBl2Z822mA",
+          "time_start": 374
+        },
+        {
+          "title": "Set Up Relationships in Model View",
+          "thumbnail": "https://i.ytimg.com/vi/VaOhNqNtGGE/hqdefault_439133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBkZgR21U3PkQsDTdntBv2KCmFlw",
+          "time_start": 431
+        },
+        {
+          "title": "Build a Line Chart for Cookies Shipped",
+          "thumbnail": "https://i.ytimg.com/vi/VaOhNqNtGGE/hqdefault_482100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIVQV5g5XdVdtHL5qXPStqK-ndKA",
+          "time_start": 482
+        },
+        {
+          "title": "Create a Revenue Card Visual",
+          "thumbnail": "https://i.ytimg.com/vi/VaOhNqNtGGE/hqdefault_595066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBrGa_I6UF-YgJQOX-DbpD2-j1Xw",
+          "time_start": 566
+        },
+        {
+          "title": "Add Customer Table & Interactivity",
+          "thumbnail": "https://i.ytimg.com/vi/VaOhNqNtGGE/hqdefault_597100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlq_Opd1yrlkX-1KzMnDb6Rn_wjw",
+          "time_start": 597
+        },
+        {
+          "title": "Publish Your Report to the Web",
+          "thumbnail": "https://i.ytimg.com/vi/VaOhNqNtGGE/hqdefault_661066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQRNjy1xPuJnoocW8stJDcwXDX2Q",
+          "time_start": 652
+        },
+        {
+          "title": "Wrap up",
+          "thumbnail": "https://i.ytimg.com/vi/VaOhNqNtGGE/hqdefault_702033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPUJRag0QOQJ4_CpzmDtbSDC6v5g",
+          "time_start": 695
+        }
+      ]
+    },
+    {
+      "position_on_page": 15,
+      "title": "Power BI Full Course Tutorial (8+ Hours)",
+      "link": "https://www.youtube.com/watch?v=e6QD8lP-m6E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=e6QD8lP-m6E",
+      "video_id": "e6QD8lP-m6E",
+      "channel": {
+        "name": "Learn Skills Daily",
+        "channel_id": "UCqyBfm_H9ugGirk1ufYA2YA",
+        "link": "https://www.youtube.com/@learnskillsdaily",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/WwrBREpkRbdALebIg_xlBFBSwc7H8_tBcqgjLSP4fpZkMcPp3hSledFRan866itfUwsEKg-AUQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 2544933,
+      "length": "8:19:42",
+      "description": "Power BI Full Course Tutorial (8+ Hours) Join Learn Skills Daily for ad-free training, exams, certificates, and exclusive content: ...",
+      "extensions": [
+        "3 products",
+        "Earns commission"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/e6QD8lP-m6E/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-cBUDDaP-Pi1A34BjrZFFsmm_zg"
+      },
+      "chapters": [
+        {
+          "title": "Start",
+          "thumbnail": "https://i.ytimg.com/vi/e6QD8lP-m6E/hqdefault.jpg",
+          "time_start": 0
+        },
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/e6QD8lP-m6E/hqdefault.jpg",
+          "time_start": 3
+        },
+        {
+          "title": "Introduction to Data Analytics and Power BI",
+          "thumbnail": "https://i.ytimg.com/vi/e6QD8lP-m6E/hqdefault.jpg",
+          "time_start": 316
+        },
+        {
+          "title": "Data Shaping",
+          "thumbnail": "https://i.ytimg.com/vi/e6QD8lP-m6E/hqdefault.jpg",
+          "time_start": 5753
+        },
+        {
+          "title": "Enhancing Data Structure",
+          "thumbnail": "https://i.ytimg.com/vi/e6QD8lP-m6E/hqdefault.jpg",
+          "time_start": 6589
+        },
+        {
+          "title": "Designing Data Model",
+          "thumbnail": "https://i.ytimg.com/vi/e6QD8lP-m6E/hqdefault.jpg",
+          "time_start": 7321
+        },
+        {
+          "title": "DAX",
+          "thumbnail": "https://i.ytimg.com/vi/e6QD8lP-m6E/hqdefault.jpg",
+          "time_start": 9518
+        },
+        {
+          "title": "Optimizing Model Performance",
+          "thumbnail": "https://i.ytimg.com/vi/e6QD8lP-m6E/hqdefault.jpg",
+          "time_start": 12798
+        },
+        {
+          "title": "Reports and Accessibility",
+          "thumbnail": "https://i.ytimg.com/vi/e6QD8lP-m6E/hqdefault.jpg",
+          "time_start": 14474
+        },
+        {
+          "title": "Dashboards",
+          "thumbnail": "https://i.ytimg.com/vi/e6QD8lP-m6E/hqdefault.jpg",
+          "time_start": 18949
+        },
+        {
+          "title": "Paginated Reports",
+          "thumbnail": "https://i.ytimg.com/vi/e6QD8lP-m6E/hqdefault.jpg",
+          "time_start": 22821
+        },
+        {
+          "title": "Performing Advanced Analytics",
+          "thumbnail": "https://i.ytimg.com/vi/e6QD8lP-m6E/hqdefault.jpg",
+          "time_start": 24894
+        },
+        {
+          "title": "Managing Workspaces",
+          "thumbnail": "https://i.ytimg.com/vi/e6QD8lP-m6E/hqdefault.jpg",
+          "time_start": 27888
+        },
+        {
+          "title": "Managing Datasets",
+          "thumbnail": "https://i.ytimg.com/vi/e6QD8lP-m6E/hqdefault.jpg",
+          "time_start": 28986
+        },
+        {
+          "title": "Conclusion",
+          "thumbnail": "https://i.ytimg.com/vi/e6QD8lP-m6E/hqdefault.jpg",
+          "time_start": 29900
+        }
+      ]
+    },
+    {
+      "position_on_page": 16,
+      "title": "Power Query Masterclass for Power BI | Complete 2 Hour Tutorial",
+      "link": "https://www.youtube.com/watch?v=PNPenl9rLus",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=PNPenl9rLus",
+      "video_id": "PNPenl9rLus",
+      "channel": {
+        "name": "Data with Baraa",
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "link": "https://www.youtube.com/@DataWithBaraa",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/dqs3pZO_8d4K2zp2ebhb2klV_zOqfNrNTViTHggfJPrvMVCRvypJW8BGksEdQqYTPWdai3wUDg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6mo ago",
+      "views": 68024,
+      "length": "1:57:28",
+      "description": "My complete 2-hour guide to Power Query in Power BI. - *Free Power BI materials* https://www.datawithbaraa.com/wiki/power-bi ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/PNPenl9rLus/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDV54r-H4EKCqr_qmsxhA4O2GmNXw",
+        "rich": "https://i.ytimg.com/an_webp/PNPenl9rLus/mqdefault_6s.webp?du=3000&sqp=CJbnhNgG&rs=AOn4CLCEbVDrKgUhI3QnBPMdTDhIAqLeBA"
+      },
+      "chapters": [
+        {
+          "title": "What is Power Query",
+          "thumbnail": "https://i.ytimg.com/vi/PNPenl9rLus/hqdefault_12000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8TI2t4z9cz3BAbaKax6bb2XlwCw",
+          "time_start": 0
+        },
+        {
+          "title": "How Power Query Works",
+          "thumbnail": "https://i.ytimg.com/vi/PNPenl9rLus/hqdefault_109966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7HCMCvMuMNng7-O8OMrJdJLa2fw",
+          "time_start": 109
+        },
+        {
+          "title": "Data Team vs Solo Analyst",
+          "thumbnail": "https://i.ytimg.com/vi/PNPenl9rLus/hqdefault_250200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsq0xUqdl3WizBpfe-kuc32GsyKQ",
+          "time_start": 248
+        },
+        {
+          "title": "Power Query Editor",
+          "thumbnail": "https://i.ytimg.com/vi/PNPenl9rLus/hqdefault_402900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyBF7FFX-1Su5XjWRCydMZ0P_9ag",
+          "time_start": 383
+        },
+        {
+          "title": "Applied Steps and Their Order",
+          "thumbnail": "https://i.ytimg.com/vi/PNPenl9rLus/hqdefault_672066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsyF1UelHWh_U68HuVhNkiYTEMmw",
+          "time_start": 672
+        },
+        {
+          "title": "Remove Unnecessary Columns and Rows",
+          "thumbnail": "https://i.ytimg.com/vi/PNPenl9rLus/hqdefault_995300.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDR9tlndipWoCTj00ZU8YdLkC1LnQ",
+          "time_start": 992
+        },
+        {
+          "title": "Remove Duplicates",
+          "thumbnail": "https://i.ytimg.com/vi/PNPenl9rLus/hqdefault_1185200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAquuypYLsb3SYr2bliuN83q3xxQ",
+          "time_start": 1184
+        },
+        {
+          "title": "Clean Text, Numbers and Dates",
+          "thumbnail": "https://i.ytimg.com/vi/PNPenl9rLus/hqdefault_1436933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfIiMywtklARCFd8eRqag6q2NaJg",
+          "time_start": 1411
+        },
+        {
+          "title": "Handle Missing Values",
+          "thumbnail": "https://i.ytimg.com/vi/PNPenl9rLus/hqdefault_2477900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTXRxbsYu7CYZWbUUhzNKRceLQxQ",
+          "time_start": 2454
+        },
+        {
+          "title": "Split, Merge and Extract Columns",
+          "thumbnail": "https://i.ytimg.com/vi/PNPenl9rLus/hqdefault_3022700.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLoJfWQUSoq7ZDZXsXj0p640BROQ",
+          "time_start": 3021
+        },
+        {
+          "title": "Merge Queries and Join Types",
+          "thumbnail": "https://i.ytimg.com/vi/PNPenl9rLus/hqdefault_3728733.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3r4kd5UrkUUi68WNhJhdxuFvGQg",
+          "time_start": 3727
+        },
+        {
+          "title": "Append Queries",
+          "thumbnail": "https://i.ytimg.com/vi/PNPenl9rLus/hqdefault_4880766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNkyOztQxfhe3f9uICez-rUE9cpw",
+          "time_start": 4852
+        },
+        {
+          "title": "Housekeeping and Recap",
+          "thumbnail": "https://i.ytimg.com/vi/PNPenl9rLus/hqdefault_5153800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYScB3XJxdgynBJcVNbsxaRtcEgg",
+          "time_start": 5153
+        },
+        {
+          "title": "Pivot and Unpivot",
+          "thumbnail": "https://i.ytimg.com/vi/PNPenl9rLus/hqdefault_5620233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAz_f5XiB408Rou0g3IGl9zTEhxjQ",
+          "time_start": 5619
+        },
+        {
+          "title": "Duplicate vs Reference Queries",
+          "thumbnail": "https://i.ytimg.com/vi/PNPenl9rLus/hqdefault_6359033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAb7fvuK2iDvF57NIEAkyf6bhY0HA",
+          "time_start": 6342
+        }
+      ]
+    },
+    {
+      "position_on_page": 19,
+      "title": "Learn Power BI - Full Data Analyst Course for 2026",
+      "link": "https://www.youtube.com/watch?v=keDIUQCVhtA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=keDIUQCVhtA",
+      "video_id": "keDIUQCVhtA",
+      "channel": {
+        "name": "Boot dev and Alex The Analyst",
+        "thumbnail": "https://yt3.ggpht.com/0gHrwiWK5GBK6HpbIq9p7zGJRe1b-qIc84nKQ11LFOdAikL_68rq60jnS6yel2qgh3oCgQIF=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6mo ago",
+      "views": 72284,
+      "length": "4:37:57",
+      "description": "Use code \"ALEXTHEANALYST\" for 25% off your first payment on a yearly plan. Learn Data Visualization with Power BI ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/keDIUQCVhtA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNMIJnIQNhgTpxTpzOelAFTdppRg",
+        "rich": "https://i.ytimg.com/an_webp/keDIUQCVhtA/mqdefault_6s.webp?du=3000&sqp=COCEhdgG&rs=AOn4CLCYyemUTYrgadvnCCTY_-TabJISlQ"
+      },
+      "chapters": [
+        {
+          "title": "Intro to the Course",
+          "thumbnail": "https://i.ytimg.com/vi/keDIUQCVhtA/hqdefault_12066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHP8is9m73OmTV61ZWP4fs3pE1mQ",
+          "time_start": 0
+        },
+        {
+          "title": "Chapter 1 - Data Sources",
+          "thumbnail": "https://i.ytimg.com/vi/keDIUQCVhtA/hqdefault_310000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuR_b54Lu6tf71GxarxA6VKsIPCA",
+          "time_start": 297
+        },
+        {
+          "title": "Chapter 2 - Basic Charts",
+          "thumbnail": "https://i.ytimg.com/vi/keDIUQCVhtA/hqdefault_2153800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgDC3CqeZT96IDO0CR3KXqM8C-uA",
+          "time_start": 2147
+        },
+        {
+          "title": "Chapter 3 - Color",
+          "thumbnail": "https://i.ytimg.com/vi/keDIUQCVhtA/hqdefault_3445800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJpcBIiR-QLyywEfIw5lQdQ0mOaQ",
+          "time_start": 3439
+        },
+        {
+          "title": "Chapter 4 - Data Preparation",
+          "thumbnail": "https://i.ytimg.com/vi/keDIUQCVhtA/hqdefault_4056866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRvFvOvFLhSnqjDDy5IqNTF4PPag",
+          "time_start": 4049
+        },
+        {
+          "title": "Chapter 5 - Data Modeling",
+          "thumbnail": "https://i.ytimg.com/vi/keDIUQCVhtA/hqdefault_5898100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBi8L5JM6Q5o0PRuLV1ENQrmsD0Ow",
+          "time_start": 5890
+        },
+        {
+          "title": "Chapter 6 - DAX",
+          "thumbnail": "https://i.ytimg.com/vi/keDIUQCVhtA/hqdefault_7474900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClz0aYvNXLWmzD00xvtZZsjXpmWA",
+          "time_start": 7468
+        },
+        {
+          "title": "Chapter 7 - More Charts",
+          "thumbnail": "https://i.ytimg.com/vi/keDIUQCVhtA/hqdefault_10605766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVqmwn4Uaa_0vHs_Fwa7ny7kvlMQ",
+          "time_start": 10594
+        },
+        {
+          "title": "Chapter 8 - Dashboards",
+          "thumbnail": "https://i.ytimg.com/vi/keDIUQCVhtA/hqdefault_13014933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWMldVjzJEY8643xPX_8qIF6asiQ",
+          "time_start": 12987
+        },
+        {
+          "title": "Chapter 9 - Collaboration",
+          "thumbnail": "https://i.ytimg.com/vi/keDIUQCVhtA/hqdefault_15642833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGD_YLLQ1OgFjH1GtJ8qDmZnjjvw",
+          "time_start": 15636
+        }
+      ]
+    },
+    {
+      "position_on_page": 21,
+      "title": "Beginner to PRO Data Analysis with Power BI - Full Length Course (with sample files!)",
+      "link": "https://www.youtube.com/watch?v=uwe8C7K8fXY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=uwe8C7K8fXY",
+      "video_id": "uwe8C7K8fXY",
+      "channel": {
+        "name": "Chandoo",
+        "channel_id": "UC8uU_wruBMHeeRma49dtZKA",
+        "link": "https://www.youtube.com/@chandoo_",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n_wMqn3mAO7vDs1s74bHiFXXv24ckFsv2mnV1US8mS_w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 1248224,
+      "length": "42:50",
+      "description": "You asked for it. Here is a complete and in-depth course on how to use Power BI for data analysis. We are going to cover powerful ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/uwe8C7K8fXY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8n0GN2JD2KTyqgbw7Jgb53YryMQ",
+        "rich": "https://i.ytimg.com/an_webp/uwe8C7K8fXY/mqdefault_6s.webp?du=3000&sqp=CNT-hNgG&rs=AOn4CLASW1icYUgrX71DxhhKRN1soubcmg"
+      },
+      "chapters": [
+        {
+          "title": "Welcome to Data Analysis with Power BI Course",
+          "thumbnail": "https://i.ytimg.com/vi/uwe8C7K8fXY/hqdefault_4933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPn3hd5Awd2GfOPzSA0HGe0lCvCA",
+          "time_start": 0
+        },
+        {
+          "title": "Power BI Desktop (how to get it)",
+          "thumbnail": "https://i.ytimg.com/vi/uwe8C7K8fXY/hqdefault_139833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqEPVVZ8fwWpXP8IbyO8iHx3QHsA",
+          "time_start": 110
+        },
+        {
+          "title": "Power BI Desktop Screen Explained",
+          "thumbnail": "https://i.ytimg.com/vi/uwe8C7K8fXY/hqdefault_177800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgv_3ez7fA0QYFyL5XbkDzrpayhQ",
+          "time_start": 170
+        },
+        {
+          "title": "Sample Data file explained",
+          "thumbnail": "https://i.ytimg.com/vi/uwe8C7K8fXY/hqdefault_291800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmwjw-g_9j7YTBjiW7C-DC12Qn0g",
+          "time_start": 282
+        },
+        {
+          "title": "Loading data into Power BI",
+          "thumbnail": "https://i.ytimg.com/vi/uwe8C7K8fXY/hqdefault_358266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLqYMzzIReZWXWf_M7N5WeoM2VBA",
+          "time_start": 358
+        },
+        {
+          "title": "Setting up the data model in Power BI (star schema)",
+          "thumbnail": "https://i.ytimg.com/vi/uwe8C7K8fXY/hqdefault_460300.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBD4-KAYINBAu6_3uG0LjKVCg27Xg",
+          "time_start": 444
+        },
+        {
+          "title": "Creating our first charts in Power BI",
+          "thumbnail": "https://i.ytimg.com/vi/uwe8C7K8fXY/hqdefault_577200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMpzsQnx_cSTe5xELXTIxxrVQvnA",
+          "time_start": 570
+        },
+        {
+          "title": "Fixing data problems (data clean-up with Power Query)",
+          "thumbnail": "https://i.ytimg.com/vi/uwe8C7K8fXY/hqdefault_651133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAV_MeQDeemKXoxpiQaJnA4fQicng",
+          "time_start": 638
+        },
+        {
+          "title": "Adding \"amount by sales persons / team\" chart",
+          "thumbnail": "https://i.ytimg.com/vi/uwe8C7K8fXY/hqdefault_798100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbYMphBxS0I2_csApZYLmmfXvtIA",
+          "time_start": 796
+        },
+        {
+          "title": "Interactive nature of Power BI",
+          "thumbnail": "https://i.ytimg.com/vi/uwe8C7K8fXY/hqdefault_860133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBl-euWRvkfrmCtXVT7MJH0W5vx1g",
+          "time_start": 833
+        },
+        {
+          "title": "Fixing \"blank\" team problem",
+          "thumbnail": "https://i.ytimg.com/vi/uwe8C7K8fXY/hqdefault_947133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5vguEC8Rp-YptNGC8PfQQb4sGkg",
+          "time_start": 921
+        },
+        {
+          "title": "Saving Power BI workbooks",
+          "thumbnail": "https://i.ytimg.com/vi/uwe8C7K8fXY/hqdefault_993333.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBj0uIiRIg_bV7Mehj1MIdwvvwJ1w",
+          "time_start": 993
+        },
+        {
+          "title": "Analyzing Sales Peron Performance in Power BI",
+          "thumbnail": "https://i.ytimg.com/vi/uwe8C7K8fXY/hqdefault_1014133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdGsHxB1EMCNWDRYX-22QsrtqCCw",
+          "time_start": 1008
+        },
+        {
+          "title": "Adding \"Measures\" with DAX in Power BI",
+          "thumbnail": "https://i.ytimg.com/vi/uwe8C7K8fXY/hqdefault_1099066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVnJ9jSgeQxIEoSfBpB4FrxMJBAQ",
+          "time_start": 1072
+        },
+        {
+          "title": "Using Slicers to filter visual / page level data",
+          "thumbnail": "https://i.ytimg.com/vi/uwe8C7K8fXY/hqdefault_1212933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNAww50yDFIA4CJDA-qVE7d3Oi1A",
+          "time_start": 1206
+        },
+        {
+          "title": "Formatting the visuals",
+          "thumbnail": "https://i.ytimg.com/vi/uwe8C7K8fXY/hqdefault_1244000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvQbwPyDK3w_ABjkEw7Gi5ydDm4A",
+          "time_start": 1241
+        },
+        {
+          "title": "Adding more \"measures\"",
+          "thumbnail": "https://i.ytimg.com/vi/uwe8C7K8fXY/hqdefault_1344866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4fAvUim7Ia-7p4UHBrM4jWvLFaA",
+          "time_start": 1342
+        },
+        {
+          "title": "How to setup conditional formatting on the visuals",
+          "thumbnail": "https://i.ytimg.com/vi/uwe8C7K8fXY/hqdefault_1516900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPfPz7futUYjOmgK1iNUpxKBmy2Q",
+          "time_start": 1500
+        },
+        {
+          "title": "Adding \"WOW\" factor to the report",
+          "thumbnail": "https://i.ytimg.com/vi/uwe8C7K8fXY/hqdefault_1615833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcWpxN1KfkzXbGcDnLI35HeMDmJw",
+          "time_start": 1592
+        },
+        {
+          "title": "More visuals & controlling the interactions",
+          "thumbnail": "https://i.ytimg.com/vi/uwe8C7K8fXY/hqdefault_1699766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUoY3KeCpa6U4hdeHYojcQAOaxJQ",
+          "time_start": 1691
+        },
+        {
+          "title": "Adding \"titles & logos\" on the report",
+          "thumbnail": "https://i.ytimg.com/vi/uwe8C7K8fXY/hqdefault_1870266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMUjMSb6SCV1nlB83zveVIascfMA",
+          "time_start": 1864
+        },
+        {
+          "title": "How to do \"trend analysis\" in Power BI",
+          "thumbnail": "https://i.ytimg.com/vi/uwe8C7K8fXY/hqdefault_1984033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5i6sr5tUnTpS3-LgAX2iJnQsb7g",
+          "time_start": 1981
+        },
+        {
+          "title": "Forecasting Power BI",
+          "thumbnail": "https://i.ytimg.com/vi/uwe8C7K8fXY/hqdefault_2169166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDy-eZqG0a0srhib-KMsvsep0LM9A",
+          "time_start": 2162
+        },
+        {
+          "title": "How to save & publish Power BI reports",
+          "thumbnail": "https://i.ytimg.com/vi/uwe8C7K8fXY/hqdefault_2265933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaqnz6Vi2bm5_yuQsx7KZ9tKWgwQ",
+          "time_start": 2264
+        },
+        {
+          "title": "Refreshing with new data",
+          "thumbnail": "https://i.ytimg.com/vi/uwe8C7K8fXY/hqdefault_2391133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqcLhUHCFTFA8BkKzBNms0fWQu9A",
+          "time_start": 2385
+        },
+        {
+          "title": "How to learn more about Power BI?",
+          "thumbnail": "https://i.ytimg.com/vi/uwe8C7K8fXY/hqdefault_2477033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyuyvzaUWhzWyOKLF4sdUj8n2tpg",
+          "time_start": 2470
+        }
+      ]
+    },
+    {
+      "position_on_page": 24,
+      "title": "How I Would Learn PowerBI FAST (If I Could Start Over in 2025)",
+      "link": "https://www.youtube.com/watch?v=tuePYaI_5Z4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tuePYaI_5Z4",
+      "video_id": "tuePYaI_5Z4",
+      "channel": {
+        "name": "Mo Chen",
+        "channel_id": "UCDybamfye5An6p-j1t2YMsg",
+        "link": "https://www.youtube.com/@mo-chen",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/IBFVxGLOQjpvl2y38TMqvalSq0llMz87qpDVZnK0Faw7d_PWSElx6R0UlBoKVEfdszMoBHP7Uq0=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 80664,
+      "length": "8:35",
+      "description": "POWER BI FUNDAMENTALS: https://datacamp.pxf.io/Qj6Pvx POWER BI DATA ANALYST CERTIFICATION: ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/tuePYaI_5Z4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuUrFkogkZSbvuNtbmpsGoBRUUhg",
+        "rich": "https://i.ytimg.com/an_webp/tuePYaI_5Z4/mqdefault_6s.webp?du=3000&sqp=CPiAhdgG&rs=AOn4CLDIrPoxzpopX_IS3Pl0tfO35FOQ-A"
+      },
+      "chapters": [
+        {
+          "title": "Three Step Roadmap",
+          "thumbnail": "https://i.ytimg.com/vi/tuePYaI_5Z4/hqdefault_17866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYEvvMtPNsypuy8PKiWd0OTfwOzQ",
+          "time_start": 0
+        },
+        {
+          "title": "Step 1",
+          "thumbnail": "https://i.ytimg.com/vi/tuePYaI_5Z4/hqdefault_78900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCM2DzG6Z3wWsuZ1FEgimDcDCEvnw",
+          "time_start": 65
+        },
+        {
+          "title": "Step 2",
+          "thumbnail": "https://i.ytimg.com/vi/tuePYaI_5Z4/hqdefault_248966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvXXuDF7hFzkZv8P1V3xjUT0CU5Q",
+          "time_start": 224
+        },
+        {
+          "title": "Step 3",
+          "thumbnail": "https://i.ytimg.com/vi/tuePYaI_5Z4/hqdefault_344766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAC88ww_YCeVRGmfxNZwI69bPWQ-A",
+          "time_start": 329
+        }
+      ]
+    }
+  ],
+  "playlist_results": [
+    {
+      "position_on_page": 4,
+      "title": "Power BI Ultimate Course",
+      "link": "https://www.youtube.com/playlist?list=PLNcg_FV9n7qZge4KDGqGtqgiuVuhVZWzu",
+      "channel": {
+        "name": "Data with Baraa",
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "link": "https://www.youtube.com/@DataWithBaraa"
+      },
+      "videos": [
+        {
+          "title": "What Is Power BI? The Full Story Visually Explained | #PowerBI Course 1",
+          "length": "21:14",
+          "link": "https://www.youtube.com/watch?v=PDXpM7IvXis&list=PLNcg_FV9n7qZge4KDGqGtqgiuVuhVZWzu"
+        },
+        {
+          "title": "Learn Power BI FAST – Full Beginner Crash Course (1 Hour)",
+          "length": "45:54",
+          "link": "https://www.youtube.com/watch?v=WdCltDhmRLo&list=PLNcg_FV9n7qZge4KDGqGtqgiuVuhVZWzu"
+        }
+      ],
+      "video_count": 34,
+      "thumbnail": "https://i.ytimg.com/vi/PDXpM7IvXis/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA68YKjqc2Ho24ou-HIRaZojfLn2w"
+    },
+    {
+      "position_on_page": 5,
+      "title": "Power BI Full Course",
+      "link": "https://www.youtube.com/playlist?list=PLoyECfvEFOjaMKFbBSKSmnOpEcXqqRegW",
+      "channel": {
+        "name": "Learn Skills Daily",
+        "channel_id": "UCqyBfm_H9ugGirk1ufYA2YA",
+        "link": "https://www.youtube.com/@learnskillsdaily"
+      },
+      "videos": [
+        {
+          "title": "Power BI Beginner Tutorial",
+          "length": "1:36:18",
+          "link": "https://www.youtube.com/watch?v=fnA-_iDV_LY&list=PLoyECfvEFOjaMKFbBSKSmnOpEcXqqRegW"
+        },
+        {
+          "title": "Power BI Intermediate Tutorial",
+          "length": "1:02:38",
+          "link": "https://www.youtube.com/watch?v=e7h2k-hXWTc&list=PLoyECfvEFOjaMKFbBSKSmnOpEcXqqRegW"
+        }
+      ],
+      "video_count": 7,
+      "thumbnail": "https://i.ytimg.com/vi/fnA-_iDV_LY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDW8S52uL1hfCRDepyO_hk0u_3dWg"
+    },
+    {
+      "position_on_page": 7,
+      "title": "Power BI Full Course Video",
+      "link": "https://www.youtube.com/playlist?list=PL6Omre3duO-P93dIofLn_QJv_MpmolO4D",
+      "channel": {
+        "name": "Pavan Lalwani",
+        "channel_id": "UC5fs7PookxGfDPTo-RU0ReQ",
+        "link": "https://www.youtube.com/@PavanLalwani"
+      },
+      "videos": [
+        {
+          "title": "Power BI Full Course in 8 Hours  | Power BI Tutorial for Beginners | @PavanLalwani",
+          "length": "8:36:05",
+          "link": "https://www.youtube.com/watch?v=UXhGRVTndQA&list=PL6Omre3duO-P93dIofLn_QJv_MpmolO4D"
+        },
+        {
+          "title": "Every Data Analyst user Must Watch 👁️ | ft. Animal \"Ranbir Kapoor\"",
+          "length": "3:30",
+          "link": "https://www.youtube.com/watch?v=87kYUkrRt3s&list=PL6Omre3duO-P93dIofLn_QJv_MpmolO4D"
+        }
+      ],
+      "video_count": 12,
+      "thumbnail": "https://i.ytimg.com/vi/UXhGRVTndQA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB4zjOoazIl-A3_lydksjRK9cSL0g"
+    },
+    {
+      "position_on_page": 8,
+      "title": "Power BI Tutorials for Beginners",
+      "link": "https://www.youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys",
+      "channel": {
+        "name": "Alex The Analyst",
+        "channel_id": "UC7cs8q-gJRlGwj4A8OmCmXg",
+        "link": "https://www.youtube.com/@AlexTheAnalyst"
+      },
+      "videos": [
+        {
+          "title": "How to Install Power BI | Building First Visualization | Microsoft Power BI for Beginners",
+          "length": "12:50",
+          "link": "https://www.youtube.com/watch?v=g0m5sEHPU-s&list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys"
+        },
+        {
+          "title": "How to use Power Query in Power BI | Microsoft Power BI for Beginners",
+          "length": "13:07",
+          "link": "https://www.youtube.com/watch?v=gP-AxNi6uxo&list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys"
+        }
+      ],
+      "video_count": 9,
+      "thumbnail": "https://i.ytimg.com/vi/g0m5sEHPU-s/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBgbb30MoT2nWQFgfKydQQtDT-j7g"
+    },
+    {
+      "position_on_page": 10,
+      "title": "FREE Power BI Course 🎁",
+      "link": "https://www.youtube.com/playlist?list=PLmejDGrsgFyDMME3o2CamamZ8w9NxSWWo",
+      "channel": {
+        "name": "Chandoo",
+        "channel_id": "UC8uU_wruBMHeeRma49dtZKA",
+        "link": "https://www.youtube.com/@chandoo_"
+      },
+      "videos": [
+        {
+          "title": "Your first 10 minutes of Power BI - A no-nonsense getting started tutorial for beginners",
+          "length": "11:15",
+          "link": "https://www.youtube.com/watch?v=9tF1IrfLflg&list=PLmejDGrsgFyDMME3o2CamamZ8w9NxSWWo"
+        },
+        {
+          "title": "Beginner to PRO Data Analysis with Power BI - Full Length Course (with sample files!)",
+          "length": "42:50",
+          "link": "https://www.youtube.com/watch?v=uwe8C7K8fXY&list=PLmejDGrsgFyDMME3o2CamamZ8w9NxSWWo"
+        }
+      ],
+      "video_count": 16,
+      "thumbnail": "https://i.ytimg.com/vi/9tF1IrfLflg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB28UrZaa3-JE0BrtOyiMaVzR_X3g"
+    },
+    {
+      "position_on_page": 11,
+      "title": "PL-300: Microsoft Power BI Data Analyst",
+      "link": "https://www.youtube.com/playlist?list=PLahhVEj9XNTdg4FnhAo_OQ-bSDd86VBcH",
+      "channel": {
+        "name": "Microsoft Learn",
+        "channel_id": "UCFs5990vNpA2C2ijzgiJ59Q",
+        "link": "https://www.youtube.com/@MicrosoftLearn"
+      },
+      "videos": [
+        {
+          "title": "Course Preview | PL-300 | Design and manage analytics solutions using Power BI",
+          "length": "4:19",
+          "link": "https://www.youtube.com/watch?v=FF25PP4dq9M&list=PLahhVEj9XNTdg4FnhAo_OQ-bSDd86VBcH"
+        },
+        {
+          "title": "Course Introduction PL-300",
+          "length": "0:51",
+          "link": "https://www.youtube.com/watch?v=hwgFxj8BtZk&list=PLahhVEj9XNTdg4FnhAo_OQ-bSDd86VBcH"
+        }
+      ],
+      "video_count": 20,
+      "thumbnail": "https://i.ytimg.com/vi/FF25PP4dq9M/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBKgo8wQtjMUi6yY2-CKXOPfKIXPQ"
+    },
+    {
+      "position_on_page": 14,
+      "title": "Power BI Dashboard | Various Domains | Start to End | Power BI Project Start to End 2025 Edition",
+      "link": "https://www.youtube.com/playlist?list=PLO9LeSU_vHCWUvkE1FrGeNxSve7YtJrYl",
+      "channel": {
+        "name": "Data Tutorials",
+        "channel_id": "UCBOs6624oqScw8PaU-Jzw9A",
+        "link": "https://www.youtube.com/@datatutorials1"
+      },
+      "videos": [
+        {
+          "title": "Power BI & SQL Project | Data Analyst Portfolio | End to End | Beginner to Expert | #powerbi  #sql",
+          "length": "2:46:44",
+          "link": "https://www.youtube.com/watch?v=V-s8c6jMRN0&list=PLO9LeSU_vHCWUvkE1FrGeNxSve7YtJrYl"
+        },
+        {
+          "title": "Amazing Real Time Power BI Project | Start to End Analysis | Power BI For Beginners | Power BI 2024",
+          "length": "1:55:34",
+          "link": "https://www.youtube.com/watch?v=mmxVCFceQgU&list=PLO9LeSU_vHCWUvkE1FrGeNxSve7YtJrYl"
+        }
+      ],
+      "video_count": 68,
+      "thumbnail": "https://i.ytimg.com/vi/V-s8c6jMRN0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBEwIFggREUmJY915cunROupwfHWA"
+    },
+    {
+      "position_on_page": 17,
+      "title": "Power BI Data Analyst course for Beginners in #urdu #hindi #codanics",
+      "link": "https://www.youtube.com/playlist?list=PL9XvIvvVL50GTwV7dqdBKxsFs7WYzlOYZ",
+      "channel": {
+        "name": "Codanics",
+        "channel_id": "UCmNXJXWONLNF6bdftGY0Otw",
+        "link": "https://www.youtube.com/@Codanics"
+      },
+      "videos": [
+        {
+          "title": "1.1. Introduction to Data Visualization | Power BI tutorials for Beginners",
+          "length": "7:54",
+          "link": "https://www.youtube.com/watch?v=nBUMTovuiJg&list=PL9XvIvvVL50GTwV7dqdBKxsFs7WYzlOYZ"
+        },
+        {
+          "title": "1.2. Power BI vs. Tableau vs. Python?  | Power BI tutorials for Beginners",
+          "length": "8:55",
+          "link": "https://www.youtube.com/watch?v=gBZ-84VviuA&list=PL9XvIvvVL50GTwV7dqdBKxsFs7WYzlOYZ"
+        }
+      ],
+      "video_count": 40,
+      "thumbnail": "https://i.ytimg.com/vi/nBUMTovuiJg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLABIO1aJmxg9i92-NzQkCBkRQMsMg"
+    },
+    {
+      "position_on_page": 22,
+      "title": "Data Analyst Full Course 2025 | Data Analytics Full Course Hindi| data analytics full course in hindi playlist | data analyst course playlist in hindi",
+      "link": "https://www.youtube.com/playlist?list=PLOWRNl6YgsT79ezWdEhOjvK4D-cQfr7ys",
+      "channel": {
+        "name": "Top VarSity",
+        "channel_id": "UCV2On_SjdqwEG9NyEHQzrrA",
+        "link": "https://www.youtube.com/@TopVarSity"
+      },
+      "videos": [
+        {
+          "title": "Data Analytics Full Course 2026 | Part 01| Data Analyst Course | Introduction | Top VarSity",
+          "length": "11:39",
+          "link": "https://www.youtube.com/watch?v=5zEt1_Nkiio&list=PLOWRNl6YgsT79ezWdEhOjvK4D-cQfr7ys"
+        },
+        {
+          "title": "Data Analytics Full Course 2026 | Part 02 | Data Analyst Course | Excel Basics | Top VarSity",
+          "length": "23:12",
+          "link": "https://www.youtube.com/watch?v=FMSJXtwt6hE&list=PLOWRNl6YgsT79ezWdEhOjvK4D-cQfr7ys&pp=0gcJCRYF0aJEHMZM"
+        }
+      ],
+      "video_count": 25,
+      "thumbnail": "https://i.ytimg.com/vi/5zEt1_Nkiio/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAgRq2845pY2j-r8tUly94pqOpeMw"
+    },
+    {
+      "position_on_page": 23,
+      "title": "Learn Power BI in 2025 (Urdu / Hindi) - Full course",
+      "link": "https://www.youtube.com/playlist?list=PLpx4I-WPI8W8KEv1cI2lLOzmDM9fEdD0e",
+      "channel": {
+        "name": "TheDataGuyIsb",
+        "channel_id": "UCSlZPXX_vgCC_glEDX1ByEQ",
+        "link": "https://www.youtube.com/@TheDataGuyIsb"
+      },
+      "videos": [
+        {
+          "title": "1.  How to install Power BI Desktop on Windows PC or laptop!",
+          "length": "2:46",
+          "link": "https://www.youtube.com/watch?v=MtIHfSJ6OVQ&list=PLpx4I-WPI8W8KEv1cI2lLOzmDM9fEdD0e&pp=0gcJCRYF0aJEHMZM"
+        },
+        {
+          "title": "2.  Power BI Desktop Tutorial: Data Modeling, Visualization, Report Sharing & Development Framework",
+          "length": "5:07",
+          "link": "https://www.youtube.com/watch?v=67SXsograKM&list=PLpx4I-WPI8W8KEv1cI2lLOzmDM9fEdD0e"
+        }
+      ],
+      "video_count": 181,
+      "thumbnail": "https://i.ytimg.com/vi/MtIHfSJ6OVQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD5OZfbOISGex0iUCz7FXrnNj7h7Q"
+    }
+  ],
+  "channel_results": [
+    {
+      "position_on_page": 20,
+      "title": "Data Tutorials",
+      "channel_id": "UCBOs6624oqScw8PaU-Jzw9A",
+      "link": "https://www.youtube.com/@datatutorials1",
+      "verified": true,
+      "handle": "@datatutorials1",
+      "subscribers": 249000,
+      "description": "Welcome to the Data Tutorials Channel! Dive into the world of Data Analysis and beyond! If you're passionate about Data ...",
+      "thumbnail": "https://yt3.ggpht.com/65dVSzS0O2ZAeMaQV5vQVLRBr2PRRTBEZOS3B3404yxPPVv38Tw6K-ynToN3_gQsr6XpgwsK=s88-c-k-c0x00ffffff-no-rj-mo"
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Power+BI+full+course+tutorial+for+Data+Analyst&gl=in&hl=en",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Power%20BI%20full%20course%20tutorial%20for%20Data%20Analyst&sp=SBSCAQtGd2phSENWTkJXQYIBC0kwdlFfVkxaVFdnggEiUExOY2dfRlY5bjdxWmdlNEtER3FHdHFnaXVWdWhWWld6dYIBIlBMb3lFQ2Z2RUZPamFNS0ZiQlNLU21uT3BFY1hxcVJlZ1eCASJQTDZPbXJlM2R1Ty1QOTNkSW9mTG5fUUp2X01wbW9sTzREggEiUExVYUItMWhqaGs4SHFubUswZ1FoZm1JZENieHdvQW95c4IBC1dkQ2x0RGhtUkxvggEiUExtZWpER3JzZ0Z5RE1NRTNvMkNhbWFtWjh3OU54U1dXb4IBIlBMYWhoVkVqOVhOVGRnNEZuaEFvX09RLWJTRGQ4NlZCY0iCAQtWYU9oTnFOdEdHRYIBIlBMTzlMZVNVX3ZIQ1dVdmtFMUZyR2VOeFN2ZTdZdEpyWWyCAQtlNlFEOGxQLW02RYIBC1BOUGVubDlyTHVzggEiUEw5WHZJdnZWTDUwR1R3VjdkcWRCS3hzRnM3V1l6bE9ZWoIBC2tlRElVUUNWaHRBggEYVUNCT3M2NjI0b3FTY3c4UGFVLUp6dzlBggELdXdlOEM3SzhmWFmCASJQTE9XUk5sNllnc1Q3OWV6V2RFaE9qdks0RC1jUWZyN3lzggEiUExweDRJLVdQSThXOEtFdjFjSTJsTE96bURNOWZFZEQwZYIBC3R1ZVBZYUlfNVo0sgEGCgQIGRAC",
+    "next_page_token": "SBSCAQtGd2phSENWTkJXQYIBC0kwdlFfVkxaVFdnggEiUExOY2dfRlY5bjdxWmdlNEtER3FHdHFnaXVWdWhWWld6dYIBIlBMb3lFQ2Z2RUZPamFNS0ZiQlNLU21uT3BFY1hxcVJlZ1eCASJQTDZPbXJlM2R1Ty1QOTNkSW9mTG5fUUp2X01wbW9sTzREggEiUExVYUItMWhqaGs4SHFubUswZ1FoZm1JZENieHdvQW95c4IBC1dkQ2x0RGhtUkxvggEiUExtZWpER3JzZ0Z5RE1NRTNvMkNhbWFtWjh3OU54U1dXb4IBIlBMYWhoVkVqOVhOVGRnNEZuaEFvX09RLWJTRGQ4NlZCY0iCAQtWYU9oTnFOdEdHRYIBIlBMTzlMZVNVX3ZIQ1dVdmtFMUZyR2VOeFN2ZTdZdEpyWWyCAQtlNlFEOGxQLW02RYIBC1BOUGVubDlyTHVzggEiUEw5WHZJdnZWTDUwR1R3VjdkcWRCS3hzRnM3V1l6bE9ZWoIBC2tlRElVUUNWaHRBggEYVUNCT3M2NjI0b3FTY3c4UGFVLUp6dzlBggELdXdlOEM3SzhmWFmCASJQTE9XUk5sNllnc1Q3OWV6V2RFaE9qdks0RC1jUWZyN3lzggEiUExweDRJLVdQSThXOEtFdjFjSTJsTE96bURNOWZFZEQwZYIBC3R1ZVBZYUlfNVo0sgEGCgQIGRAC"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Power+BI+full+course+tutorial+for+Data+Analyst",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Power+BI+full+course+tutorial+for+Data+Analyst&sp=SBSCAQtGd2phSENWTkJXQYIBC0kwdlFfVkxaVFdnggEiUExOY2dfRlY5bjdxWmdlNEtER3FHdHFnaXVWdWhWWld6dYIBIlBMb3lFQ2Z2RUZPamFNS0ZiQlNLU21uT3BFY1hxcVJlZ1eCASJQTDZPbXJlM2R1Ty1QOTNkSW9mTG5fUUp2X01wbW9sTzREggEiUExVYUItMWhqaGs4SHFubUswZ1FoZm1JZENieHdvQW95c4IBC1dkQ2x0RGhtUkxvggEiUExtZWpER3JzZ0Z5RE1NRTNvMkNhbWFtWjh3OU54U1dXb4IBIlBMYWhoVkVqOVhOVGRnNEZuaEFvX09RLWJTRGQ4NlZCY0iCAQtWYU9oTnFOdEdHRYIBIlBMTzlMZVNVX3ZIQ1dVdmtFMUZyR2VOeFN2ZTdZdEpyWWyCAQtlNlFEOGxQLW02RYIBC1BOUGVubDlyTHVzggEiUEw5WHZJdnZWTDUwR1R3VjdkcWRCS3hzRnM3V1l6bE9ZWoIBC2tlRElVUUNWaHRBggEYVUNCT3M2NjI0b3FTY3c4UGFVLUp6dzlBggELdXdlOEM3SzhmWFmCASJQTE9XUk5sNllnc1Q3OWV6V2RFaE9qdks0RC1jUWZyN3lzggEiUExweDRJLVdQSThXOEtFdjFjSTJsTE96bURNOWZFZEQwZYIBC3R1ZVBZYUlfNVo0sgEGCgQIGRAC",
+    "next_page_token": "SBSCAQtGd2phSENWTkJXQYIBC0kwdlFfVkxaVFdnggEiUExOY2dfRlY5bjdxWmdlNEtER3FHdHFnaXVWdWhWWld6dYIBIlBMb3lFQ2Z2RUZPamFNS0ZiQlNLU21uT3BFY1hxcVJlZ1eCASJQTDZPbXJlM2R1Ty1QOTNkSW9mTG5fUUp2X01wbW9sTzREggEiUExVYUItMWhqaGs4SHFubUswZ1FoZm1JZENieHdvQW95c4IBC1dkQ2x0RGhtUkxvggEiUExtZWpER3JzZ0Z5RE1NRTNvMkNhbWFtWjh3OU54U1dXb4IBIlBMYWhoVkVqOVhOVGRnNEZuaEFvX09RLWJTRGQ4NlZCY0iCAQtWYU9oTnFOdEdHRYIBIlBMTzlMZVNVX3ZIQ1dVdmtFMUZyR2VOeFN2ZTdZdEpyWWyCAQtlNlFEOGxQLW02RYIBC1BOUGVubDlyTHVzggEiUEw5WHZJdnZWTDUwR1R3VjdkcWRCS3hzRnM3V1l6bE9ZWoIBC2tlRElVUUNWaHRBggEYVUNCT3M2NjI0b3FTY3c4UGFVLUp6dzlBggELdXdlOEM3SzhmWFmCASJQTE9XUk5sNllnc1Q3OWV6V2RFaE9qdks0RC1jUWZyN3lzggEiUExweDRJLVdQSThXOEtFdjFjSTJsTE96bURNOWZFZEQwZYIBC3R1ZVBZYUlfNVo0sgEGCgQIGRAC"
+  }
+}

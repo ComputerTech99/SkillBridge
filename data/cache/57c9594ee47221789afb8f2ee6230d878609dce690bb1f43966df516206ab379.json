@@ -1,0 +1,588 @@
+{
+  "search_metadata": {
+    "id": "6b014a7e430875a78b8f002b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/s7OcWUvCMy-Z_WwCL0MKX-vAJFSqaQ_8Sag7wQ9igM4/6b014a7e430875a78b8f002b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/s7OcWUvCMy-Z_WwCL0MKX-vAJFSqaQ_8Sag7wQ9igM4/6b014a7e430875a78b8f002b.md",
+    "created_at": "2026-11-21 07:38:38 UTC",
+    "processed_at": "2026-11-21 07:38:38 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Backend+Python+Developer&hl=en&gl=in&udm=8&uule=w+CAIQICIZQmVuZ2FsdXJ1LEthcm5hdGFrYSxJbmRpYQ",
+    "raw_html_file": "https://serpapi.com/searches/s7OcWUvCMy-Z_WwCL0MKX-vAJFSqaQ_8Sag7wQ9igM4/6b014a7e430875a78b8f002b.html",
+    "total_time_taken": 7.88
+  },
+  "search_parameters": {
+    "q": "Backend Python Developer",
+    "engine": "google_jobs",
+    "location_requested": "Bengaluru, Karnataka, India",
+    "location_used": "Bengaluru,Karnataka,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX62mhrn9fvh0w9fGrzjim0laGtC7v5IzpHNFHKnQfnpauSKndtkeOifJGm_Ng_Ctv9ueaRM62G5XUmPmVPB7L6LUwtuYkm4IE-EiO4ckIaduEBMNMn5ASWUirSR2YeR_GZDKB9N4LTtJwjJgscvsIw2fiEoGpMmDP6QiGu0GTcWVakYZj",
+        "q": "Backend Python Developer remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDgsERZwcQanB1d1F26VZ0i0huUw7Q:1795246726088&q=Backend+Python+Developer+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX62mhrn9fvh0w9fGrzjim0laGtC7v5IzpHNFHKnQfnpauSKndtkeOifJGm_Ng_Ctv9ueaRM62G5XUmPmVPB7L6LUwtuYkm4IE-EiO4ckIaduEBMNMn5ASWUirSR2YeR_GZDKB9N4LTtJwjJgscvsIw2fiEoGpMmDP6QiGu0GTcWVakYZj&udm=8&sa=X&ved=2ahUKEwjlzJGbx5iYAxVAMlkFHYXXCAYQxKsJKAB6BAgZEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Backend+Python+Developer+remote&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX62mhrn9fvh0w9fGrzjim0laGtC7v5IzpHNFHKnQfnpauSKndtkeOifJGm_Ng_Ctv9ueaRM62G5XUmPmVPB7L6LUwtuYkm4IE-EiO4ckIaduEBMNMn5ASWUirSR2YeR_GZDKB9N4LTtJwjJgscvsIw2fiEoGpMmDP6QiGu0GTcWVakYZj"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXZc90SgsydrRVdi6C8O48rMkrJV7MkX2SxBdzOmrECfTSlcQ17EXzr7nd6Xni6pOdFPcpwzgw1UOc6dKy6G6qaDQpK0P7U7HPr0oEn2FcbsP9r3vMj5WEf2fYmr6mKROqu_BgMo263Xp0KMAum-3CL5DUFMnwCGTeAI14JEdevGFSnVsxTp8VVJvrzNwwBYqc2Iy9d8mlfwKQ_VYIxxb0RX-i6koTfk69IEAGRJkf5FU5rMKMfOJAvSbjKCJT_HGzPKYBadHBBmRTox203cLSGysAX6OS2iHdeaNXz6hZ9dXnlnAVIUR_MpHPgcQN10I7GjNN3bZi0asH6SSaCk6do7wMGEY",
+            "q": "Backend Python Developer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDgsERZwcQanB1d1F26VZ0i0huUw7Q:1795246726088&q=Backend+Python+Developer+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXZc90SgsydrRVdi6C8O48rMkrJV7MkX2SxBdzOmrECfTSlcQ17EXzr7nd6Xni6pOdFPcpwzgw1UOc6dKy6G6qaDQpK0P7U7HPr0oEn2FcbsP9r3vMj5WEf2fYmr6mKROqu_BgMo263Xp0KMAum-3CL5DUFMnwCGTeAI14JEdevGFSnVsxTp8VVJvrzNwwBYqc2Iy9d8mlfwKQ_VYIxxb0RX-i6koTfk69IEAGRJkf5FU5rMKMfOJAvSbjKCJT_HGzPKYBadHBBmRTox203cLSGysAX6OS2iHdeaNXz6hZ9dXnlnAVIUR_MpHPgcQN10I7GjNN3bZi0asH6SSaCk6do7wMGEY&udm=8&sa=X&ved=2ahUKEwjlzJGbx5iYAxVAMlkFHYXXCAYQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Backend+Python+Developer+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXZc90SgsydrRVdi6C8O48rMkrJV7MkX2SxBdzOmrECfTSlcQ17EXzr7nd6Xni6pOdFPcpwzgw1UOc6dKy6G6qaDQpK0P7U7HPr0oEn2FcbsP9r3vMj5WEf2fYmr6mKROqu_BgMo263Xp0KMAum-3CL5DUFMnwCGTeAI14JEdevGFSnVsxTp8VVJvrzNwwBYqc2Iy9d8mlfwKQ_VYIxxb0RX-i6koTfk69IEAGRJkf5FU5rMKMfOJAvSbjKCJT_HGzPKYBadHBBmRTox203cLSGysAX6OS2iHdeaNXz6hZ9dXnlnAVIUR_MpHPgcQN10I7GjNN3bZi0asH6SSaCk6do7wMGEY"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXZc90SgsydrRVdi6C8O48rMkrJV7MkX2SxBdzOmrECfTSlcQ17EXzr7nd6Xni6pOdH0Py8w0HH4fJfJg8pXl2mmix_oGLomaf-xBSRG7qtwxd_a8fODX3oNyTOEkuV6Ny8rEgjTaZDuDeLXEiopG8R_epsvkGatIih81CMoAIsMxFvDiMNwef37ePPW7CqVbOUQ9M-HayCZoNWG0l64EmMiS24vDPvc8UTrBDdyPHE9mPw5QepYRXLK2MpUUCxaZRtxNd_FXSU5G2_aAUU65GYUMIMTv4u64-FUAh5ONXDecJs8lxhVIZDtqlEBx9VzcDeUA5KzhGnmmEUaSsl08C4kyt1VU",
+            "q": "Backend Python Developer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDgsERZwcQanB1d1F26VZ0i0huUw7Q:1795246726088&q=Backend+Python+Developer+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXZc90SgsydrRVdi6C8O48rMkrJV7MkX2SxBdzOmrECfTSlcQ17EXzr7nd6Xni6pOdH0Py8w0HH4fJfJg8pXl2mmix_oGLomaf-xBSRG7qtwxd_a8fODX3oNyTOEkuV6Ny8rEgjTaZDuDeLXEiopG8R_epsvkGatIih81CMoAIsMxFvDiMNwef37ePPW7CqVbOUQ9M-HayCZoNWG0l64EmMiS24vDPvc8UTrBDdyPHE9mPw5QepYRXLK2MpUUCxaZRtxNd_FXSU5G2_aAUU65GYUMIMTv4u64-FUAh5ONXDecJs8lxhVIZDtqlEBx9VzcDeUA5KzhGnmmEUaSsl08C4kyt1VU&udm=8&sa=X&ved=2ahUKEwjlzJGbx5iYAxVAMlkFHYXXCAYQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Backend+Python+Developer+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXZc90SgsydrRVdi6C8O48rMkrJV7MkX2SxBdzOmrECfTSlcQ17EXzr7nd6Xni6pOdH0Py8w0HH4fJfJg8pXl2mmix_oGLomaf-xBSRG7qtwxd_a8fODX3oNyTOEkuV6Ny8rEgjTaZDuDeLXEiopG8R_epsvkGatIih81CMoAIsMxFvDiMNwef37ePPW7CqVbOUQ9M-HayCZoNWG0l64EmMiS24vDPvc8UTrBDdyPHE9mPw5QepYRXLK2MpUUCxaZRtxNd_FXSU5G2_aAUU65GYUMIMTv4u64-FUAh5ONXDecJs8lxhVIZDtqlEBx9VzcDeUA5KzhGnmmEUaSsl08C4kyt1VU"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDuR0ZyvcfMFSEK9JPdR8C4y8KJLHYySZ9JK_ClJMdOnsDs2tOI-Id-HVamCiRfPYOP_mns6PHQhat1wwqO_fpFlB1sQzBaBCPN3XuDPH59vbP598X85aBBBVHjh3pHP5N4zmBmy8pAMEN_Ex9yf60OKip_Skt812icoKSGWZFBEILmiLesTGWhXsZhPbX4mYfE62Sum1LC3knDIUDX0kzm7w05BbrUIbY_oIlO-Ebhg8uY0PzwJLAB81AE2PH5nFzMlUTzdmOlYfze6dlY8xHSvVnT3DpGbpn_fpUlisTFM4Sl0um2gQYbXn_xsGdxyL6RtFDg",
+            "q": "Backend Python Developer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDgsERZwcQanB1d1F26VZ0i0huUw7Q:1795246726088&q=Backend+Python+Developer+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDuR0ZyvcfMFSEK9JPdR8C4y8KJLHYySZ9JK_ClJMdOnsDs2tOI-Id-HVamCiRfPYOP_mns6PHQhat1wwqO_fpFlB1sQzBaBCPN3XuDPH59vbP598X85aBBBVHjh3pHP5N4zmBmy8pAMEN_Ex9yf60OKip_Skt812icoKSGWZFBEILmiLesTGWhXsZhPbX4mYfE62Sum1LC3knDIUDX0kzm7w05BbrUIbY_oIlO-Ebhg8uY0PzwJLAB81AE2PH5nFzMlUTzdmOlYfze6dlY8xHSvVnT3DpGbpn_fpUlisTFM4Sl0um2gQYbXn_xsGdxyL6RtFDg&udm=8&sa=X&ved=2ahUKEwjlzJGbx5iYAxVAMlkFHYXXCAYQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Backend+Python+Developer+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDuR0ZyvcfMFSEK9JPdR8C4y8KJLHYySZ9JK_ClJMdOnsDs2tOI-Id-HVamCiRfPYOP_mns6PHQhat1wwqO_fpFlB1sQzBaBCPN3XuDPH59vbP598X85aBBBVHjh3pHP5N4zmBmy8pAMEN_Ex9yf60OKip_Skt812icoKSGWZFBEILmiLesTGWhXsZhPbX4mYfE62Sum1LC3knDIUDX0kzm7w05BbrUIbY_oIlO-Ebhg8uY0PzwJLAB81AE2PH5nFzMlUTzdmOlYfze6dlY8xHSvVnT3DpGbpn_fpUlisTFM4Sl0um2gQYbXn_xsGdxyL6RtFDg"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXgNFQ6jx5UrnPgsW81Lpllt-jxup-m_Xd3y59nk9SV0aTI2cjiBV1ls7x1b8fkmw5ADfbsqG_VM4OGX72A01VuL3-loG6Gq83I9LN3YQm6eqB2AsKzeA_qQWcc0Z78OPIMyh38iRTzwg3exRblfR7F42EG_WHjcgpxCT0Pc8qkJeUTLYFVtFY-4rb-iAoztuHqzCjKQK8mlzHKoqRe9pVwfNiyfEqmafaOhgMACrmA5wsxtfllxQQN_98cwRLD0VGrPygrDnuI02nxrSI7wc9MeLpuYJ0_6ZKNu_ZcHqdd_BylhQ1znnguMyC2ecuo2hMQShQnA",
+            "q": "Backend Python Developer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDgsERZwcQanB1d1F26VZ0i0huUw7Q:1795246726088&q=Backend+Python+Developer+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXgNFQ6jx5UrnPgsW81Lpllt-jxup-m_Xd3y59nk9SV0aTI2cjiBV1ls7x1b8fkmw5ADfbsqG_VM4OGX72A01VuL3-loG6Gq83I9LN3YQm6eqB2AsKzeA_qQWcc0Z78OPIMyh38iRTzwg3exRblfR7F42EG_WHjcgpxCT0Pc8qkJeUTLYFVtFY-4rb-iAoztuHqzCjKQK8mlzHKoqRe9pVwfNiyfEqmafaOhgMACrmA5wsxtfllxQQN_98cwRLD0VGrPygrDnuI02nxrSI7wc9MeLpuYJ0_6ZKNu_ZcHqdd_BylhQ1znnguMyC2ecuo2hMQShQnA&udm=8&sa=X&ved=2ahUKEwjlzJGbx5iYAxVAMlkFHYXXCAYQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Backend+Python+Developer+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXgNFQ6jx5UrnPgsW81Lpllt-jxup-m_Xd3y59nk9SV0aTI2cjiBV1ls7x1b8fkmw5ADfbsqG_VM4OGX72A01VuL3-loG6Gq83I9LN3YQm6eqB2AsKzeA_qQWcc0Z78OPIMyh38iRTzwg3exRblfR7F42EG_WHjcgpxCT0Pc8qkJeUTLYFVtFY-4rb-iAoztuHqzCjKQK8mlzHKoqRe9pVwfNiyfEqmafaOhgMACrmA5wsxtfllxQQN_98cwRLD0VGrPygrDnuI02nxrSI7wc9MeLpuYJ0_6ZKNu_ZcHqdd_BylhQ1znnguMyC2ecuo2hMQShQnA"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXZc90SgsydrRVdi6C8O48rMkrJV7MkX2SxBdzOmrECfTSlcQ17EXzr7nd6Xni6pOdFPcpwzgw1UOc6dKy6G6qaDQpK0P7U7HPr0oEn2FcbsP9r3vMj5WEf2fYmr6mKROqu_BgMo263Xp0KMAum-3CL5DUFMnwCGTeAI14JEdevGFSnVsxTp8VVJvrzNwwBYqc2Iy9d8mlfwKQ_VYIxxb0RX-i6koTfk69IEAGRJkf5FU5rMKMfOJAvSbjKCJT_HGzPKYBadHBBmRTox203cLSGysAX6OS2iHdeaNXz6hZ9dXnlnAVIUR_MpHPgcQN10I7GjNN3bZi0asH6SSaCk6do7wMGEY",
+            "q": "Backend Python Developer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDgsERZwcQanB1d1F26VZ0i0huUw7Q:1795246726088&q=Backend+Python+Developer+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXZc90SgsydrRVdi6C8O48rMkrJV7MkX2SxBdzOmrECfTSlcQ17EXzr7nd6Xni6pOdFPcpwzgw1UOc6dKy6G6qaDQpK0P7U7HPr0oEn2FcbsP9r3vMj5WEf2fYmr6mKROqu_BgMo263Xp0KMAum-3CL5DUFMnwCGTeAI14JEdevGFSnVsxTp8VVJvrzNwwBYqc2Iy9d8mlfwKQ_VYIxxb0RX-i6koTfk69IEAGRJkf5FU5rMKMfOJAvSbjKCJT_HGzPKYBadHBBmRTox203cLSGysAX6OS2iHdeaNXz6hZ9dXnlnAVIUR_MpHPgcQN10I7GjNN3bZi0asH6SSaCk6do7wMGEY&udm=8&sa=X&ved=2ahUKEwjlzJGbx5iYAxVAMlkFHYXXCAYQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Backend+Python+Developer+full+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXZc90SgsydrRVdi6C8O48rMkrJV7MkX2SxBdzOmrECfTSlcQ17EXzr7nd6Xni6pOdFPcpwzgw1UOc6dKy6G6qaDQpK0P7U7HPr0oEn2FcbsP9r3vMj5WEf2fYmr6mKROqu_BgMo263Xp0KMAum-3CL5DUFMnwCGTeAI14JEdevGFSnVsxTp8VVJvrzNwwBYqc2Iy9d8mlfwKQ_VYIxxb0RX-i6koTfk69IEAGRJkf5FU5rMKMfOJAvSbjKCJT_HGzPKYBadHBBmRTox203cLSGysAX6OS2iHdeaNXz6hZ9dXnlnAVIUR_MpHPgcQN10I7GjNN3bZi0asH6SSaCk6do7wMGEY"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXZc90SgsydrRVdi6C8O48rMkrJV7MkX2SxBdzOmrECfTSlcQ17EXzr7nd6Xni6pOdH0Py8w0HH4fJfJg8pXl2mmix_oGLomaf-xBSRG7qtwxd_a8fODX3oNyTOEkuV6Ny8rEgjTaZDuDeLXEiopG8R_epsvkGatIih81CMoAIsMxFvDiMNwef37ePPW7CqVbOUQ9M-HayCZoNWG0l64EmMiS24vDPvc8UTrBDdyPHE9mPw5QepYRXLK2MpUUCxaZRtxNd_FXSU5G2_aAUU65GYUMIMTv4u64-FUAh5ONXDecJs8lxhVIZDtqlEBx9VzcDeUA5KzhGnmmEUaSsl08C4kyt1VU",
+            "q": "Backend Python Developer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDgsERZwcQanB1d1F26VZ0i0huUw7Q:1795246726088&q=Backend+Python+Developer+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXZc90SgsydrRVdi6C8O48rMkrJV7MkX2SxBdzOmrECfTSlcQ17EXzr7nd6Xni6pOdH0Py8w0HH4fJfJg8pXl2mmix_oGLomaf-xBSRG7qtwxd_a8fODX3oNyTOEkuV6Ny8rEgjTaZDuDeLXEiopG8R_epsvkGatIih81CMoAIsMxFvDiMNwef37ePPW7CqVbOUQ9M-HayCZoNWG0l64EmMiS24vDPvc8UTrBDdyPHE9mPw5QepYRXLK2MpUUCxaZRtxNd_FXSU5G2_aAUU65GYUMIMTv4u64-FUAh5ONXDecJs8lxhVIZDtqlEBx9VzcDeUA5KzhGnmmEUaSsl08C4kyt1VU&udm=8&sa=X&ved=2ahUKEwjlzJGbx5iYAxVAMlkFHYXXCAYQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Backend+Python+Developer+part+time&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXZc90SgsydrRVdi6C8O48rMkrJV7MkX2SxBdzOmrECfTSlcQ17EXzr7nd6Xni6pOdH0Py8w0HH4fJfJg8pXl2mmix_oGLomaf-xBSRG7qtwxd_a8fODX3oNyTOEkuV6Ny8rEgjTaZDuDeLXEiopG8R_epsvkGatIih81CMoAIsMxFvDiMNwef37ePPW7CqVbOUQ9M-HayCZoNWG0l64EmMiS24vDPvc8UTrBDdyPHE9mPw5QepYRXLK2MpUUCxaZRtxNd_FXSU5G2_aAUU65GYUMIMTv4u64-FUAh5ONXDecJs8lxhVIZDtqlEBx9VzcDeUA5KzhGnmmEUaSsl08C4kyt1VU"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDuR0ZyvcfMFSEK9JPdR8C4y8KJLHYySZ9JK_ClJMdOnsDs2tOI-Id-HVamCiRfPYOP_mns6PHQhat1wwqO_fpFlB1sQzBaBCPN3XuDPH59vbP598X85aBBBVHjh3pHP5N4zmBmy8pAMEN_Ex9yf60OKip_Skt812icoKSGWZFBEILmiLesTGWhXsZhPbX4mYfE62Sum1LC3knDIUDX0kzm7w05BbrUIbY_oIlO-Ebhg8uY0PzwJLAB81AE2PH5nFzMlUTzdmOlYfze6dlY8xHSvVnT3DpGbpn_fpUlisTFM4Sl0um2gQYbXn_xsGdxyL6RtFDg",
+            "q": "Backend Python Developer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDgsERZwcQanB1d1F26VZ0i0huUw7Q:1795246726088&q=Backend+Python+Developer+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDuR0ZyvcfMFSEK9JPdR8C4y8KJLHYySZ9JK_ClJMdOnsDs2tOI-Id-HVamCiRfPYOP_mns6PHQhat1wwqO_fpFlB1sQzBaBCPN3XuDPH59vbP598X85aBBBVHjh3pHP5N4zmBmy8pAMEN_Ex9yf60OKip_Skt812icoKSGWZFBEILmiLesTGWhXsZhPbX4mYfE62Sum1LC3knDIUDX0kzm7w05BbrUIbY_oIlO-Ebhg8uY0PzwJLAB81AE2PH5nFzMlUTzdmOlYfze6dlY8xHSvVnT3DpGbpn_fpUlisTFM4Sl0um2gQYbXn_xsGdxyL6RtFDg&udm=8&sa=X&ved=2ahUKEwjlzJGbx5iYAxVAMlkFHYXXCAYQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Backend+Python+Developer+contract&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDuR0ZyvcfMFSEK9JPdR8C4y8KJLHYySZ9JK_ClJMdOnsDs2tOI-Id-HVamCiRfPYOP_mns6PHQhat1wwqO_fpFlB1sQzBaBCPN3XuDPH59vbP598X85aBBBVHjh3pHP5N4zmBmy8pAMEN_Ex9yf60OKip_Skt812icoKSGWZFBEILmiLesTGWhXsZhPbX4mYfE62Sum1LC3knDIUDX0kzm7w05BbrUIbY_oIlO-Ebhg8uY0PzwJLAB81AE2PH5nFzMlUTzdmOlYfze6dlY8xHSvVnT3DpGbpn_fpUlisTFM4Sl0um2gQYbXn_xsGdxyL6RtFDg"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXgNFQ6jx5UrnPgsW81Lpllt-jxup-m_Xd3y59nk9SV0aTI2cjiBV1ls7x1b8fkmw5ADfbsqG_VM4OGX72A01VuL3-loG6Gq83I9LN3YQm6eqB2AsKzeA_qQWcc0Z78OPIMyh38iRTzwg3exRblfR7F42EG_WHjcgpxCT0Pc8qkJeUTLYFVtFY-4rb-iAoztuHqzCjKQK8mlzHKoqRe9pVwfNiyfEqmafaOhgMACrmA5wsxtfllxQQN_98cwRLD0VGrPygrDnuI02nxrSI7wc9MeLpuYJ0_6ZKNu_ZcHqdd_BylhQ1znnguMyC2ecuo2hMQShQnA",
+            "q": "Backend Python Developer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDgsERZwcQanB1d1F26VZ0i0huUw7Q:1795246726088&q=Backend+Python+Developer+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXgNFQ6jx5UrnPgsW81Lpllt-jxup-m_Xd3y59nk9SV0aTI2cjiBV1ls7x1b8fkmw5ADfbsqG_VM4OGX72A01VuL3-loG6Gq83I9LN3YQm6eqB2AsKzeA_qQWcc0Z78OPIMyh38iRTzwg3exRblfR7F42EG_WHjcgpxCT0Pc8qkJeUTLYFVtFY-4rb-iAoztuHqzCjKQK8mlzHKoqRe9pVwfNiyfEqmafaOhgMACrmA5wsxtfllxQQN_98cwRLD0VGrPygrDnuI02nxrSI7wc9MeLpuYJ0_6ZKNu_ZcHqdd_BylhQ1znnguMyC2ecuo2hMQShQnA&udm=8&sa=X&ved=2ahUKEwjlzJGbx5iYAxVAMlkFHYXXCAYQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Backend+Python+Developer+internship&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXgNFQ6jx5UrnPgsW81Lpllt-jxup-m_Xd3y59nk9SV0aTI2cjiBV1ls7x1b8fkmw5ADfbsqG_VM4OGX72A01VuL3-loG6Gq83I9LN3YQm6eqB2AsKzeA_qQWcc0Z78OPIMyh38iRTzwg3exRblfR7F42EG_WHjcgpxCT0Pc8qkJeUTLYFVtFY-4rb-iAoztuHqzCjKQK8mlzHKoqRe9pVwfNiyfEqmafaOhgMACrmA5wsxtfllxQQN_98cwRLD0VGrPygrDnuI02nxrSI7wc9MeLpuYJ0_6ZKNu_ZcHqdd_BylhQ1znnguMyC2ecuo2hMQShQnA"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXa8nnFuQPvfZF_DpdXwEqnAJFMlKMa416dwHph89gfYbOuWqVWyvNqIvWgdOGiZwaPlEqzGeH85klORASREnav4b4pITQC_AcXdwPbymQ0k0r6C3-SZBE_C2NwPB2NrakyLjA6kHgDUWtxl-IJccVF-wIO15wASTmfeZuaZL64Ui6W_TQn2_zQti-XsSAxhEARIFl6koE1BEOLp0vaPmHEBD0BB_JjnMmP4VYDRnN0I-87Wm18x99xLMrKFGGfqdVATlDByKYVvRaENGyh2CK5a9jJPrR86V6WpTHamT1yt8aKmAaoyPv_Hry52WL8PQDm0TyQESDhIqkXlEbN9db4I1OAKc",
+            "q": "Backend Python Developer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDgsERZwcQanB1d1F26VZ0i0huUw7Q:1795246726088&q=Backend+Python+Developer+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXa8nnFuQPvfZF_DpdXwEqnAJFMlKMa416dwHph89gfYbOuWqVWyvNqIvWgdOGiZwaPlEqzGeH85klORASREnav4b4pITQC_AcXdwPbymQ0k0r6C3-SZBE_C2NwPB2NrakyLjA6kHgDUWtxl-IJccVF-wIO15wASTmfeZuaZL64Ui6W_TQn2_zQti-XsSAxhEARIFl6koE1BEOLp0vaPmHEBD0BB_JjnMmP4VYDRnN0I-87Wm18x99xLMrKFGGfqdVATlDByKYVvRaENGyh2CK5a9jJPrR86V6WpTHamT1yt8aKmAaoyPv_Hry52WL8PQDm0TyQESDhIqkXlEbN9db4I1OAKc&udm=8&sa=X&ved=2ahUKEwjlzJGbx5iYAxVAMlkFHYXXCAYQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Backend+Python+Developer+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXa8nnFuQPvfZF_DpdXwEqnAJFMlKMa416dwHph89gfYbOuWqVWyvNqIvWgdOGiZwaPlEqzGeH85klORASREnav4b4pITQC_AcXdwPbymQ0k0r6C3-SZBE_C2NwPB2NrakyLjA6kHgDUWtxl-IJccVF-wIO15wASTmfeZuaZL64Ui6W_TQn2_zQti-XsSAxhEARIFl6koE1BEOLp0vaPmHEBD0BB_JjnMmP4VYDRnN0I-87Wm18x99xLMrKFGGfqdVATlDByKYVvRaENGyh2CK5a9jJPrR86V6WpTHamT1yt8aKmAaoyPv_Hry52WL8PQDm0TyQESDhIqkXlEbN9db4I1OAKc"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXBbGeaZFBWZFKKZLNkjQRbwWEpDO3OALUOme5H7KtHX-3sujtEu_91tHpGqJLdISNR0XqvSAkkOHgE5Gsi6DTZHTgF_qON_4ENEPRi1gnBw4TSS3Ll06lgUtFfdVhTpzW79rDtszIhaVewmwwwAsxzfWWb9l23VqrUP73X0dz0Si8ox_fkJMcyYaLS90KQsPBpznrxV_kkiy9h-ismyaxTbEdoBdQnJ4JFoQ0Xf5QAS8dc38BvdYCMfSQL031xpLiXB4egqazD6VGytog3la5lusSox-1lJ_U708wJPJZm2Wgy87_PcvV_uclg2HpLq56PdhNAYyJdlTwvwJm3DFh67pdi3g",
+            "q": "Backend Python Developer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDgsERZwcQanB1d1F26VZ0i0huUw7Q:1795246726088&q=Backend+Python+Developer+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXBbGeaZFBWZFKKZLNkjQRbwWEpDO3OALUOme5H7KtHX-3sujtEu_91tHpGqJLdISNR0XqvSAkkOHgE5Gsi6DTZHTgF_qON_4ENEPRi1gnBw4TSS3Ll06lgUtFfdVhTpzW79rDtszIhaVewmwwwAsxzfWWb9l23VqrUP73X0dz0Si8ox_fkJMcyYaLS90KQsPBpznrxV_kkiy9h-ismyaxTbEdoBdQnJ4JFoQ0Xf5QAS8dc38BvdYCMfSQL031xpLiXB4egqazD6VGytog3la5lusSox-1lJ_U708wJPJZm2Wgy87_PcvV_uclg2HpLq56PdhNAYyJdlTwvwJm3DFh67pdi3g&udm=8&sa=X&ved=2ahUKEwjlzJGbx5iYAxVAMlkFHYXXCAYQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Backend+Python+Developer+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXBbGeaZFBWZFKKZLNkjQRbwWEpDO3OALUOme5H7KtHX-3sujtEu_91tHpGqJLdISNR0XqvSAkkOHgE5Gsi6DTZHTgF_qON_4ENEPRi1gnBw4TSS3Ll06lgUtFfdVhTpzW79rDtszIhaVewmwwwAsxzfWWb9l23VqrUP73X0dz0Si8ox_fkJMcyYaLS90KQsPBpznrxV_kkiy9h-ismyaxTbEdoBdQnJ4JFoQ0Xf5QAS8dc38BvdYCMfSQL031xpLiXB4egqazD6VGytog3la5lusSox-1lJ_U708wJPJZm2Wgy87_PcvV_uclg2HpLq56PdhNAYyJdlTwvwJm3DFh67pdi3g"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXCvihf5jzjtgGqYWEl2qw1hofNpgSqzXmK2fjIOSENTWW-2Ov9WyDofDhoCSYhV0aYFYLMWy6cdDNjMallbZ5PjSGfr8wfVfYNWQyC4U6OjVmBhrZbI0XzZHOkUQ55lzxBTE66Q1S1bKbaX-SxZeQwlUrjjCtRKinnFizJ7-iBYLeIma110Y935JhCqO8tGt1Zhk44fFEZtE76KPrBqh2cVEW_avucDv5OmusyRAKgZkRfYVUMRfn8nkFtb0Engzag9tZfTWtXYOr3qHsWZeKff9sUbJcxsRjVtXNV5eJY-cOPri1-turn6pUD6XMuU4UDgZWt1k2o3mMNaz2FwuA5sgwMDs",
+            "q": "Backend Python Developer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDgsERZwcQanB1d1F26VZ0i0huUw7Q:1795246726088&q=Backend+Python+Developer+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXCvihf5jzjtgGqYWEl2qw1hofNpgSqzXmK2fjIOSENTWW-2Ov9WyDofDhoCSYhV0aYFYLMWy6cdDNjMallbZ5PjSGfr8wfVfYNWQyC4U6OjVmBhrZbI0XzZHOkUQ55lzxBTE66Q1S1bKbaX-SxZeQwlUrjjCtRKinnFizJ7-iBYLeIma110Y935JhCqO8tGt1Zhk44fFEZtE76KPrBqh2cVEW_avucDv5OmusyRAKgZkRfYVUMRfn8nkFtb0Engzag9tZfTWtXYOr3qHsWZeKff9sUbJcxsRjVtXNV5eJY-cOPri1-turn6pUD6XMuU4UDgZWt1k2o3mMNaz2FwuA5sgwMDs&udm=8&sa=X&ved=2ahUKEwjlzJGbx5iYAxVAMlkFHYXXCAYQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Backend+Python+Developer+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXCvihf5jzjtgGqYWEl2qw1hofNpgSqzXmK2fjIOSENTWW-2Ov9WyDofDhoCSYhV0aYFYLMWy6cdDNjMallbZ5PjSGfr8wfVfYNWQyC4U6OjVmBhrZbI0XzZHOkUQ55lzxBTE66Q1S1bKbaX-SxZeQwlUrjjCtRKinnFizJ7-iBYLeIma110Y935JhCqO8tGt1Zhk44fFEZtE76KPrBqh2cVEW_avucDv5OmusyRAKgZkRfYVUMRfn8nkFtb0Engzag9tZfTWtXYOr3qHsWZeKff9sUbJcxsRjVtXNV5eJY-cOPri1-turn6pUD6XMuU4UDgZWt1k2o3mMNaz2FwuA5sgwMDs"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXclkvQewI4PVx7hDY7jkvFrb48SzID4Jh40kHyiUlPyZEvQQOmz3lnGRhcjqgGH5o772UxjIxD9lglffI9ewKyS6Oo3qNEhnxFeKU0VpCoBfYoeO72HJsQLAgJ-WkDWkPN7Qko_Y4lIOeBZqL1s8Va0YepxS9VRATSZAigTD3mGzLznbGkIkoj4f6HCzg3VI5oHFUPZayUKz4AiQqNW5SLXxXDSTw573WKg0SRVcksqjMEZV16FIJX86WTIWuNL7QSf1n0VZ7Qqwu4VO_tm3vGr9YA0xsWZtY5U7Sxz-EO68fxy8hALwdCqxJz_MHZdo0mz-9ieRLT-tA3WJdb3Ea5u6Woug",
+            "q": "Backend Python Developer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDgsERZwcQanB1d1F26VZ0i0huUw7Q:1795246726088&q=Backend+Python+Developer+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXclkvQewI4PVx7hDY7jkvFrb48SzID4Jh40kHyiUlPyZEvQQOmz3lnGRhcjqgGH5o772UxjIxD9lglffI9ewKyS6Oo3qNEhnxFeKU0VpCoBfYoeO72HJsQLAgJ-WkDWkPN7Qko_Y4lIOeBZqL1s8Va0YepxS9VRATSZAigTD3mGzLznbGkIkoj4f6HCzg3VI5oHFUPZayUKz4AiQqNW5SLXxXDSTw573WKg0SRVcksqjMEZV16FIJX86WTIWuNL7QSf1n0VZ7Qqwu4VO_tm3vGr9YA0xsWZtY5U7Sxz-EO68fxy8hALwdCqxJz_MHZdo0mz-9ieRLT-tA3WJdb3Ea5u6Woug&udm=8&sa=X&ved=2ahUKEwjlzJGbx5iYAxVAMlkFHYXXCAYQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Backend+Python+Developer+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXclkvQewI4PVx7hDY7jkvFrb48SzID4Jh40kHyiUlPyZEvQQOmz3lnGRhcjqgGH5o772UxjIxD9lglffI9ewKyS6Oo3qNEhnxFeKU0VpCoBfYoeO72HJsQLAgJ-WkDWkPN7Qko_Y4lIOeBZqL1s8Va0YepxS9VRATSZAigTD3mGzLznbGkIkoj4f6HCzg3VI5oHFUPZayUKz4AiQqNW5SLXxXDSTw573WKg0SRVcksqjMEZV16FIJX86WTIWuNL7QSf1n0VZ7Qqwu4VO_tm3vGr9YA0xsWZtY5U7Sxz-EO68fxy8hALwdCqxJz_MHZdo0mz-9ieRLT-tA3WJdb3Ea5u6Woug"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXa8nnFuQPvfZF_DpdXwEqnAJFMlKMa416dwHph89gfYbOuWqVWyvNqIvWgdOGiZwaPlEqzGeH85klORASREnav4b4pITQC_AcXdwPbymQ0k0r6C3-SZBE_C2NwPB2NrakyLjA6kHgDUWtxl-IJccVF-wIO15wASTmfeZuaZL64Ui6W_TQn2_zQti-XsSAxhEARIFl6koE1BEOLp0vaPmHEBD0BB_JjnMmP4VYDRnN0I-87Wm18x99xLMrKFGGfqdVATlDByKYVvRaENGyh2CK5a9jJPrR86V6WpTHamT1yt8aKmAaoyPv_Hry52WL8PQDm0TyQESDhIqkXlEbN9db4I1OAKc",
+            "q": "Backend Python Developer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDgsERZwcQanB1d1F26VZ0i0huUw7Q:1795246726088&q=Backend+Python+Developer+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXa8nnFuQPvfZF_DpdXwEqnAJFMlKMa416dwHph89gfYbOuWqVWyvNqIvWgdOGiZwaPlEqzGeH85klORASREnav4b4pITQC_AcXdwPbymQ0k0r6C3-SZBE_C2NwPB2NrakyLjA6kHgDUWtxl-IJccVF-wIO15wASTmfeZuaZL64Ui6W_TQn2_zQti-XsSAxhEARIFl6koE1BEOLp0vaPmHEBD0BB_JjnMmP4VYDRnN0I-87Wm18x99xLMrKFGGfqdVATlDByKYVvRaENGyh2CK5a9jJPrR86V6WpTHamT1yt8aKmAaoyPv_Hry52WL8PQDm0TyQESDhIqkXlEbN9db4I1OAKc&udm=8&sa=X&ved=2ahUKEwjlzJGbx5iYAxVAMlkFHYXXCAYQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Backend+Python+Developer+since+yesterday&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXa8nnFuQPvfZF_DpdXwEqnAJFMlKMa416dwHph89gfYbOuWqVWyvNqIvWgdOGiZwaPlEqzGeH85klORASREnav4b4pITQC_AcXdwPbymQ0k0r6C3-SZBE_C2NwPB2NrakyLjA6kHgDUWtxl-IJccVF-wIO15wASTmfeZuaZL64Ui6W_TQn2_zQti-XsSAxhEARIFl6koE1BEOLp0vaPmHEBD0BB_JjnMmP4VYDRnN0I-87Wm18x99xLMrKFGGfqdVATlDByKYVvRaENGyh2CK5a9jJPrR86V6WpTHamT1yt8aKmAaoyPv_Hry52WL8PQDm0TyQESDhIqkXlEbN9db4I1OAKc"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXBbGeaZFBWZFKKZLNkjQRbwWEpDO3OALUOme5H7KtHX-3sujtEu_91tHpGqJLdISNR0XqvSAkkOHgE5Gsi6DTZHTgF_qON_4ENEPRi1gnBw4TSS3Ll06lgUtFfdVhTpzW79rDtszIhaVewmwwwAsxzfWWb9l23VqrUP73X0dz0Si8ox_fkJMcyYaLS90KQsPBpznrxV_kkiy9h-ismyaxTbEdoBdQnJ4JFoQ0Xf5QAS8dc38BvdYCMfSQL031xpLiXB4egqazD6VGytog3la5lusSox-1lJ_U708wJPJZm2Wgy87_PcvV_uclg2HpLq56PdhNAYyJdlTwvwJm3DFh67pdi3g",
+            "q": "Backend Python Developer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDgsERZwcQanB1d1F26VZ0i0huUw7Q:1795246726088&q=Backend+Python+Developer+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXBbGeaZFBWZFKKZLNkjQRbwWEpDO3OALUOme5H7KtHX-3sujtEu_91tHpGqJLdISNR0XqvSAkkOHgE5Gsi6DTZHTgF_qON_4ENEPRi1gnBw4TSS3Ll06lgUtFfdVhTpzW79rDtszIhaVewmwwwAsxzfWWb9l23VqrUP73X0dz0Si8ox_fkJMcyYaLS90KQsPBpznrxV_kkiy9h-ismyaxTbEdoBdQnJ4JFoQ0Xf5QAS8dc38BvdYCMfSQL031xpLiXB4egqazD6VGytog3la5lusSox-1lJ_U708wJPJZm2Wgy87_PcvV_uclg2HpLq56PdhNAYyJdlTwvwJm3DFh67pdi3g&udm=8&sa=X&ved=2ahUKEwjlzJGbx5iYAxVAMlkFHYXXCAYQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Backend+Python+Developer+in+the+last+3+days&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXBbGeaZFBWZFKKZLNkjQRbwWEpDO3OALUOme5H7KtHX-3sujtEu_91tHpGqJLdISNR0XqvSAkkOHgE5Gsi6DTZHTgF_qON_4ENEPRi1gnBw4TSS3Ll06lgUtFfdVhTpzW79rDtszIhaVewmwwwAsxzfWWb9l23VqrUP73X0dz0Si8ox_fkJMcyYaLS90KQsPBpznrxV_kkiy9h-ismyaxTbEdoBdQnJ4JFoQ0Xf5QAS8dc38BvdYCMfSQL031xpLiXB4egqazD6VGytog3la5lusSox-1lJ_U708wJPJZm2Wgy87_PcvV_uclg2HpLq56PdhNAYyJdlTwvwJm3DFh67pdi3g"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXCvihf5jzjtgGqYWEl2qw1hofNpgSqzXmK2fjIOSENTWW-2Ov9WyDofDhoCSYhV0aYFYLMWy6cdDNjMallbZ5PjSGfr8wfVfYNWQyC4U6OjVmBhrZbI0XzZHOkUQ55lzxBTE66Q1S1bKbaX-SxZeQwlUrjjCtRKinnFizJ7-iBYLeIma110Y935JhCqO8tGt1Zhk44fFEZtE76KPrBqh2cVEW_avucDv5OmusyRAKgZkRfYVUMRfn8nkFtb0Engzag9tZfTWtXYOr3qHsWZeKff9sUbJcxsRjVtXNV5eJY-cOPri1-turn6pUD6XMuU4UDgZWt1k2o3mMNaz2FwuA5sgwMDs",
+            "q": "Backend Python Developer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDgsERZwcQanB1d1F26VZ0i0huUw7Q:1795246726088&q=Backend+Python+Developer+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXCvihf5jzjtgGqYWEl2qw1hofNpgSqzXmK2fjIOSENTWW-2Ov9WyDofDhoCSYhV0aYFYLMWy6cdDNjMallbZ5PjSGfr8wfVfYNWQyC4U6OjVmBhrZbI0XzZHOkUQ55lzxBTE66Q1S1bKbaX-SxZeQwlUrjjCtRKinnFizJ7-iBYLeIma110Y935JhCqO8tGt1Zhk44fFEZtE76KPrBqh2cVEW_avucDv5OmusyRAKgZkRfYVUMRfn8nkFtb0Engzag9tZfTWtXYOr3qHsWZeKff9sUbJcxsRjVtXNV5eJY-cOPri1-turn6pUD6XMuU4UDgZWt1k2o3mMNaz2FwuA5sgwMDs&udm=8&sa=X&ved=2ahUKEwjlzJGbx5iYAxVAMlkFHYXXCAYQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Backend+Python+Developer+in+the+last+week&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXCvihf5jzjtgGqYWEl2qw1hofNpgSqzXmK2fjIOSENTWW-2Ov9WyDofDhoCSYhV0aYFYLMWy6cdDNjMallbZ5PjSGfr8wfVfYNWQyC4U6OjVmBhrZbI0XzZHOkUQ55lzxBTE66Q1S1bKbaX-SxZeQwlUrjjCtRKinnFizJ7-iBYLeIma110Y935JhCqO8tGt1Zhk44fFEZtE76KPrBqh2cVEW_avucDv5OmusyRAKgZkRfYVUMRfn8nkFtb0Engzag9tZfTWtXYOr3qHsWZeKff9sUbJcxsRjVtXNV5eJY-cOPri1-turn6pUD6XMuU4UDgZWt1k2o3mMNaz2FwuA5sgwMDs"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXclkvQewI4PVx7hDY7jkvFrb48SzID4Jh40kHyiUlPyZEvQQOmz3lnGRhcjqgGH5o772UxjIxD9lglffI9ewKyS6Oo3qNEhnxFeKU0VpCoBfYoeO72HJsQLAgJ-WkDWkPN7Qko_Y4lIOeBZqL1s8Va0YepxS9VRATSZAigTD3mGzLznbGkIkoj4f6HCzg3VI5oHFUPZayUKz4AiQqNW5SLXxXDSTw573WKg0SRVcksqjMEZV16FIJX86WTIWuNL7QSf1n0VZ7Qqwu4VO_tm3vGr9YA0xsWZtY5U7Sxz-EO68fxy8hALwdCqxJz_MHZdo0mz-9ieRLT-tA3WJdb3Ea5u6Woug",
+            "q": "Backend Python Developer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=294b5642300b9d00&hl=en&gl=in&sxsrf=AKL5yDgsERZwcQanB1d1F26VZ0i0huUw7Q:1795246726088&q=Backend+Python+Developer+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXclkvQewI4PVx7hDY7jkvFrb48SzID4Jh40kHyiUlPyZEvQQOmz3lnGRhcjqgGH5o772UxjIxD9lglffI9ewKyS6Oo3qNEhnxFeKU0VpCoBfYoeO72HJsQLAgJ-WkDWkPN7Qko_Y4lIOeBZqL1s8Va0YepxS9VRATSZAigTD3mGzLznbGkIkoj4f6HCzg3VI5oHFUPZayUKz4AiQqNW5SLXxXDSTw573WKg0SRVcksqjMEZV16FIJX86WTIWuNL7QSf1n0VZ7Qqwu4VO_tm3vGr9YA0xsWZtY5U7Sxz-EO68fxy8hALwdCqxJz_MHZdo0mz-9ieRLT-tA3WJdb3Ea5u6Woug&udm=8&sa=X&ved=2ahUKEwjlzJGbx5iYAxVAMlkFHYXXCAYQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&q=Backend+Python+Developer+in+the+last+month&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXclkvQewI4PVx7hDY7jkvFrb48SzID4Jh40kHyiUlPyZEvQQOmz3lnGRhcjqgGH5o772UxjIxD9lglffI9ewKyS6Oo3qNEhnxFeKU0VpCoBfYoeO72HJsQLAgJ-WkDWkPN7Qko_Y4lIOeBZqL1s8Va0YepxS9VRATSZAigTD3mGzLznbGkIkoj4f6HCzg3VI5oHFUPZayUKz4AiQqNW5SLXxXDSTw573WKg0SRVcksqjMEZV16FIJX86WTIWuNL7QSf1n0VZ7Qqwu4VO_tm3vGr9YA0xsWZtY5U7Sxz-EO68fxy8hALwdCqxJz_MHZdo0mz-9ieRLT-tA3WJdb3Ea5u6Woug"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Lead Software Engineer (Backend - Python)",
+      "company_name": "Impact Analytics",
+      "location": "Bengaluru, Karnataka",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Backend+Python+Developer&htidocid=ZiiPA5hkzCk6hyc9AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNMQrCQBBAUWxzBKspVTQRwUYrAyKiheABwriOu9F1ZtmdoOm8g8fwVp7E2Pzu8bNPLyv3hGc4ykUfGAnWbGsmijAo0dyIzzCBQ6tOeAjf1xuucoJEGI0DYdiIWE_9pVMNaVEUKfncJkWtTW7kXgjTSZ5Fh9I_VXLdI3hUqmbz6TMPbEeD7T2gUVgx-raDCWqGktiib2Izhh1GRsUb_gBPfvhirgAAAA&shmds=v1_Ac3VAoyRdj1irychCn4hSZ3fMw55bNI46DkGSLvoU4MwU2SxfA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Backend+Python+Developer&htidocid=ZiiPA5hkzCk6hyc9AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b014a7e430875a78b8f002b/images/hh2UlJbL8PBWtb2iy9-HwPw0W0JboKLcr6bKbiSFq-k.jpg",
+      "extensions": [
+        "18 days ago",
+        "Full–time"
+      ],
+      "detected_extensions": {
+        "posted_at": "18 days ago",
+        "schedule_type": "Full–time"
+      },
+      "source_link": "https://in.linkedin.com/jobs/view/lead-software-engineer-backend-python-at-impact-analytics-4478777568",
+      "job_title": "Lead Software Engineer (Backend - Python)",
+      "description": "About Impact Analytics\n\nImpact Analytics is an agentic-first AI software company transforming retail merchandising through cutting-edge AI, LLMs, and Generative AI technologies.\n\nAs a fast-growing Series D company with deployments across five continents, it is building both industry-leading merchandising solutions and foundational AI agents that are redefining how retail decisions are made. What makes Impact Analytics unique is its combination of deep retail domain expertise, strong innovation culture, and global presence. It is one of the few India-born AI companies recognized globally by organizations like Fortune, Gartner, and the Inc. 5000. For candidates looking to work on next-generation AI products with global scale and real-world impact, Impact Analytics is an exciting place to build your career. Here’s a link to our website: www.impactanalytics.co.\n\nThe impact that you will be making \n\nThe role would require you to develop sophisticated products that add value to the client and result in new projects and revenue streams.\n\nWhat This Role Entails\n\nDesign, develop, and maintain scalable applications using Python.Build sophisticated and high-quality products that address complex client requirements.Work with multiple data sources and integrate them effectively into a unified system.Apply sound software architecture, object-oriented design, and design patterns to build maintainable and scalable applications.Work with technologies such as caching, key-value stores, search systems, and messaging queues.\n\nWhat Lands You In This Role\n\n5+ years of experience in back-end software development in Python and its web frameworks.Good understanding of the Rest API design and development.Expertise in at least one of Django, Flask or FastAPIFamiliarity with Object Relational Mapping libraries and ability to integrate with multiple data sources into one systemUnderstanding of limitations of Python and Multi Process ArchitectureGood understanding of the Architecture and Software / System design principles.Good understanding of Scalability (Vertical / Horizontal), Distributed systems & High Availability.Good understanding of the Cross Cutting concerns (Caching, Queuing, Logging, Security (Authentication / Authorization / Encryption)).Good understanding of Microservices design and containerization technologiesGood team leadership skills.Good written and communication skills.\n\nWhat We Offer\n\nAn opportunity to develop some of the best enterprise SaaS products to be built out of IndiaOpportunities to quench your thirst for problem-solving, experimenting, learning, and implementing innovative solutionsA flat, collegial work environment, with a work hard, play hard attitudeA platform for rapid growth if you are willing to try new things without fear of failure.Remuneration with best in class industry standards with generous health insurance cover.\n\nSome Of Our Accolades Include\n\nRanked as one of America's Fastest-Growing Companies by Financial Times for five consecutive years: 2020-2024.Ranked as one of America's Fastest-Growing Private Companies by Inc. 5000 for seven consecutive years: 2018-2024.Voted #1 by more than 300 retailers worldwide in the RIS Software LeaderBoard 2024 report.Ranked #72 in America’s Most Innovative Companies list in 2023—by Fortune—alongside companies like Microsoft, Tesla, Apple, IBM, etc.Forged a strategic partnership with Google to equip retailers with cutting-edge generative AI tools.Recognized in multiple Gartner reports, including Market Guides and Hype Cycle, spanning assortments, merchandising, forecasting, algorithmic retailing, and Unified Price, Promotion, and Markdown Optimization Applications.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/lead-software-engineer-backend-python-at-impact-analytics-4478777568?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/-4616351733542741548?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobzMall",
+          "link": "https://www.jobzmall.com/fidelity-national-information-fis/job/lead-engineer-java-springboot-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/lead-software-engineer-backend-python--bengaluru--eaa3a03ad7b91d297d50082e2f9b7f0c8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://in.talent.com/view?id=610648023083254278&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/1668898257557782528?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "7xjobs",
+          "link": "https://7xjobs.com/jobs/lead-software-engineer-backend-python-impact-analytics-664c6c3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/lead-software-engineer-backend-python-impact-analytics-bengaluru--techmap_in_4478777568?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIFNvZnR3YXJlIEVuZ2luZWVyIChCYWNrZW5kIC0gUHl0aG9uKSIsImNvbXBhbnlfbmFtZSI6IkltcGFjdCBBbmFseXRpY3MiLCJodGlkb2NpZCI6IlppaVBBNWhrekNrNmh5YzlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3NCQ293QlFVUkVZbGRsWVVkaGFuZHFjblIyUzFGUVlUSlNhV3RtUld0bWQzUjZjWGR3Y1VOV1dFaDJhMjF2YlRsS01uQktja2xoZVRBeVZXZGtNV0ZOVERkbFRtcGtNbFZ0V0Y5RGQxOXpabGd4TVVOWFduZzJMV3MzUVRCMVZraHVaMVp1TmxkUWRITm5hR2hKT1RsdmVTMHRjR3QxUm5wWk5qWnRiVmRzV1ZCdWFqSnBRMDk2U2pKaU0zQnBXak1TRm1ocmIwSmhMVmg0UWsxRWF6Vk9iMUJvWVMxcVRVRWFJa0ZJVGpCRk4waFRVelYxWTNSYWRtRnRiVXh0WmpsRk4zbG9ZVk0zYjA1c1duYyIsImZjdiI6IjMiLCJmY19pZCI6IlppaVBBNWhrekNrNmh5YzlBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior Python Backend Developer (Immediate Joiners Only)",
+      "company_name": "Uplers",
+      "location": "Bengaluru, Karnataka",
+      "via": "Platform.uplers.com",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Backend+Python+Developer&htidocid=dBZB-caEqUVFLA8yAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOMQrCQBBFsc0RLGRKFUlEsNFOBFELFbEOk2TIrtnMLLsbSTrv4EU8kycxaV733v_RdxTd7sRaHFy7oIRhh3lFXMCeXmTEkoPpsa6p0BgITqKZnIcLm24Gv_cHnpKBJ3S5gl4-iJSGxlsVgvWbJPHexKUPGHQe51InwpRJm_SSH5B6hY6s6dPpar1sY8vlfPKwZtjQ_RfiEk3jmgWc0TEGrPAP0TR_urMAAAA&shmds=v1_Ac3VAozHD-_vidsJLAzZ380uZSV4ytNj4efsHm_uO22Au8cTLA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Backend+Python+Developer&htidocid=dBZB-caEqUVFLA8yAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAZlBMVEX82i4FBwgAAAcAAAP_3S__4S__3y8ABAgAAADhwyr_4zD00y20nCLMsSaSfx1sXhYlIQyhjB_UuCjCqCXpyisfHAssKA2vlyGAcBpMQxI-Nw-8oyQNDQl7axlYTROpkyEzLQ1fUxS_IhwbAAABiElEQVRIie2V0ZKCMAxFa9IU2gpIcV2LCvr_P7mlyI6VgrAz-8Z9o3om9yYlMLZp0ybGndZDgrjMMinEGkoQHffFFzqdvmlpKVLH6nxKEWDnBGjZZ7-cSGd5jU-oF9oPbgUxk1vnDpJdIGxnSE7sUsA71D_BdRLkSt4g8Of-Dpgm_RGaiZQkmzSgOuhatFKxQ3eMl3hJKjGshfAoJVOCM9V4cB8FKU_DYHfDSPTmtDeCWcwqlyHnmqh-fzPoDhLUsYKixbD7UEsiEr0Z9AcqCu7fwC6jzavOHVnvNI_fOh2OYeiqnzomkxEHPyO2IMYzHxGiEbuSu1FJBx5oiGin3g9RpZGSrpXzEZ3ULWIWM9IwF7ETt2OzUGcF-ClOYg7UhwjZX0Ro5lYAP14jDeotxy_qbE1fEOYwT9axcc71dCB5gcmIg8npv4haHNn9kHAg5f0NxWLZVuWihFe_2Cz-BJA-D6sugfS8Yv9z0mW3XB3-MEu3_1OCtKkuRtP6T5ULK_5Abdr0H_oBR3QOft1pxsMAAAAASUVORK5CYII.png",
+      "extensions": [
+        "7 days ago",
+        "Full–time"
+      ],
+      "detected_extensions": {
+        "posted_at": "7 days ago",
+        "schedule_type": "Full–time"
+      },
+      "source_link": "https://platform.uplers.com/talent/all-opportunities/HR1179470340914402",
+      "job_title": "Senior Python Backend Developer (Immediate Joiners Only)",
+      "description": "Experience: 6.00 + years \n            Salary: Confidential (based on experience)\nShift: (GMT+05:30) Asia/Kolkata (IST) \n            Opportunity Type: Hybrid (Bengaluru) \n            Placement Type: Full time Permanent Position \n(*Note: This is a requirement for one of Uplers' client - MishiPay) \n\n            What do you need for this opportunity?            \n\n            Must have skills required:            \n            Python, Django, PostgreSQL, MySQL, MongoDB, AWS, Kubernetes, Kafka, Amazon SQS, Apache Spark, Azure, GCP            \n\n            MishiPay is Looking for:                      Senior Python Backend Developer (Immediate Joiners Only)\n\nMishiPay\n\nBangalore\n\nSalary plus 20% bonus\n\nUnlimited Holidays\n\n\n\n\nAbout MishiPay\n\nMishiPay is a global leader in next-generation checkout technology, enabling seamless in-store purchases via shoppers’ own smartphones or our minimalist, low capex kiosks.\n\nWe provide a complete checkout ecosystem - spanning self-checkout, Mobile POS, Click & Collect and traditional tills - allowing retailers to run their entire store checkout operation on MishiPay.\n\nOur technology reduces operating costs, increases basket size and visit frequency, lowers abandonment, and unlocks rich, real-time customer data, delivering both immediate commercial impact and deeper insight into the in-store customer journey. We now have major international retail customers in the UK, Europe, Middle East, Australia and the USA, and we’re expanding!\n\n\n\n\nAbout The Role\n\nWe are looking for Senior Python Backend Developers to join our talented engineering squad. The team is responsible for our main infrastructure and delivering the necessary tools to create the best in-store experience possible. You MUST have atleast 6 years of experience in Python, Django, and within a scaling product business, as you will need to work at speed.\n\n\n\n\nYou’ll work closely with the Director of Backend and other squad members, alongside the Product, Payment, Security and Delivery teams achieving the roadmap which has been set against our top business priorities. You’ll work on getting rid of tech debt, deploy best in class systems and architecture and ensure that we can scale to 1000s of stores while maintaining system performance at over 99.9% at the push of a button.\n\n\n\n\nYou should have experience building microservices from scratch that have over time scaled to millions of requests, experience working with retail systems such as inventory, promotions, ERP, EPOS, loyalty programmes or payments in a physical or online retail environment is a huge plus for this position. If you're a startup enthusiast who is passionate about solving complex problems and wants to learn something new everyday, we'd absolutely love to speak to you!\n\n\n\n\nKey Responsibilities\n\nDeliver stability of over 99.95% across MishiPay’s key platformsAchieve ability to scale the infrastructure so it can handle up to 100k transactions a dayDesign, code, and develop new features/fix bugs/add enhancements improve performance of large scale services.Actively work to clear tech-debt as we continue developing new technology.Coach and mentor junior team membersPrepare high quality technical documentation\n\n\nRequired Experience\n\nWe are looking for immediate joiners only.Experience with at least one relational like PostgreSQL, MySQL & also one NoSQL database like MongoDB, Cassandra, DynamoDBHands on experience with at least one major cloud provider like AWS, Azure or GCP (Azure preferred)Hands-on experience with at least one of the deployments-orchestration technologies like Kubernetes, Docker Swarm etc(bonus) Hands-on experience with event-driven services and technologies like Kafka, Amazon SQS, Apache Spark etc(bonus) Worked in a startup that has seen scale or coming from an entrepreneur background(bonus) Experience of fintech, retail-system and technologies\n\n\nWhy MishiPay?\n\nYou’ll work with an inspirational multi-cultural team, based in our Dubai HQ, the US, London and Bangalore, who are redefining the retail industry globally. We offer a tight-knit, collaborative and exciting work environment, coupled with the opportunity to see the apps we develop live in action within some of the world’s largest retailers, impacting the lives of millions of shoppers.\n\n\n\n\nWe also offer:\n\nBonusesUnlimited holidaysHybrid Working (36 days WFH a year)Monthly Employee AwardsA small monthly training budgetCompany eventsFree lunch in BangaloreMacBookCareer progression and a chance to work with some of the brightest minds in tech                    \n            How to apply for this opportunity?                        Step 1: Click On Apply! And Register or Login on our portal.            Step 2: Complete the Screening Form & Upload updated Resume            Step 3: Increase your chances to get shortlisted & meet the client for the Interview!                        \nAbout Uplers:\n            Our goal is to make hiring reliable, simple, and fast. Our role will be to help all our talents find and apply for relevant contractual onsite opportunities and progress in their career. We will support any grievances or challenges you may face during the engagement.            \n\n            (Note: There are many more opportunities apart from this on the portal. Depending on the assessments you clear, you can apply for them as well).            \n            So, if you are ready for a new challenge, a great work environment, and an opportunity to take your career to the next level, don't hesitate to apply today. We are waiting for you!",
+      "apply_options": [
+        {
+          "title": "Platform.uplers.com",
+          "link": "https://platform.uplers.com/talent/all-opportunities/HR1179470340914402?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/senior-backend-developer-3-6-years-trading-systems-profound-medical-inc-bengaluru-bangalore-69816593?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/senior-backend-javascript-developer-at-bright-data-4463888132?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/-2383036602586437965?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Getmereferred.com",
+          "link": "https://getmereferred.com/in/job-listing/senior-aem-backend-eds-developer-cloudfulcrum-bengaluru-8-to-10-years-experience-d367d75e-f73e-457e-a614-db91f0295c40?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "FuturePillar",
+          "link": "https://futurepillar.com/jobs/senior-aem-backend-eds-developer-at-cloudfulcrum-2boh1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.in/details/5960515283?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Saarthi LMS",
+          "link": "https://saarthilms.com/Job/job?id=40676&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgUHl0aG9uIEJhY2tlbmQgRGV2ZWxvcGVyIChJbW1lZGlhdGUgSm9pbmVycyBPbmx5KSIsImNvbXBhbnlfbmFtZSI6IlVwbGVycyIsImh0aWRvY2lkIjoiZEJaQi1jYUVxVVZGTEE4eUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzc0JDb3dCUVVSRVlsZGxZVTF6TVRoMlExVTFTRWxtZGxKYVRHWkRjbll3Y0VWM2FVdGhZVFpWYkc1bVZ6QlVXVFpNYzBjeFpXOWlTRGx3ZWs5TFFtbEZTSGhmUm5kcFVrbHZlR3BYVGtsSlMwTmhORTQ0UjNWT1ptaG5iR1p6YzJkWExVMTZaRWxTZGtaWmJFNU9jVU5EUVZaYWJqTlZZWGhhU1VJMmFEUkpMVXRqVXpaSGVXRldVRXRFUmt0RVdVb1NGbWhyYjBKaExWaDRRazFFYXpWT2IxQm9ZUzFxVFVFYUlrRklUakJGTjBWTFltNTRTM1pyYW5wclJVcFhYMkp2Ym0xaFUxQkpPV040VkZFIiwiZmN2IjoiMyIsImZjX2lkIjoiZEJaQi1jYUVxVVZGTEE4eUFBQUFBQT09In0="
+    },
+    {
+      "title": "AI & Backend Software Engineer – Intellectual Property Rights(Python / FastAPI / GenAI)",
+      "company_name": "Bosch Group",
+      "location": "Bengaluru, Karnataka",
+      "via": "Indeed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Backend+Python+Developer&htidocid=D8jqMpsdl7iF4JD5AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2OQUoDQRBFcZsjuCoQxIhMi-DGrGZAhyGbQQ8QKm2le5K2qumqIcnOO3g3D-BJbN183uK_z198XyxKO8A1dOgPxO_wJjs7YiF45jAxUYGfzy8Y2Cgl8jZjgrFIpmJneJ1CNL0ZzxaFwcELqrXjUKknboflv7qXLShh8RFqqRcJiS5X0Szrk3OqqQlqaJNvvHw4YdrKyVVJ_2KjsX7JCY02D4_3pyZzuL3qROtaX2TOMDF0xAHTXOY7WGNhNDzgLzRTbu_ZAAAA&shmds=v1_Ac3VAow-SvZI2LyQ9gFetobR9nLVGTbYDystYTqSJJG-9DPieg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Backend+Python+Developer&htidocid=D8jqMpsdl7iF4JD5AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b014a7e430875a78b8f002b/images/jE0jB5foWk9LrvHfGUGOKRzAXIKvt6m8P_S5sDTuX_c.jpg",
+      "extensions": [
+        "3 days ago",
+        "Full–time"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full–time"
+      },
+      "source_link": "https://in.indeed.com/viewjob?jk=f2613f64e872f6d3",
+      "job_title": "AI & Backend Software Engineer – Intellectual Property Rights(Python / FastAPI / GenAI)",
+      "description": "Company Description\n \n\n    Bosch Global Software Technologies Private Limited is a 100% owned subsidiary of Robert Bosch GmbH, one of the world's leading global supplier of technology and services, offering end-to-end Engineering, IT and Business Solutions. With over 27,000+ associates, it’s the largest software development center of Bosch, outside Germany, indicating that it is the Technology Powerhouse of Bosch in India with a global footprint and presence in the US, Europe and the Asia Pacific region.\n\n\n\n   Job Description\n \n\n    Roles & Responsibilities :\n\n   We are looking for a hands-on software engineer with intrinsic motivation to build and run Generative AI workflows for Bosch's global Intellectual Property (IP) organization.\n\n\n You will own workflows from start to finish. You will work directly with IP attorneys, patent analysts, and engineers to understand how they work. You will turn their problems into clear specifications and ship production tools with an AI-first engineering workflow. You will be responsible for specific workflows yourself and coordinate overall direction with the AI platform lead.\n\n\n The role is between our AI platform (Python / FastAPI) and our core enterprise IP Management applications. The scope grows with what AI makes possible and what our IP teams need, e.g. semantic search, automated document classification, portfolio intelligence, and strategic decision-support tools.\n\n\n What You Will Do\n\n\n \n   Own workflows end to end: Work with internal users to understand their workflows, prototype and validate ideas in interactive UI frameworks, and bring what works into production, where users run it at scale from our core enterprise platforms, without a middleman.\n   Build AI-powered backend services: Design and extend Python / FastAPI services that power IP workflows such as semantic search, automated document analysis, clustering, and structured information extraction.\n   Design for the user: Care how the output is used: watch users work, cut steps, and make results easy to review and trust.\n   Integrate with our IP Management System: Work with the enterprise applications team so their platform can trigger, consume AI workflows, and contribute on integration of APIs and web interfaces as required.\n   Build data pipelines: Ingest and transform data from large-scale external databases and enterprise data platforms, handling rate limits, retries, pagination, and validation.\n   Run what you build: Monitor quality, latency and LLM costs in production, and improve prompts, queries and architecture based on real user feedback.\n\n \n \n\n \nQualifications\n \n\n    Educational qualification:\n\n\n \n  B.E. / B.Tech / M.Tech / MCA in Computer Science, IT or a related engineering field.\n \n  Experience :\n\n\n \n  3+ years of professional software engineering experience, mainly writing production backend code in Python.\n \n  Mandatory/requires Skills :\n\n\n \n  Experience building REST APIs (FastAPI preferred; Flask/Django acceptable), including async programming, Pydantic validation and authentication.\n  Strong SQL skills with relational databases (e.g., Oracle, PostgreSQL, or SQL Server).\n  Hands-on experience building LLM workflows via API (Gemini, Claude, GPT): context assembly, multi-step prompt chaining, embeddings/retrieval, and making output quality measurable and reproducible (evaluation sets, regression checks, tracing), whether outputs are free text or structured.\n  Daily use of AI coding agents (e.g. GitHub Copilot, Claude, Cursor) with clear specs, and owning correctness: you decide where review and tests matter, and you verify behaviour before it reaches users.\n  Solid Git / GitHub workflow (branches, pull requests, code review).\n  Fluent English, written and spoken, for direct work with users and colleagues in Germany and worldwide.\n \n  Preferred Skills :\n\n\n \n  Exposure to patents or IP: patent data, claims, invention disclosures, and public/commercial patent databases, or being an inventor or patent agent yourself. We will gladly teach the IP domain to a strong engineer.\n  Familiarity with modern frontend frameworks (e.g., Angular/TypeScript), interactive data prototyping tools (e.g., Streamlit), or enterprise data lakehouses (e.g., Databricks/PySpark).\n  Experience running services on Windows Server (PowerShell, scheduled tasks).\n \n  Scope note: This is a software engineering role. Not patent searching, project management or BI dashboarding role.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://in.indeed.com/viewjob?jk=f2613f64e872f6d3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBSSBcdTAwMjYgQmFja2VuZCBTb2Z0d2FyZSBFbmdpbmVlciDigJMgSW50ZWxsZWN0dWFsIFByb3BlcnR5IFJpZ2h0cyhQeXRob24gLyBGYXN0QVBJIC8gR2VuQUkpIiwiY29tcGFueV9uYW1lIjoiQm9zY2ggR3JvdXAiLCJodGlkb2NpZCI6IkQ4anFNcHNkbDdpRjRKRDVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3NCQ293QlFVUkVZbGRsWVZwMlNEWjVkWHByVDBWamFHcFJjVzB6YTJKaGRVRkhjbTVDT1dkRlJWQmhVSEpvVEhCSFQySmlXbXR2VFZFNGNHbHRNbVIwVFdRMGFrcE5XWGxhU1ROS1VrdFRRWFExUm10VVNuaGhVRFp2Tm1ONFltOTJkMEZRVURCaVpYcHRaMnMwTlZKbWNXWklPV2hVVGs1T1ZFTnBWakJrUjBwNlJubHVVWE5TU2tKd1ZGSlVaWFFTRm1ocmIwSmhMVmg0UWsxRWF6Vk9iMUJvWVMxcVRVRWFJa0ZJVGpCRk4waFpSblpJVFZsaGMxUlVkM0pTUXpkeWFrUllha1ZsUlVoWVdsRSIsImZjdiI6IjMiLCJmY19pZCI6IkQ4anFNcHNkbDdpRjRKRDVBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior Python Backend Developer with AI/ML and Retrieval-Augmented Generation Expertise",
+      "company_name": "Oracle India Private Limited",
+      "location": "Bengaluru, Karnataka",
+      "via": "Apna Jobs",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Backend+Python+Developer&htidocid=DU7sTIEbb3SDWuwjAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXPwUoDQQzGcbz2ETzlLLojohc9tSilWLHoA5R0NszEzmaGTHZdb76Dbyj4Hk4vufz5wZfF39mivJNwVth9WcwCK_RHkh4eaaKUCyl8skVYbtzLFrCFNzJlmjBdLccwkBj1sCYhRePmn-ZmjCvB7_cPfOQDVEL1EVpb5xwSnT9Es1Lvnas1daFag77zeXBZ6JBn11A9nX2NqFQSGu1v7q7nrki4uH1V9IlgIz0j7JSnlmHLA5-GcHuAJGAadbyEZ1RBwyP-A5R8vhroAAAA&shmds=v1_Ac3VAoxFbGzZEl_pjUgCpaqkw4Eoz6esjg0w6oOxCCsVU1nBzw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Backend+Python+Developer&htidocid=DU7sTIEbb3SDWuwjAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAolBMVEX______f____37______v8__3xAADmAAD-__n7-f33___jAADrAAD34N_uAAD95efw___36OnxZGXqICPuqanohYboABDrAAjzo6LzzczrHinlU13ytbbpXmPsXl_lABXxvLnVaXLz0tX0dnb1yMbzhYLtVk_yy8H4rqv6UFT68uv5urXuOz_wk5X0fXfrio_xNDXqRkjsa2jul5LhKyvx7-_kqYW-AAABXUlEQVRIie2R2XKCQBBFe1bWmTiOCxgTiQKiEROD_P-vpcHS8JJFX1KVcB4ouqcPfacA6Onp6em5HvbthD_wfZxiLR8S8wdNfe7gm0-73zVDJwxDO4LxRGo5jbAVBzE-o9l06tzPH9ox87jQoUyelheRzFYKSWWSDY1SsVYANrcUIrnGvldsWLPHZncIj7fiLCbWbyM-78o9Jq5lzF527HUMxwRDUig2Ps7GMqqiamwY5-e4qT3dLTmU2VxK_QYqSLdrrWzanqOI14vDDCmBUXoWyaIJYZayyPaQyoqRXVkFdpKPJsvmoNgYo4w6lnVtjOmIYA6Bg1SwWmEkp4xmXNTE06MqCEKdJ5hCy_02d5zQSaAjIqeKI0Bdl7q8vQljglLB3QbKmyFBeUckpP1V5DTY2Nzln9LdSAgRQlx2Y0m_BDf9otiN_QN-U7ySPyt6N4rejaJ388YuvfjPxXeuLRvgnAGjbAAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "12 days ago",
+        "Full–time"
+      ],
+      "detected_extensions": {
+        "posted_at": "12 days ago",
+        "schedule_type": "Full–time"
+      },
+      "source_link": "https://apna.co/job/bengaluru/senior-python-developer-backend-ai-ml-and-rag-1986766104",
+      "job_title": "Senior Python Backend Developer with AI/ML and Retrieval-Augmented Generation Expertise",
+      "description": "Senior Python Developer – Backend, AI/ML & RAG Senior Python Developer – Backend, AI/ML & RAG Experience: 8+ years in software development, with strong Python backend expertise and hands-on experience delivering AI/ML applications. About Team Our team builds enterprise applications that combine robust backend engineering with AI-powered experiences. We develop intelligent assistants, knowledge-retrieval solutions, and workflow automation that integrate with enterprise platforms and services. We are looking for a senior developer who can translate business requirements into secure, scalable applications, guide technical design, and take ownership from development through production support. Responsibilities Design, develop, and maintain scalable Python backend services, REST APIs, and service-to-service integrations. Build AI-powered applications using large language models (LLMs), agent frameworks, and machine learning capabilities. Develop end-to-end Retrieval-Augmented Generation (RAG) pipelines covering document ingestion, chunking, embeddings, indexing, retrieval, and grounded response generation. Implement prompt engineering, agent workflows, tool calling, and Model Context Protocol (MCP) integrations. Integrate enterprise knowledge sources and applications, including ITSM platforms, Confluence, SharePoint, and enterprise APIs. Evaluate AI solutions for accuracy, groundedness, hallucinations, retrieval quality, latency, and cost. Build automated functional, integration, regression, performance, and AI evaluation tests. Lead technical design discussions and code reviews; document architecture, APIs, and implementation decisions. Troubleshoot complex application, API, integration, and production issues, and implement sustainable fixes. Improve application performance, reliability, observability, and model/token efficiency. Apply secure coding practices, access controls, privacy safeguards, and enterprise AI governance requirements. Collaborate with product, QA, engineering, and business stakeholders to define requirements and delivery priorities. Mentor engineers and improve development practices across the software development lifecycle. Support production operations, dependency upgrades, vulnerability remediation, and application maintenance. Mandatory Skills Python and backend engineering: Strong hands-on Python expertise, including asynchronous programming, exception handling, testing, and maintainable application design. API development: Experience building production APIs using FastAPI, Flask, Django, or a comparable framework; strong understanding of authentication, authorization, versioning, and error handling. Backend architecture: Experience designing scalable services, managing concurrency, and implementing caching, background processing, retries, and resilient integrations. Data management: Strong SQL and relational database skills, with experience in data modelling, query optimisation, and application data access. LLM application development: Hands-on experience integrating LLMs into applications, including prompt design, structured outputs, tool calling, and failure handling. RAG and retrieval: Practical experience with embeddings, vector databases or vector search, chunking strategies, metadata filtering, and retrieval optimisation. ML fundamentals: Understanding of model inference, data preparation, evaluation metrics, and the distinction between model quality and application performance. AI evaluation: Ability to build repeatable evaluations for retrieval relevance, response quality, groundedness, latency, and cost. Security and privacy: Experience protecting sensitive data, managing secrets, enforcing access controls, and addressing prompt injection and unsafe tool execution. Production delivery: Experience with cloud deployment, containers, CI/CD, logging, monitoring, and production troubleshooting. Technical leadership: Ability to lead design and code reviews, mentor engineers, and communicate technical decisions clearly. Good to Have Skills Experience with OCI or other major cloud platforms. Experience with agent orchestration frameworks such as LangChain, LangGraph, or equivalent tools. Hands-on experience building or integrating MCP servers and clients. Experience with hybrid search, reranking, query rewriting, and permission-aware enterprise retrieval. Experience with Slack APIs, Jira Service Management, chatbots, and IT service-management workflows. Familiarity with proactive support, ticket routing, and self-healing automation. Experience with Kubernetes, infrastructure as code, and distributed tracing. Experience with MLOps/LLMOps, model adaptation or fine-tuning, and model-serving platforms. Familiarity with AI auditability, data residency, and enterprise governance controls. Self Assessment Questions Do I have 8+ years of software development experience , with strong hands-on expertise in Python backend development? Can I independently design and build scalable APIs, backend services, and enterprise integrations? Have I built AI/ML or LLM-powered applications with end-to-end RAG pipelines , including embeddings and vector search? Can I test, secure, deploy, and support these applications in production while improving response quality, performance, and cost? Am I comfortable owning technical delivery, leading design and code reviews, and mentoring engineers? Only Oracle brings together the data, infrastructure, applications, and expertise to power everything from industry innovations to life-saving care. And with AI embedded across our products and services, we help customers turn that promise into a better future for all. Discover your potential at a company leading the way in AI and cloud solutions that impact billions of lives. True innovation starts when everyone is empowered to contribute. That’s why we’re committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs. We’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing accommodation-request_mb@oracle.com or by calling 1-888-404-2494 in the United States. Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law. Experience Level Senior Level",
+      "apply_options": [
+        {
+          "title": "Apna Jobs",
+          "link": "https://apna.co/job/bengaluru/senior-python-developer-backend-ai-ml-and-rag-1986766104?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/senior-python-backend-developer-with-ai-ml-and-retrieval-augmented-generation-expertise--bengaluru--e513f82229501d823e7474889cdddec09?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgUHl0aG9uIEJhY2tlbmQgRGV2ZWxvcGVyIHdpdGggQUkvTUwgYW5kIFJldHJpZXZhbC1BdWdtZW50ZWQgR2VuZXJhdGlvbiBFeHBlcnRpc2UiLCJjb21wYW55X25hbWUiOiJPcmFjbGUgSW5kaWEgUHJpdmF0ZSBMaW1pdGVkIiwiaHRpZG9jaWQiOiJEVTdzVElFYmIzU0RXdXdqQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXNzQkNvd0JRVVJFWWxkbFdXMHpTVTVxVUZFMGJWWTFNbUZ2WmtweGNtNTZibWQ1ZWkxWFYyUnhjbTV1VFZoaFpXOXFiREZuWWxCclRHc3RialZHYm1jNFlVTjBSR05xU0VSS2ExOTBaRmt6VERoc2NqVkNUV3hHWDFVNWRWYzVUR05oVVZKNFdEaEVjazVOTlVrdFpHaFdRbFUxUTIxM09FZ3lVMlUzUm0xRlpWQlFhRVpXWmtkb2MwOWpSa1ptTjJzU0ZtaHJiMEpoTFZoNFFrMUVhelZPYjFCb1lTMXFUVUVhSWtGSVRqQkZOMFZLTjNOd2NGWkVWV1ZSV25KaFVEazVNRUZWYkhscE56QXpjRkUiLCJmY3YiOiIzIiwiZmNfaWQiOiJEVTdzVElFYmIzU0RXdXdqQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Full Stack Developer - Python",
+      "company_name": "WSP",
+      "location": "Bengaluru, Karnataka (+1 other)",
+      "via": "NextHire",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Backend+Python+Developer&htidocid=VdniMllFxRb25RtoAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBCAYVz7CLrcLJqI4KK4iOjgUujgWK7hSGpjLiRXqZvv4OTr-STW5R8--IvPpNhXFFpOcOq9h0rQdHCkB3mOlGAJ5VMcB_i-3nDjBjJhMg5GOTNbT9OdE4l5q3XOXtksKK1Rhu-aAzU86HHK_9TZYaLoUaheb1aDisHOZ9eqhDbAgYJF36d-ARdMAQU7_AEXJBqhnAAAAA&shmds=v1_Ac3VAoyx844UnO3ysiwCiTcWLQolUXTUFB7k6HsKyF7lRZzlPg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Backend+Python+Developer&htidocid=VdniMllFxRb25RtoAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAbCAMAAAAeYLy0AAAAbFBMVEX____5Qjr5Pzf5PjX6Yl35U035OTD5NCr5Jhn5MCb5KR35LCD_-vr8vLr6fnr5Ni35Rj75V1H_9fX-3t36amX7mZb7n5z8pKL-7u790tH4HQv7kIz6b2r9wb_5Tkj6eHT8r639ycj-5eT7iYYeJMXUAAABTElEQVQ4je2U25KCMAyGm6LpgVMVUZAVAd__HQ00lbq6M7t7bW7oJP_XnDqIL3AoFsvR4cUfRaacakVsO4DNctijc7AnuQLj5ZmGZMOy1oDNnsCtDMGLASxIbiE5eE-BYBvOTtdVP4Cil6Ap5TVZPmSjgfLEt6o1-ws4lKByLx-8pwTZ-9OkAbBv34NTCth5-dZ7aoSUCzwggEx3l3egMCDn7jpqbVocFV81T6ovgVDj2jcgSOhZXj_aViFaaJxRfXwFSQbz10nJqzyVYMYQnjyq8xcQublZ7itq7LKiYE1hKWf5HcxSSK5LXD_km-R58fQQeF4RSE48Bnnq5bR4lUfg-rAikKbJFVJUN6GK8Aa87S13vYKkCTPJzuoQZmnOTQxWGr1jBW8p2oHDQxfWVXXHmBNjV9fPw2luNbt-Z_E6_mQf8AP-D3z8ydnu2pAQD58gh8sAAAAASUVORK5CYII.png",
+      "extensions": [
+        "6 days ago",
+        "Full–time"
+      ],
+      "detected_extensions": {
+        "posted_at": "6 days ago",
+        "schedule_type": "Full–time"
+      },
+      "source_link": "https://www.nexthireconsulting.com/jobs/view/senior-full-stack-developer-python-at-wsp-bengaluru-yju3fku3iv/",
+      "job_title": "Senior Full Stack Developer - Python",
+      "description": "Senior Full Stack Developer would design, build, enhance, and support enterprise-grade web applications across frontend, backend, APIs, and cloud-integrated services. The role would involve transforming MVP solutions into scalable, maintainable, and production-ready systems by developing robust application features, improving code quality, reducing technical debt, and enabling reliable integrations across platform services. The developer would contribute to feature delivery, bug fixing, performance optimization, and operational stability while working closely with architecture, DevOps, QA, and business teams.\n\n\n\n\nResponsibilities:\n\n\n\n\nApplication Development:\n\nDesign, develop, test, and maintain frontend and backend application components.Build scalable APIs, services, and user interfaces aligned with product and architecture standards.Contribute to new feature development, bug fixes, and codebase improvements.Ensure code quality, maintainability, and adherence to engineering standards.\n\n\nModernization & Technical Debt Reduction:\n\nRefactor legacy or MVP code into production-grade, supportable components.Identify and address performance bottlenecks, code smells, and architectural inconsistencies.Drive improvements in modularity, reusability, testability, and maintainability.Support database evolution, API hardening, and service optimization.\n\n\nQuality, Reliability & Release Support:\n\nDevelop unit / integration tests and support QA in end-to-end validation.Participate in code reviews, PR quality, and release-readiness checks.Support production issue analysis, root cause investigation, and remediation.Collaborate with DevOps teams to improve deployment reliability and observability.\n\n\nCollaboration & Engineering Practices:\n\nWork closely with architects, business analysts, DevOps engineers, and QA engineers.Contribute to Agile ceremonies, backlog refinement, and technical estimation.Follow established Git workflows, coding guidelines, and branching strategies.Document design decisions, technical assumptions, and implementation notes as needed.\n\n\nRequired Technical Skills:\n\nFrontend Development | Advanced - React / Angular / modern JavaScript or TypeScript frameworksBackend Development | Advanced - Python / Node.js / Java or equivalent enterprise backend stackAPI Development | Advanced - RESTful APIs, authentication, integration patterns, API performanceDatabases | Proficient - PostgreSQL / SQL Server / relational data modelling and queriesCloud & Platform | Proficient - Azure services, app hosting, storage, identity integrationDevOps Awareness | Proficient - CI/CD, Git workflows, container basics, deployments, monitoringEngineering Practices | Advanced - code reviews, testing, clean code, debugging, documentation\n\n\nRequired Experience:\n\nMinimum 8 years of professional experience in full stack software development.Proven experience in building and maintaining enterprise or SaaS web applications.Strong experience with frontend frameworks and backend/API development.Experience modernizing or stabilizing existing applications in production environments.Exposure to cloud-native development, secure coding, and integration with cloud services.Experience working in Agile product teams with cross-functional collaboration.Proven ability to balance feature delivery, production support, and technical debt reduction.\n\n\nPreferred (Not Required):\n\nExperience in Azure-hosted modern application stacks.Familiarity with multi-tenant SaaS application design.Exposure to GIS / geospatial features, map APIs, or document-driven platforms.Experience with containerized application deployment and observability tooling.Exposure to AI-assisted development tools or engineering productivity accelerators.",
+      "apply_options": [
+        {
+          "title": "NextHire",
+          "link": "https://www.nexthireconsulting.com/jobs/view/senior-full-stack-developer-python-at-wsp-bengaluru-yju3fku3iv/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRnVsbCBTdGFjayBEZXZlbG9wZXIgLSBQeXRob24iLCJjb21wYW55X25hbWUiOiJXU1AiLCJodGlkb2NpZCI6IlZkbmlNbGxGeFJiMjVSdG9BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3NCQ293QlFVUkVZbGRsWVc1U1JuaHpVbmN5U3pGU2RsaG1UVnA1YUhGdk5sbzNjV296ZFhOek9HbEVRVUp0V0U1WVMxSnJZVWR4Vm0xdFdWSjJjVEJrTUMxaVRubGlaV1kwUVdZMWNIWkZTQzFXZEdGMmVYUXdXVVJaYW05b1IwMWtZMjFZVEcxcWJIa3lXR2wxUTNrdE4waHVXbTFPVkdKTlozaEViMDVmY25kU1JYbEdOR1F4YkhWcGFrMDRZVTRTRm1ocmIwSmhMVmg0UWsxRWF6Vk9iMUJvWVMxcVRVRWFJa0ZJVGpCRk4waHBhbnAzZG5SNlRrWnVkbGs0V21SMVIyMXJkbUo2VGs0MGJWRSIsImZjdiI6IjMiLCJmY19pZCI6IlZkbmlNbGxGeFJiMjVSdG9BQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Python Backend Developer - AI Technologies",
+      "company_name": "Golden Hire Consultancy",
+      "location": "Bengaluru, Karnataka (+1 other)",
+      "via": "Hirist",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Backend+Python+Developer&htidocid=FIuqdPpJNb1Af45NAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXOsQ4BQRCA4Wg9gmpq4VYkGipOckSj0MtYk911a-aysyeu8w4exRt5Eqf5uy_5h5_BsDx22QvDBm1NfIUtPShKQwmmsN7DiaxnieICKXxfb7jJBZQwWQ-9qkRcpNHK59zo0hjVWDjNmIMtrNyNMF3kaXqk_5zVY6ImYqbzfDF7Fg27sakkXolhFxJBKaxtzMi2g9BfETuMbWoncMDEmLHGH-B3LuC2AAAA&shmds=v1_Ac3VAoyqWrdP58Htg4w3eBx__ikt2dps-Ajx7wTKCefhQ-pkcw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Backend+Python+Developer&htidocid=FIuqdPpJNb1Af45NAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b014a7e430875a78b8f002b/images/COqcvwpgDwWTH7mRGsadWmgGWouL5LAelgSbGa-dgxU.jpg",
+      "extensions": [
+        "Full–time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full–time"
+      },
+      "source_link": "https://www.hirist.tech/j/python-backend-developer-ai-technologies-1654450",
+      "job_title": "Python Backend Developer - AI Technologies",
+      "description": "Profile - Python Backend Developer with AI technologies\n\nExp : 5+ Yrs\n\nLocation : Gurgaon\n\nNP : Immediate to 15 Days\n\nNote : communication must be excellent.\n\nRoles that typically report to this role : Software Lead\n\nKey Purpose of the Role :\n\nPython backend developer will design and develop scalable, secure, and high-performance backend systems for modern web and enterprise applications. While the primary focus is on application development, the role requires a working understanding of AI technologies including large language models (LLMs), agent-based systems, and Retrieval-Augmented Generation (RAG) to support integration and collaboration with AI-focused teams.\n\nPrincipal Responsibilities :\n\n- Architect and develop robust backend services and APIs using Python and modern frameworks (e.g., FastAPI, Flask).\n\n- Design and optimize database schemas and queries using SQL and NoSQL technologies.\n\n- Collaborate with frontend, product, and AI teams to integrate intelligent features into applications.\n\n- Ensure backend systems are secure, scalable, and maintainable through best practices and DevOps workflows.\n\n- Support the integration of AI-powered services (e.g., LLM APIs, RAG pipelines) into application workflows.\n\n- Participate in code reviews, mentor junior developers, and contribute to technical decision-making.\n\nPerson Specification :\n\nEssential Skills :\n\n- Python Backend Development : Expertise in building and maintaining scalable backend systems.\n\n- Database Management : Strong proficiency in SQL and experience with relational and NoSQL databases.\n\n- API Design & Integration : Experience with RESTful APIs and microservices architecture.\n\n- DevOps Practices : Familiarity with Docker, Git, CI/CD pipelines, and cloud deployment.\n\nOverall, Skills and Experience :\n\n- Exposure to AI concepts such as LLMs, agents, and RAG pipelines, with ability to collaborate on integration.\n\n- Experience working with cloud platforms (AWS, Azure, GCP) and container orchestration.\n\n- Understanding of security best practices, performance optimization, and system monitoring.\n\n- Ability to work in agile teams and communicate effectively across technical and non-technical stakeholders\n\nQualifications :\n\nEssential :\n\n- Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field.\n\n- 5+ years of professional experience in Python backend development and application architecture.",
+      "apply_options": [
+        {
+          "title": "Hirist",
+          "link": "https://www.hirist.tech/j/python-backend-developer-ai-technologies-1654450?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Find Job At Boxhyre",
+          "link": "https://boxhyre.com/vvdn-technologies-python-developer-solution-design-372340?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQeXRob24gQmFja2VuZCBEZXZlbG9wZXIgLSBBSSBUZWNobm9sb2dpZXMiLCJjb21wYW55X25hbWUiOiJHb2xkZW4gSGlyZSBDb25zdWx0YW5jeSIsImh0aWRvY2lkIjoiRkl1cWRQcEpOYjFBZjQ1TkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzc0JDb3dCUVVSRVlsZGxZbmhLVkdoSFZtSnRjMDlUVW1GeE1IZFdhV2hwZFRobWVFUTNXVVE0WkdaMFluVnJlV3RYWW5wcFdtcG5iVzlrY1RoV1ozSm1TMnhqT1VGWVJESk9iemc1U1VKdFoyWmlVVTA1YUc0MFJVbHFTV1JwYW5CMVVFOWpiWEJKYWtWNWFuUlhjUzB5VUVoVmFXMXBiSE5WVXpkWlFrd3hTbkJxZURkM2JXSTVORWx4WXpSZlpUVVNGbWhyYjBKaExWaDRRazFFYXpWT2IxQm9ZUzFxVFVFYUlrRklUakJGTjBWdGVXSldZblptTldoSlNHcG5hVlIxZGpVd1pFUkplR0ZXUVVFIiwiZmN2IjoiMyIsImZjX2lkIjoiRkl1cWRQcEpOYjFBZjQ1TkFBQUFBQT09In0="
+    },
+    {
+      "title": "Backend Developer III (Python / Go)",
+      "company_name": "Synapsewave Innovations",
+      "location": "Bengaluru, Karnataka",
+      "via": "Instahyre",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Backend+Python+Developer&htidocid=CZqbs6fV52zV2IuMAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBBAUWxzBKspVSQrgo1aBSEEG8EDhEkckph1ZtnZxKTzDl7DU3kSY_OLDy_6zKJjgmVLfIMT9WTFkYcsy2BxGUMtDAZSWcL39Ya7FKCEvqxh-qlIZWl-qENwujdG1caVBgxNGZfyMMJUyGAmpP_kWqMnZzFQvt1ththxtTLXkdEpPbEnyJiln7iwQsOQEFdoO9-t4YyeMWCLP6o0yWqvAAAA&shmds=v1_Ac3VAozuH-1xXMasWMlhfbi6AiZbqFc-xCWPIxuH8cdTG6vjzw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Backend+Python+Developer&htidocid=CZqbs6fV52zV2IuMAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b014a7e430875a78b8f002b/images/tl-8Ad48F-GPcOgqsxQ8YgbtXQd5tNREseLFDbcR8PE.jpg",
+      "extensions": [
+        "Full–time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full–time"
+      },
+      "source_link": "https://www.instahyre.com/job-444993-backend-developer-iii-python-go-at-synapsewave-innovations-bangalore/",
+      "job_title": "Backend Developer III (Python / Go)",
+      "description": "As an SDE3 Backend Engineer, you will take technical ownership of complex backend components, ensuring scalability, reliability, and maintainability of our systems. You will serve as a go-to engineer for challenging problems, mentor junior developers, and play an active role in shaping system architecture and technical direction.\n\n\n\n\nResponsibilities: \n\nDesign and Development: Architect and implement scalable backend services and APIs using Python or Golang, ensuring high performance, resilience, and extensibility.System Ownership: Take end-to-end ownership of critical modules, from design and development to deployment and support.Technical Leadership: Conduct design and code reviews, enforce best practices, and mentor junior engineers to raise the team's technical bar.Collaboration: Work closely with product managers, architects, and other engineers to translate business requirements into technical solutions.Performance and Reliability: Troubleshoot complex issues in production systems, identify root causes, and design sustainable long-term solutions.Innovation: Evaluate new technologies, contribute to proofs-of-concept, and recommend tools that can improve developer productivity.Process Improvement: Drive initiatives to improve coding standards, CI/CD pipelines, and automated testing practices.Knowledge Sharing: Document designs, create technical guides, and share insights with the broader engineering team.\n\n\nRequirements: \n\n4-7 years of backend development experience with Python or Golang.Strong expertise in designing, developing, and scaling microservices and distributed systems.Solid understanding of concurrency, multi-threading, and performance optimization.Proficiency with databases (SQL/NoSQL), caching systems (Redis, Memcached), and messaging systems (Kafka, RabbitMQ, etc. ).Hands-on experience with Linux development, Docker, and Kubernetes.Familiarity with cloud platforms (AWS/GCP/Azure) and related services.Strong debugging, profiling, and optimization skills for production-grade systems.Experience with AI-powered development tools is a strong plus; familiarity with concepts like 'agentic coding' for workflow automation or 'context engineering' for leveraging LLMs in system design is highly desirable.\n\n\nRequired Skills: \n\nStrong problem-solving ability, with experience handling complex technical challenges.Ability to lead technical initiatives and mentor junior engineers.Excellent communication skills to collaborate with cross-functional teams and articulate trade-offs.Self-motivated, proactive, and able to operate independently while aligning with team goals.Passionate about engineering culture, quality, and developer productivity.",
+      "apply_options": [
+        {
+          "title": "Instahyre",
+          "link": "https://www.instahyre.com/job-444993-backend-developer-iii-python-go-at-synapsewave-innovations-bangalore/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Cutshort",
+          "link": "https://cutshort.io/job/Backend-Developer-I-Python-Go-Bengaluru-Bangalore-HyrHub-2njwsb4r?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "NextHire",
+          "link": "https://www.nexthireconsulting.com/jobs/view/backend-developer-iii-python-go-at-synapsewave-innovations-bengaluru-xwgsvbmefh/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Getmereferred.com",
+          "link": "https://getmereferred.com/in/job-listing/backend-developer-python-nodejs-nestjs-postgresql-preface-consulting-inkabengaluru-2-to-5-years-experience-2d4b6468-9713-4294-8f6a-399025f38395?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCYWNrZW5kIERldmVsb3BlciBJSUkgKFB5dGhvbiAvIEdvKSIsImNvbXBhbnlfbmFtZSI6IlN5bmFwc2V3YXZlIElubm92YXRpb25zIiwiaHRpZG9jaWQiOiJDWnFiczZmVjUyelYySXVNQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXNzQkNvd0JRVVJFWWxkbFdYRTFMVFJYTkdKTk1XeDNVbXByVURSNGRsQnNWWEF3Yms0MVl6bEJRVkpmZVhkamJUQTBTRzlIVW0xamNFOXdOV2t0ZG1RdExVMWlTRFpFZDB3eGVteG5jV1kyV2t4Q05VdE1lbFJSYldsbFlUZG5ZelJWVFV0MWJHOUJTV1ZtY1ZWRE1FRjFNbXhtVWpKb09GVklXRWhZTUdONVRsWmpjbEo0YVhoV1lWWjRlSFJNZFRVU0ZtaHJiMEpoTFZoNFFrMUVhelZPYjFCb1lTMXFUVUVhSWtGSVRqQkZOMFYxV2xFd1pqUk1ZVTVOUVhGSmJXbFZjbU5TVkVNdFZIVndOa0UiLCJmY3YiOiIzIiwiZmNfaWQiOiJDWnFiczZmVjUyelYySXVNQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Python Developer",
+      "company_name": "Capgemini",
+      "location": "Bengaluru, Karnataka",
+      "via": "Capgemini Careers",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Backend+Python+Developer&htidocid=Smol9DMCDwyuURtjAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBCAYVz7CE7nKpIUwUU3FRxcBB-gXMuRRNO7kEulbj6DvqFPYl3-5eOv3rOqvhIHyXB5Fi8MR3pQlEQZvq8P3KQFJcydh8lOIi7SfOdLSbq1VjUapwVL6EwnvRWmVkY7TfpPox4zpYiFmvWmHk1it1wcMDnqAwcIDHtih3HIwwrOmBkL3vEHgOziQ5UAAAA&shmds=v1_Ac3VAoyHLEj2j0NsLM380mIsOGXE9xQG5gLpDZZy08wfeeyZSA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Backend+Python+Developer&htidocid=Smol9DMCDwyuURtjAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAaVBMVEX___8AWKoAUKcAVqkATabM1ef4-fz09vrb4e7h5vH8_P2ZrNEAUqi4xN4ARqPq7fVHcbWouNcAL5x2ksQAQ6JsisA5abGMosxkhb4AEZVZe7nCy-IAJZnV3OuRp84vYa4APaCDnMkANZ6EQRJkAAABWUlEQVRIie2S0XKEIAxFLyICKgKLopUq6v9_ZJHuy3Y67nM7nodMJuZmzA3Azc3NzT9npEVz9X3hz6TKsZ5alRNnwD-qC-EcnsnnOUEVLe2mlMjPJBqf87hOQagalUS9VGuan4qABrM5wdBRQmjnAGvyNNXOEN4XDKtpuI7G1nTsg35IzAu8LDYNmn6vJEnnV1dhnPIeLVL7QwcXCIx2gTk-G7U204rI4K3dLVrwPulIacuewfpTaBQKLXuw0uzoxBC8VNGxfRIzDoZykMrhgO6Srmgi6VTaUQJNF8SDKc9jYL5p2b4J7gsrvAO10yr7EjKKTcAXtPUqbud---H8KDq_UDORIRllXbQDjdzI-qEwGBBjU30mLILPdGBbI7MvQsnsHkT2SZjT_-_7sNfD1NkO48JrGUs8L1LC_eh_iz5SCGmtq-fwK-E8N_WXD_AC_r7l5ubm5q_wBWeUExct_wZWAAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "9 days ago",
+        "Full–time"
+      ],
+      "detected_extensions": {
+        "posted_at": "9 days ago",
+        "schedule_type": "Full–time"
+      },
+      "source_link": "https://careers.capgemini.com/job/Bangalore-Senior-Python-Developer/1447663033/",
+      "job_title": "Senior Python Developer",
+      "description": "At Capgemini Invent, we believe difference drives change. As inventive transformation consultants, we blend our strategic, creative and scientific capabilities, collaborating closely with clients to deliver cutting-edge solutions. Join us to drive transformation tailored to our client's challenges of today and tomorrow. Informed and validated by science and data. Superpowered by creativity and design. All underpinned by technology created with purpose. Your Role We are seeking a seasoned Senior Python Developer with 8 to 12 years of hands-on experience building robust, scalable backend services and distributed systems. In this role, you will lead the architecture, design, and implementation of high-performance APIs, data pipelines, and microservices. You will collaborate closely with cross-functional engineering teams in an Agile environment, driving technical excellence from initial design through deployment and observability.  Architecture & Development: Design, build, and maintain scalable, secure backend services and microservices using Python. API Engineering: Architect and implement high-performance RESTful APIs and GraphQL schemas, integrating external third-party services and downstream systems using JSON-based payloads. Database Design & Management: Model, optimize, and manage NoSQL databases (primarily MongoDB) as well as relational databases (e.g., PostgreSQL, MSSQL) for query performance and data integrity. System Administration & Tooling: Develop, deploy, and debug applications directly in Linux/Unix environments. Code Quality & Mentorship: Drive clean architecture, comprehensive unit/integration testing, and code reviews across Git-based workflows. Cross-Functional Collaboration: Partner with product managers, QA, and DevOps engineers within an Agile/Scrum framework to deliver sprint commitments predictably. Your Profile  8–12 years of professional software engineering experience primarily using Python. Deep practical experience with core Python web frameworks such as FastAPI, Django, or FlaskDemonstrated expertise in designing, securing, and documenting RESTful APIs Practical experience implementing and consuming GraphQL APIs. Advanced proficiency in handling complex JSON parsing, data serialization, and API integrations. Strong hands-on experience with MongoDB (aggregation framework, indexing, schema design). Solid working knowledge of relational databases (e.g., PostgreSQL, MySQL) alongside ORM/ODM libraries (e.g., SQLAlchemy, MongoEngine, Beanie). Comfortable operating, scripting, and troubleshooting in Linux environments. Advanced proficiency with Git workflows (branching strategies, PR reviews, conflict resolution. What you will love about working here  We recognize the significance of flexible work arrangements to provide support. Be it remote work, or flexible work hours, you will get an environment to maintain healthy work life balance.    At the heart of our mission is your career growth. Our array of career growth programs and diverse professions are crafted to support you in exploring a world of opportunities.    Equip yourself with valuable certifications in the latest technologies such as Generative AI.  Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem.",
+      "apply_options": [
+        {
+          "title": "Capgemini Careers",
+          "link": "https://careers.capgemini.com/job/Bangalore-Senior-Python-Developer/1447663033/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgUHl0aG9uIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IkNhcGdlbWluaSIsImh0aWRvY2lkIjoiU21vbDlETUNEd3l1VVJ0akFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzc0JDb3dCUVVSRVlsZGxXbWx2Y2psT1pURjVhM3BEV0Zka1pWUm9VVU15ZEhSU1UzTTVZMVZaUWtoaWJ6Y3pSRXczVEVjNU1FdG1kbVowY0c5b2QwbFBabk41YkdSNlpuWlBWbFkwUkVaT1UwMVdiSFpmUlVwb1pUUkRRV3h1WkUwMFNVaEZOaTAxY0hkNlZETkRaMXB1U0RscFduZFlVM1ZmU25SbVZHcEpiV1ZhTlZGa05raEVVSFYwTjBVME0zRVNGbWhyYjBKaExWaDRRazFFYXpWT2IxQm9ZUzFxVFVFYUlrRklUakJGTjBnM0xUZDJibnA2UW5sNmVWYzRhblUwUm1wS01YTnJRMHd6VjBFIiwiZmN2IjoiMyIsImZjX2lkIjoiU21vbDlETUNEd3l1VVJ0akFBQUFBQT09In0="
+    },
+    {
+      "title": "Python Backend Developer",
+      "company_name": "SYMPHONI HR",
+      "location": "Bengaluru, Karnataka",
+      "via": "Symphoni Hr",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Backend+Python+Developer&htidocid=K4BQlHLn_O2qB6u3AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCMBRAce0RnD64iTQquOgmghVRi05O5Tf9JLUxPySp1M07iBf0JNblTe_xks8gmeXPqNnCGmVDtoINPciwIw_f1xtuXEIg9FJD72yZlaHhSsfowlKIEEyqQsRYy1TyXbClkjvRR-GPImj05AxGKuaLaZc6q8ajy_WQZ6fjDrIz1P2XrELT-nYCe_QWIzb4AzeI2_yYAAAA&shmds=v1_Ac3VAozL2ONDwCDbCWLrBzp4J1EE4Ok4iETtd9HUAkVGD7sa5A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Backend+Python+Developer&htidocid=K4BQlHLn_O2qB6u3AAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full–time"
+      },
+      "source_link": "https://symphonihr.com/careers/jobs/s6o2jOkK0S8D/",
+      "job_title": "Python Backend Developer",
+      "description": "We are looking for a talented Python Backend Developer to join our client's team in Bangalore. In this hybrid role, you will be responsible for designing and maintaining robust backend systems and scalable microservices. You will work within a dynamic environment to build high-performance applications that support complex financial and business processes.\n\nOur client is a leading global professional services firm operating at the intersection of finance and technology. They are known for their commitment to innovation and excellence, providing high-impact solutions to a diverse range of global clients. The organization fosters a collaborative, growth-oriented culture that encourages professional development and technical excellence.\n\nResponsibilities\n\nDesign, develop, and maintain scalable backend services using Python.Build and optimize RESTful APIs to support front-end and third-party integrations.Develop and manage microservices-based architectures in a cloud environment.Write clean, maintainable, and efficient code following OOP principles.Collaborate with cross-functional teams to define, design, and ship new features.Optimize database performance and ensure data integrity using SQL.Implement security best practices including OAuth2 and JWT authentication.Participate in code reviews and contribute to technical documentation.Requirements\n\n5–7 years of professional experience in backend development.Strong proficiency in Python, specifically with FastAPI, Django, and Flask.Proven experience in building and deploying microservices.Solid understanding of SQL databases such as PostgreSQL or MySQL.Experience with cloud-native development and containerization tools like Docker and Kubernetes.Familiarity with message brokers like Kafka or RabbitMQ is highly preferred.Strong grasp of CI/CD pipelines and monitoring tools like Datadog or ELK.Excellent problem-solving skills and ability to work in a hybrid team environment.",
+      "apply_options": [
+        {
+          "title": "Symphoni Hr",
+          "link": "https://symphonihr.com/careers/jobs/s6o2jOkK0S8D/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Platform.uplers.com",
+          "link": "https://platform.uplers.com/talent/all-opportunities/HR1179469051311175?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/python-backend-developer-hr-pro-solution-hlk-group-JV_IC2940587_KO0,24_KE25,50.htm?jl=1010303171320&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Cutshort",
+          "link": "https://cutshort.io/job/Backend-Python-Developer-Bengaluru-Bangalore-Multi-Recruit-wsgybptu?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/python-backend-developer/right-move-staffing-solutions-private-limited/20007477?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/5cmOl1cHA5C25RjEZ7tFsOv87CbHkf3l2EBodKvDPZ2nF2Hmx7IHbw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/python-backend-developer-at-teksalt-solutions-4451520784?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Instahyre",
+          "link": "https://www.instahyre.com/job-434842-python-backend-developer-at-coforge-bangalore/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQeXRob24gQmFja2VuZCBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJTWU1QSE9OSSBIUiIsImh0aWRvY2lkIjoiSzRCUWxITG5fTzJxQjZ1M0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzc0JDb3dCUVVSRVlsZGxZVWRCTkROSFRtTnZVazg1V1hKUVRIZHRhMXB1V2w5a2RHTkZaWE5FTTFkQlgwdHNibVJQU3pnMFRraHpNVUY0TmpOa2VVbzNTalJuTVhOUmNVOU1SbXB4TTBNdFdUVlVRamhUWVhsaFJsQnZZVGh5WWxwclozVmpPRVZpYlRKbFdIQnJOWGxhVmsxQldXNWphMWR2ZUUxT1FXdFBZM1prZG1WcVgzVkZVV2xUUXpGSmNrSVNGbWhyYjBKaExWaDRRazFFYXpWT2IxQm9ZUzFxVFVFYUlrRklUakJGTjBaRFEzbEpOalZYWjJsMGJHeG9lbGRVUm5acVMwUm1Sek5oZWxFIiwiZmN2IjoiMyIsImZjX2lkIjoiSzRCUWxITG5fTzJxQjZ1M0FBQUFBQT09In0="
+    },
+    {
+      "title": "Python Developer ( AWS)",
+      "company_name": "Genpact",
+      "location": "Bengaluru, Karnataka",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Backend+Python+Developer&htidocid=bsOro2J_wRooBETLAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBCAYVz7CC7eqCJNEVx0UoQOLoKDY7mGI6nGu5BcpW4-guAb-iTq8k_fX7xGRXV8qBeGPd0pSKQEU9ieTzP4PN9wkRYyYbIefqQWcYHGG68a89qYnEPpsqJ2trRyM8LUymB-U_6nyR4TxYBKzXJVDWVkN5_UxBGtQsewI3YY-tQv4ICJUfGKX1P9vxKTAAAA&shmds=v1_Ac3VAoyI7SKWHgR_utl1O_CaHmyewHqLlBUHzPBQSJLnZZHf8Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Backend+Python+Developer&htidocid=bsOro2J_wRooBETLAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b014a7e430875a78b8f002b/images/d7pLEMOCcjISnc7eobpH-XN5lIteenoEX36gyiBLbq4.jpg",
+      "extensions": [
+        "18 days ago",
+        "Full–time"
+      ],
+      "detected_extensions": {
+        "posted_at": "18 days ago",
+        "schedule_type": "Full–time"
+      },
+      "source_link": "https://in.linkedin.com/jobs/view/python-developer-aws-at-genpact-4485009464",
+      "job_title": "Python Developer ( AWS)",
+      "description": "Work Location : Bangalore or Noida \n\n\n\n\nAre you passionate about building scalable applications, developing efficient solutions, and working with cutting-edge cloud technologies?\n\nWe are looking for a skilled Python Developer to join our team! If you have strong Python programming skills, hands-on AWS experience, and a passion for developing high-quality applications, we'd love to hear from you.\n\n\n\n\nKey Responsibilities :\n\nDesign, develop, and maintain applications and automation scripts using Python.Work in an Agile/Scrum environment, collaborating with Senior Developers and cross-functional teams.Follow all phases of the Software Development Life Cycle (SDLC), including requirement analysis, technical design, development, testing, documentation, and deployment.Develop and deploy applications across AWS services such as Lambda, ECS, and other cloud resources.Ensure adherence to coding standards, development best practices, and client-specific requirements.Perform code reviews, debugging, troubleshooting, and performance optimization.\n\n\nRequired Qualifications & Skills : \n\nMust-Have Skills:\n\nStrong proficiency in Python programming.Hands on experience in AWS Good hands-on experience with databases such as MySQL, SQL Server & MongoDB .Technical Skills:\n\nExperience working with Agile/Scrum methodologies.Hands-on experience with Python libraries such as Pandas and NumPy.Strong understanding of Object-Oriented Programming (OOP) concepts and design principles.Experience with Flask (preferred) or Django frameworks.Hands-on experience with AWS services, including:AWS Lambda, ECS, EC2, and RDSAPI Gateway and CloudFormationAWS SAM, Transfer Family, and CloudWatchGood understanding of XML, JSON, REST APIs, and SOAP.Strong debugging, troubleshooting, and code review skills.Ability to work with structured and unstructured data from multiple sources.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/python-developer-aws-at-genpact-4485009464?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/u9bG_wP-xLlb56-wEB5MIcxMbm0v9DBAdD1jtUfIGkFGSoVjLpODgQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/python-django-developer-appzoy-JV_IC2940587_KO0,23_KE24,30.htm?jl=1010061452072&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Cutshort",
+          "link": "https://cutshort.io/job/Python-Django-Developer-Internship-Bengaluru-Bangalore-PeerXP-PQqlgShx?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.in/details/5923223694?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Levels.fyi",
+          "link": "https://www.levels.fyi/jobs?jobId=282b47d3ocxqp&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/python-django-developer-appzoy-JV_IC2940587_KO0,23_KE24,30.htm?jl=1010061452072&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/python-django-developer-intern-visko-groups-bengaluru-karnataka--t7xk-906056136?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQeXRob24gRGV2ZWxvcGVyICggQVdTKSIsImNvbXBhbnlfbmFtZSI6IkdlbnBhY3QiLCJodGlkb2NpZCI6ImJzT3JvMkpfd1Jvb0JFVExBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3NCQ293QlFVUkVZbGRsV1dwM2NYUXhPRWxQVW5KM1JYWXdjM1pIU0VaYUxWQkRTRGgwZGxWRVJsRkpOMkl4YzI1NVdYUnNia3hDUVdsaVRsSnlXV1JCWWxkSlZVd3lZVXQ1WVVWSk5rZElaR3BPYjJ0TVZqTk5lQzFZTmxkR2FXNUVkakZGY0RoV1psZDRlVXR2TVRReWVqbE1VVzlxTjFKNmVIbERTVEYyYUVKNGFsQnZjRXhTZFZSRUxXZEdTMklTRm1ocmIwSmhMVmg0UWsxRWF6Vk9iMUJvWVMxcVRVRWFJa0ZJVGpCRk4wVXRja05ZVlhZMFNWZEdYMnMyVVZGVlpqSTVMV3h1UWkwMGNWRSIsImZjdiI6IjMiLCJmY19pZCI6ImJzT3JvMkpfd1Jvb0JFVExBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVxRUVDdUlEUVVSRVlsZGxZWEExUW5aMlYwdFliRTFWYmtZelMyUkNkalpaVUZjMVQxTm1WME41VTNJMmRHSmtZWHBGYVZWSWJWSlVUMU56VjJOVU1HTlpkek41WkRoWlUySmpNV1Y0Yms4elVGQmpPSEJtTjNGT1VtMXNUWEk0YXpjelYwRnlZVEJXYW5aM1EwMXNTMEpMYUZKMGNWQlZRemhWWWtkalVteFVUa2t6ZEU5UlYxSkplVkpuYkcxTFVtZ3RRbWRWZFhSUGNXMUVlVVF4VGxsaE5GVk1kRmQ2Wm01RFIxbGxSR1U0T0RCWWVVdGZkMXA0U1VaaU1EaDFTM2xRY21OaGVrODRjbGwyZWw5TlVtOUtiRXBNZGtwUU1uUlNUMWx4Y0VoTWRqaHdNRE5DTVZVeGNsbE9ka2x3TmxWb2JuaEtNR0ZYVlRoNFZFTktOVkJwYkRWMlRWUm9kMnhIYlVwbFlUaHpSMnRUYkhwa2VYTk9Oek54UVhSU1Yyd3lOV1ZvU1ZoTmNubzRTVTF5UlVZMlpWcEJUWGxYZEVSRmRWTTNTRUowUVRGc1RYWklaMWhzTVVocVlqSlVYMnBoUjFoVFpHZHNTWHBUVFRGMFJuWmthRmd5TURsc09FZGZOR295TlhOck1qTTFXVkZqYWpoNFMwOVNaM0J3VDNob1ZFSktXVFZ2ZFdsblQzcHFOVVpvVFhFNWJYaGZTalZaYjNkR05HcEJOekp4UWw5T01URm9jVVl0Ym5ORGVWQTFaVlpMU1c5Q2JUUkdOMGhSUVd0UWREVnFlbWR3UmxaYVZXdEJOa2QxUnpaNVRUbFFWek50ZUZVelpqZEpVRGRQWlVKR2JXY1NGbWhyYjBKaExWaDRRazFFYXpWT2IxQm9ZUzFxVFVFYUlrRklUakJGTjBoUFJEbHdiakZUWWtaSmMycFNWSGgxZGxscWJEaDRUa2QzYjFFIiwiZmN2IjoiMyJ9",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+Karnataka%2C+India&next_page_token=eyJmYyI6IkVxRUVDdUlEUVVSRVlsZGxZWEExUW5aMlYwdFliRTFWYmtZelMyUkNkalpaVUZjMVQxTm1WME41VTNJMmRHSmtZWHBGYVZWSWJWSlVUMU56VjJOVU1HTlpkek41WkRoWlUySmpNV1Y0Yms4elVGQmpPSEJtTjNGT1VtMXNUWEk0YXpjelYwRnlZVEJXYW5aM1EwMXNTMEpMYUZKMGNWQlZRemhWWWtkalVteFVUa2t6ZEU5UlYxSkplVkpuYkcxTFVtZ3RRbWRWZFhSUGNXMUVlVVF4VGxsaE5GVk1kRmQ2Wm01RFIxbGxSR1U0T0RCWWVVdGZkMXA0U1VaaU1EaDFTM2xRY21OaGVrODRjbGwyZWw5TlVtOUtiRXBNZGtwUU1uUlNUMWx4Y0VoTWRqaHdNRE5DTVZVeGNsbE9ka2x3TmxWb2JuaEtNR0ZYVlRoNFZFTktOVkJwYkRWMlRWUm9kMnhIYlVwbFlUaHpSMnRUYkhwa2VYTk9Oek54UVhSU1Yyd3lOV1ZvU1ZoTmNubzRTVTF5UlVZMlpWcEJUWGxYZEVSRmRWTTNTRUowUVRGc1RYWklaMWhzTVVocVlqSlVYMnBoUjFoVFpHZHNTWHBUVFRGMFJuWmthRmd5TURsc09FZGZOR295TlhOck1qTTFXVkZqYWpoNFMwOVNaM0J3VDNob1ZFSktXVFZ2ZFdsblQzcHFOVVpvVFhFNWJYaGZTalZaYjNkR05HcEJOekp4UWw5T01URm9jVVl0Ym5ORGVWQTFaVlpMU1c5Q2JUUkdOMGhSUVd0UWREVnFlbWR3UmxaYVZXdEJOa2QxUnpaNVRUbFFWek50ZUZVelpqZEpVRGRQWlVKR2JXY1NGbWhyYjBKaExWaDRRazFFYXpWT2IxQm9ZUzFxVFVFYUlrRklUakJGTjBoUFJEbHdiakZUWWtaSmMycFNWSGgxZGxscWJEaDRUa2QzYjFFIiwiZmN2IjoiMyJ9&q=Backend+Python+Developer"
+  }
+}

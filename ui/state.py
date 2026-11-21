@@ -3,11 +3,13 @@
 from __future__ import annotations
 
 import json
+import os
 from pathlib import Path
 from typing import Any
 
 import streamlit as st
 
+from src.cache import get_cached
 from src.courses import _build_mini_project_idea, attach_learning_resources
 from src.gap import analyze_skill_gaps
 from src.jobs import fetch_live_jobs
@@ -122,8 +124,22 @@ def load_sample_resumes() -> list[dict[str, str]]:
     return [dict(item) for item in _FALLBACK_PRESETS]
 
 
+def sync_streamlit_secrets() -> None:
+    """Propagate Streamlit Cloud secrets into os.environ if not already set."""
+    for key in ("SERPAPI_KEY", "GEMINI_API_KEY"):
+        if os.getenv(key, "").strip():
+            continue
+        try:
+            secret_val = st.secrets.get(key)
+        except Exception:
+            secret_val = None
+        if isinstance(secret_val, str) and secret_val.strip():
+            os.environ[key] = secret_val.strip()
+
+
 def init_session_state() -> None:
     """Initialize all shared SkillBridge st.session_state keys once."""
+    sync_streamlit_secrets()
     defaults: dict[str, Any] = {
         "jobs": [],
         "demand_list": [],
@@ -570,3 +586,24 @@ def run_offline_demo_snapshot(resume_text: str, role: str, location: str) -> Non
             "deterministic local dataset used (0 API credits consumed)."
         ),
     )
+
+
+def has_cached_jobs_for_query(role: str, location: str) -> bool:
+    """Return True if a SerpApi google_jobs payload is already cached on disk."""
+    params = {
+        "engine": "google_jobs",
+        "q": role,
+        "location": location,
+        "gl": "in",
+        "hl": "en",
+    }
+    return get_cached("google_jobs", params) is not None
+
+
+def run_quick_demo(resume_text: str, role: str, location: str) -> None:
+    """Run live/cached market analysis when available, else fallback to offline demo."""
+    sync_streamlit_secrets()
+    if os.getenv("SERPAPI_KEY", "").strip() or has_cached_jobs_for_query(role, location):
+        run_market_analysis(resume_text=resume_text, role=role, location=location)
+    else:
+        run_offline_demo_snapshot(resume_text=resume_text, role=role, location=location)

@@ -1,0 +1,1103 @@
+{
+  "search_metadata": {
+    "id": "6b015073758ad4e70e275ce7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/jrWBA-nLOdN4Ir3_br9a2DIApl_KfS_8HLaQywhoTKM/6b015073758ad4e70e275ce7.json",
+    "markdown_endpoint": "https://serpapi.com/searches/jrWBA-nLOdN4Ir3_br9a2DIApl_KfS_8HLaQywhoTKM/6b015073758ad4e70e275ce7.md",
+    "created_at": "2026-11-21 08:04:03 UTC",
+    "processed_at": "2026-11-21 08:04:03 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Jest+full+course+tutorial+for+Frontend+Developer&gl=in&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/jrWBA-nLOdN4Ir3_br9a2DIApl_KfS_8HLaQywhoTKM/6b015073758ad4e70e275ce7.html",
+    "total_time_taken": 5.22
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Jest full course tutorial for Frontend Developer",
+    "gl": "in",
+    "hl": "en"
+  },
+  "search_information": {
+    "total_results": 759772,
+    "video_results_state": "Results for exact spelling"
+  },
+  "ads_results": [
+    {
+      "position_on_page": 1,
+      "title": "Devour knowledge with Student Spaces",
+      "link": "https://www.youtube.com/watch?v=VdDiEf6YJnQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VdDiEf6YJnQ",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CDMqUdlABa8mnAbHTpMYP0LTYsQWXouaPiwHIvp-b-hWwkB8QASAAYMn2pozQpOQPggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAbH6_-oCqAMEyAMKqgTuAk_Qm_3n07uRSYIBdaqbYqnutJb_Z6X6cEs0YheXo2dyWiDwYvayFVhgrpKaonrkfcjk0WyTzYHzPYS3H6Ua1a4zkwNLw1fB5bLmbj5qtiGaDgE6NlvbLfeyQxntydkWn9Ngc4d3Y-iRPGHEYrl9GpTYcTwibszl0yUt4JwY6qXUDUhG1ARuhBfndgJ5ZvCg6Nn73xHoMph42l6p7GII2sF4R6NGL-QL7qxjwb2o73AiPyg89-4Mdka4eB_wBXOddTfXkZ-R9UT6cXsEr7RzuuWieFGu2yk7ZxG_QK1iG_OuJrBPmdtGYV-jZ3h3T1ejJNhMuleSUeUqOZcYmO4N-5o_ONO7-22y0IjQ4Gh7jLAWErXXwj1Pp1qGJfKzCwGYPeXUacpCU_bzsrYArsJKLr_PEMLG1wDxN6Tj_Qhq4ekk7gNrc3apttXumCebaaLNaIvKgmicGZsq7lS89j-TxMkz3aglZAP7J_rAk9j9G4gF5tDvrViSBQgIE3j6zZ-VAaAGoQGAB7eFgJUBkAcEqAelz7ECqAfnnbECqAfonbECqAeD9rECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHnuqxAqgHn-qxAqgH-OuxAqgHvOqxAqgH7_GxAqgH_K-xAqgH1c4bqAe-2bECqAe_2bECqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKSCAtWZERpRWY2WUpuUagIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWICQ8-_MmJgDYAGaCSxodHRwczovL2Fjcm9iYXQuYWRvYmUuY29tL3N0dWRlbnRzcGFjZXMvaG9tZbEJWSnDN4YNTWDICRfICY8ByAnCAboLPggDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AIC2AEDgAIBiAISugMJdmlhdGx6YWFh0AsT4AsBogwfYhgKFmNvbS5hZG9iZS5lY2hvc2lnbi5pb3N4AIgBANIMAhABmg0BE6oNAlVTyA0B0g3pBGh0dHBzOi8vYWQuZG91YmxlY2xpY2submV0L2RkbS90cmFja2Nsay9OOTcyOTUyLjI3OTM4MkJJRE1BTkFHRVJfREZBU0lURS9CMjIzNDQ0MTMuMjQxNTM5MzIxO2RjX3Rya19haWQ9NDM4MTI4NjIyO2RjX3Rya19jaWQ9MTEyODg0NjEzO2RjX2RibV90b2tlbj1BT2plTE5FQUFBQTZDak1LREFnQUZRQUFBQUFkQUFBQUFCSU1DQUFWQUFBQUFCMEFBQUFBSWhNSTV0RHZyVmlvQXNPNDlBR3dBc3lXNHVrRFFEc1FsLWU2QWFwU28zTGo2OUhxbVJTR0Q3TmxKdGM9O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2x0ZD07ZGNfdGR2PTE7ZGNfdHJhbnNwYXJlbnQ9MTtkY19ydWk9MTtkY19lcHM9QUhhczhjQjN3SjlNYmFZd0hCT0FqaWVKdWptYXV3ekI1M3ZxRlZVVjBva0FNcFpYaHRyeVdzR2dNejJzLUNyVU5TODNjRzZuWnRqTHBheHRhaWlRc0E7ZGNfcHViaWQ9Nj9odHRwczovL2Fjcm9iYXQuYWRvYmUuY29tL3N0dWRlbnRzcGFjZXMvaG9tZT9zZGlkPVZCRjFLODI1Jm12PXNvY2lhbCZtdjI9cGFpZHNvYyZ4X2FwaV9jbGllbnRfaWQ9cGFpZG1lZGlhJnhfYXBpX2NsaWVudF9sb2NhdGlvbj1hZHNfVkJGMUs4MjUmZ2FkX3NvdXJjZT0ysBPj7qgkuBP___________8BiBQHsBQDwBWBgIBA0BUB2BUBmBYBqBYBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRdXv8ICGj4Y8LoXBigAMAA4AdAYAfAYAQ&gclid=EAIaIQobChMIybrz78yYmAMVsSnJAh1QGjZWEAEYASAAEgLcxfD_BwE&num=1&cid=CAASqgHkaLtXSflv_lcX8RrIXc6uE3Xv0sKF0lT1NyDrvKKpzq8AGk33hUDYYvCS2k23Ts421o3XuavgebKOR7EdgfuBcBojpm05Qm_yj3-Yxj46ZLFSxuBbh38a7-2yGyIC7JMORoEka0V-8TzFACulvRDu9h6pEpP6LUG6sqX5xmF9hCqNLBF-N8KdXKb7tX0_L6rpyzaZhF3vXf4PROcEGhVhSIXHRpbcvPaDWg&ad_cpn=%5BCPN%5D&sig=AOD64_1f0uMc_BBIGXawWx60k_LIwCEXHw&ctype=110&video_id=VdDiEf6YJnQ&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Adobe",
+        "thumbnail": "https://yt3.ggpht.com/proxy/MOuz2I13I1fAnFfngtXtL_W4we9dtMgr0pZOHx9ZvXrWe0TzDLTj2mq2_seyh8bAOYiFhihUkC0bcCbQ2Rr3ROUyAm-g7fKx7ikqVy2aYwv8ap82JEQltB0uNj5JlrrMcTbQ-wFlNo0DfytWwYBrrCyx4-VnwgCwx-dn0fy6KEEwJzLjssuJHIvXA-MdWMvBvChh3bzxW7-sQCuvX2mDwrBOQUGt_eZzMbPzNL_oO6Ke1vjjr2458wPYmALVc80eUKLvvs8=w68-h68-nd"
+      },
+      "description": "Student Spaces is a smarter way to study. Free for students.",
+      "thumbnail": {
+        "static": "https://tpc.googlesyndication.com/simgad/16369361523479505177"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Record meetings, calls, lectures, and in-person conversations",
+      "link": "https://www.youtube.com/watch?v=ihn1m9AoiBc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ihn1m9AoiBc",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=C0zKidlABa8mnAbHTpMYP0LTYsQWt7vyGiwGSyrLpvRawkB8QAiAAYMn2pozQpOQPggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAcrdkKNEqAMEyAMKqgTCAk_Qm_3n07uRSYIBdaqbYqnutJb_Z6X6cEs0YheXo2dyWiDwYvayFVhgrpKaonrkfcjk0WyTzYHzPYS3H6Ua1a4zkwNLw1fB5bLmbj5qtiGaDgE6NlvbLfeyQxntydkWn9Ngc4d3Y-iRPGHEYrl9GpTYcTwibszl0yUt4JwY6qXUDUhG1ARuhBfndgJ5ZvCg6Nn73xHoMph42l6p7GII2sF4R6NGL-QL7qxjwb2o73AiPyg89-4Mdka4eB_wBXOddTfXkZ-R9UT6cXsEr7RzuuWieFGu2yk7ZxG_QK1iG_OuJrBPmdtGYV-jZ3h3T1ejJNhMuleSUeUyOVMFmfknM1AwVwH1tvH59WSUWuJ5IL_YMkZ18AJ3qaLLs9t1yZPopBJSNgel6Pf-FpLl1-rahzU-BtqsgxHyNYYlU5zhCzAmne2IBaDf1uBakgUICBN4sILsqR-gBqEBgAfKleGCH5AHBKgHpc-xAqgH552xAqgH6J2xAqgHg_axAqgH-dOxAqgHydqxAqgHqeCxAqgHqNIbqAex3BuoB7CbsQKoB_2ysQKoB8jPsQKoB8nPsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB57qsQKoB5_qsQKoB_jrsQKoB7zqsQKoB-_xsQKoB_yvsQKoB9XOG6gHvtmxAqgHv9mxAqgHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECkggLaWhuMW05QW9pQmOoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFiAkPPvzJiYA2ABmgkraHR0cHM6Ly9lY2hvLm1lZXR3aGFsZS5haS9wcm9kdWN0cy9lY2hvLXByb7EJk687fjR_-f_ICRfICY8ByAnCAZgLAboLPggDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AIC2AEBgAIBiAISugMJdmlhdGx6YWFh0AsT0gwCEAGaDQETqg0CVVPIDQHSDVNodHRwczovL2VjaG8ubWVldHdoYWxlLmFpL3Byb2R1Y3RzL2VjaG8tcHJvP2dhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yNDM2MTkzODg0OLgT____________AYgUAbAUA8AVgYCAQNAVAdgVAZgWAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXIfGItdSInjC6FwYoADAAOAHQGAHwGAHCGQIIAQ&gclid=EAIaIQobChMIybrz78yYmAMVsSnJAh1QGjZWEAEYAiAAEgIdhvD_BwE&num=2&cid=CAASqgHkaLtXSflv_lcX8RrIXc6uE3Xv0sKF0lT1NyDrvKKpzq8AGk33hUDYYvCS2k23Ts421o3XuavgebKOR7EdgfuBcBojpm05Qm_yj3-Yxj46ZLFSxuBbh38a7-2yGyIC7JMORoEka0V-8TzFACulvRDu9h6pEpP6LUG6sqX5xmF9hCqNLBF-N8KdXKb7tX0_L6rpyzaZhF3vXf4PROcEGhVhSIXHRpbcvPaDWg&ad_cpn=%5BCPN%5D&sig=AOD64_1kB8j7d3zuCmxUtKBm3kXHyAR6zA&ctype=110&video_id=ihn1m9AoiBc&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Whale Echo",
+        "thumbnail": "https://yt3.ggpht.com/proxy/Tb9NoK22jFeIDpBXbZw0kppL5kKISf2V5yoVx7WrdRTleDgf_Y24S6UbB7-k6NY_wowZVcJfGW9wxUBeTH3osJ0hZD2fSI13bWJBWgVMBl7Vlos2HvmMxJZXuybILTWRQ1RI3U0xfqmPlKtoCcqAa6peIDlplY85hy8FppWEbaOpO7BOGivR1j6ivSXv2WkHZUYcCwUqiKZUgIIrZivHLRt0ZR7cuBVqadOpmupFgPNhzVNcVQMBvCd9zZ850DQ3NrBlESc=w68-h68-nd"
+      },
+      "description": "Ace your classes with AI. Capture 2-hour lectures effortlessly with crystal-clear audio.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ihn1m9AoiBc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNbzyMcIzSzpFTp8jSlrvIvcb4dw"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "When Is It Time for Assisted Living?",
+      "link": "https://www.youtube.com/watch?v=aCZ4Gb-KJ-s",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=aCZ4Gb-KJ-s",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CZV0pdlABa8mnAbHTpMYP0LTYsQWst5i_igGL2d6iuxZkEAMgAGDJ9qaM0KTkD4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHm6dObA6gDBMgDCqoEwQJP0Jv959O7kUmCAXWqm2Kp7rSW_2el-nBLNGIXl6Nnclog8GL2shVYYK6SmqJ65H3I5NFsk82B8z2Etx-lGtWuM5MDS8NXweWy5m4-arYhmg4BOjZb2y33skMZ7cnZFp_TYHOHd2PokTxhxGK5fRqU2HE8Im7M5dMlLeCcGOql1A1IRtQEboQX53YCeWbwoOjZ-98R6DKYeNpeqexiCNrBeEejRi_kC-6sY8G9qO9wIj8oPPfuDHZGuHgf8AVznXU315GfkfVE-nF7BK-0c7rlonhRrtspO2cRv0CtYhvzriawT5nbRmFfo2d4d09XoyTYTLpXklHlMjlTBZmTVzNQMVcB-MPL1fVklDaPX-1tHd-uhLzkp6MgQgbpsFwDwI6BYksuetsgs0exMczL8aU1MhIVioRJLCSkJV2KalAbdEiIBdaBoPJakgUHCBN43O_KZKAGoQGAB4KWrGSQBwSoB6XPsQKoB-edsQKoB-idsQKoB4P2sQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAee6rECqAef6rECqAf467ECqAe86rECqAfv8bECqAf8r7ECqAfVzhuoB77ZsQKoB7_ZsQKoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxApIIC2FDWjRHYi1LSi1zqAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAGEjZoNI1UBRYgJDz78yYmANgAZoJGmh0dHBzOi8vd3d3LndsZWxrcG9pbnQuY29tsQncQJxASeoYBsgJF8gJjwHICcIBmAsBugs-CAMQBRgEIAcoATAcQAFIAFh9YABoAHABiAEAmAEBogEICgCoAgHYAgLYAQiAAgGIAhK6Awl2aWF0bHphYWHQCxPSDAIQAZoNAROqDQJVU8gNAdINQmh0dHBzOi8vd3d3LndsZWxrcG9pbnQuY29tP2dhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yNDM5ODc5MDg3MLgT____________AbAUA8AVgYCAQNAVAdgVAZgWAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakX3TK-EsvGdxe6FwYoADAAOAHQGAHwGAHCGQIIAQ&gclid=EAIaIQobChMIybrz78yYmAMVsSnJAh1QGjZWEAEYAyAAEgJjIPD_BwE&num=3&cid=CAASqgHkaLtXSflv_lcX8RrIXc6uE3Xv0sKF0lT1NyDrvKKpzq8AGk33hUDYYvCS2k23Ts421o3XuavgebKOR7EdgfuBcBojpm05Qm_yj3-Yxj46ZLFSxuBbh38a7-2yGyIC7JMORoEka0V-8TzFACulvRDu9h6pEpP6LUG6sqX5xmF9hCqNLBF-N8KdXKb7tX0_L6rpyzaZhF3vXf4PROcEGhVhSIXHRpbcvPaDWg&ad_cpn=%5BCPN%5D&sig=AOD64_1c45W9tTGgxLrsf9H23HNiTvyKVA&ctype=110&video_id=aCZ4Gb-KJ-s&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Kismet Holdings LLC",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kvEjj4jl_OFGeZoulQIz7KZ5XsHKgfF1j4w8l3Id4=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "description": "If you’re starting to wonder whether your parent is still safe living alone … you’re …",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/aCZ4Gb-KJ-s/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFQoRTAP&rs=AOn4CLCbq73AfZgalyJXbqeJL675R_ooZw"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Auto-scale workloads to handle spikes and growth with Azure.",
+      "link": "https://www.youtube.com/watch?v=RtPYdAUkrv0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=RtPYdAUkrv0",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CzTMQdlABa8mnAbHTpMYP0LTYsQWx9aKPiwH1vN_eqxbdq6T6zkgQBCAAYMn2pozQpOQPggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAcCKxvVDqAMEyAMKqgTgAk_Qm_3n07uRSYIBdaqbYqnutJb_Z6X6cEs0YheXo2dyWiDwYvayFVhgrpKaonrkfcjk0WyTzYHzPYS3H6Ua1a4zkwNLw1fB5bLmbj5qtiGaDgE6NlvbLfeyQxntydkWn9Ngc4d3Y-iRPGHEYrl9GpTYcTwibszl0yUt4JwY6qXUDUhG1ARuhBfndgJ5ZvCg6Nn73xHoMph42l6p7GII2sF4R6NGL-QL7qxjwb2o73AiPyg89-4Mdka4eB_wBXOddTfXkZ-R9UT6cXsEr7RzuuWieFGu2yk7ZxG_QK1iG_OuJrBPmdtGYV-jZ3h3T1ejJNhMuleSUeUyOVMFmaIIM1AyVwHv5N7vynaX4SKcgaAFOX0Km3yuQaaKXYpI2MTqbyfnjxpI0X8nGlmQ5vnTUcPyqvIfqGrD45cltFEUNtq4_teuQF6rjDItfNpu5TheVrFuNL9h82L2AGuGAslTfE2IBevnpMhakgUICBN4weft-h6gBqEBgAfAwpbVHpAHBKgHpc-xAqgH552xAqgH6J2xAqgHg_axAqgH-dOxAqgHydqxAqgHqeCxAqgHqNIbqAex3BuoB7CbsQKoB_2ysQKoB8jPsQKoB8nPsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB57qsQKoB5_qsQKoB_jrsQKoB7zqsQKoB-_xsQKoB_yvsQKoB9XOG6gHvtmxAqgHv9mxAqgHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECkggLUnRQWWRBVWtydjCoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFiAkPPvzJiYA2ABmglPaHR0cHM6Ly9henVyZS5taWNyb3NvZnQuY29tL2VuLXVzL3ByaWNpbmcvcHVyY2hhc2Utb3B0aW9ucy9henVyZS1hY2NvdW50L3NlYXJjaLEJYF7ufiixcPbICRfICY8ByAnCAcgJlwK6Cz4IAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAtgBA4ACAYgCEboDCXZpYXRsemFhYdALEuALAdIMAhABmg0BEqoNAlVTyA0B0g2QBWh0dHBzOi8vYWQuZG91YmxlY2xpY2submV0L2RkbS90cmFja2Nsay9ONTcyNjA4LjEzNTUzMzlHT09HTEUuQ09NRERNQklETS9CMzY4NjU2NDIuNDU4MDYyODkxO2RjX3Rya19haWQ9NjUyNzkzNTc1O2RjX3Rya19jaWQ9MjU4OTEwMjQ2O2RjX2RibV90b2tlbj1BT2plTE5FQUFBQThDalFLREFnQUZRQUFBQUFkQUFBQUFCSU1DQUFWQUFBQUFCMEFBQUFBSWhRSTYtZWt5RnFvQXNIbjdmb2VzQUw4elBYckEwQTdFS0hBXzdJZGxiYlFvMjYzR1JRQkhTSXFhZkhFdVE9PTtkY19sYXQ9O2RjX3JkaWQ9O3RhZ19mb3JfY2hpbGRfZGlyZWN0ZWRfdHJlYXRtZW50PTt0ZnVhPTtsdGQ9O2RjX3Rkdj0xOztkY190cmFuc3BhcmVudD0xO2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNCQzlBWGFBc0R0ZzNsUXRDX0hocEJvMXQtX2Z1b05xWjNUQnA1VkdNV1lHMTB6OWtOZXdkT0gzaEdwSWpISWtuQnBrZ3pfR0lScEVsS0NDdztkY19wdWJpZD02P2h0dHBzOi8vYXp1cmUubWljcm9zb2Z0LmNvbS9lbi11cy9wcmljaW5nL3B1cmNoYXNlLW9wdGlvbnMvYXp1cmUtYWNjb3VudC9zZWFyY2g_T0NJRD1BSURjbW1sZzdvNXZiOF9PTEFfMzY4NjU2NDJfNDU4MDYyODkxXzI1ODkxMDI0NiZzaXRlSUQ9MTA2NDUwMTMmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTI0MzEwNzg5MDk5sBPAhM0muBP___________8BiBQCsBQDwBWBgIBA0BUB2BUBmBYBqBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF4QGIdHTHExeuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMIybrz78yYmAMVsSnJAh1QGjZWEAEYBCAAEgIlkPD_BwE&num=4&cid=CAASqgHkaLtXSflv_lcX8RrIXc6uE3Xv0sKF0lT1NyDrvKKpzq8AGk33hUDYYvCS2k23Ts421o3XuavgebKOR7EdgfuBcBojpm05Qm_yj3-Yxj46ZLFSxuBbh38a7-2yGyIC7JMORoEka0V-8TzFACulvRDu9h6pEpP6LUG6sqX5xmF9hCqNLBF-N8KdXKb7tX0_L6rpyzaZhF3vXf4PROcEGhVhSIXHRpbcvPaDWg&ad_cpn=%5BCPN%5D&sig=AOD64_2x7zG0UpOtKMseAE5EFmguTqniNg&ctype=110&video_id=RtPYdAUkrv0&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Microsoft",
+        "thumbnail": "https://yt3.ggpht.com/proxy/HcDIKi6hGUt23dHJXoGqjYsnW-Yx9b_rvzKby486R6qMUMB5Rj4f1gTieN0_putXXLoa3-WRmWkl6sG9uNJxyUKxT05R36YayKaL6mPwyYsceZVtV43-hJXD6Vdcwr-f9TTB2p4MuxHVP_MYMdnkd1T-00ZPKAq1UisX070t8eIHTbn0wr8tIAwBLSzPe1a1lfAxuCvhiPlF0mN5w-KEfkrLLRdu2y16PNlmNSxm4ASe8xaThWiP6wugAt2DNl21sdoTc3c=w68-h68-nd"
+      },
+      "description": "Expand confidently with Azure auto-scaling and global reach.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/RtPYdAUkrv0/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_g6AArgIigIMCAAQARhyIF8oQjAP&rs=AOn4CLDsnlT_0mDhjEdfquY8kp0wTAlbuA"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "On-site work is slow and expensive. Remote analysis on Google Earth is easy and fast.",
+      "link": "https://www.youtube.com/watch?v=dueh4LNA3X4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=dueh4LNA3X4",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CKa6ydlABa8mnAbHTpMYP0LTYsQWN5rHDigHyxajf0RawkB8QBSAAYMn2pozQpOQPggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAcvxyvcDqAMEyAMKqgTAAk_Qm_3n07uRSYIBdaqbYqnutJb_Z6X6cEs0YheXo2dyWiDwYvayFVhgrpKaonrkfcjk0WyTzYHzPYS3H6Ua1a4zkwNLw1fB5bLmbj5qtiGaDgE6NlvbLfeyQxntydkWn9Ngc4d3Y-iRPGHEYrl9GpTYcTwibszl0yUt4JwY6qXUDUhG1ARuhBfndgJ5ZvCg6Nn73xHoMph42l6p7GII2sF4R6NGL-QL7qxjwb2o73AiPyg89-4Mdka4eB_wBXOddTfXkZ-R9UT6cXsEr7RzuuWieFGu2yk7ZxG_QK1iG_OuJrBPmdtGYV-jZ3h3T1ejJNhMuleSUeUyOVMFmaQfM1A4VwH5hfP59WSUW8lJjm0ds8UJvOSnoyBCABEozCvqcrdZEPlIQjrvKBcq7eDTpTkm9menpe89BqQrSws0Gg6jiAXigtz2WpIFBwgTeLGp3AegBqEBgAedjrUIkAcEqAelz7ECqAfnnbECqAfonbECqAeD9rECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHnuqxAqgHn-qxAqgH-OuxAqgHvOqxAqgH7_GxAqgH_K-xAqgH1c4bqAe-2bECqAe_2bECqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKSCAtkdWVoNExOQTNYNKgIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWICQ8-_MmJgDYAGaCSJodHRwczovL2VhcnRoLmdvb2dsZS5jb20vd2ViL3Rvb2xzsQnf4iUrWgV9YMgJF8gJjwHICcIBugs-CAMQBRgEIAcoATAcQAFIAFh9YABoAHABiAEAmAEBogEICgCoAgHYAgLYAQaAAgGIAgW6Awl2aWF0bHphYWHQCxLgCwGiDBlqEgoQY29tLmdvb2dsZS5lYXJ0aHgAiAEA0gwCEAGaDQESqg0CVVPIDQHSDcsDaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvc2VhcmNoYWRzL2xpbmsvY2xpY2s_bGlkPTU4NzAwMDA5MTUwNTc1MzM2JmRzX2FfY2lkPTE2MTkyNjg5JmRzX2FfY2FpZD0yNDQwODE2MjY1OCZkc19hX2FnaWQ9MjAwOTE3MjUzMjY1JmRzX2FfZmlpZD0mZHNfYV9saWQ9YXVkLTI1MDgxMDQ0MTU5NzMmZHNfYV9leHRpZD0mJmRzX2VfYWRpZD04Mjk2NDY3MzI4NTYmZHNfZV9tYXRjaHR5cGU9Y29udGVudCZkc19lX2RldmljZT1jJmRzX2VfbmV0d29yaz15dGlmJiZkc191cmxfdj0yJmRzX2Rlc3RfdXJsPWh0dHBzOi8vZWFydGguZ29vZ2xlLmNvbS93ZWIvdG9vbHM_dXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT12aWRlbyZ1dG1fY2FtcGFpZ249ZWFydGgyNl9kZ2VuX3YyJnV0bV9jb250ZW50PWNvbmNlcHRfMSZnY2xzcmM9YXcuZHMmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTI0NDA4MTYyNjU4uBP___________8BiBQGsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwG6FwYoADAAOAHQGAHwGAHCGQIIAQ&gclid=EAIaIQobChMIybrz78yYmAMVsSnJAh1QGjZWEAEYBSAAEgLrxvD_BwE&num=5&cid=CAASqgHkaLtXSflv_lcX8RrIXc6uE3Xv0sKF0lT1NyDrvKKpzq8AGk33hUDYYvCS2k23Ts421o3XuavgebKOR7EdgfuBcBojpm05Qm_yj3-Yxj46ZLFSxuBbh38a7-2yGyIC7JMORoEka0V-8TzFACulvRDu9h6pEpP6LUG6sqX5xmF9hCqNLBF-N8KdXKb7tX0_L6rpyzaZhF3vXf4PROcEGhVhSIXHRpbcvPaDWg&ad_cpn=%5BCPN%5D&sig=AOD64_1XGUMEIpluL75VrgbVWnn1GyNAHw&ctype=110&video_id=dueh4LNA3X4&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Google Earth",
+        "thumbnail": "https://yt3.ggpht.com/proxy/JsmwS_kO0-J8bGHsT5OZBkuOBEGRZRqbrqKnRNOnJ01_6T4Almg693EBgQtOee8mtXTKHtardX5t5Mm0teWJQEcv-86bjt6PSHLsvAKVkJY6j3VRAai_q3jpQEvhR6tAXiGopAU8kr2YfBI7SaGkcNPskyAI1NTILjtl966WYSsGhWgqlRVg5iURdO9SjHzBVnEe5W0rWMTI2j8O4ld-m7guLijgIOfmWs8BUeuJDdID6KZNzqPApPCslJCTA6WvPCvT7lM=w68-h68-nd"
+      },
+      "description": "Save time with new tools to analyze terrain, classify land, and understand change.",
+      "thumbnail": {
+        "static": "https://tpc.googlesyndication.com/simgad/1570874531922520471"
+      }
+    }
+  ],
+  "video_results": [
+    {
+      "position_on_page": 2,
+      "title": "React Testing for Beginners: Start Here!",
+      "link": "https://www.youtube.com/watch?v=8Xwq35cPwYg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=8Xwq35cPwYg",
+      "video_id": "8Xwq35cPwYg",
+      "channel": {
+        "name": "Programming with Mosh",
+        "channel_id": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "link": "https://www.youtube.com/@programmingwithmosh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 289315,
+      "length": "1:17:14",
+      "description": "Ready to master React testing? This tutorial covers the essentials of React Testing Library with Vitest / Jest. Get hands-on and ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/8Xwq35cPwYg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDM2JX9EZzOfg5RkSa8vdVUbZ5WKQ",
+        "rich": "https://i.ytimg.com/an_webp/8Xwq35cPwYg/mqdefault_6s.webp?du=3000&sqp=CLCThdgG&rs=AOn4CLAhg8QaqHWDxUiJ4PiBfWLZWR6jFw"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/8Xwq35cPwYg/hqdefault_21866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdbhXsKkvaK0rIOytQ3FYcM9SJdg",
+          "time_start": 0
+        },
+        {
+          "title": "Prerequisites",
+          "thumbnail": "https://i.ytimg.com/vi/8Xwq35cPwYg/hqdefault_83833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiPjeWDLON9kPDAI-Fv5vhbL007A",
+          "time_start": 81
+        },
+        {
+          "title": "Course Structure",
+          "thumbnail": "https://i.ytimg.com/vi/8Xwq35cPwYg/hqdefault_186866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBimCvKpYp5JpHFT3wlz_wS47s7pQ",
+          "time_start": 180
+        },
+        {
+          "title": "How to Take this Course",
+          "thumbnail": "https://i.ytimg.com/vi/8Xwq35cPwYg/hqdefault_288800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3CBiIAb3pY1ZmYPUZrXKUEjNUVg",
+          "time_start": 286
+        },
+        {
+          "title": "Setting Up the Development Environment",
+          "thumbnail": "https://i.ytimg.com/vi/8Xwq35cPwYg/hqdefault_398800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBk318rs-fDhFh9f8LXLraYbPd1Vw",
+          "time_start": 397
+        },
+        {
+          "title": "Setting Up the Starter Project",
+          "thumbnail": "https://i.ytimg.com/vi/8Xwq35cPwYg/hqdefault_468233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwJGFVDDpRGs4V-wbWdxVDIlfPpg",
+          "time_start": 456
+        },
+        {
+          "title": "Setting Up Vitest",
+          "thumbnail": "https://i.ytimg.com/vi/8Xwq35cPwYg/hqdefault_814700.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAQ9DClQZtv_JBEhxrrWZwLz7j_w",
+          "time_start": 811
+        },
+        {
+          "title": "Setting Up React Testing Library",
+          "thumbnail": "https://i.ytimg.com/vi/8Xwq35cPwYg/hqdefault_1044133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATtiL0gc_XVf68QCnBn3UwOvuOuA",
+          "time_start": 1039
+        },
+        {
+          "title": "Testing React Components",
+          "thumbnail": "https://i.ytimg.com/vi/8Xwq35cPwYg/hqdefault_1226233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-1oZFQMT9dXoJibtJhRL2_5TgLA",
+          "time_start": 1224
+        },
+        {
+          "title": "What to Test",
+          "thumbnail": "https://i.ytimg.com/vi/8Xwq35cPwYg/hqdefault_1277200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrbYlR_RAPKCnTBau6v2q2o-7M0w",
+          "time_start": 1275
+        },
+        {
+          "title": "Testing Rendering",
+          "thumbnail": "https://i.ytimg.com/vi/8Xwq35cPwYg/hqdefault_1474033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbC5448yrTFmckJpGmVc70AF__Fw",
+          "time_start": 1471
+        },
+        {
+          "title": "Simplifying Test Setup",
+          "thumbnail": "https://i.ytimg.com/vi/8Xwq35cPwYg/hqdefault_1995133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnCbLzgXx8GWAtzwj34ND60DFPTA",
+          "time_start": 1992
+        },
+        {
+          "title": "Exercise: Testing UserAccount",
+          "thumbnail": "https://i.ytimg.com/vi/8Xwq35cPwYg/hqdefault_2179000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdk7B5S0LOkX2GV3eBfnDMAnFOHw",
+          "time_start": 2176
+        },
+        {
+          "title": "Announcement",
+          "thumbnail": "https://i.ytimg.com/vi/8Xwq35cPwYg/hqdefault_2531033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbiOSWYuWl1x1TyMQSSIK2E9_Amw",
+          "time_start": 2512
+        },
+        {
+          "title": "Testing Lists",
+          "thumbnail": "https://i.ytimg.com/vi/8Xwq35cPwYg/hqdefault_2564933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwBCJUtPxExG9ThSZ2fivE5ELRPw",
+          "time_start": 2561
+        },
+        {
+          "title": "Exercise: Testing ProductImageGallery",
+          "thumbnail": "https://i.ytimg.com/vi/8Xwq35cPwYg/hqdefault_2928000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCG3mGI0JMc9BJUz9DvE4cAPFDYDQ",
+          "time_start": 2926
+        },
+        {
+          "title": "Testing User Interactions",
+          "thumbnail": "https://i.ytimg.com/vi/8Xwq35cPwYg/hqdefault_3191833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAt5YPLw3-ITBF4NSUU-fP0SmKYew",
+          "time_start": 3188
+        },
+        {
+          "title": "Exercise: Testing ExpandableText",
+          "thumbnail": "https://i.ytimg.com/vi/8Xwq35cPwYg/hqdefault_3726800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0g11ZQcpt3jFV4xal0I8L9VcUmw",
+          "time_start": 3724
+        },
+        {
+          "title": "Simplifying Tests",
+          "thumbnail": "https://i.ytimg.com/vi/8Xwq35cPwYg/hqdefault_4400800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBag2ZzYfth9qMlVWvBYA4XvwhQA",
+          "time_start": 4397
+        }
+      ]
+    },
+    {
+      "position_on_page": 5,
+      "title": "Testing In React Tutorial - Jest and React Testing Library",
+      "link": "https://www.youtube.com/watch?v=JBSUgDxICg8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=JBSUgDxICg8",
+      "video_id": "JBSUgDxICg8",
+      "channel": {
+        "name": "PedroTech",
+        "channel_id": "UC8S4rDRZn6Z_StJ-hh7ph8g",
+        "link": "https://www.youtube.com/@PedroTechnologies",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/Qizn_VAgeCADuMk0RhVQ11j_9TWKrtQ1ifDGo5Yomj4Kjx29OgnHuZc6dQds5jztNlk3LAt6NA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 238508,
+      "length": "21:28",
+      "description": "In this video I will be going over testing in react by using Jest and React Testing Library. Join our Discord: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/JBSUgDxICg8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBvS9sP2n-uHf5ktnPkgn0hnGH9w",
+        "rich": "https://i.ytimg.com/an_webp/JBSUgDxICg8/mqdefault_6s.webp?du=3000&sqp=CI2ChdgG&rs=AOn4CLCSeLxQnE6VP7JkrEJymelXwVbjaA"
+      },
+      "chapters": [
+        {
+          "title": "Demo",
+          "thumbnail": "https://i.ytimg.com/vi/JBSUgDxICg8/hqdefault_26866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGYrHxwD8V2TFmd3fA2LOKLcvIFQ",
+          "time_start": 0
+        },
+        {
+          "title": "Creating tests for components",
+          "thumbnail": "https://i.ytimg.com/vi/JBSUgDxICg8/hqdefault_243866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAp2hyRjou9h4odDeLzWSdR9wUiyg",
+          "time_start": 243
+        },
+        {
+          "title": "Running tests",
+          "thumbnail": "https://i.ytimg.com/vi/JBSUgDxICg8/hqdefault_772866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdwnbnYJub1ewXt-_xPPrQNb0ytA",
+          "time_start": 763
+        }
+      ]
+    },
+    {
+      "position_on_page": 6,
+      "title": "The Complete Frontend Developer Roadmap",
+      "link": "https://www.youtube.com/watch?v=Tef1e9FiSR0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Tef1e9FiSR0",
+      "video_id": "Tef1e9FiSR0",
+      "channel": {
+        "name": "Programming with Mosh",
+        "channel_id": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "link": "https://www.youtube.com/@programmingwithmosh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 710442,
+      "length": "8:54",
+      "description": "Go from zero to a frontend developer in 12 months. This step-by-step roadmap covers the essential skills and latest technologies ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Tef1e9FiSR0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBD1bo0eloK7etTvfWQWJivyXQs_Q",
+        "rich": "https://i.ytimg.com/an_webp/Tef1e9FiSR0/mqdefault_6s.webp?du=3000&sqp=CIGUhdgG&rs=AOn4CLCEfhM3fnFhhMnR9p_vY1kTjwK3tg"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_21933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJb1fR95DXey4ezdE-DWZ8P58TNw",
+          "time_start": 0
+        },
+        {
+          "title": "Basics of web development",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_49866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzHCPheXMfqWeTZcAQTqTfyhX4YQ",
+          "time_start": 23
+        },
+        {
+          "title": "How long it takes to become a front-end developer",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_60300.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUu5aMzXt8kXYCCol_6JvUBRD4GA",
+          "time_start": 56
+        },
+        {
+          "title": "The complete front-end roadmap (PDF)",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_91966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxgh8wia7s2IYnFnZqyP1fIEnBSg",
+          "time_start": 70
+        },
+        {
+          "title": "Basics of front-end development",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_97933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUK9-TH-6hGtfBf0apyYKmmQ8dHg",
+          "time_start": 93
+        },
+        {
+          "title": "Version control (Git)",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_227900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsyUOiLI-frp1FQA22UEXXy7DV3g",
+          "time_start": 213
+        },
+        {
+          "title": "TypeScript",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_247800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYu9dNDmluRYW-8Fzs4cWc9SuR5w",
+          "time_start": 233
+        },
+        {
+          "title": "UI libraries/frameworks",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_285900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQfQ3m7FKwzkYaP5OKmcOhRQ7csA",
+          "time_start": 258
+        },
+        {
+          "title": "CSS preprocessors",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_364900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhWVF2lztxxbJz2IxQcJNeXIAoUw",
+          "time_start": 341
+        },
+        {
+          "title": "CSS frameworks",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_396833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9C20qLCQwYH4GsB6lDLJ9OfY2fg",
+          "time_start": 382
+        },
+        {
+          "title": "Automated testing frameworks",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_424200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJoXyVjE62GTJluUqzvQxJocSmFQ",
+          "time_start": 421
+        },
+        {
+          "title": "Meta-frameworks",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_482066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBQXSSx1fqOa7KIApuYhuz3zkNoQ",
+          "time_start": 463
+        },
+        {
+          "title": "Mobile development",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_504233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD13iuPbYI1-bKHe6DFc6MLwPhnYA",
+          "time_start": 500
+        }
+      ]
+    },
+    {
+      "position_on_page": 8,
+      "title": "Jest Tutorial: Start with Unit Testing in JavaScript & Write Better Code",
+      "link": "https://www.youtube.com/watch?v=diC9TvwXSUM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=diC9TvwXSUM",
+      "video_id": "diC9TvwXSUM",
+      "channel": {
+        "name": "camelCase",
+        "channel_id": "UC466mUC6rxPWbniNt1G-0Kg",
+        "link": "https://www.youtube.com/@camelCaseDev",
+        "thumbnail": "https://yt3.ggpht.com/aiL2IlNXmcQ8bODywvqeb_2X7DwHct3aS8pOTDc1HqhBMchGbyH-XbWPv6MNuZ4RdK3sRUEefw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 20838,
+      "length": "6:50",
+      "description": "In this tutorial, I'll show you how to kickstart your #JavaScript testing with #Jest and embrace Test Driven Development (#TDD).",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/diC9TvwXSUM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgelbwSf9YDaGfmkKucbj_q_qdtA",
+        "rich": "https://i.ytimg.com/an_webp/diC9TvwXSUM/mqdefault_6s.webp?du=3000&sqp=CJifhdgG&rs=AOn4CLAjiMWrZNhtJE_IscoZJ3nhiMYvtQ"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/diC9TvwXSUM/hqdefault_9166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxJKrRpTAwVpdBZYFKoPLbvosAoQ",
+          "time_start": 0
+        },
+        {
+          "title": "Your First Unit Test",
+          "thumbnail": "https://i.ytimg.com/vi/diC9TvwXSUM/hqdefault_77866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQIthSkuPvquk4bbtahQngW4qx_g",
+          "time_start": 64
+        },
+        {
+          "title": "Jest Test Explorer",
+          "thumbnail": "https://i.ytimg.com/vi/diC9TvwXSUM/hqdefault_138133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6ss8pCfGRhfT7CdJMI4jyuVrjSQ",
+          "time_start": 133
+        },
+        {
+          "title": "Test Driven Development",
+          "thumbnail": "https://i.ytimg.com/vi/diC9TvwXSUM/hqdefault_200933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpn2gK3z-g9QCM6ZYDxIQcNDAfzQ",
+          "time_start": 180
+        },
+        {
+          "title": "Structuring & Coverage",
+          "thumbnail": "https://i.ytimg.com/vi/diC9TvwXSUM/hqdefault_327966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaAfE5Qo_LpWI8343zz6Z41mdYPg",
+          "time_start": 317
+        }
+      ]
+    },
+    {
+      "position_on_page": 9,
+      "title": "Jest + React Testing Library: The Complete Practical Guide",
+      "link": "https://www.youtube.com/watch?v=3hk1Ge2ApHg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3hk1Ge2ApHg",
+      "video_id": "3hk1Ge2ApHg",
+      "channel": {
+        "name": "Code With Saad",
+        "channel_id": "UCZQl4VS4YfCP73pphTzdBJQ",
+        "link": "https://www.youtube.com/@codewithsaadr",
+        "thumbnail": "https://yt3.ggpht.com/z7tDJcNE6TBIiZijIPZKS86xIlzeJwEJfj8RKSU2tEHdry4BW1NL60sFFC-iofXjMTalXP50TPs=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4mo ago",
+      "views": 852,
+      "length": "35:40",
+      "description": "In this video, we cover everything you need to start testing React components with Jest and React Testing Library. We build one ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/3hk1Ge2ApHg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-ets2AKMRLLDV6XuVcl1dgwJ_4Q",
+        "rich": "https://i.ytimg.com/an_webp/3hk1Ge2ApHg/mqdefault_6s.webp?du=3000&sqp=CLiDhdgG&rs=AOn4CLBCw_sxO876Mw0bbIS6pFjShNVO2A"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Frontend Testing with Jest",
+      "link": "https://www.youtube.com/watch?v=vZMiqfY1S6s",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=vZMiqfY1S6s",
+      "video_id": "vZMiqfY1S6s",
+      "channel": {
+        "name": "Onramp_io",
+        "channel_id": "UCGFtCbIiMLOsP0c5tVsACQQ",
+        "link": "https://www.youtube.com/@onramp_io1082",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_leK2HrRVYv0Yiv93N7doe5XGgOTShGtD3Yq-U5pBlqgw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 337,
+      "length": "55:45",
+      "description": "With Bennett Lee.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/vZMiqfY1S6s/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAArQDigIMCAAQARhlIGUoZTAP&rs=AOn4CLAe_MGKVGb1z5jJ84zDSwwb5cibTw",
+        "rich": "https://i.ytimg.com/an_webp/vZMiqfY1S6s/mqdefault_6s.webp?du=3000&sqp=CN6GhdgG&rs=AOn4CLCKXLkZwnHlh9-Dt2x3TQ0tdTtnhA"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Jest Interview Questions 2025 | JavaScript Testing Framework Complete Guide for Beginners",
+      "link": "https://www.youtube.com/watch?v=hU9gN_xVhHU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=hU9gN_xVhHU",
+      "video_id": "hU9gN_xVhHU",
+      "channel": {
+        "name": "CodeLucky",
+        "channel_id": "UCFMdEr1H3hhCIdoKwsK80Tw",
+        "link": "https://www.youtube.com/@thecodelucky",
+        "thumbnail": "https://yt3.ggpht.com/EtC7CNkzqKFYYul2geRiEM7dqC372SoHD-W-OXInQQhEcSPARsoiMfgRiWU7tBRj2EbVrltw4Q=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 695,
+      "length": "9:49",
+      "description": "Master Jest testing framework with this comprehensive interview guide! Learn everything you need to know about JavaScript ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/hU9gN_xVhHU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmGN2bPJa23i00ThYc2wioN2o5xg"
+      },
+      "chapters": [
+        {
+          "title": "Jest Interview Questions - Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/hU9gN_xVhHU/hqdefault_11000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAor48rjwbK4ZikMAJFvw-Z6lIRg",
+          "time_start": 0
+        },
+        {
+          "title": "What is Jest?",
+          "thumbnail": "https://i.ytimg.com/vi/hU9gN_xVhHU/hqdefault_38333.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFuJARsKN6n37tNegdLy6-CEt5BA",
+          "time_start": 38
+        },
+        {
+          "title": "Jest Setup & Installation",
+          "thumbnail": "https://i.ytimg.com/vi/hU9gN_xVhHU/hqdefault_90833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIGj-607mLkNTReuQUnG9eAgajaQ",
+          "time_start": 88
+        },
+        {
+          "title": "Writing Your First Test",
+          "thumbnail": "https://i.ytimg.com/vi/hU9gN_xVhHU/hqdefault_145766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcP0OwsK5Hglk0hbp-QTZ6zf7YRQ",
+          "time_start": 141
+        },
+        {
+          "title": "Jest Test Matchers",
+          "thumbnail": "https://i.ytimg.com/vi/hU9gN_xVhHU/hqdefault_193866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfYUZGCJh8Brqz-XT_o-RAdcm-qw",
+          "time_start": 193
+        },
+        {
+          "title": "Jest Mocking Functions",
+          "thumbnail": "https://i.ytimg.com/vi/hU9gN_xVhHU/hqdefault_250233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC11kzBVtb-22s1BjfC5w_jCy-sxQ",
+          "time_start": 248
+        },
+        {
+          "title": "Asynchronous Testing",
+          "thumbnail": "https://i.ytimg.com/vi/hU9gN_xVhHU/hqdefault_312166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgrNwJeVEUdgMOs4aVQw1zz39NuA",
+          "time_start": 308
+        },
+        {
+          "title": "Snapshot Testing",
+          "thumbnail": "https://i.ytimg.com/vi/hU9gN_xVhHU/hqdefault_373133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5wu_lUBKyh141DWlKXiirk8KB0w",
+          "time_start": 372
+        },
+        {
+          "title": "Code Coverage Reporting",
+          "thumbnail": "https://i.ytimg.com/vi/hU9gN_xVhHU/hqdefault_440166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtyMjIsrv5pKi3kacdz-C3OMfzdg",
+          "time_start": 433
+        },
+        {
+          "title": "Jest Best Practices",
+          "thumbnail": "https://i.ytimg.com/vi/hU9gN_xVhHU/hqdefault_505166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJVHk-YZ6XPGsHnEuRuoFOshnFiA",
+          "time_start": 500
+        },
+        {
+          "title": "Outro",
+          "thumbnail": "https://i.ytimg.com/vi/hU9gN_xVhHU/hqdefault_577166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpbQ3dA49y9O0WEdy1GqIbPXpFtA",
+          "time_start": 572
+        }
+      ]
+    },
+    {
+      "position_on_page": 12,
+      "title": "Master Jest in One Course | Complete JavaScript Testing Tutorial",
+      "link": "https://www.youtube.com/watch?v=lgK1K0wAKKA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lgK1K0wAKKA",
+      "video_id": "lgK1K0wAKKA",
+      "channel": {
+        "name": "The Gist",
+        "channel_id": "UCaFDX2XTAQPSUhTmjDkgj7w",
+        "link": "https://www.youtube.com/@The_Gist_21",
+        "thumbnail": "https://yt3.ggpht.com/LN2DuH-wxuGQJQQu1y37DRnVPr6NmXk9FgJtG3qHUd4HHjtF6_Bcjo4OOsOOp_PVwaGUBprtIOY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4mo ago",
+      "views": 59,
+      "length": "9:23",
+      "description": "... tutorials jest tutorial jest testing javascript testing unit testing learn jest jest crash course javascript tutorial frontend development ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/lgK1K0wAKKA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4KF-blHO9H2qF4g-jiMHzu3SvkA"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "Frontend Unit Testing: Jest & Enzime - Ruben Azevedo - RequireLX",
+      "link": "https://www.youtube.com/watch?v=k97KBW6RbRg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=k97KBW6RbRg",
+      "video_id": "k97KBW6RbRg",
+      "channel": {
+        "name": "Tech Talks YLD",
+        "channel_id": "UCPXA8SlHzOsPNYlXGKZRPdg",
+        "link": "https://www.youtube.com/@TechTalksYLD",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kocsceoVE3JSmMcg-ONBuDAW4YrWeFUV_cXgFqPMUt7ZQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 343,
+      "length": "15:46",
+      "description": "Ruben Azevedo giving a talk on Frontend Unit Testing. Videographer: Rúben Fajardo https://www.yld.io/",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/k97KBW6RbRg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdeOLpsoPDfPCZIDyfomRUXom-VQ"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/k97KBW6RbRg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQGNMe3D1v9GsQCX5vVBqpBSsVKQ",
+          "time_start": 0
+        },
+        {
+          "title": "Before everything, who tests frontend code daily?",
+          "thumbnail": "https://i.ytimg.com/vi/k97KBW6RbRg/hqdefault_50866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqOsvppLDSr1fjDfCr8uTTUtjhpA",
+          "time_start": 40
+        },
+        {
+          "title": "You're using someone's else code everyday",
+          "thumbnail": "https://i.ytimg.com/vi/k97KBW6RbRg/hqdefault_114166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClrxfsMHhjhnlIDjbd6__U_PZPXw",
+          "time_start": 108
+        },
+        {
+          "title": "Let's discuss what is a good test. What do you guys think?",
+          "thumbnail": "https://i.ytimg.com/vi/k97KBW6RbRg/hqdefault_309266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQxhP2QNaOKPYIi5E67JnhLLigwA",
+          "time_start": 287
+        },
+        {
+          "title": "What the heck is a snapshot?",
+          "thumbnail": "https://i.ytimg.com/vi/k97KBW6RbRg/hqdefault_390766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGy3GMnbewy9ULwBOd0D2kttKm7A",
+          "time_start": 386
+        },
+        {
+          "title": "Good usage vs bad usage",
+          "thumbnail": "https://i.ytimg.com/vi/k97KBW6RbRg/hqdefault_484200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCau25GfR0na-U4TJhZFAuF8zXVHw",
+          "time_start": 467
+        },
+        {
+          "title": "Coverage",
+          "thumbnail": "https://i.ytimg.com/vi/k97KBW6RbRg/hqdefault_536700.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcvfkEmxApCwUfKHsrYoxOaIL8_Q",
+          "time_start": 519
+        },
+        {
+          "title": "TDD in React Components?",
+          "thumbnail": "https://i.ytimg.com/vi/k97KBW6RbRg/hqdefault_636166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpg5P0-kulQ_SP7k_IM1R6sL6Jig",
+          "time_start": 608
+        },
+        {
+          "title": "Tips & Tricks",
+          "thumbnail": "https://i.ytimg.com/vi/k97KBW6RbRg/hqdefault_667800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAG_NY9R_TRumWDxuX9nH6q0RyhCg",
+          "time_start": 651
+        },
+        {
+          "title": "Target your mocks",
+          "thumbnail": "https://i.ytimg.com/vi/k97KBW6RbRg/hqdefault_715033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1I9rcvrLRm_FZs2RCrdI1gZTjYA",
+          "time_start": 694
+        },
+        {
+          "title": "Structure your tests",
+          "thumbnail": "https://i.ytimg.com/vi/k97KBW6RbRg/hqdefault_760066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDybi7uIta9U7U1kGKRZdEXNVyTiQ",
+          "time_start": 748
+        },
+        {
+          "title": "Shallow and Mount",
+          "thumbnail": "https://i.ytimg.com/vi/k97KBW6RbRg/hqdefault_841200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDU8yH1cLan1QJcL2Z4-ZR6zV8Tyw",
+          "time_start": 815
+        },
+        {
+          "title": "Use and abuse of \"describe\" and \"it\"",
+          "thumbnail": "https://i.ytimg.com/vi/k97KBW6RbRg/hqdefault_867200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDInx5gkhO6HICyNICiIseXr8dDyA",
+          "time_start": 861
+        },
+        {
+          "title": "One last thing...",
+          "thumbnail": "https://i.ytimg.com/vi/k97KBW6RbRg/hqdefault_916966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEXnwFAB2QKc8fjjdXJHiShTmGcw",
+          "time_start": 888
+        }
+      ]
+    },
+    {
+      "position_on_page": 16,
+      "title": "Introduction To Testing In JavaScript With Jest",
+      "link": "https://www.youtube.com/watch?v=FgnxcUQ5vho",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=FgnxcUQ5vho",
+      "video_id": "FgnxcUQ5vho",
+      "channel": {
+        "name": "Web Dev Simplified",
+        "channel_id": "UCFbNIlppjAuEX4znoulh0Cw",
+        "link": "https://www.youtube.com/@WebDevSimplified",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nO3F7DfVXaf6wsHPS_hF327ggeWUCwZSELb5DCWBL1aw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 586629,
+      "length": "13:57",
+      "description": "Testing is one of those things that people either love or hate. Usually testing is something that is hated, until you work on a project ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/FgnxcUQ5vho/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDXm5qXTXk5_Kw96iKv5LzhudESg",
+        "rich": "https://i.ytimg.com/an_webp/FgnxcUQ5vho/mqdefault_6s.webp?du=3000&sqp=CLb9hNgG&rs=AOn4CLBcVCk5nSLv6KZSuOHom2zGwy2sqg"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Unit Testing Tutorial with Jest - Part 1",
+      "link": "https://www.youtube.com/watch?v=VruEWq0t8pI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VruEWq0t8pI",
+      "video_id": "VruEWq0t8pI",
+      "channel": {
+        "name": "Classsed",
+        "channel_id": "UC2-slOJImuSc20Drbf88qvg",
+        "link": "https://www.youtube.com/@Classsed",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mFEuWleusZHNDOyiH5Wx-OXg3mfjxPzaEtdVhQaPs4Ug=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 16508,
+      "length": "24:53",
+      "description": "Become comfortable at writing unit/integration tests and ensuring that the code you write works exactly as you intended it to.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/VruEWq0t8pI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYvqryhJDEX1tce6_7LELehCY5YA"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/VruEWq0t8pI/hqdefault_28900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBt6Z5zOqsC1zmaXjgEK0KAxbkp1g",
+          "time_start": 0
+        },
+        {
+          "title": "Project Overview",
+          "thumbnail": "https://i.ytimg.com/vi/VruEWq0t8pI/hqdefault_64833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBy2KAp-T1sE3k6UGkwWgDvhR7keQ",
+          "time_start": 47
+        },
+        {
+          "title": "Code Overview",
+          "thumbnail": "https://i.ytimg.com/vi/VruEWq0t8pI/hqdefault_93900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVWt0JtV4mTREtE1iEQClB68FHnw",
+          "time_start": 80
+        },
+        {
+          "title": "Installing Jest",
+          "thumbnail": "https://i.ytimg.com/vi/VruEWq0t8pI/hqdefault_252766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNGKeQAg1VYh7SQ4bqxX7zZjVfiA",
+          "time_start": 250
+        },
+        {
+          "title": "Testing Utility Functions",
+          "thumbnail": "https://i.ytimg.com/vi/VruEWq0t8pI/hqdefault_348733.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdKtsJNRYTz3X_rKqTrdIljBA0nA",
+          "time_start": 330
+        },
+        {
+          "title": "Testing",
+          "thumbnail": "https://i.ytimg.com/vi/VruEWq0t8pI/hqdefault_636200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSJ98cf_DtB-_uxaE2lnjmR9FUpw",
+          "time_start": 630
+        },
+        {
+          "title": "Validators",
+          "thumbnail": "https://i.ytimg.com/vi/VruEWq0t8pI/hqdefault_969200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVaQs6i9fgjPNSG45OsR01q53BNw",
+          "time_start": 960
+        },
+        {
+          "title": "Running multiple tests",
+          "thumbnail": "https://i.ytimg.com/vi/VruEWq0t8pI/hqdefault_1083166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrHKbCWh1UYZKjabjHc5iydfsNyQ",
+          "time_start": 1080
+        },
+        {
+          "title": "Validation",
+          "thumbnail": "https://i.ytimg.com/vi/VruEWq0t8pI/hqdefault_1359633.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0WIzjlt0BERXtAvD6-RI2k7dwIA",
+          "time_start": 1330
+        }
+      ]
+    },
+    {
+      "position_on_page": 21,
+      "title": "JavaScript Unit Testing Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=zuKbR4Q428o",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zuKbR4Q428o",
+      "video_id": "zuKbR4Q428o",
+      "channel": {
+        "name": "Programming with Mosh",
+        "channel_id": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "link": "https://www.youtube.com/@programmingwithmosh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 206537,
+      "length": "48:32",
+      "description": "Write bulletproof JavaScript code with unit testing! This beginner-friendly tutorial will teach you the essentials for cleaner, more ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/zuKbR4Q428o/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxCuAAYvuFYimcBzQG8pqpUdDPJw",
+        "rich": "https://i.ytimg.com/an_webp/zuKbR4Q428o/mqdefault_6s.webp?du=3000&sqp=COKDhdgG&rs=AOn4CLBbzSiwAN2SfyQvDz6sJKeYSJsX3w"
+      },
+      "chapters": [
+        {
+          "title": "Course Intro",
+          "thumbnail": "https://i.ytimg.com/vi/zuKbR4Q428o/hqdefault_27133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFwhY5fasxWCED9CUhrHCtHcSCag",
+          "time_start": 0
+        },
+        {
+          "title": "Prerequisites",
+          "thumbnail": "https://i.ytimg.com/vi/zuKbR4Q428o/hqdefault_84833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4utufv8Qp7_3jgau5GQPknFPyRg",
+          "time_start": 81
+        },
+        {
+          "title": "Course Structure",
+          "thumbnail": "https://i.ytimg.com/vi/zuKbR4Q428o/hqdefault_124900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPELLWrjugQfY4L0nBALTAwunhGQ",
+          "time_start": 121
+        },
+        {
+          "title": "How to Take This Course",
+          "thumbnail": "https://i.ytimg.com/vi/zuKbR4Q428o/hqdefault_257766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrjRe4uEkk08-6z4X_EE1avfnkfQ",
+          "time_start": 256
+        },
+        {
+          "title": "Setting Up the Testing Environment",
+          "thumbnail": "https://i.ytimg.com/vi/zuKbR4Q428o/hqdefault_316800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjfUIsjRvrJtpMWCpCpWmttBI1yg",
+          "time_start": 314
+        },
+        {
+          "title": "Starter Project",
+          "thumbnail": "https://i.ytimg.com/vi/zuKbR4Q428o/hqdefault_356833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0xhCiPeGsrGD_Ta9pj2v1Ko2TkQ",
+          "time_start": 346
+        },
+        {
+          "title": "Introduction to Unit Testing",
+          "thumbnail": "https://i.ytimg.com/vi/zuKbR4Q428o/hqdefault_405266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBojrdrZ4PkR_jOYJfFBImkay5_5Q",
+          "time_start": 400
+        },
+        {
+          "title": "What is Unit Testing?",
+          "thumbnail": "https://i.ytimg.com/vi/zuKbR4Q428o/hqdefault_525900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAp9lIEvK_-tBanzyPLWeb9-Z1gWg",
+          "time_start": 499
+        },
+        {
+          "title": "Types of Tests",
+          "thumbnail": "https://i.ytimg.com/vi/zuKbR4Q428o/hqdefault_821100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC92FsoiTFNJGDN_FCOUPlRchJMZg",
+          "time_start": 819
+        },
+        {
+          "title": "Choosing a Testing Framework",
+          "thumbnail": "https://i.ytimg.com/vi/zuKbR4Q428o/hqdefault_1016066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDipp0bzwQIu9PPeIXI9toOWKq-yw",
+          "time_start": 1013
+        },
+        {
+          "title": "Setting Up Vitest",
+          "thumbnail": "https://i.ytimg.com/vi/zuKbR4Q428o/hqdefault_1113033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdzJfMGuWXokqjLJIVLrnWjwtpnw",
+          "time_start": 1111
+        },
+        {
+          "title": "Writing Your First Test",
+          "thumbnail": "https://i.ytimg.com/vi/zuKbR4Q428o/hqdefault_1188000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxgkJxRPqHVCAkK9WPv2WhN_Znrg",
+          "time_start": 1184
+        },
+        {
+          "title": "Exercise: Testing fizzBuzz",
+          "thumbnail": "https://i.ytimg.com/vi/zuKbR4Q428o/hqdefault_1745966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVM017wKRTGfY2MXChLs-SWrjycA",
+          "time_start": 1744
+        },
+        {
+          "title": "Test-Driven Development",
+          "thumbnail": "https://i.ytimg.com/vi/zuKbR4Q428o/hqdefault_2101966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0KNdLH1TqqzlBBHH2fcUwjGyWDA",
+          "time_start": 2100
+        },
+        {
+          "title": "Exercise: Testing Factorial",
+          "thumbnail": "https://i.ytimg.com/vi/zuKbR4Q428o/hqdefault_2532033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1vZNQpr0X4d7lZCvss9PZCsCMew",
+          "time_start": 2530
+        }
+      ]
+    },
+    {
+      "position_on_page": 22,
+      "title": "2/50 Frontend Technologies: Jest for Testing in React and JS",
+      "link": "https://www.youtube.com/watch?v=keSq4LhfBd8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=keSq4LhfBd8",
+      "video_id": "keSq4LhfBd8",
+      "channel": {
+        "name": "Sheryians Coding School",
+        "channel_id": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "link": "https://www.youtube.com/@sheryians",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/t8z86Svc4diX-k6VHCZ7AY0EFgVin91qLZigPwJLnavVaB0YPa0etWa-c7bG1BUEcbB4U4im=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 90430,
+      "length": "1:05",
+      "description": "Welcome to Day 2 of my 50 Frontend Technologies in 50 Days series! In this video, we'll explore Jest, one of the most popular ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/keSq4LhfBd8/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhRIEUoZTAP&rs=AOn4CLDVkoMe-yEoF6ARFg_PtBePynqdGQ",
+        "rich": "https://i.ytimg.com/an_webp/keSq4LhfBd8/mqdefault_6s.webp?du=3000&sqp=CPb3hNgG&rs=AOn4CLDwEuTdsybL72r4Y7INQ4hMOlpibQ"
+      }
+    },
+    {
+      "position_on_page": 24,
+      "title": "React Testing Tutorial with React Testing Library and Jest",
+      "link": "https://www.youtube.com/watch?v=Flo268xRpV0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Flo268xRpV0",
+      "video_id": "Flo268xRpV0",
+      "channel": {
+        "name": "Lama Dev",
+        "channel_id": "UCOxWrX5MIdXIeRNaXC3sqIg",
+        "link": "https://www.youtube.com/@LamaDev",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_luF-nK_BZqKzocE3qJoPsgRpL88k9zVsyUsZc3evTj8w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 144993,
+      "length": "41:43",
+      "description": "React testing crash course using Jest and React testing library. Discover Wallaby: https://bit.ly/lamadevwallaby Get a 20% ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Flo268xRpV0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnAko87WMC0dsvUXKVb606hfTWTA",
+        "rich": "https://i.ytimg.com/an_webp/Flo268xRpV0/mqdefault_6s.webp?du=3000&sqp=CM2YhdgG&rs=AOn4CLA6uQXHpCcIuKvK-2gTRtq3o4ZTyA"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/Flo268xRpV0/hqdefault_10866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDo81Q0ytW99GQa8V-A9yLLh0uAzw",
+          "time_start": 0
+        },
+        {
+          "title": "Why testing is important?",
+          "thumbnail": "https://i.ytimg.com/vi/Flo268xRpV0/hqdefault_69866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkds9_RkZbONpmE06X12wY1TuUjw",
+          "time_start": 44
+        },
+        {
+          "title": "React Testing Crash Course",
+          "thumbnail": "https://i.ytimg.com/vi/Flo268xRpV0/hqdefault_180800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaOAdAS6YckMEZXULKMtgZzKanvQ",
+          "time_start": 154
+        },
+        {
+          "title": "Jest vs Testing Library?",
+          "thumbnail": "https://i.ytimg.com/vi/Flo268xRpV0/hqdefault_966766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYCVwKmVCIh4_7yX5HCjEZcfNA4A",
+          "time_start": 960
+        },
+        {
+          "title": "React Testing Real World Example",
+          "thumbnail": "https://i.ytimg.com/vi/Flo268xRpV0/hqdefault_1034800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8ndYSzSSx0PgN7Ux__SklixY-EQ",
+          "time_start": 1020
+        },
+        {
+          "title": "React Jest Mock Async Data Testing Example w/ Axios",
+          "thumbnail": "https://i.ytimg.com/vi/Flo268xRpV0/hqdefault_2089833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDXNbBrbY87ssXsbsDbxSoDV5H0A",
+          "time_start": 2080
+        },
+        {
+          "title": "Outro",
+          "thumbnail": "https://i.ytimg.com/vi/Flo268xRpV0/hqdefault_2485200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5-h_kVrqCMoJgiEfnGHVDBDpqXw",
+          "time_start": 2473
+        }
+      ]
+    },
+    {
+      "position_on_page": 25,
+      "title": "Frontend web development - a complete overview",
+      "link": "https://www.youtube.com/watch?v=WG5ikvJ2TKA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=WG5ikvJ2TKA",
+      "video_id": "WG5ikvJ2TKA",
+      "channel": {
+        "name": "SuperSimpleDev",
+        "channel_id": "UCB6dvaWu0N8uVq2yKsZ5s5g",
+        "link": "https://www.youtube.com/@SuperSimpleDev",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_laf9dDyNATE1_RdVUKthwnwT9TSm9N0my0jL2H8gCvjw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 618970,
+      "length": "5:50",
+      "description": "We'll look at every technology you need to build a frontend web application. We'll go over languages, frameworks, bundlers, ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/WG5ikvJ2TKA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKAlkdyEmbQnNxlTsjbEC9hAqM_w"
+      },
+      "chapters": [
+        {
+          "title": "Frontend vs backend",
+          "thumbnail": "https://i.ytimg.com/vi/WG5ikvJ2TKA/hqdefault_16000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKP92cImevgVHwpmReHogGUzf26Q",
+          "time_start": 0
+        },
+        {
+          "title": "HTML",
+          "thumbnail": "https://i.ytimg.com/vi/WG5ikvJ2TKA/hqdefault_25866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrsXGgyeXvqLFHsXVQK3ptkFsgAQ",
+          "time_start": 25
+        },
+        {
+          "title": "CSS",
+          "thumbnail": "https://i.ytimg.com/vi/WG5ikvJ2TKA/hqdefault_74866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRwjSwhkhb9g9OhE_Q1IlhtcfZ8Q",
+          "time_start": 51
+        },
+        {
+          "title": "JavaScript & JavaScript framework",
+          "thumbnail": "https://i.ytimg.com/vi/WG5ikvJ2TKA/hqdefault_79866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEpvViXuM8fjcORUweK7J9fhpyVA",
+          "time_start": 75
+        },
+        {
+          "title": "Bundler & transpiler",
+          "thumbnail": "https://i.ytimg.com/vi/WG5ikvJ2TKA/hqdefault_165833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPlsko31nT44gAQr5_sQcW-Nit_A",
+          "time_start": 142
+        },
+        {
+          "title": "CSS preprocessor",
+          "thumbnail": "https://i.ytimg.com/vi/WG5ikvJ2TKA/hqdefault_206300.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTcMC-cLdEomMigmiFma-dXpMkMA",
+          "time_start": 206
+        },
+        {
+          "title": "CSS framework",
+          "thumbnail": "https://i.ytimg.com/vi/WG5ikvJ2TKA/hqdefault_254766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChO1VG-OqDhdJvBCANEuFg2vJ08A",
+          "time_start": 254
+        },
+        {
+          "title": "HTTP",
+          "thumbnail": "https://i.ytimg.com/vi/WG5ikvJ2TKA/hqdefault_278766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAupKTLMg0f1fiiFjdE02zim38jUA",
+          "time_start": 274
+        },
+        {
+          "title": "Review & conclusion",
+          "thumbnail": "https://i.ytimg.com/vi/WG5ikvJ2TKA/hqdefault_323866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAz1V7_tEZwIxfT0BwzEYxQuVPbA",
+          "time_start": 321
+        }
+      ]
+    }
+  ],
+  "playlist_results": [
+    {
+      "position_on_page": 3,
+      "title": "React Testing Library with Jest Hindi",
+      "link": "https://www.youtube.com/playlist?list=PL8p2I9GklV47ZpFC9sNHTXwJRgwwzdkNG",
+      "channel": {
+        "name": "Code Step By Step",
+        "channel_id": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "link": "https://www.youtube.com/@codestepbystep"
+      },
+      "videos": [
+        {
+          "title": "React testing library and jest in Hindi #1 Introduction of React Testing",
+          "length": "9:10",
+          "link": "https://www.youtube.com/watch?v=xntMzZ5S1N0&list=PL8p2I9GklV47ZpFC9sNHTXwJRgwwzdkNG"
+        },
+        {
+          "title": "Pay After Placement Program for Job | Sharpener Tech",
+          "length": "0:36",
+          "link": "https://www.youtube.com/watch?v=62qemXJfqy0&list=PL8p2I9GklV47ZpFC9sNHTXwJRgwwzdkNG"
+        }
+      ],
+      "video_count": 48,
+      "thumbnail": "https://i.ytimg.com/vi/xntMzZ5S1N0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDzPGKM_EpyTwJ4k7kJTJfcHUNeag"
+    },
+    {
+      "position_on_page": 15,
+      "title": "Front End Developer Learning Path",
+      "link": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbmMuZ3saqRIBimAKIMYkt0E",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp"
+      },
+      "videos": [
+        {
+          "title": "Front End Developer Roadmap",
+          "length": "12:09",
+          "link": "https://www.youtube.com/watch?v=9He4UBLyk8Y&list=PLWKjhJtqVAbmMuZ3saqRIBimAKIMYkt0E"
+        },
+        {
+          "title": "HTML Tutorial - Website Crash Course for Beginners",
+          "length": "45:20",
+          "link": "https://www.youtube.com/watch?v=916GWv2Qs08&list=PLWKjhJtqVAbmMuZ3saqRIBimAKIMYkt0E"
+        }
+      ],
+      "video_count": 22,
+      "thumbnail": "https://i.ytimg.com/vi/9He4UBLyk8Y/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAUoUjvLRM9C5x2jKy_STBVH-UUaA"
+    },
+    {
+      "position_on_page": 17,
+      "title": "Frontend Developer Bootcamp: Master HTML, CSS, JavaScript, and Modern Frameworks",
+      "link": "https://www.youtube.com/playlist?list=PL6QREj8te1P4-o8tvI3RF5NOEe0Amzd30",
+      "channel": {
+        "name": "JavaScript Mastery",
+        "channel_id": "UCmXmlB4-HJytD7wek0Uo97A",
+        "link": "https://www.youtube.com/@javascriptmastery"
+      },
+      "videos": [
+        {
+          "title": "I Built a SaaS App Landing Page in 3 Hours Here's What I Learned",
+          "length": "2:49:04",
+          "link": "https://www.youtube.com/watch?v=ukiGFmZ32YA&list=PL6QREj8te1P4-o8tvI3RF5NOEe0Amzd30"
+        },
+        {
+          "title": "Build & Deploy an Amazing 3D Portfolio with React.js & Three.js | Beginner Three.js Tutorial",
+          "length": "4:28:45",
+          "link": "https://www.youtube.com/watch?v=kt0FrkQgw8w&list=PL6QREj8te1P4-o8tvI3RF5NOEe0Amzd30"
+        }
+      ],
+      "video_count": 10,
+      "thumbnail": "https://i.ytimg.com/vi/ukiGFmZ32YA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAUFw8XiELlGC9_2ukcZ0FogyWx2A"
+    },
+    {
+      "position_on_page": 18,
+      "title": "React Testing Tutorial",
+      "link": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwirqe1KHFCHJ0RqNuN61SJd",
+      "channel": {
+        "name": "Codevolution",
+        "channel_id": "UC80PWRj_ZU8Zu0HSMNVwKWw",
+        "link": "https://www.youtube.com/@Codevolution"
+      },
+      "videos": [
+        {
+          "title": "React Testing Tutorial - 1 - Introduction",
+          "length": "6:45",
+          "link": "https://www.youtube.com/watch?v=T2sv8jXoP4s&list=PLC3y8-rFHvwirqe1KHFCHJ0RqNuN61SJd"
+        },
+        {
+          "title": "React Testing Tutorial - 2 - Jest vs React Testing Library",
+          "length": "2:10",
+          "link": "https://www.youtube.com/watch?v=Budumtq35Ls&list=PLC3y8-rFHvwirqe1KHFCHJ0RqNuN61SJd&pp=0gcJCRYF0aJEHMZM"
+        }
+      ],
+      "video_count": 54,
+      "thumbnail": "https://i.ytimg.com/vi/T2sv8jXoP4s/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBNkyUl63yVEaZtVv8VVyPLxMA44A"
+    },
+    {
+      "position_on_page": 23,
+      "title": "JavaScript Unit Testing With Jest",
+      "link": "https://www.youtube.com/playlist?list=PLDoPjvoNmBAwSrfBPERTnCmWAbcMAwG9O",
+      "channel": {
+        "name": "Elzero Web School",
+        "channel_id": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        "link": "https://www.youtube.com/@ElzeroWebSchool"
+      },
+      "videos": [
+        {
+          "title": "Learn Jest JS Unit Testing in Arabic #01 - Introduction And Whats Unit Testing ?",
+          "length": "8:46",
+          "link": "https://www.youtube.com/watch?v=I5ba6jpRNh8&list=PLDoPjvoNmBAwSrfBPERTnCmWAbcMAwG9O"
+        },
+        {
+          "title": "Learn Jest JS Unit Testing in Arabic #02 - Setting Environment And Tools",
+          "length": "6:09",
+          "link": "https://www.youtube.com/watch?v=anKLVg6FRK4&list=PLDoPjvoNmBAwSrfBPERTnCmWAbcMAwG9O"
+        }
+      ],
+      "video_count": 20,
+      "thumbnail": "https://i.ytimg.com/vi/I5ba6jpRNh8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBbf3HoA4Ofxz57F_jLR7MDZKf3pw"
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Jest+full+course+tutorial+for+Frontend+Developer&gl=in&hl=en",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Jest%20full%20course%20tutorial%20for%20Frontend%20Developer&sp=SBSCAQs4WHdxMzVjUHdZZ4IBIlBMOHAySTlHa2xWNDdacEZDOXNOSFRYd0pSZ3d3emRrTkeCAQtKQlNVZ0R4SUNnOIIBC1RlZjFlOUZpU1IwggELZGlDOVR2d1hTVU2CAQszaGsxR2UyQXBIZ4IBC3ZaTWlxZlkxUzZzggELaFU5Z05feFZoSFWCAQtsZ0sxSzB3QUtLQYIBC2s5N0tCVzZSYlJnggEiUExXS2poSnRxVkFibU11WjNzYXFSSUJpbUFLSU1Za3QwRYIBC0ZnbnhjVVE1dmhvggEiUEw2UVJFajh0ZTFQNC1vOHR2STNSRjVOT0VlMEFtemQzMIIBIlBMQzN5OC1yRkh2d2lycWUxS0hGQ0hKMFJxTnVONjFTSmSCAQtWcnVFV3EwdDhwSYIBC3p1S2JSNFE0MjhvggELa2VTcTRMaGZCZDiCASJQTERvUGp2b05tQkF3U3JmQlBFUlRuQ21XQWJjTUF3RzlPggELRmxvMjY4eFJwVjCCAQtXRzVpa3ZKMlRLQbIBBgoECBkQAg%253D%253D",
+    "next_page_token": "SBSCAQs4WHdxMzVjUHdZZ4IBIlBMOHAySTlHa2xWNDdacEZDOXNOSFRYd0pSZ3d3emRrTkeCAQtKQlNVZ0R4SUNnOIIBC1RlZjFlOUZpU1IwggELZGlDOVR2d1hTVU2CAQszaGsxR2UyQXBIZ4IBC3ZaTWlxZlkxUzZzggELaFU5Z05feFZoSFWCAQtsZ0sxSzB3QUtLQYIBC2s5N0tCVzZSYlJnggEiUExXS2poSnRxVkFibU11WjNzYXFSSUJpbUFLSU1Za3QwRYIBC0ZnbnhjVVE1dmhvggEiUEw2UVJFajh0ZTFQNC1vOHR2STNSRjVOT0VlMEFtemQzMIIBIlBMQzN5OC1yRkh2d2lycWUxS0hGQ0hKMFJxTnVONjFTSmSCAQtWcnVFV3EwdDhwSYIBC3p1S2JSNFE0MjhvggELa2VTcTRMaGZCZDiCASJQTERvUGp2b05tQkF3U3JmQlBFUlRuQ21XQWJjTUF3RzlPggELRmxvMjY4eFJwVjCCAQtXRzVpa3ZKMlRLQbIBBgoECBkQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Jest+full+course+tutorial+for+Frontend+Developer",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Jest+full+course+tutorial+for+Frontend+Developer&sp=SBSCAQs4WHdxMzVjUHdZZ4IBIlBMOHAySTlHa2xWNDdacEZDOXNOSFRYd0pSZ3d3emRrTkeCAQtKQlNVZ0R4SUNnOIIBC1RlZjFlOUZpU1IwggELZGlDOVR2d1hTVU2CAQszaGsxR2UyQXBIZ4IBC3ZaTWlxZlkxUzZzggELaFU5Z05feFZoSFWCAQtsZ0sxSzB3QUtLQYIBC2s5N0tCVzZSYlJnggEiUExXS2poSnRxVkFibU11WjNzYXFSSUJpbUFLSU1Za3QwRYIBC0ZnbnhjVVE1dmhvggEiUEw2UVJFajh0ZTFQNC1vOHR2STNSRjVOT0VlMEFtemQzMIIBIlBMQzN5OC1yRkh2d2lycWUxS0hGQ0hKMFJxTnVONjFTSmSCAQtWcnVFV3EwdDhwSYIBC3p1S2JSNFE0MjhvggELa2VTcTRMaGZCZDiCASJQTERvUGp2b05tQkF3U3JmQlBFUlRuQ21XQWJjTUF3RzlPggELRmxvMjY4eFJwVjCCAQtXRzVpa3ZKMlRLQbIBBgoECBkQAg%253D%253D",
+    "next_page_token": "SBSCAQs4WHdxMzVjUHdZZ4IBIlBMOHAySTlHa2xWNDdacEZDOXNOSFRYd0pSZ3d3emRrTkeCAQtKQlNVZ0R4SUNnOIIBC1RlZjFlOUZpU1IwggELZGlDOVR2d1hTVU2CAQszaGsxR2UyQXBIZ4IBC3ZaTWlxZlkxUzZzggELaFU5Z05feFZoSFWCAQtsZ0sxSzB3QUtLQYIBC2s5N0tCVzZSYlJnggEiUExXS2poSnRxVkFibU11WjNzYXFSSUJpbUFLSU1Za3QwRYIBC0ZnbnhjVVE1dmhvggEiUEw2UVJFajh0ZTFQNC1vOHR2STNSRjVOT0VlMEFtemQzMIIBIlBMQzN5OC1yRkh2d2lycWUxS0hGQ0hKMFJxTnVONjFTSmSCAQtWcnVFV3EwdDhwSYIBC3p1S2JSNFE0MjhvggELa2VTcTRMaGZCZDiCASJQTERvUGp2b05tQkF3U3JmQlBFUlRuQ21XQWJjTUF3RzlPggELRmxvMjY4eFJwVjCCAQtXRzVpa3ZKMlRLQbIBBgoECBkQAg%3D%3D"
+  }
+}

@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import os
 import sys
+import tempfile
 from collections.abc import Iterator
 from contextlib import contextmanager
 from pathlib import Path
@@ -15,6 +16,7 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
+import src.cache as cache  # noqa: E402
 import src.courses  # noqa: E402
 import src.jobs  # noqa: E402
 import src.skills  # noqa: E402
@@ -120,8 +122,62 @@ def test_initial_render_offline() -> None:
         assert "1-Click Sample Preset" in at.info[0].value
 
         sidebar_button_keys = {btn.key for btn in at.sidebar.button}
+        assert "quick_demo_student_btn" in sidebar_button_keys
+        assert "quick_demo_backend_btn" in sidebar_button_keys
         assert "analyze_live_btn" in sidebar_button_keys
         assert "run_offline_demo_btn" in sidebar_button_keys
+
+
+def test_one_click_judge_buttons_and_job_unlock() -> None:
+    """Verify 1-click sidebar preset buttons and What-If job unlocking into Ready Today."""
+    with (
+        tempfile.TemporaryDirectory() as tmp_dir,
+        patch.object(cache, "CACHE_DIR", Path(tmp_dir)),
+        _zero_credit_guard(),
+    ):
+        at = AppTest.from_file(str(PROJECT_ROOT / "app.py"), default_timeout=20).run()
+
+        # 1-click CS Final-Year Student button
+        at.sidebar.button(key="quick_demo_student_btn").click().run()
+        assert not at.exception
+        assert at.session_state["has_analyzed"] is True
+        assert at.session_state["analysis_role"] == "Frontend Developer"
+
+        # 1-click Junior Backend Dev button
+        at.sidebar.button(key="quick_demo_backend_btn").click().run()
+        assert not at.exception
+        assert at.session_state["analysis_role"] == "Backend Python Developer"
+        base_score = float(str(at.metric[0].value).rstrip("%"))
+        base_ready = int(at.metric[2].value)
+
+        # Toggle top missing skill (Docker) -> Readiness & Ready to Apply must jump
+        at.checkbox(key="sim_skill_Docker").check().run()
+        assert not at.exception
+        new_score = float(str(at.metric[0].value).rstrip("%"))
+        new_ready = int(at.metric[2].value)
+        assert new_score > base_score
+        assert new_ready > base_ready
+
+
+def test_seeded_cache_zero_http_calls() -> None:
+    """Verify seeded data/cache/ serves live-format demos with 0 HTTP calls and 0 API keys."""
+    cache_files = list(cache.CACHE_DIR.glob("*.json"))
+    if not cache_files:
+        return
+
+    with _zero_credit_guard():
+        at = AppTest.from_file(str(PROJECT_ROOT / "app.py"), default_timeout=20).run()
+        at.sidebar.button(key="quick_demo_student_btn").click().run()
+        assert not at.exception
+        assert at.session_state["analysis_mode"] == "live_or_cached"
+        assert len(at.session_state["jobs"]) > 0
+        base_score = float(str(at.metric[0].value).rstrip("%"))
+
+        # Toggle first gap in simulator
+        assert len(at.checkbox) >= 1
+        at.checkbox[0].check().run()
+        assert not at.exception
+        assert float(str(at.metric[0].value).rstrip("%")) > base_score
 
 
 def test_offline_demo_and_what_if_simulator() -> None:
@@ -183,5 +239,7 @@ def test_mocked_live_analysis_renders_courses_and_jobs() -> None:
 if __name__ == "__main__":
     test_initial_render_offline()
     test_offline_demo_and_what_if_simulator()
+    test_one_click_judge_buttons_and_job_unlock()
+    test_seeded_cache_zero_http_calls()
     test_mocked_live_analysis_renders_courses_and_jobs()
     print("ALL FRONTEND SMOKE TESTS PASSED (0 API credits used)")

@@ -1,0 +1,2274 @@
+{
+  "search_metadata": {
+    "id": "6b014a690ab18d13e23dfa0d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/_ki5bvB-esU2aoghOVqWYWwloEJlGZKf5C0shtmKPDk/6b014a690ab18d13e23dfa0d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/_ki5bvB-esU2aoghOVqWYWwloEJlGZKf5C0shtmKPDk/6b014a690ab18d13e23dfa0d.md",
+    "created_at": "2026-11-21 07:38:17 UTC",
+    "processed_at": "2026-11-21 07:38:17 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=TypeScript+full+course+tutorial+for+Frontend+Developer&gl=in&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/_ki5bvB-esU2aoghOVqWYWwloEJlGZKf5C0shtmKPDk/6b014a690ab18d13e23dfa0d.html",
+    "total_time_taken": 3.82
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "TypeScript full course tutorial for Frontend Developer",
+    "gl": "in",
+    "hl": "en"
+  },
+  "search_information": {
+    "total_results": 871798,
+    "video_results_state": "Results for exact spelling"
+  },
+  "ads_results": [
+    {
+      "position_on_page": 1,
+      "title": "Architecture that adapts with you and doesn’t slow you down",
+      "link": "https://www.youtube.com/watch?v=CcI0ryE0TuA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=CcI0ryE0TuA",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CC_R7akoBa7CTHvffpMYP3PKiyQWx9aKPiwGl1d_eqxbdq6T6zkgQASAAYMnm8ozkpMATggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAcCKxvVDqAMEyAMKqgTmAk_QCN1kLP_FdDT8JoYWuOh7UmxQyi0EHIJk8MjsnpSFFQAxon66RHTFqT2_PnB0sIjKODLScGYVrEVqASRceJlCEMrQs_akXqPOfK_NRCG_5HmNH4jJMjBuzraCwO6kVR6_3ToZk7HJ-sfR8pOuE6tYJUbLGT5AbO7aYEkoV7pET1T00g3_6TonPJlk74tPASgNNU7HBEx-oT1BjzWLnwLEidar3NxVkykrqMcIEUIhZkgDDGL_P6WxZF9zSkZyzXTuSzESLIQSmCkAJq0slsioZYV-1LAIqYSZCPi9UNKzGjKOrDnSzKyaw8jlQzxLe4eWCNaE7esy1CfGiUrEEo7ZPFZrgNOD_CKabBt3YHQGWByCoyKNKJAnKXSJXzDAi9y47O0xSC2N3Bf095LLO-sduBbhX3fAIM-wdEOJBXI2d0SPuOxn1SO3mNBS5kBcgc61i4FVrSW2-16S_WwldQC9CKMgNUmIBevnpMhakgUICBN4weft-h6gBqEBgAfAwpbVHpAHBKgHpc-xAqgH552xAqgH6J2xAqgHg_axAqgH-dOxAqgHydqxAqgHqeCxAqgHqNIbqAex3BuoB7CbsQKoB_2ysQKoB8jPsQKoB8nPsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB57qsQKoB5_qsQKoB_jrsQKoB7zqsQKoB-_xsQKoB_yvsQKoB9XOG6gHvtmxAqgHv9mxAqgHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLQ2NJMHJ5RTBUdUGoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFjAwf2Nx5iYA2ABmglPaHR0cHM6Ly9henVyZS5taWNyb3NvZnQuY29tL2VuLXVzL3ByaWNpbmcvcHVyY2hhc2Utb3B0aW9ucy9henVyZS1hY2NvdW50L3NlYXJjaLEJgZs61ahEa-jICRfICY8ByAnCAcgJlwK6Cz4IAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAtgBA4ACAYgCEboDCXZpYXRsemFhYdALEuALAdIMAhAB2gwmCgsQoIeFuZigwOy3ARICAQMaDRjr56TIWiDPgsXf5gVAAUoCEB-aDQESqg0CVVPIDQHSDZAFaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL041NzI2MDguMTM1NTMzOUdPT0dMRS5DT01ERE1CSURNL0IzNjg2NTY0Mi40NTc4NjI0Mjg7ZGNfdHJrX2FpZD02NTI0Mjk1MDY7ZGNfdHJrX2NpZD0yNjYxNDI3MDI7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBOENqUUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaFFJNi1la3lGcW9Bc0huN2ZvZXNBTDh6UFhyQTBBN0VLSEFfN0lkSUFhbkF3U2VWRzF3cWpXb3VsZTdhZz09O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2x0ZD07ZGNfdGR2PTE7O2RjX3RyYW5zcGFyZW50PTE7ZGNfcnVpPTE7ZGNfZXBzPUFIYXM4Y0Q5TmMzeVhrbnBHQjdpcWtrX0hGS0NWcFh3MjZLQ1h3Y015YXBxQmREd25mSjFjZy12QTIxbzAtTFVQYXBtMlhOemFBMFJyUnY1aWNiZWJ3O2RjX3B1YmlkPTY_aHR0cHM6Ly9henVyZS5taWNyb3NvZnQuY29tL2VuLXVzL3ByaWNpbmcvcHVyY2hhc2Utb3B0aW9ucy9henVyZS1hY2NvdW50L3NlYXJjaD9PQ0lEPUFJRGNtbWxnN281dmI4X09MQV8zNjg2NTY0Ml80NTc4NjI0MjhfMjY2MTQyNzAyJnNpdGVJRD0xMDY0NTAxMyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjQzMTA3ODkwOTmwE8CEzSa4E____________wGIFAOwFAPAFYGAgEDQFQHYFQGYFgGoFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXhAYh0dMcTF66FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMIsPD9jceYmAMV9y_JAh1cuShZEAEYASAAEgKQBPD_BwE&num=1&cid=CAASqgHkaKdVW1yFgcv0POQBXUeeOtdURTwX39-row9Iv0n_3KXRFzBGK0YESuf_trHaUBBV6RCEIGkkgomhgc3BzmbgLDGPnH12A62QcUqpIVt0UrJKW6D36WizTRz7Lrf_5hJPzBqbkDsVLRm4c_YAY2wbgOncBUwultU-uvqpGLTmcspzvWoo0RdLU2szkXBGMjKtbeL7pNv0KoRyagjztYegWi37zgTyHDvuWA&ad_cpn=%5BCPN%5D&sig=AOD64_0guw6LRyGbkZ1mfEkS8UaY-YRBtw&ctype=110&video_id=CcI0ryE0TuA&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Microsoft",
+        "thumbnail": "https://yt3.ggpht.com/proxy/HcDIKi6hGUt23dHJXoGqjYsnW-Yx9b_rvzKby486R6qMUMB5Rj4f1gTieN0_putXXLoa3-WRmWkl6sG9uNJxyUKxT05R36YayKaL6mPwyYsceZVtV43-hJXD6Vdcwr-f9TTB2p4MuxHVP_MYMdnkd1T-00ZPKAq1UisX070t8eIHTbn0wr8tIAwBLSzPe1a1lfAxuCvhiPlF0mN5w-KEfkrLLRdu2y16PNlmNSxm4ASe8xaThWiP6wugAt2DNl21sdoTc3c=w68-h68-nd"
+      },
+      "description": "Azure adapts as your project evolves, so you can change direction without changing code.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/CcI0ryE0TuA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLJCnocPasWTV6X-SUuVrrJdveog"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Every service pro deserves the right tools to grow. Put Jobber to work for yours.",
+      "link": "https://www.youtube.com/watch?v=LVqmUrWb7I4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LVqmUrWb7I4",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=Cu00eakoBa7CTHvffpMYP3PKiyQXqzMmGiwGdi7iuoRZkEAIgAGDJ5vKM5KTAE4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAG99_a8A6kC9qRT1Lpkpz6oAwTIAwqqBMcCT9AI3WQs_8V0NPwmhha46HtSbFDKLQQcgmTwyOyelIUVADGifrpEdMWpPb8-cHSwiMo4MtJwZhWsRWoBJFx4mUIQytCz9qReo858r81EIb_keY0fiMkyMG7OtoLA7qRVHr_dOhmTscn6x9Hyk64Tq1glRssZPkBs7tpgSShXukRPVPTSDf_pOic8mWTvi08BKA01TscETH6hPUGPNYufAsSJ1qvc3FWTKSuoxwgRQiFmSAMMYv8_pbFkX3NKRnLNdO5LMRIshBKYKQAmrSyWyKhlhX7UsAiphJkI-L1Q0rMaMo6sOdLMrJrDyOVDPEt7h5YI1oTt6zLUJ8aJSsQSjtk8HGCA04D8IpVNA09mZgW_qz2y75U9MnYO7IC9tgjX2kNoKhvbAm1INOL9r1Nke7ySRcOrgQCYSilaGGbCQTaen_C7fbxHiAW54NnyU5IFBwgTeOz1thmgBqEBgAeUr9kYkAcEqAelz7ECqAfnnbECqAfonbECqAeD9rECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHnuqxAqgHn-qxAqgH-OuxAqgHvOqxAqgH7_GxAqgH_K-xAqgH1c4bqAe-2bECqAe_2bECqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAtMVnFtVXJXYjdJNKgIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWMDB_Y3HmJgDYAGaCS1odHRwczovL3d3dy5nZXRqb2JiZXIuY29tL2RscC9mc20tc29mdHdhcmUtYi-xCVul7aQiL1zEyAkXyAmPAcgJwgG6Cz4IAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAtgBAYACAYgCBboDCXZpYXRsemFhYdALEuALAaIMNWIWChRjb20uZ2V0am9iYmVyLmpvYmJlcmoWChRjb20uZ2V0am9iYmVyLmpvYmJlcngAiAEA0gwCEAHaDCYKCxDQyN_Yqryh8t8BEgIBAxoNGLng2fJTIPKppePFBUABSgIQH5oNARKqDQJVU8gNAdINpwNodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9kZG0vdHJhY2tjbGsvTjI3NDQ1NDguNTg3ODQzMkpPQkJFUi1ZT1VUVUJFLUQvQjM1MjI0MjAwLjQ0MDAwOTc0MTtkY190cmtfYWlkPTYzMzE2Mzk1ODtkY190cmtfY2lkPTI1MDI0OTcyMjtkY19sYXQ9O2RjX3JkaWQ9O3RhZ19mb3JfY2hpbGRfZGlyZWN0ZWRfdHJlYXRtZW50PTt0ZnVhPTtsdGQ9O2RjX3Rkdj0xO2RjX3RyYW5zcGFyZW50PTE7O2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNDY0FMbHVpMlQtRnJVZDJ1X0hzMlVRQjdEdHVFV3VhaWpmZUhKRXVkTF94Y2liRUhEQ2wwLWVvYnZFTEtISGpxU2NZZTRUTTl4WHljWG1SUTtkY19wdWJpZD02P2h0dHBzOi8vd3d3LmdldGpvYmJlci5jb20vZGxwL2ZzbS1zb2Z0d2FyZS1iLz9nYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjI1MjA2ODg2OTe4E____________wGIFAGwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXBrIqlPcJQ6W6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMIsPD9jceYmAMV9y_JAh1cuShZEAEYAiAAEgI2SvD_BwE&num=2&cid=CAASqgHkaKdVW1yFgcv0POQBXUeeOtdURTwX39-row9Iv0n_3KXRFzBGK0YESuf_trHaUBBV6RCEIGkkgomhgc3BzmbgLDGPnH12A62QcUqpIVt0UrJKW6D36WizTRz7Lrf_5hJPzBqbkDsVLRm4c_YAY2wbgOncBUwultU-uvqpGLTmcspzvWoo0RdLU2szkXBGMjKtbeL7pNv0KoRyagjztYegWi37zgTyHDvuWA&ad_cpn=%5BCPN%5D&sig=AOD64_2TCg3aJMcJ_9Bdsz9fC_bbPofBnQ&ctype=110&video_id=LVqmUrWb7I4&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Jobber",
+        "thumbnail": "https://yt3.ggpht.com/proxy/vES2egJ3496AURVe-er3Q5L5Jrwwfty0LikF5CqZ4jE2FsXjrFSvigMzyyw7yJOfYexR3jfglk61QcCMV-ZI524ZX7TVNcWes8rZuMVNI5IywuDJttw5AlbDhYYxU7EwdHKSTxmKC7yi4Tt_nwqsnaiOvZYWjfRnTDkuW5-CdOb1g5qIR-XCrcVixt25ZgXT92OyjB6CpiZ3ylMz557cvSVDi9DBg-xWooZMMLCKFOcTRMD4OBnrbVbt1we7dX0S43Ja5ug=w68-h68-nd"
+      },
+      "description": "Join 400K+ service pros using Jobber to quote, schedule, invoice, and get paid.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/LVqmUrWb7I4/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhpIGkoaTAP&rs=AOn4CLDyhva8XvjZSjNHlIjGhdk6PHBPLw"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Find M365 misconfigurations, fix them in minutes, and prove it to clients.",
+      "link": "https://www.youtube.com/watch?v=u497J1fnBrk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=u497J1fnBrk",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CShBLakoBa7CTHvffpMYP3PKiyQXmu5_8iQH5xfWRyxawkB8QAyAAYMnm8ozkpMATggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAY7ShYVDqAMEyAMKqgTYAk_QCN1kLP_FdDT8JoYWuOh7UmxQyi0EHIJk8MjsnpSFFQAxon66RHTFqT2_PnB0sIjKODLScGYVrEVqASRceJlCEMrQs_akXqPOfK_NRCG_5HmNH4jJMjBuzraCwO6kVR6_3ToZk7HJ-sfR8pOuE6tYJUbLGT5AbO7aYEkoV7pET1T00g3_6TonPJlk74tPASgNNU7HBEx-oT1BjzWLnwLEidar3NxVkykrqMcIEUIhZkgDDGL_P6WxZF9zSkZyzXTuSzESLIQSmCkAJq0slsioZYV-1LAIqYSZCPi9UNKzGjKOrDnSzKyaw8jlQzxLe4eWCNaE7esy1CfGiUrEEo7ZPC51gNOJ_CLePncDYWYF9NwJLDxQI1tXuwpQtzSBZc7q-Loz4ZACZCpPwxp2UjtMiC1aaWjxstfl8vVV6VmNUm6fb_1PUSaNJGz0PZW9bCuIsQjbTIYsiAXKoYPEWpIFCAgTeKeCgoceoAahAYAHjorW5B2QBwSoB6XPsQKoB-edsQKoB-idsQKoB4P2sQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAee6rECqAef6rECqAf467ECqAe86rECqAfv8bECqAf8r7ECqAfVzhuoB77ZsQKoB7_ZsQKoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC3U0OTdKMWZuQnJrqAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAGEjZoNI1UBRYwMH9jceYmANgAZoJG2h0dHBzOi8vd3d3LmNsb3VkY2Fwc3VsZS5pb7EJCAR2MpAi2ObICRfICY8ByAnCAcgJlQLICZcCmAsBugs-CAMQBRgEIAcoATAcQAFIAFh9YABoAHABiAEAmAEBogEICgCoAgHYAgLYAQGAAgGIAgW6Awl2aWF0bHphYWHQCxLSDAIQAdoMJQoKEIDT1r7a65m_ahICAQMaDRjKoYPEWiCqpImM9wVAAUoCEB-aDQESqg0CVVPIDQHSDcgCaHR0cHM6Ly93d3cuY2xvdWRjYXBzdWxlLmlvP3V0bV90ZXJtPSZ1dG1fY2FtcGFpZ249RGVtYW5kK0dlbistKzIwMjYtMDktMzAmdXRtX3NvdXJjZT1hZHdvcmRzJnV0bV9tZWRpdW09cHBjJnV0bV9pZD0yNDMwMTg1MDgyNiZoc2FfYWNjPTk2OTQ4NDA3NTgmaHNhX2NhbT0yNDMwMTg1MDgyNiZoc2FfZ3JwPTIwMzc2NzgyOTAzNCZoc2FfYWQ9ODI2NDk4NDg2MDIzJmhzYV9zcmM9eXRpZiZoc2FfdGd0PWF1ZC0yNDkyMDUxODk1NDg2JmhzYV9rdz0maHNhX210PSZoc2FfbmV0PWFkd29yZHMmaHNhX3Zlcj0zJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yNDMwMTg1MDgyNrgT____________AbAUA8AVgYCAQNAVAdgVAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRftAvpknPU-D7oXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMIsPD9jceYmAMV9y_JAh1cuShZEAEYAyAAEgJy7fD_BwE&num=3&cid=CAASqgHkaKdVW1yFgcv0POQBXUeeOtdURTwX39-row9Iv0n_3KXRFzBGK0YESuf_trHaUBBV6RCEIGkkgomhgc3BzmbgLDGPnH12A62QcUqpIVt0UrJKW6D36WizTRz7Lrf_5hJPzBqbkDsVLRm4c_YAY2wbgOncBUwultU-uvqpGLTmcspzvWoo0RdLU2szkXBGMjKtbeL7pNv0KoRyagjztYegWi37zgTyHDvuWA&ad_cpn=%5BCPN%5D&sig=AOD64_1j_n9roPCfG3fDbU2wtoU_7EieVQ&ctype=110&video_id=u497J1fnBrk&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "CloudCapsule",
+        "thumbnail": "https://yt3.ggpht.com/proxy/iWsDWaWWxUauMqb90oh62tCX4WLIK4hqWqSy2x0GHFJfruCW0QnB7Nsz8sL5LZXbMucC7Y26L8qNLc1twdNOBvmmSoqvilLk8xRXydChZzpfVlSng9oIOhGmQnl_cnAVjRQM8eFohVAihqZ9GWyKDVrWPVBLQn73mBZeOUUaNCETNNJYolwggMmwrc3nhjCXTF4FsF08srNrMA7byilgxA5E68jZZJufmmWYkL0bHJCmrU5jcUvny-Zxm8yPeeXHgWRC-FQ=w68-h68-nd"
+      },
+      "description": "Drift detection tells you what changed. Delta reports prove what improved.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/u497J1fnBrk/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIEsoKDAP&rs=AOn4CLDdjJsfJJkxDVLVLI0bTAAhVaTkEg"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "Devour knowledge with Student Spaces",
+      "link": "https://www.youtube.com/watch?v=EJ_xkuarNEU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=EJ_xkuarNEU",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=Ca4phakoBa7CTHvffpMYP3PKiyQWXouaPiwG1t7WK1hWwkB8QBSAAYMnm8ozkpMATggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAbH6_-oCqAMEyAMKqgTzAk_QCN1kLP_FdDT8JoYWuOh7UmxQyi0EHIJk8MjsnpSFFQAxon66RHTFqT2_PnB0sIjKODLScGYVrEVqASRceJlCEMrQs_akXqPOfK_NRCG_5HmNH4jJMjBuzraCwO6kVR6_3ToZk7HJ-sfR8pOuE6tYJUbLGT5AbO7aYEkoV7pET1T00g3_6TonPJlk74tPASgNNU7HBEx-oT1BjzWLnwLEidar3NxVkykrqMcIEUIhZkgDDGL_P6WxZF9zSkZyzXTuSzESLIQSmCkAJq0slsioZYV-1LAIqYSZCPi9UNKzGjKOrDnSzKyaw8jlQzxLe4eWCNaE7esy1CfGiUrcEmtR_uB6iNMr5LSuhlvdc8QJW7COuyG1y-XnMdSORfue-TCP-oCS2KZb6s18_J60fJTFurRqIXAWgDkeSmZn4JOSYm5RXWvbjM2msNl7_qeWdO0oMxJngz0SRpqlarzMRiyl_Fn0Ie12KUR-iqXdonDyeVEYiAXm0O-tWJIFCAgTePrNn5UBoAahAYAHt4WAlQGQBwSoB6XPsQKoB-edsQKoB-idsQKoB4P2sQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAee6rECqAef6rECqAf467ECqAe86rECqAfv8bECqAf8r7ECqAfVzhuoB77ZsQKoB7_ZsQKoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC0VKX3hrdWFyTkVVqAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAGEjZoNI1UBRYwMH9jceYmANgAZoJLGh0dHBzOi8vYWNyb2JhdC5hZG9iZS5jb20vc3R1ZGVudHNwYWNlcy9ob21lsQllBSkj7S9yxMgJF8gJjwHICcIBugs-CAMQBRgEIAcoATAcQAFIAFh9YABoAHABiAEAmAEBogEICgCoAgHYAgLYAQOAAgGIAhK6Awl2aWF0bHphYWHQCxPgCwGiDB9iGAoWY29tLmFkb2JlLmVjaG9zaWduLmlvc3gAiAEA0gwCEAHaDCUKChCQsfme4Nzan3ASAgEDGg0Y5tDvrVgg1_Xy5dMFQAFKAhAfmg0BE6oNAlVTyA0B0g3pBGh0dHBzOi8vYWQuZG91YmxlY2xpY2submV0L2RkbS90cmFja2Nsay9OOTcyOTUyLjI3OTM4MkJJRE1BTkFHRVJfREZBU0lURS9CMjIzNDQ0MTMuMjQxNTM5MzIxO2RjX3Rya19haWQ9NDM4MTI4NjIyO2RjX3Rya19jaWQ9MTEyODg0NjEzO2RjX2RibV90b2tlbj1BT2plTE5FQUFBQTZDak1LREFnQUZRQUFBQUFkQUFBQUFCSU1DQUFWQUFBQUFCMEFBQUFBSWhNSTV0RHZyVmlvQXNPNDlBR3dBc3lXNHVrRFFEc1FsLWU2QWFwU28zTGo2OUhxbVJTR0Q3TmxKdGM9O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2x0ZD07ZGNfdGR2PTE7ZGNfdHJhbnNwYXJlbnQ9MTtkY19ydWk9MTtkY19lcHM9QUhhczhjRE8zbU5zV0lqeHcwcml1UEFQaFl0cDRsUGtBSjBBc1BEa3FPa3RhbzFiendwNHNmanJ6Uk9sMmI1WE55T3hSZk42azZlSVVoaUVuWEVBb3c7ZGNfcHViaWQ9Nj9odHRwczovL2Fjcm9iYXQuYWRvYmUuY29tL3N0dWRlbnRzcGFjZXMvaG9tZT9zZGlkPVRUR1dLUVo5Jm12PXNvY2lhbCZtdjI9cGFpZHNvYyZ4X2FwaV9jbGllbnRfaWQ9cGFpZG1lZGlhJnhfYXBpX2NsaWVudF9sb2NhdGlvbj1hZHNfVFRHV0tRWjkmZ2FkX3NvdXJjZT0ysBPX3cEmuBP___________8BiBQHsBQDwBWBgIBA0BUB2BUBmBYBqBYBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRdXv8ICGj4Y8LoXBigAMAA4AdAYAfAYAQ&ase=2&gclid=EAIaIQobChMIsPD9jceYmAMV9y_JAh1cuShZEAEYBSAAEgKw0PD_BwE&num=5&cid=CAASqgHkaKdVW1yFgcv0POQBXUeeOtdURTwX39-row9Iv0n_3KXRFzBGK0YESuf_trHaUBBV6RCEIGkkgomhgc3BzmbgLDGPnH12A62QcUqpIVt0UrJKW6D36WizTRz7Lrf_5hJPzBqbkDsVLRm4c_YAY2wbgOncBUwultU-uvqpGLTmcspzvWoo0RdLU2szkXBGMjKtbeL7pNv0KoRyagjztYegWi37zgTyHDvuWA&ad_cpn=%5BCPN%5D&sig=AOD64_13nxvApwBKCrHvlHizjAo3kB0lTg&ctype=110&video_id=EJ_xkuarNEU&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Adobe",
+        "thumbnail": "https://yt3.ggpht.com/proxy/MOuz2I13I1fAnFfngtXtL_W4we9dtMgr0pZOHx9ZvXrWe0TzDLTj2mq2_seyh8bAOYiFhihUkC0bcCbQ2Rr3ROUyAm-g7fKx7ikqVy2aYwv8ap82JEQltB0uNj5JlrrMcTbQ-wFlNo0DfytWwYBrrCyx4-VnwgCwx-dn0fy6KEEwJzLjssuJHIvXA-MdWMvBvChh3bzxW7-sQCuvX2mDwrBOQUGt_eZzMbPzNL_oO6Ke1vjjr2458wPYmALVc80eUKLvvs8=w68-h68-nd"
+      },
+      "description": "Student Spaces is a smarter way to study. Free for students.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/EJ_xkuarNEU/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFIoRTAP&rs=AOn4CLCU57IhmW3dW5gLlSgxjM1DEB11sQ"
+      }
+    }
+  ],
+  "video_results": [
+    {
+      "position_on_page": 2,
+      "title": "TypeScript Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=d56mG7DezGs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=d56mG7DezGs",
+      "video_id": "d56mG7DezGs",
+      "channel": {
+        "name": "Programming with Mosh",
+        "channel_id": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "link": "https://www.youtube.com/@programmingwithmosh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 2282779,
+      "length": "1:04:28",
+      "description": "Write better, more scalable JavaScript with TypeScript! This beginner-friendly tutorial gets you started fast. Ready for a deep ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/d56mG7DezGs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCp58c546g6epp5q2y8i2X2t5IUgQ",
+        "rich": "https://i.ytimg.com/an_webp/d56mG7DezGs/mqdefault_6s.webp?du=3000&sqp=CMnkhNgG&rs=AOn4CLAPdMjuPWj7jrx0CwaW8bpjG0wD-w"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_26266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASet_XoMcZLZUj6E6Wo8AuAqTOkg",
+          "time_start": 0
+        },
+        {
+          "title": "Prerequisites",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_52466.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBv9rVQOpkSXcLDZHKvg2uDZve6Bw",
+          "time_start": 52
+        },
+        {
+          "title": "How to Take This Course",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_114266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhqtZ051zfmG54fDENh1J4myEYFw",
+          "time_start": 88
+        },
+        {
+          "title": "What is TypeScript?",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_204066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2OS0D-j24b9CMSi6Sj8jcPSunIQ",
+          "time_start": 177
+        },
+        {
+          "title": "Setting Up the Development Environment",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_458866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmAygcD9VtI-5_yZ12bBllaGpYvw",
+          "time_start": 458
+        },
+        {
+          "title": "Your First TypeScript Program",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_570833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa3Bbnz3SgRT_sv-JQBr4sW78SQQ",
+          "time_start": 570
+        },
+        {
+          "title": "Configuring the TypeScript Compiler",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_801300.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_2sesfrVjzWNcKzXvdwHakV9FyA",
+          "time_start": 800
+        },
+        {
+          "title": "Debugging TypeScript Applications",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_1045266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoPl_orpsB6YwZpsFbsa2Xx-Qj_A",
+          "time_start": 1044
+        },
+        {
+          "title": "Fundamentals",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_1379166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwNxUOZTRhPBiQGOjPeuXNQ2UvFw",
+          "time_start": 1375
+        },
+        {
+          "title": "Built-In Types",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_1404233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCznpJs_LXXR2ZrC1cMFgaq7mCJKQ",
+          "time_start": 1403
+        },
+        {
+          "title": "The any Type",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_1522200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1fU8ZErz_er76i6Xj_rx63Opd2g",
+          "time_start": 1521
+        },
+        {
+          "title": "Arrays",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_1687166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdbmEFFJKrju1iXg4TG4gGe_YFNA",
+          "time_start": 1686
+        },
+        {
+          "title": "Tuples",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_1827000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTsZJTXtjovJyt198qv6brVR5S5A",
+          "time_start": 1824
+        },
+        {
+          "title": "Enums",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_1991966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJ1yRnkgyttBPod6saXeUQ5Bk12A",
+          "time_start": 1988
+        },
+        {
+          "title": "Functions",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_2192066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHHfVJPkjEfcgQBchNbUBzkjSVZA",
+          "time_start": 2191
+        },
+        {
+          "title": "Objects",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_2603033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKFgP7-Eyh7LUJUgTRho3mHF2Avw",
+          "time_start": 2602
+        },
+        {
+          "title": "Advanced Types",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_2885966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwD4Rz2nkHIdhEYF-BqFWE7F2aBQ",
+          "time_start": 2877
+        },
+        {
+          "title": "Type Aliases",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_2910866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYzG_XIsiTNXqM8mZGl-arKiAe7Q",
+          "time_start": 2906
+        },
+        {
+          "title": "Union Types",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_3006966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAP6cEB2hUJlLNTMVWxVbzahCluog",
+          "time_start": 3004
+        },
+        {
+          "title": "Intersection Types",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_3163800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyFJAoL10XFfs--xLqR5ouRRPRAQ",
+          "time_start": 3160
+        },
+        {
+          "title": "Literal Types",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_3284900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_24L_NF3VRbCrvgbwG9TsFVpAWw",
+          "time_start": 3284
+        },
+        {
+          "title": "Nullable Types",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_3390333.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnwvo_0ak1_HRcAZEhX-VwqbnhLQ",
+          "time_start": 3390
+        },
+        {
+          "title": "Optional Chaining",
+          "thumbnail": "https://i.ytimg.com/vi/d56mG7DezGs/hqdefault_3550200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaCrUNkqU0t7Ik_5IRcW8Bup4qLQ",
+          "time_start": 3546
+        }
+      ]
+    },
+    {
+      "position_on_page": 5,
+      "title": "Learn TypeScript – Full Tutorial",
+      "link": "https://www.youtube.com/watch?v=30LWjhZzg50",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=30LWjhZzg50",
+      "video_id": "30LWjhZzg50",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 1801616,
+      "length": "4:46:25",
+      "description": "Learn how to program with TypeScript in this full course for beginners. TypeScript is a typed superset of JavaScript that compiles ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/30LWjhZzg50/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9z1JkqZaSAHgHqV33nagno_d1DQ",
+        "rich": "https://i.ytimg.com/an_webp/30LWjhZzg50/mqdefault_6s.webp?du=3000&sqp=CPb7hNgG&rs=AOn4CLAMcXSpwtsglOke1s4kh82ORDixEw"
+      },
+      "chapters": [
+        {
+          "title": "Why to learn TypeScript",
+          "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault_10133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwTO4tPHOoPmiBtL2YosRKapnR0Q",
+          "time_start": 0
+        },
+        {
+          "title": "TypeScript is not what you think",
+          "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault_436900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA097FfQBvmmJEopZp8e2mMOiKuJA",
+          "time_start": 428
+        },
+        {
+          "title": "How to install TypeScript",
+          "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault_943033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6QKZG6ZPBrC31vsAv2sx418YFvw",
+          "time_start": 925
+        },
+        {
+          "title": "Your first intro to TypeScript docs",
+          "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault_1658200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOkUIoIPNo50-3NBREjSlbfn4JiA",
+          "time_start": 1653
+        },
+        {
+          "title": "Number, boolean, and type inference",
+          "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault_2380200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMb2GhPr_nFnxyjrwzPRkTigO3Tw",
+          "time_start": 2361
+        },
+        {
+          "title": "Don't use ANY",
+          "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault_2822833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDwDnYGyewfsHMR9W2UqmjI4PZbw",
+          "time_start": 2812
+        },
+        {
+          "title": "Do you really know functions",
+          "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault_3113966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAywNifTzuPmLxPQsJynaag9-upQw",
+          "time_start": 3090
+        },
+        {
+          "title": "A better way to write function",
+          "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault_3795033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjOlsUKWfKruiFs4moSJCwp0hRxw",
+          "time_start": 3775
+        },
+        {
+          "title": "Bad behavior of objects",
+          "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault_4562900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8OcWG2br-1hdAGo02JQ0lplAhkw",
+          "time_start": 4538
+        },
+        {
+          "title": "Type Aliases",
+          "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault_5131033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlMliaY8TLTTg4ixh5X28jkq-vew",
+          "time_start": 5114
+        },
+        {
+          "title": "READONLY and optional",
+          "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault_5562200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB__Ps4qzMFEFTK5g8G96ArGxnYnw",
+          "time_start": 5548
+        },
+        {
+          "title": "Array",
+          "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault_6138000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCi7sHJsVYHlL6-_ZGzr68j2zqrfg",
+          "time_start": 6133
+        },
+        {
+          "title": "Union Types in TS",
+          "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault_6613700.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGlpGok0YXDlreNatk2QfFiGyp2Q",
+          "time_start": 6603
+        },
+        {
+          "title": "Tuples",
+          "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault_7514900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwWapg6Va1drf2NrF3MmF1_sF0zQ",
+          "time_start": 7486
+        },
+        {
+          "title": "Enums",
+          "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault_8094000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmekLawLttA_gsig1RVBXL36JxGw",
+          "time_start": 8073
+        },
+        {
+          "title": "interface",
+          "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault_8653933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuocJsLlXeWt1fSEhq39Uh07coiQ",
+          "time_start": 8643
+        },
+        {
+          "title": "Interface vs Type",
+          "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault_9242966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1Po9ls1kJ1YptwtnwmTPnmuSizw",
+          "time_start": 9232
+        },
+        {
+          "title": "How to setup Typescript for real projects",
+          "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault_9552233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0dVxsayGRcQGJsiDRfMQ5-xB0Uw",
+          "time_start": 9548
+        },
+        {
+          "title": "Classes",
+          "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault_10428233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDafyUwPTB1K_NboKysSU9v0-31Lg",
+          "time_start": 10424
+        },
+        {
+          "title": "Private Public",
+          "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault_10931100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSbTlsgLZnBtS7C2wcYoLZ74K-bA",
+          "time_start": 10926
+        },
+        {
+          "title": "Getters and Setters",
+          "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault_11297133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0E8L2D6sbLTofiWHbtcbBxWS1lg",
+          "time_start": 11292
+        },
+        {
+          "title": "Protected",
+          "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault_11742800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdeXoVrM23wX5CYjnJoSSdpMcjyQ",
+          "time_start": 11725
+        },
+        {
+          "title": "Why Interface is important",
+          "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault_11979933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzXfsCXk1DMi-5NSjjQbYhbnsSlg",
+          "time_start": 11974
+        },
+        {
+          "title": "Abstract class",
+          "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault_12367933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAV6Wm4uBOEZvJUkSwGEwEYY8iDfQ",
+          "time_start": 12365
+        },
+        {
+          "title": "Generics",
+          "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault_12936300.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvtWSQ2xtdbcFl8uyBXnKwTFnN3g",
+          "time_start": 12936
+        },
+        {
+          "title": "Generics in Array and Arrow functions",
+          "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault_13707533.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2J23Rclx-y--RamZpMHmnoXdjwQ",
+          "time_start": 13678
+        },
+        {
+          "title": "Generic Classes",
+          "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault_14169700.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5E35fzQnosfBIEt5reTHpR-eEpw",
+          "time_start": 14167
+        },
+        {
+          "title": "Type Narrowing",
+          "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault_14845933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5YI9OmipIrWEgc9cyyhl3mpqhWg",
+          "time_start": 14836
+        },
+        {
+          "title": "The in operator narrowing",
+          "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault_15434866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJo93wbSJFDiOjWQh4BqAqWZuyKA",
+          "time_start": 15424
+        },
+        {
+          "title": "Instanceof and Type Predicates",
+          "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault_15752233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAytX7QcXTXvk9bFrFaj-83-G-bkA",
+          "time_start": 15737
+        },
+        {
+          "title": "Discriminated Union and Exhaustiveness Checking with never",
+          "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault_16321166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhjbD7YUui0XEoFUlUXXyYfsCHag",
+          "time_start": 16295
+        },
+        {
+          "title": "TypeScript End",
+          "thumbnail": "https://i.ytimg.com/vi/30LWjhZzg50/hqdefault_16999200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtqur5H2rMddrmA-Vr7HkbzZYndA",
+          "time_start": 16974
+        }
+      ]
+    },
+    {
+      "position_on_page": 6,
+      "title": "TypeScript in React - Full Tutorial",
+      "link": "https://www.youtube.com/watch?v=aJP1AbZSqz8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=aJP1AbZSqz8",
+      "video_id": "aJP1AbZSqz8",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4mo ago",
+      "views": 61379,
+      "length": "51:40",
+      "description": "Struggling to type React components correctly? This TypeScript React tutorial walks you through using TypeScript in real React ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/aJP1AbZSqz8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB74QjcKZPz8kD__vsY4nftfoNnWw",
+        "rich": "https://i.ytimg.com/an_webp/aJP1AbZSqz8/mqdefault_6s.webp?du=3000&sqp=CNHzhNgG&rs=AOn4CLDKOiAnxKFZKo4wtbHN_ue99ltwGA"
+      },
+      "chapters": [
+        {
+          "title": "Welcome to TypeScript and React!",
+          "thumbnail": "https://i.ytimg.com/vi/aJP1AbZSqz8/hqdefault_14166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2Ttu43pmtkYVrMHxb0qrLpQWquw",
+          "time_start": 0
+        },
+        {
+          "title": "Setting up the React Project",
+          "thumbnail": "https://i.ytimg.com/vi/aJP1AbZSqz8/hqdefault_124833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASCFzfVCFBDGRiT7NEVoqkNiGg2w",
+          "time_start": 111
+        },
+        {
+          "title": "TS Refresher - Basic & Custom Types",
+          "thumbnail": "https://i.ytimg.com/vi/aJP1AbZSqz8/hqdefault_314800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABNrKa0zGAj9vOmAaA2r0iSAS7Ng",
+          "time_start": 302
+        },
+        {
+          "title": "TS Refresher - Functions",
+          "thumbnail": "https://i.ytimg.com/vi/aJP1AbZSqz8/hqdefault_511266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLnwSvpEZnO1Rqirl259IqVWW9tQ",
+          "time_start": 511
+        },
+        {
+          "title": "TS Refresher - A new getRandomIndex() function",
+          "thumbnail": "https://i.ytimg.com/vi/aJP1AbZSqz8/hqdefault_739866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEFu5riVcuofezxzqt2dY_L45Xug",
+          "time_start": 710
+        },
+        {
+          "title": "Typing useState()",
+          "thumbnail": "https://i.ytimg.com/vi/aJP1AbZSqz8/hqdefault_866200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnsMHleeYYcn3wGadPohPcGh66Dw",
+          "time_start": 847
+        },
+        {
+          "title": "Typing Derived Values and Arrow Functions",
+          "thumbnail": "https://i.ytimg.com/vi/aJP1AbZSqz8/hqdefault_1056300.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMXq4_cj243h0Y9wSgoKoCh2O_KQ",
+          "time_start": 1056
+        },
+        {
+          "title": "Typing App.tsx functions",
+          "thumbnail": "https://i.ytimg.com/vi/aJP1AbZSqz8/hqdefault_1191233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5VYFZH458VihLvZ0q08WcHoTPkw",
+          "time_start": 1188
+        },
+        {
+          "title": "The New Setup",
+          "thumbnail": "https://i.ytimg.com/vi/aJP1AbZSqz8/hqdefault_1419166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZEptP173IA-FlovtOlvN5yqyNkQ",
+          "time_start": 1390
+        },
+        {
+          "title": "Typing React Components",
+          "thumbnail": "https://i.ytimg.com/vi/aJP1AbZSqz8/hqdefault_1533133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPkue0woHMrb5nmY1z6PZVlU9pZg",
+          "time_start": 1512
+        },
+        {
+          "title": "JSX Element or null",
+          "thumbnail": "https://i.ytimg.com/vi/aJP1AbZSqz8/hqdefault_1694033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMeGhLx9YdORxhoewj1-1N96xL_Q",
+          "time_start": 1668
+        },
+        {
+          "title": "Typing Component Props",
+          "thumbnail": "https://i.ytimg.com/vi/aJP1AbZSqz8/hqdefault_1771000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2dNjIdDDab3FewG903tTvZPkyiw",
+          "time_start": 1764
+        },
+        {
+          "title": "Custom Component Prop Types",
+          "thumbnail": "https://i.ytimg.com/vi/aJP1AbZSqz8/hqdefault_1966966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB18miBLu2f8pcrHHJ4zPOFOMqclg",
+          "time_start": 1966
+        },
+        {
+          "title": "The AriaLiveStatus Component Challenge",
+          "thumbnail": "https://i.ytimg.com/vi/aJP1AbZSqz8/hqdefault_2091966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxgYtL2bqcTLzUT0QdjXGWu8Zk_g",
+          "time_start": 2074
+        },
+        {
+          "title": "Component Props and Imported Types",
+          "thumbnail": "https://i.ytimg.com/vi/aJP1AbZSqz8/hqdefault_2239900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0LQmr4T1Ylzm5q9oLEaQm0ddheQ",
+          "time_start": 2213
+        },
+        {
+          "title": "Element within an Element",
+          "thumbnail": "https://i.ytimg.com/vi/aJP1AbZSqz8/hqdefault_2358866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMRoxN7tOqEU8m2x51u2NAwHdE3A",
+          "time_start": 2355
+        },
+        {
+          "title": "The WordLetters Component Challenge",
+          "thumbnail": "https://i.ytimg.com/vi/aJP1AbZSqz8/hqdefault_2563900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjzieQ9T7j1OZPopwLS9_fhXLo3g",
+          "time_start": 2534
+        },
+        {
+          "title": "Typing Function Props",
+          "thumbnail": "https://i.ytimg.com/vi/aJP1AbZSqz8/hqdefault_2715800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9-mia5J8bX0sF9Phb8aJANujU2w",
+          "time_start": 2689
+        },
+        {
+          "title": "The Final Challenge",
+          "thumbnail": "https://i.ytimg.com/vi/aJP1AbZSqz8/hqdefault_2854766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBAlCl7cxDkalA1ENAjo0Gavr5NA",
+          "time_start": 2853
+        },
+        {
+          "title": "Congrats!",
+          "thumbnail": "https://i.ytimg.com/vi/aJP1AbZSqz8/hqdefault_3023733.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYK0BYwrEOqaHcpXnSylPe1VXpUA",
+          "time_start": 3023
+        }
+      ]
+    },
+    {
+      "position_on_page": 9,
+      "title": "TypeScript Full Course - From Beginner to Advanced",
+      "link": "https://www.youtube.com/watch?v=iJkaAJUzeWQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=iJkaAJUzeWQ",
+      "video_id": "iJkaAJUzeWQ",
+      "channel": {
+        "name": "Tech With Tim",
+        "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
+        "link": "https://www.youtube.com/@TechWithTim",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k15oXl74WcnpdL-uVBv6IHBgAfXEEnpUiS-IoEyV1auyY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 305263,
+      "length": "3:54:02",
+      "description": "Want to make real money with coding? I share high-signal insights on careers, monetization, and leverage in my free newsletter.",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/iJkaAJUzeWQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1ZQdSVdIR5NWI3v1L16GbVshR-w",
+        "rich": "https://i.ytimg.com/an_webp/iJkaAJUzeWQ/mqdefault_6s.webp?du=3000&sqp=CJDwhNgG&rs=AOn4CLCh4iWfPxcy3mNd6a1RmUO_jaMZJw"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/iJkaAJUzeWQ/hqdefault_14000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcpI1ymddOSS82-li0b8C_CHGvrQ",
+          "time_start": 0
+        },
+        {
+          "title": "1.1 - Dynamic vs Static Typing",
+          "thumbnail": "https://i.ytimg.com/vi/iJkaAJUzeWQ/hqdefault_61033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXTtnjhk-YyPC0ifjvNBUGLTe6_A",
+          "time_start": 61
+        },
+        {
+          "title": "1.2 - Introduction to TypeScript",
+          "thumbnail": "https://i.ytimg.com/vi/iJkaAJUzeWQ/hqdefault_840966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYiRn9pVz5j7E911tYaso1RKxsdg",
+          "time_start": 827
+        },
+        {
+          "title": "1.3 - TypeScript Setup",
+          "thumbnail": "https://i.ytimg.com/vi/iJkaAJUzeWQ/hqdefault_1113766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNmvD43QfvzPITP19CNmU3QXo0qw",
+          "time_start": 1095
+        },
+        {
+          "title": "1.4 - tsconfig",
+          "thumbnail": "https://i.ytimg.com/vi/iJkaAJUzeWQ/hqdefault_2082833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfudIpD_AqJ2L9h8_4kFqTDxw3eg",
+          "time_start": 2082
+        },
+        {
+          "title": "2.1 - Primitive Types",
+          "thumbnail": "https://i.ytimg.com/vi/iJkaAJUzeWQ/hqdefault_2511833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5XRXYjXO5cW_l6SgEi5Y-AWWUEw",
+          "time_start": 2511
+        },
+        {
+          "title": "2.2 - Arrays & Tuples",
+          "thumbnail": "https://i.ytimg.com/vi/iJkaAJUzeWQ/hqdefault_3024300.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfeIGOz-R7NN7VwK5G0h-Yd703tA",
+          "time_start": 3023
+        },
+        {
+          "title": "2.3 - Enums & Literals",
+          "thumbnail": "https://i.ytimg.com/vi/iJkaAJUzeWQ/hqdefault_3528233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6Y5v9zel5QIz7itBdGx7g0-S1jQ",
+          "time_start": 3528
+        },
+        {
+          "title": "2.4 - Any, Unknown & Type Casts",
+          "thumbnail": "https://i.ytimg.com/vi/iJkaAJUzeWQ/hqdefault_4124100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7oj6lmU7y1ENixCGrh9lDF-Ezkg",
+          "time_start": 4124
+        },
+        {
+          "title": "2.5 - Optional Chaining and Bang",
+          "thumbnail": "https://i.ytimg.com/vi/iJkaAJUzeWQ/hqdefault_4675066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOngGcyXGj7pGlaaS9K5O1vRGWww",
+          "time_start": 4675
+        },
+        {
+          "title": "3.1 - Basic Function Types",
+          "thumbnail": "https://i.ytimg.com/vi/iJkaAJUzeWQ/hqdefault_5085066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmz75oe3x3NHcWp3iNjHN_98m5ig",
+          "time_start": 5085
+        },
+        {
+          "title": "3.2 - Advanced Function Types",
+          "thumbnail": "https://i.ytimg.com/vi/iJkaAJUzeWQ/hqdefault_6023033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHXHgXPwHmf7jsSt_h7XarOARM2g",
+          "time_start": 6022
+        },
+        {
+          "title": "3.3 - Interfaces",
+          "thumbnail": "https://i.ytimg.com/vi/iJkaAJUzeWQ/hqdefault_6486100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEVfOgYcqoPX70W-asJO6RIow0Uw",
+          "time_start": 6485
+        },
+        {
+          "title": "4.1 - Classes & Abstract Classes",
+          "thumbnail": "https://i.ytimg.com/vi/iJkaAJUzeWQ/hqdefault_6957433.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDARl-3eaxdvQ1zN00xV6oqcqeJ4w",
+          "time_start": 6957
+        },
+        {
+          "title": "4.2 - Classes & Interfaces",
+          "thumbnail": "https://i.ytimg.com/vi/iJkaAJUzeWQ/hqdefault_7833900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-tBOq1juNCoGJPexDjsvuBPnOcA",
+          "time_start": 7830
+        },
+        {
+          "title": "4.3 - Static Attributes & Methods",
+          "thumbnail": "https://i.ytimg.com/vi/iJkaAJUzeWQ/hqdefault_8475933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgh3kHzPlESUbcKBVET57ScKOZdw",
+          "time_start": 8475
+        },
+        {
+          "title": "4.4 - Generics",
+          "thumbnail": "https://i.ytimg.com/vi/iJkaAJUzeWQ/hqdefault_8737333.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkiJJuy-T5IEUKAzfQ4PEzim1EZQ",
+          "time_start": 8737
+        },
+        {
+          "title": "5.1 - Type Aliases",
+          "thumbnail": "https://i.ytimg.com/vi/iJkaAJUzeWQ/hqdefault_9146933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5JvCbnLwT4FS5l0TKGZ8wofKNqg",
+          "time_start": 9146
+        },
+        {
+          "title": "5.2 - Union & Intersection",
+          "thumbnail": "https://i.ytimg.com/vi/iJkaAJUzeWQ/hqdefault_9408833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAz21VAoE5mPfKU2Itpr8qFnrfVZw",
+          "time_start": 9408
+        },
+        {
+          "title": "5.3 - Type Guards",
+          "thumbnail": "https://i.ytimg.com/vi/iJkaAJUzeWQ/hqdefault_9729866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1F3j2wCrv3_ld3bHtZ6bByZhJEA",
+          "time_start": 9729
+        },
+        {
+          "title": "5.4 - Discriminated Unions",
+          "thumbnail": "https://i.ytimg.com/vi/iJkaAJUzeWQ/hqdefault_10153700.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYv0pZLpph5UG92sRvZcfRiIcQlA",
+          "time_start": 10153
+        },
+        {
+          "title": "5.5 - Utility Types",
+          "thumbnail": "https://i.ytimg.com/vi/iJkaAJUzeWQ/hqdefault_10422200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwPEmzZ__pGKqjhVzBXaIG_m0lFQ",
+          "time_start": 10422
+        },
+        {
+          "title": "6.1 - Modules (Import/Export)",
+          "thumbnail": "https://i.ytimg.com/vi/iJkaAJUzeWQ/hqdefault_10746133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCYwy6wLl1JQTEqshC44PulH9_0w",
+          "time_start": 10746
+        },
+        {
+          "title": "6.2 - Namespaces",
+          "thumbnail": "https://i.ytimg.com/vi/iJkaAJUzeWQ/hqdefault_11670233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRg_hFLh3fRAf-eUlxkJRe_IDdmw",
+          "time_start": 11669
+        },
+        {
+          "title": "7.1 - Project Walkthrough",
+          "thumbnail": "https://i.ytimg.com/vi/iJkaAJUzeWQ/hqdefault_11986166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANQB77J0A2NYHDNmADrc3vDK0U_Q",
+          "time_start": 11986
+        },
+        {
+          "title": "7.2 - Project Solution",
+          "thumbnail": "https://i.ytimg.com/vi/iJkaAJUzeWQ/hqdefault_12805033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUg3mb_G9eF8Vs0cyBdXcGsmQUxw",
+          "time_start": 12805
+        }
+      ]
+    },
+    {
+      "position_on_page": 10,
+      "title": "How to use TypeScript with React... But should you?",
+      "link": "https://www.youtube.com/watch?v=ydkQlJhodio",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ydkQlJhodio",
+      "video_id": "ydkQlJhodio",
+      "channel": {
+        "name": "Fireship",
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "link": "https://www.youtube.com/@Fireship",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/3fPNbkf_xPyCleq77ZhcxyeorY97NtMHVNUbaAON_RBDH9ydL4hJkjxC8x_4mpuopkB8oI7Ct6Y=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 1055975,
+      "length": "6:36",
+      "description": "Learn how to setup React with TypeScript. Compare the pros and cons of using TypeScript in an React project. Learn more in the ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ydkQlJhodio/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4tVoxR6lTw2aP9OQUYz5c13TRUg",
+        "rich": "https://i.ytimg.com/an_webp/ydkQlJhodio/mqdefault_6s.webp?du=3000&sqp=CPL0hNgG&rs=AOn4CLDnnQbN2DCFt_75XRVNThQ5rGZu0g"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Learn TypeScript in 40 Minutes (Full Course)",
+      "link": "https://www.youtube.com/watch?v=DTR2p7D6tjk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=DTR2p7D6tjk",
+      "video_id": "DTR2p7D6tjk",
+      "channel": {
+        "name": "RoadsideCoder",
+        "channel_id": "UCIPZVAwDGa-A4ZJxCBvXRuQ",
+        "link": "https://www.youtube.com/@RoadsideCoder",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/yombgclSKeuwDBzfGYtEN12w8o91pE5n4AT0kX4a8VYmUCaeXqMGnMQ7aU0553bEBjKcDYHX=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9mo ago",
+      "views": 113529,
+      "length": "40:40",
+      "description": "My Frontend Interview Course - https://roadsidecoder.com/course-details (50% Discount) Complete Video Notes ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/DTR2p7D6tjk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBy_qPe-Hy-fHcb9G1kBkjeYA1ywg",
+        "rich": "https://i.ytimg.com/an_webp/DTR2p7D6tjk/mqdefault_6s.webp?du=3000&sqp=COeRhdgG&rs=AOn4CLARdFeBkooW5up5miwMJPRZ1bmRZQ"
+      },
+      "chapters": [
+        {
+          "title": "What is Typescript?",
+          "thumbnail": "https://i.ytimg.com/vi/DTR2p7D6tjk/hqdefault.jpg",
+          "time_start": 0
+        },
+        {
+          "title": "What are Types?",
+          "thumbnail": "https://i.ytimg.com/vi/DTR2p7D6tjk/hqdefault.jpg",
+          "time_start": 14
+        },
+        {
+          "title": "Typescript Config",
+          "thumbnail": "https://i.ytimg.com/vi/DTR2p7D6tjk/hqdefault.jpg",
+          "time_start": 75
+        },
+        {
+          "title": "Basic Types",
+          "thumbnail": "https://i.ytimg.com/vi/DTR2p7D6tjk/hqdefault.jpg",
+          "time_start": 273
+        },
+        {
+          "title": "Type Inference",
+          "thumbnail": "https://i.ytimg.com/vi/DTR2p7D6tjk/hqdefault.jpg",
+          "time_start": 583
+        },
+        {
+          "title": "Functions in Typescript",
+          "thumbnail": "https://i.ytimg.com/vi/DTR2p7D6tjk/hqdefault.jpg",
+          "time_start": 663
+        },
+        {
+          "title": "Interfaces in Typescript",
+          "thumbnail": "https://i.ytimg.com/vi/DTR2p7D6tjk/hqdefault.jpg",
+          "time_start": 776
+        },
+        {
+          "title": "Type Aliases",
+          "thumbnail": "https://i.ytimg.com/vi/DTR2p7D6tjk/hqdefault.jpg",
+          "time_start": 897
+        },
+        {
+          "title": "Type vs Interface Difference",
+          "thumbnail": "https://i.ytimg.com/vi/DTR2p7D6tjk/hqdefault.jpg",
+          "time_start": 936
+        },
+        {
+          "title": "Unions and Intersections",
+          "thumbnail": "https://i.ytimg.com/vi/DTR2p7D6tjk/hqdefault.jpg",
+          "time_start": 1008
+        },
+        {
+          "title": "Literal Types",
+          "thumbnail": "https://i.ytimg.com/vi/DTR2p7D6tjk/hqdefault.jpg",
+          "time_start": 1119
+        },
+        {
+          "title": "Type Assertions vs Type Guards",
+          "thumbnail": "https://i.ytimg.com/vi/DTR2p7D6tjk/hqdefault.jpg",
+          "time_start": 1201
+        },
+        {
+          "title": "Classes in Typescript",
+          "thumbnail": "https://i.ytimg.com/vi/DTR2p7D6tjk/hqdefault.jpg",
+          "time_start": 1388
+        },
+        {
+          "title": "Generics in Typescript",
+          "thumbnail": "https://i.ytimg.com/vi/DTR2p7D6tjk/hqdefault.jpg",
+          "time_start": 1609
+        },
+        {
+          "title": "Utility Types",
+          "thumbnail": "https://i.ytimg.com/vi/DTR2p7D6tjk/hqdefault.jpg",
+          "time_start": 1942
+        },
+        {
+          "title": "Partial vs Required",
+          "thumbnail": "https://i.ytimg.com/vi/DTR2p7D6tjk/hqdefault.jpg",
+          "time_start": 1966
+        },
+        {
+          "title": "Readonly",
+          "thumbnail": "https://i.ytimg.com/vi/DTR2p7D6tjk/hqdefault.jpg",
+          "time_start": 2022
+        },
+        {
+          "title": "Pick vs Omit",
+          "thumbnail": "https://i.ytimg.com/vi/DTR2p7D6tjk/hqdefault.jpg",
+          "time_start": 2075
+        },
+        {
+          "title": "Record",
+          "thumbnail": "https://i.ytimg.com/vi/DTR2p7D6tjk/hqdefault.jpg",
+          "time_start": 2125
+        },
+        {
+          "title": "ReturnType",
+          "thumbnail": "https://i.ytimg.com/vi/DTR2p7D6tjk/hqdefault.jpg",
+          "time_start": 2191
+        },
+        {
+          "title": "Enums",
+          "thumbnail": "https://i.ytimg.com/vi/DTR2p7D6tjk/hqdefault.jpg",
+          "time_start": 2235
+        },
+        {
+          "title": "Promises in Typescript",
+          "thumbnail": "https://i.ytimg.com/vi/DTR2p7D6tjk/hqdefault.jpg",
+          "time_start": 2346
+        }
+      ]
+    },
+    {
+      "position_on_page": 13,
+      "title": "TypeScript in React - COMPLETE Tutorial (Crash Course)",
+      "link": "https://www.youtube.com/watch?v=TPACABQTHvM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=TPACABQTHvM",
+      "video_id": "TPACABQTHvM",
+      "channel": {
+        "name": "ByteGrad",
+        "channel_id": "UCf6AGqO98eGk11nfazociVQ",
+        "link": "https://www.youtube.com/@ByteGrad",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/sCzTrM7ozIznC0TQjQFg6f4VQpuOFJC7pcZWAQsK4CI4EdaPvqFCJ7tXnQUfnGmcJc-I9UGFGAU=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 457301,
+      "length": "53:21",
+      "description": "NEW React & Next.js Course: https://bytegrad.com/courses/professional-react-nextjs Hi, I'm Wesley. I'm a brand ambassador for ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/TPACABQTHvM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0yqMQ2gAA84lPOdR5os2s351ujg",
+        "rich": "https://i.ytimg.com/an_webp/TPACABQTHvM/mqdefault_6s.webp?du=3000&sqp=COnLhNgG&rs=AOn4CLAWNiXjjkS0pDvsnv9OD8v3EGy6YA"
+      },
+      "chapters": [
+        {
+          "title": "JSX to TSX",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_5300.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrsW-5wdf_wNI3dsVMZEa7iw7QRw",
+          "time_start": 0
+        },
+        {
+          "title": "Typing variables",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_38000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZWmbaE9QXkso6hTe2pTexJor6AQ",
+          "time_start": 28
+        },
+        {
+          "title": "Typing functions",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_111300.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPLnAOhR1plPy2qCrB1Bi7EltWCA",
+          "time_start": 88
+        },
+        {
+          "title": "Typing React components",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_175466.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyKrHXHgvu8bpgqZukc6w4gJK1pw",
+          "time_start": 175
+        },
+        {
+          "title": "React.FC",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_202966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrLE3hiA9ldLRgaukJ7Qqr7dsCaA",
+          "time_start": 197
+        },
+        {
+          "title": "Typing props",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_257233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcmbOlRkr6aXnX25YXTedx2t9uUQ",
+          "time_start": 232
+        },
+        {
+          "title": "Extracting type",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_413066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCi7UWXqoRJcl8tHJATg6yU3j6N5A",
+          "time_start": 397
+        },
+        {
+          "title": "Benefits of TypeScript",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_462000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAFHOcKgng8EoG1AWE4Z4BH-UWxg",
+          "time_start": 440
+        },
+        {
+          "title": "Optional",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_475766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrICBz5_BsuXAFjPl4lqjjHVLh2g",
+          "time_start": 464
+        },
+        {
+          "title": "Benefits of TypeScript (cont.)",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_514833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCE1ZEwV1NFdIAHvod4qWO1qdbtLA",
+          "time_start": 494
+        },
+        {
+          "title": "'any' type",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_532233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBW45kMtDLO8qlo1fck545Gp4jUQ",
+          "time_start": 515
+        },
+        {
+          "title": "Type return value of component?",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_555733.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFP6GOV_yT9u7JCxSWAVEv0q2bkQ",
+          "time_start": 554
+        },
+        {
+          "title": "Union type",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_581866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8GbYM_IccUfHWkJbvEQBm-s7HRA",
+          "time_start": 578
+        },
+        {
+          "title": "Extracting type",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_605733.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYRW-62VZNpPWcrzZKnHNVrPqjYw",
+          "time_start": 603
+        },
+        {
+          "title": "Typing arrays",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_664300.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3NjGSH7GuAcWCfivJIGY44j5VMQ",
+          "time_start": 645
+        },
+        {
+          "title": "Tuple type",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_720866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaGqeUiyoiUzvwCeL-Db7IsNVh8Q",
+          "time_start": 692
+        },
+        {
+          "title": "React.CSSProperties",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_743066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDA4EEnz-DlwPQJIWXMVRqpTb-qBw",
+          "time_start": 741
+        },
+        {
+          "title": "Record type",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_889166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUhQgDqHeD647IoMdh-DGmQeuXZg",
+          "time_start": 878
+        },
+        {
+          "title": "Typing functions",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_963200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKdQJU1uk66SEjJWVsjUe22e-jjw",
+          "time_start": 961
+        },
+        {
+          "title": "Typing children (React.ReactNode)",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_1038200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWk6k3M2tawYKGiveZcN3Dy5fuPg",
+          "time_start": 1038
+        },
+        {
+          "title": "React.JSX.Element vs React.ReactNode",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_1120233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAQ-ut6v09ZmyrEpqcmLHNyCuPoQ",
+          "time_start": 1114
+        },
+        {
+          "title": "Typing useState setter function",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_1205000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC77FccMNdrC_RF6VcSOU9FhGfnqQ",
+          "time_start": 1182
+        },
+        {
+          "title": "Default prop values",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_1262100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSZmJVU_XrV6Qo4nk9AVOD3yOyHw",
+          "time_start": 1261
+        },
+        {
+          "title": "Type Alias vs Interface",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_1308133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbf1tchYkcVSsacR9kwd2mQHD7ww",
+          "time_start": 1295
+        },
+        {
+          "title": "ComponentPropsWithoutRef",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_1452933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSxGvbPS71cU_CskfjydfKMpqUaQ",
+          "time_start": 1440
+        },
+        {
+          "title": "rest and ...spread",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_1620800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDg34Tg3yPJ3Y88pGsQPezvyoF5iA",
+          "time_start": 1612
+        },
+        {
+          "title": "Intersection (&)",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_1691800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATrJ1A_bXRD9ySRCgvoKqg7mveNA",
+          "time_start": 1669
+        },
+        {
+          "title": "Interface extends",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_1769900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtPSx76hia8O_00uY0xWTj1j1ToQ",
+          "time_start": 1743
+        },
+        {
+          "title": "Typing event handler functions",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_1788800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3uumgRWu8LxXEl_if5WcRHfnLyQ",
+          "time_start": 1774
+        },
+        {
+          "title": "Typing useState hook",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_1892000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDtSgiM_WbySfABPYH7gj2IiX7hA",
+          "time_start": 1873
+        },
+        {
+          "title": "Typing useRef hook",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_2097866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-DFkkdd6l3zXL3RY8NSRPnTe72w",
+          "time_start": 2073
+        },
+        {
+          "title": "as const",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_2139333.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrPtd8jkOIk_sy1wqg76vnZaKAbw",
+          "time_start": 2129
+        },
+        {
+          "title": "Omit utility",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_2220766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEA_P13o2EN1u5cCNFloakd6E7Lg",
+          "time_start": 2215
+        },
+        {
+          "title": "'as' Type Assertion",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_2263033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAP824fFBk1aBZ6AnYAq1FMZb6tqA",
+          "time_start": 2258
+        },
+        {
+          "title": "Generics (EASY!)",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_2327733.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCg_dsaO1dEuCstn4CX2w95fXKW5Q",
+          "time_start": 2311
+        },
+        {
+          "title": "Generics in React",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_2527366.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLcQVLjvyzbze6KnjEDuum-GNALw",
+          "time_start": 2520
+        },
+        {
+          "title": "index.d.ts vs types.ts",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_2733933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJ9CAf7yglg8vhSlw84rwAOb5-RA",
+          "time_start": 2710
+        },
+        {
+          "title": "import type",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_2746100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2lnlg3btBDoR3o173RpW6h1E-rw",
+          "time_start": 2734
+        },
+        {
+          "title": "'unknown' type",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_2847966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6hUSxbsG4_71kkUoK2pf-x3lv0A",
+          "time_start": 2825
+        },
+        {
+          "title": "Zod",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_2916933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwOxuqP-5I94rZLG_dLRMgbhyApw",
+          "time_start": 2900
+        },
+        {
+          "title": "ts-reset library",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_2942833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMN75JNo9G0KN2jjx6inBD-UkI4g",
+          "time_start": 2938
+        },
+        {
+          "title": "Third-party types ('@types' / DefinitelyTyped)",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_2995233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqYzRLkA6jb0cRBJpS9JS7EzIkTA",
+          "time_start": 2968
+        },
+        {
+          "title": "tsconfig.json",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_3035166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjBU-GCk7Jittgx7CBaW08m-Hlcg",
+          "time_start": 3033
+        },
+        {
+          "title": "next-env.d.ts",
+          "thumbnail": "https://i.ytimg.com/vi/TPACABQTHvM/hqdefault_3153933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnSwyPMQEal4mxtInNGKp38icn8A",
+          "time_start": 3129
+        }
+      ]
+    },
+    {
+      "position_on_page": 15,
+      "title": "TypeScript in 100 Seconds",
+      "link": "https://www.youtube.com/watch?v=zQnBQ4tB3ZA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zQnBQ4tB3ZA",
+      "video_id": "zQnBQ4tB3ZA",
+      "channel": {
+        "name": "Fireship",
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "link": "https://www.youtube.com/@Fireship",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/3fPNbkf_xPyCleq77ZhcxyeorY97NtMHVNUbaAON_RBDH9ydL4hJkjxC8x_4mpuopkB8oI7Ct6Y=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 1229717,
+      "length": "2:25",
+      "description": "Learn the basics if TypeScript in 100 Seconds! If you love TS, upgrade to Fireship PRO for 40% off using code mbus5Kcj at ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/zQnBQ4tB3ZA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXNMJm8-AFMjPcTYsHmE5aIpetdQ",
+        "rich": "https://i.ytimg.com/an_webp/zQnBQ4tB3ZA/mqdefault_6s.webp?du=3000&sqp=COCLhdgG&rs=AOn4CLB1EcEjd80de4Er8lTHVRwciIDI3A"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Learn TypeScript - Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=SpwzRDUQ1GI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=SpwzRDUQ1GI",
+      "video_id": "SpwzRDUQ1GI",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 352297,
+      "length": "2:06:13",
+      "description": "This course is a hands-on introduction to TypeScript. You'll learn how TypeScript can make your life easier and your code less ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBf77fzVcl4OpZPgz10jYgSDJJJQw"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hqdefault_6200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwkfOBN3ItcfsixOWYDgO1xxpJtA",
+          "time_start": 0
+        },
+        {
+          "title": "Intro to Pizza app",
+          "thumbnail": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hqdefault_402833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOhdb7haKWwfqED0VKAKpzXQOwZg",
+          "time_start": 399
+        },
+        {
+          "title": "Move code to TS",
+          "thumbnail": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hqdefault_1012833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4N287qQRGwtvLdg5rmUcFqcn_XA",
+          "time_start": 1009
+        },
+        {
+          "title": "Defensive coding",
+          "thumbnail": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hqdefault_1202766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBh6hEwKVaVvULGaxK0_X5_SikUyw",
+          "time_start": 1198
+        },
+        {
+          "title": "Obligatory types basics lesson",
+          "thumbnail": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hqdefault_1480733.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3_G-W_r6kcj6j4iavd9gmdvEtAg",
+          "time_start": 1476
+        },
+        {
+          "title": "Add type to orderId",
+          "thumbnail": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hqdefault_1714200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDndQuB96RSSCAawuxFdBSfeKBB9g",
+          "time_start": 1709
+        },
+        {
+          "title": "Defining Custom Types",
+          "thumbnail": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hqdefault_1799166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEdpt7b7B0RMWDKfW6Y-F_RblWsQ",
+          "time_start": 1795
+        },
+        {
+          "title": "Adding a Pizza type",
+          "thumbnail": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hqdefault_2029133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAexq6cikxMS5dq6S8uppE1hzvBOQ",
+          "time_start": 2024
+        },
+        {
+          "title": "Nested object types",
+          "thumbnail": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hqdefault_2285133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxeuFAOv5i31EMfwRzLfiReursNA",
+          "time_start": 2280
+        },
+        {
+          "title": "Optional properties",
+          "thumbnail": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hqdefault_2600066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjeCxB5hNzknV8iRl15gIUyjPnrw",
+          "time_start": 2595
+        },
+        {
+          "title": "Adding an Order type",
+          "thumbnail": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hqdefault_2764033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-raaPSOHTW_ElbyzvGL8nYAmLkA",
+          "time_start": 2758
+        },
+        {
+          "title": "Typing arrays",
+          "thumbnail": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hqdefault_2846000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBD0z8Tueh2QgNR0HI-bWY0kNktfw",
+          "time_start": 2840
+        },
+        {
+          "title": "Type orderQueue",
+          "thumbnail": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hqdefault_3125966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMb7pptUKbyM6JkNa9QJiFxY1bXQ",
+          "time_start": 3120
+        },
+        {
+          "title": "Literal types",
+          "thumbnail": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hqdefault_3378933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvFm82jK1v-nrWWNerh7Qm_WD8NA",
+          "time_start": 3373
+        },
+        {
+          "title": "Unions",
+          "thumbnail": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hqdefault_3542900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-omfIerT_QHMcHLJaKFaWxKRzaQ",
+          "time_start": 3537
+        },
+        {
+          "title": "Update order status to use literal type unions",
+          "thumbnail": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hqdefault_3723866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnwhuZsJhPVZzCxP4DQpy7Vl7fDQ",
+          "time_start": 3717
+        },
+        {
+          "title": "Add ids to pizzas",
+          "thumbnail": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hqdefault_3905833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAj_-aVqeE-mz0tVJHv4JhT12u4NQ",
+          "time_start": 3899
+        },
+        {
+          "title": "Type Narrowing",
+          "thumbnail": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hqdefault_4066800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgdL8rCmYJ9v87jnMY7zJBDnTOyg",
+          "time_start": 4061
+        },
+        {
+          "title": "Be explicit whenever you can",
+          "thumbnail": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hqdefault_4366766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZNIu_duj8Tf3uBgInh8UGGbSx5w",
+          "time_start": 4359
+        },
+        {
+          "title": "Function return types",
+          "thumbnail": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hqdefault_4500733.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVHbr49gFZUJB1U3ziNxBRom2Gcg",
+          "time_start": 4494
+        },
+        {
+          "title": "TS-specific types: any",
+          "thumbnail": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hqdefault_4681200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZcxqQvRW8cm5a6Jl_6_dyDkAj-Q",
+          "time_start": 4673
+        },
+        {
+          "title": "Add return type to getPizzaDetail",
+          "thumbnail": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hqdefault_4852800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBqISZ8rlkRP1vLfDa5rmZtN-RNQ",
+          "time_start": 4848
+        },
+        {
+          "title": "Void return type",
+          "thumbnail": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hqdefault_5059133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkJ5I3qTII1Mg9ZAOv7KYU-rXQKw",
+          "time_start": 5051
+        },
+        {
+          "title": "Add automatic ids to menu items",
+          "thumbnail": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hqdefault_5177133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcHqrACLtAKB9AXQbAMRemCeBagQ",
+          "time_start": 5169
+        },
+        {
+          "title": "Utility Types & Partial",
+          "thumbnail": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hqdefault_5440066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgJFw5D5-gT0Pts8WcYuEGnq6DWw",
+          "time_start": 5431
+        },
+        {
+          "title": "Omit Utility Type",
+          "thumbnail": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hqdefault_5868033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6dxBtyltI3XosRuhveHg2_ZxC2g",
+          "time_start": 5859
+        },
+        {
+          "title": "Fix TS warnings with Omit",
+          "thumbnail": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hqdefault_6290066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBto0N7CWRMSzSTgvdnB_B_93E8Vg",
+          "time_start": 6282
+        },
+        {
+          "title": "Generics",
+          "thumbnail": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hqdefault_6541966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_jKi8rF9lKrHRVKg1hvCL2Bi7Wg",
+          "time_start": 6533
+        },
+        {
+          "title": "Generic functions in the pizza restaurant",
+          "thumbnail": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hqdefault_6986966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAa_oeI_l5dTLlZ1R3vmEHtds2fQ",
+          "time_start": 6977
+        },
+        {
+          "title": "Explicitly type generic function calls",
+          "thumbnail": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hqdefault_7192900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9_NoYggu6gKTWwLpVg8-jY8QSyQ",
+          "time_start": 7183
+        },
+        {
+          "title": "Conclusion... for now",
+          "thumbnail": "https://i.ytimg.com/vi/SpwzRDUQ1GI/hqdefault_7457866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtn3CKFtnjee1mvTi8nhxb_XPvig",
+          "time_start": 7448
+        }
+      ]
+    },
+    {
+      "position_on_page": 19,
+      "title": "TypeScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours",
+      "link": "https://www.youtube.com/watch?v=gieEQFIfgYc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=gieEQFIfgYc",
+      "video_id": "gieEQFIfgYc",
+      "channel": {
+        "name": "Dave Gray",
+        "channel_id": "UCY38RvRIxYODO4penyxUwTg",
+        "link": "https://www.youtube.com/@DaveGrayTeachesCode",
+        "thumbnail": "https://yt3.ggpht.com/Ki6y_thZRElVKoqzOUIGnihjRfVPkdVBqS0VsqNAbOl0sGAil5Zg_Dj0g2rftswpE_JCkGh2=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 761371,
+      "length": "8:21:57",
+      "description": "Web Dev Roadmap for Beginners (Free!): https://bit.ly/DaveGrayWebDevRoadmap This TypeScript Full Course for Beginners is ...",
+      "extensions": [
+        "Beginner",
+        "How-to"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/gieEQFIfgYc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWSpzoJRna4kP_i1AZ35goJX8Kow",
+        "rich": "https://i.ytimg.com/an_webp/gieEQFIfgYc/mqdefault_6s.webp?du=3000&sqp=CIHqhNgG&rs=AOn4CLBFD1e5g7urySs6YctL36-DGGOHMw"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/gieEQFIfgYc/hqdefault.jpg",
+          "time_start": 0
+        },
+        {
+          "title": "Chapter 1: Start Here",
+          "thumbnail": "https://i.ytimg.com/vi/gieEQFIfgYc/hqdefault.jpg",
+          "time_start": 38
+        },
+        {
+          "title": "Chapter 2: Basic Types",
+          "thumbnail": "https://i.ytimg.com/vi/gieEQFIfgYc/hqdefault.jpg",
+          "time_start": 1539
+        },
+        {
+          "title": "Chapter 3: Arrays & Objects",
+          "thumbnail": "https://i.ytimg.com/vi/gieEQFIfgYc/hqdefault.jpg",
+          "time_start": 2483
+        },
+        {
+          "title": "Chapter 4: Functions",
+          "thumbnail": "https://i.ytimg.com/vi/gieEQFIfgYc/hqdefault.jpg",
+          "time_start": 4199
+        },
+        {
+          "title": "Chapter 5: Assertions",
+          "thumbnail": "https://i.ytimg.com/vi/gieEQFIfgYc/hqdefault.jpg",
+          "time_start": 6097
+        },
+        {
+          "title": "Chapter 6: Classes",
+          "thumbnail": "https://i.ytimg.com/vi/gieEQFIfgYc/hqdefault.jpg",
+          "time_start": 7661
+        },
+        {
+          "title": "Chapter 7: Index Signatures & keyof Assertions",
+          "thumbnail": "https://i.ytimg.com/vi/gieEQFIfgYc/hqdefault.jpg",
+          "time_start": 9509
+        },
+        {
+          "title": "Chapter 8: Generics",
+          "thumbnail": "https://i.ytimg.com/vi/gieEQFIfgYc/hqdefault.jpg",
+          "time_start": 10912
+        },
+        {
+          "title": "Chapter 9: Utility Types",
+          "thumbnail": "https://i.ytimg.com/vi/gieEQFIfgYc/hqdefault.jpg",
+          "time_start": 12348
+        },
+        {
+          "title": "Chapter 10: Vite.js + TypeScript",
+          "thumbnail": "https://i.ytimg.com/vi/gieEQFIfgYc/hqdefault.jpg",
+          "time_start": 13815
+        },
+        {
+          "title": "Chapter 11: TypeScript Project",
+          "thumbnail": "https://i.ytimg.com/vi/gieEQFIfgYc/hqdefault.jpg",
+          "time_start": 14393
+        },
+        {
+          "title": "Chapter 12: React + TypeScript",
+          "thumbnail": "https://i.ytimg.com/vi/gieEQFIfgYc/hqdefault.jpg",
+          "time_start": 17242
+        },
+        {
+          "title": "Chapter 13: React Hooks + TypeScript",
+          "thumbnail": "https://i.ytimg.com/vi/gieEQFIfgYc/hqdefault.jpg",
+          "time_start": 18929
+        },
+        {
+          "title": "Chapter 14: React useReducer + TypeScript",
+          "thumbnail": "https://i.ytimg.com/vi/gieEQFIfgYc/hqdefault.jpg",
+          "time_start": 20273
+        },
+        {
+          "title": "Chapter 15: React useContext + TypeScript",
+          "thumbnail": "https://i.ytimg.com/vi/gieEQFIfgYc/hqdefault.jpg",
+          "time_start": 21325
+        },
+        {
+          "title": "Chapter 16: React + TypeScript Project",
+          "thumbnail": "https://i.ytimg.com/vi/gieEQFIfgYc/hqdefault.jpg",
+          "time_start": 22910
+        },
+        {
+          "title": "Chapter 17: React + TypeScript Project Part 2",
+          "thumbnail": "https://i.ytimg.com/vi/gieEQFIfgYc/hqdefault.jpg",
+          "time_start": 25694
+        }
+      ]
+    },
+    {
+      "position_on_page": 20,
+      "title": "TypeScript Full Course for Beginners – Learn TypeScript in 2.5 Hours (2026)",
+      "link": "https://www.youtube.com/watch?v=OkT8-2INoWA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OkT8-2INoWA",
+      "video_id": "OkT8-2INoWA",
+      "channel": {
+        "name": "FrontendClass",
+        "channel_id": "UClvfwyIB4P9MSduVv6vzRNQ",
+        "link": "https://www.youtube.com/@LearnFrontendClass",
+        "thumbnail": "https://yt3.ggpht.com/Nin_LKjSekIyZyKR-srfvJqSVhG5fB9Ozgvgs3-oD-hYk_gKDDEXu4H9kqdjJ2sjT-i20Lfv=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2w ago",
+      "views": 413,
+      "length": "2:29:39",
+      "description": "Learn TypeScript from zero to pro in one course! 50 lessons, all in a real VS Code editor: you see every error, hover and ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/OkT8-2INoWA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAth-YZR_RZsJCy3MeYSUCfFuxSwQ"
+      },
+      "chapters": [
+        {
+          "title": "Lesson 1: What is TypeScript?",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_4866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD09hVmDtTUGpFjIsZBdwnjw6ddjg",
+          "time_start": 0
+        },
+        {
+          "title": "Lesson 2: Setup & First Compile",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_191833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzA9IpF7WQBoaglqi-nAkOKsEcCg",
+          "time_start": 189
+        },
+        {
+          "title": "Lesson 3: Running TS Fast: tsx & Watch",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_400800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdds1btgCjN0bvmatTcIrlCp_TfA",
+          "time_start": 395
+        },
+        {
+          "title": "Lesson 4: Type Annotations",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_581766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBw5xS_oPuQZl3SoTnWRL644TIfEQ",
+          "time_start": 578
+        },
+        {
+          "title": "Lesson 5: Type Inference",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_754233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuVr_J6zHRHgWIeDPwMULuK82IKQ",
+          "time_start": 754
+        },
+        {
+          "title": "Lesson 6: Primitive Types",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_926266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_L79jOYkQlhva7zg9Zt_9YI1bDQ",
+          "time_start": 926
+        },
+        {
+          "title": "Lesson 7: Arrays",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_1097266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAx1NBDz-gYXhAlHCbX6awMIybHJw",
+          "time_start": 1097
+        },
+        {
+          "title": "Lesson 8: Tuples",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_1280133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0zkM4ZxmsdoPs1rDX-6lDht9XpA",
+          "time_start": 1280
+        },
+        {
+          "title": "Lesson 9: any vs unknown",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_1429100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnTc_0FiOcXQpl84qg-FDR9ad_6A",
+          "time_start": 1429
+        },
+        {
+          "title": "Lesson 10: Functions in Depth",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_1624066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6PoKQMS4eJvlUAi9spPiHJLqshQ",
+          "time_start": 1624
+        },
+        {
+          "title": "Lesson 11: void & never",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_1802066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQs6-78p0YFAhN3Qde4h3wb8RWiQ",
+          "time_start": 1802
+        },
+        {
+          "title": "Lesson 12: Object Types",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_1975033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPo_aPXf3XmvsiF25Jo9TgyKGSsw",
+          "time_start": 1969
+        },
+        {
+          "title": "Lesson 13: Optional & Readonly Properties",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_2137966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3Wp4hCRMdftdhMzo8QO1RzCzvjQ",
+          "time_start": 2134
+        },
+        {
+          "title": "Lesson 14: Type Aliases",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_2305000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzIqwX8JuHgK7x5Qt7yPoTjYH97g",
+          "time_start": 2305
+        },
+        {
+          "title": "Lesson 15: Interfaces",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_2467000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMgD0YZNnQh-qj-u0dCVDjtQ2w6g",
+          "time_start": 2467
+        },
+        {
+          "title": "Lesson 16: type vs interface",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_2661000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB16YMtJU-pwgutKYgT_Vyal3V-TQ",
+          "time_start": 2631
+        },
+        {
+          "title": "Lesson 17: Union Types",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_2814966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkeCBEFRE2Igst9p5QcSRRlt9jRA",
+          "time_start": 2810
+        },
+        {
+          "title": "Lesson 18: Literal Types",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_2970300.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHt0Yboq2n8Z5v8IBaskUPZODdGA",
+          "time_start": 2970
+        },
+        {
+          "title": "Lesson 19: Narrowing",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_3139300.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJsYCHn6fHK__Keh355oDcRK5vUw",
+          "time_start": 3139
+        },
+        {
+          "title": "Lesson 20: Discriminated Unions",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_3329233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtRHZ0mNTbzdF-v9f5ax3I5KjA7g",
+          "time_start": 3327
+        },
+        {
+          "title": "Lesson 21: Intersection Types",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_3508200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_ViJSvwX88ZAj4NX0uzyqCP265Q",
+          "time_start": 3508
+        },
+        {
+          "title": "Lesson 22: null, undefined & Safe Access",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_3669166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7kmYA26GBbZxWnYdi4KmDygL6ew",
+          "time_start": 3666
+        },
+        {
+          "title": "Lesson 23: Enums & as const",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_3861133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATx5Jg8qoZUPgO6p25OsTNxVxfCA",
+          "time_start": 3861
+        },
+        {
+          "title": "Lesson 24: Type Assertions",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_4054233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnlUBSvdQRQ2T7oumvOT60YnQERA",
+          "time_start": 4049
+        },
+        {
+          "title": "Lesson 25: Function Types & Overloads",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_4243066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfK2n0HPepnsH2UwpG_YRGSi5XCw",
+          "time_start": 4240
+        },
+        {
+          "title": "Lesson 26: Classes",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_4430066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_nrwZNCtrw240pIThJPc74LaeRQ",
+          "time_start": 4430
+        },
+        {
+          "title": "Lesson 27: Access Modifiers",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_4605133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_DfnvnNDhdp-_X5DeCQDXEVI_hw",
+          "time_start": 4601
+        },
+        {
+          "title": "Lesson 28: Getters, Setters & Static",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_4788000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBk94Y4M_ZBibo8bdLs70DSj2J1qw",
+          "time_start": 4785
+        },
+        {
+          "title": "Lesson 29: Inheritance",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_4968033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6A3xzDEG2Q5hn19Ytm2-y7xrbOw",
+          "time_start": 4940
+        },
+        {
+          "title": "Lesson 30: implements & Abstract Classes",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_5116900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLm7VGzXjFlQ-bPY3tnMdIRP1HuA",
+          "time_start": 5114
+        },
+        {
+          "title": "Lesson 31: Generics: The Basics",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_5305000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAomEe0poy-utRK5Hr1a3KHCRg85Q",
+          "time_start": 5303
+        },
+        {
+          "title": "Lesson 32: Generic Constraints",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_5494833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVNIqmtp4_EHA0LFsxM5rx2agCKQ",
+          "time_start": 5491
+        },
+        {
+          "title": "Lesson 33: Generic Types & Classes",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_5675800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeC_rq9w3UTdNlrEq5w2IOxuUXOQ",
+          "time_start": 5670
+        },
+        {
+          "title": "Lesson 34: keyof & typeof",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_5843833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkQVIewHgvY8FdejqlQCegPJljGQ",
+          "time_start": 5839
+        },
+        {
+          "title": "Lesson 35: Indexed Access Types",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_6026833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADOcJX1dG-dABTXUjfHF3UfYdiUg",
+          "time_start": 6023
+        },
+        {
+          "title": "Lesson 36: Utility Types: Partial, Required, Readonly",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_6182266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyapM9_iIWayntwoKHYZw6apNEQw",
+          "time_start": 6177
+        },
+        {
+          "title": "Lesson 37: Utility Types: Pick, Omit, Record",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_6346166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6vOlfm1hKAuqabdtWVJi6Xhe31Q",
+          "time_start": 6342
+        },
+        {
+          "title": "Lesson 38: More Utility Types",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_6514133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2oWdDu_F9gmO9-BDg6UT_ckePiw",
+          "time_start": 6514
+        },
+        {
+          "title": "Lesson 39: Mapped Types",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_6685166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6Zviz2bayuOstSLVlabvHeFedug",
+          "time_start": 6685
+        },
+        {
+          "title": "Lesson 40: Conditional Types & infer",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_6858066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpCJmwoot5ab7g0z0MOM-SYplqng",
+          "time_start": 6854
+        },
+        {
+          "title": "Lesson 41: Template Literal Types",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_7030166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzsdG5vztY9uSnx4SKGpIFGvM3sw",
+          "time_start": 7030
+        },
+        {
+          "title": "Lesson 42: Custom Type Guards",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_7209000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNwdivhy8rx9tl8RW73xdWCA-QNA",
+          "time_start": 7206
+        },
+        {
+          "title": "Lesson 43: The satisfies Operator",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_7390000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8QMQsVlMe4dRGAHurj1Tbw0ADXw",
+          "time_start": 7390
+        },
+        {
+          "title": "Lesson 44: Modules: import & export",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_7579933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZonNN0V9WZF85FVx1KfyCY_ae1w",
+          "time_start": 7574
+        },
+        {
+          "title": "Lesson 45: tsconfig.json Essentials",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_7755033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHMFTmvxK3qUd7_Qxgb6I1oQr01g",
+          "time_start": 7754
+        },
+        {
+          "title": "Lesson 46: Declaration Files & @types",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_7968933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAriFzLPMCKN-uhiE4vpzlO_MfpQ",
+          "time_start": 7963
+        },
+        {
+          "title": "Lesson 47: Async, Promises & Fetching Data",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_8180833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAN41x_uI32-Q_31-deH05KW_mDvA",
+          "time_start": 8178
+        },
+        {
+          "title": "Lesson 48: Error Handling",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_8368366.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChmOvoDf3TCpiosxx0mzh3HpVj0A",
+          "time_start": 8368
+        },
+        {
+          "title": "Lesson 49: TypeScript & the DOM",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_8554266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFWFLC68VGDgAn2vqwn47Ylzozrg",
+          "time_start": 8554
+        },
+        {
+          "title": "Lesson 50: Final Project: Task Manager",
+          "thumbnail": "https://i.ytimg.com/vi/OkT8-2INoWA/hqdefault_8759733.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUJhMsVV_2KtULKnk7rlVFxm7y7g",
+          "time_start": 8759
+        }
+      ]
+    },
+    {
+      "position_on_page": 22,
+      "title": "React & TypeScript - Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=FJDVKeh7RJI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=FJDVKeh7RJI",
+      "video_id": "FJDVKeh7RJI",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 798055,
+      "length": "1:32:59",
+      "description": "Learn how to build React apps using TypeScript. First, learn the basics of TypeScript. Then, learn how to integrate TypeScript in a ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/FJDVKeh7RJI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW5NINdB8xinzOEcVP3fv0TvQ9SA",
+        "rich": "https://i.ytimg.com/an_webp/FJDVKeh7RJI/mqdefault_6s.webp?du=3000&sqp=CMCOhdgG&rs=AOn4CLC4qa14h5Nn_fF6ES26S2Cr_kWNCg"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_15833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7x1uYGtTlTOIouWrYS8EkvJ08UQ",
+          "time_start": 0
+        },
+        {
+          "title": "Typescript vs Javascript",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_52833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsrrYKVkfqXntv323XG3Mk0k3Afw",
+          "time_start": 31
+        },
+        {
+          "title": "Project Overview",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_77900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAoGLI_wIrZMELTM1XAjVGHG2k7g",
+          "time_start": 57
+        },
+        {
+          "title": "Setup React Typescript Project",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_147366.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApHk5R6xF4B-owoXVMMdOW_xTPFA",
+          "time_start": 147
+        },
+        {
+          "title": "Basic Types in Typescript",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_320866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyxnQzaztn1bqti4atrnMCvIA5Jw",
+          "time_start": 297
+        },
+        {
+          "title": "Object Type",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_462866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDORPZB9un9UlmnZh6izarn1hfxqg",
+          "time_start": 450
+        },
+        {
+          "title": "Optional Field in Objects",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_558233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6jHDBX0liW3upd4R-hb237I5U3Q",
+          "time_start": 543
+        },
+        {
+          "title": "Array of Object Type",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_578800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBj0up82ugm5W5EpDZVUxEDmlUxYQ",
+          "time_start": 560
+        },
+        {
+          "title": "Union Type",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_620266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNTswxL92icTJ-z8pb0qZ3TgmR4g",
+          "time_start": 595
+        },
+        {
+          "title": "Function Types",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_643300.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwK_TBHsMFX2Jf6NkqhhRYV-z44A",
+          "time_start": 625
+        },
+        {
+          "title": "Any Type",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_729133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqwoOG5wVZaQ9xdY8AZyLGz9v1rQ",
+          "time_start": 726
+        },
+        {
+          "title": "unknown and never Type",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_764133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6zPwTtN7NHuL3HWHYitfwQ-a1OQ",
+          "time_start": 755
+        },
+        {
+          "title": "Aliases ( type and interface )",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_801766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2iS_GD4R110zEgrkDkwqLX5ch3Q",
+          "time_start": 772
+        },
+        {
+          "title": "Extending types",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_887100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4hPMZEIzr_xcvzWPdGMi9blzy2g",
+          "time_start": 876
+        },
+        {
+          "title": "Extending interface",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_978066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEQCinwFCRFuNVvhyP5BhhbsJXSA",
+          "time_start": 953
+        },
+        {
+          "title": "Extending Classes",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_1004033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPOkMDfMaKjPbfly8r7bpmRA1YBw",
+          "time_start": 988
+        },
+        {
+          "title": "Extending type with interface ( and vice versa )",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_1008033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbG-pE-OfTdZIoGyAqXA_WoeETcw",
+          "time_start": 1005
+        },
+        {
+          "title": "React with Typescript",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_1072000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDM7jgLToO_EqPpGk3R5l-Obzfdsg",
+          "time_start": 1042
+        },
+        {
+          "title": "Functional Component type",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_1126966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaVwVj5aMa1GrYUAeIkDZQXa6xtA",
+          "time_start": 1102
+        },
+        {
+          "title": "Creating Input UI",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_1187933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpskxzeSzBzvJjY1z579ztYNLOGw",
+          "time_start": 1159
+        },
+        {
+          "title": "useState Hook with Typescript",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_1606033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCr4q9qxtA8WiX0jx_uidpR2-joXQ",
+          "time_start": 1582
+        },
+        {
+          "title": "PropTypes - Passing props to component",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_1671966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdatXgSqMSvcJvk0GSPTjYlpFC0w",
+          "time_start": 1659
+        },
+        {
+          "title": "Reusable todo interface",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_1840833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBk8vQhhy6aVxEVtGfsUl9v7eHj-A",
+          "time_start": 1834
+        },
+        {
+          "title": "Passing function as props",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_1992800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB75lCy1inBA2kQmAJDzXI5I_Sr5A",
+          "time_start": 1981
+        },
+        {
+          "title": "Event Type in Typescript",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_2082900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZQXELCNg_h6HhlsUVD3D9hHlbeA",
+          "time_start": 2054
+        },
+        {
+          "title": "Create Todo Logic",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_2132800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8mR-2ozerTjPBOVrpzlabzavgaw",
+          "time_start": 2120
+        },
+        {
+          "title": "useRef Hook with Typescript",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_2274200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsdAPaI4y7UcjNHDABBn8ynXLodQ",
+          "time_start": 2274
+        },
+        {
+          "title": "TodoList Component",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_2456266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfwCv-epmICu-iWHo9IbkVvVzLlw",
+          "time_start": 2441
+        },
+        {
+          "title": "Passing props to SingleTodo",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_2741233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgRQRQnGlpcstledrXxSW76kxUOA",
+          "time_start": 2727
+        },
+        {
+          "title": "SingleTodo Component",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_2863100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB66nxbLjeH6BmVWSXSGmU1DHf85Q",
+          "time_start": 2834
+        },
+        {
+          "title": "Todo Complete Functionality",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_3149066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkqV7s2dyc2Ku1l82yFnpGfHz_Fg",
+          "time_start": 3143
+        },
+        {
+          "title": "Delete Todo Functionality",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_3311133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7EL-Zb9ZGw6ASyHoOBpbL4__Hig",
+          "time_start": 3296
+        },
+        {
+          "title": "Edit Todo Functionality",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_3373000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlf9ij2wxkxw5yxiH8SwUyESYNgw",
+          "time_start": 3355
+        },
+        {
+          "title": "Edit Bug Fix",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_3743966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxCm2KlhakQotlHoTgMFwAClFWcA",
+          "time_start": 3725
+        },
+        {
+          "title": "useReducer Hook with Typescript",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_3819200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCl4k_rxQ250eaYteBPqXp-yf22Xg",
+          "time_start": 3803
+        },
+        {
+          "title": "Homework for you",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_4033900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNSTCCKkyemahB5Uvb8NJCLda-hw",
+          "time_start": 4031
+        },
+        {
+          "title": "Building App UI for Drag and Drop",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_4050900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqCCd_oIYrag7Vzl7_icUwI_V85w",
+          "time_start": 4046
+        },
+        {
+          "title": "React Beautiful DnD Installation",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_4422000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4n7jmHAwyyMzK0RYslTM8BV5aZQ",
+          "time_start": 4393
+        },
+        {
+          "title": "completedTodos State",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_4444833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwMvwl1lFiwoGmd6K21UKPKXbnsQ",
+          "time_start": 4440
+        },
+        {
+          "title": "DragDropContext",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_4532933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJ8Q6uyy0onoISNEMI409Da7YFGA",
+          "time_start": 4521
+        },
+        {
+          "title": "Droppable Tag",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_4618833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlUL80p90XrLwqAqDqd6viSHwL0A",
+          "time_start": 4602
+        },
+        {
+          "title": "Draggable Tag",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_4851233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTnkwxvhQmMH7fLeb0eL0m_IC4mw",
+          "time_start": 4846
+        },
+        {
+          "title": "onDragEnd Logic",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_5002233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuxCyKtzBlwoTFBoTZVPHkmC4hSg",
+          "time_start": 5001
+        },
+        {
+          "title": "Drag and Drop Styling",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_5415200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYKYb5uOTjeoEMdeA3Q2GoctRZ1A",
+          "time_start": 5405
+        },
+        {
+          "title": "Outro",
+          "thumbnail": "https://i.ytimg.com/vi/FJDVKeh7RJI/hqdefault_5556166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9bFRfhLABj6fsBMjDdNsuUPX3bg",
+          "time_start": 5556
+        }
+      ]
+    },
+    {
+      "position_on_page": 23,
+      "title": "Learn TypeScript in 50 Minutes - TypeScript Beginner Crash Course",
+      "link": "https://www.youtube.com/watch?v=3mDny9XAgic",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3mDny9XAgic",
+      "video_id": "3mDny9XAgic",
+      "channel": {
+        "name": "PedroTech",
+        "channel_id": "UC8S4rDRZn6Z_StJ-hh7ph8g",
+        "link": "https://www.youtube.com/@PedroTechnologies",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/Qizn_VAgeCADuMk0RhVQ11j_9TWKrtQ1ifDGo5Yomj4Kjx29OgnHuZc6dQds5jztNlk3LAt6NA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 130566,
+      "length": "48:51",
+      "description": "Welcome to our TypeScript Crash Course! In this quick and comprehensive tutorial, we'll cover everything you need to know to ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/3mDny9XAgic/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAitMYyWanKYI7jl-_YdTTrAI_ZLA",
+        "rich": "https://i.ytimg.com/an_webp/3mDny9XAgic/mqdefault_6s.webp?du=3000&sqp=CKf4hNgG&rs=AOn4CLCX-lKl_mKcRqroBhPnDoZnPjqsPA"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/3mDny9XAgic/hqdefault_2000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB406zrwuw61Q4lQsgDMn76sv5qvA",
+          "time_start": 0
+        },
+        {
+          "title": "What is TypeScript? Why should you use it?",
+          "thumbnail": "https://i.ytimg.com/vi/3mDny9XAgic/hqdefault_16933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABjMFTySTim0l0wifY6_ReWaZu4w",
+          "time_start": 16
+        },
+        {
+          "title": "tsconfig.json Rundown",
+          "thumbnail": "https://i.ytimg.com/vi/3mDny9XAgic/hqdefault_303833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQX9wM00Ch6hO2_DqDbQhWqnugKw",
+          "time_start": 274
+        },
+        {
+          "title": "Type Annotations",
+          "thumbnail": "https://i.ytimg.com/vi/3mDny9XAgic/hqdefault_353800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfCIBK5w_4n3_HDHS5YPmMISLeUw",
+          "time_start": 350
+        },
+        {
+          "title": "Interfaces and Types",
+          "thumbnail": "https://i.ytimg.com/vi/3mDny9XAgic/hqdefault_890866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDG3ZvaYQOYpXdJrQaNdQMl-Bf_Rg",
+          "time_start": 868
+        },
+        {
+          "title": "Unions and Intersections",
+          "thumbnail": "https://i.ytimg.com/vi/3mDny9XAgic/hqdefault_1441266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3jISf-D_VtghfkP2UJrz9aDVlVw",
+          "time_start": 1440
+        },
+        {
+          "title": "Enums",
+          "thumbnail": "https://i.ytimg.com/vi/3mDny9XAgic/hqdefault_1928300.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRJnQXKbtKIu68DS7Ny7M5BqqYdg",
+          "time_start": 1920
+        },
+        {
+          "title": "Generics",
+          "thumbnail": "https://i.ytimg.com/vi/3mDny9XAgic/hqdefault_2295166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6hn2VzfKZT8asTdRovPRI-Kt1Xg",
+          "time_start": 2280
+        },
+        {
+          "title": "Read-Only Variables",
+          "thumbnail": "https://i.ytimg.com/vi/3mDny9XAgic/hqdefault_2686166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtxFEL2LB0gcokMgek89gd4i_q4g",
+          "time_start": 2660
+        }
+      ]
+    },
+    {
+      "position_on_page": 24,
+      "title": "The TypeScript Course for JS Devs",
+      "link": "https://www.youtube.com/watch?v=K01hLNDdqg4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=K01hLNDdqg4",
+      "video_id": "K01hLNDdqg4",
+      "channel": {
+        "name": "Boot dev and Web Dev Simplified",
+        "thumbnail": "https://yt3.ggpht.com/0gHrwiWK5GBK6HpbIq9p7zGJRe1b-qIc84nKQ11LFOdAikL_68rq60jnS6yel2qgh3oCgQIF=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 169316,
+      "length": "4:24:19",
+      "description": "Master TypeScript from start to finish in this immersive, hands-on course. TypeScript's meteoric rise in popularity, both on the ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/K01hLNDdqg4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAflnI-b5V_Yl67Br54VFSpXmMvRQ",
+        "rich": "https://i.ytimg.com/an_webp/K01hLNDdqg4/mqdefault_6s.webp?du=3000&sqp=CM74hNgG&rs=AOn4CLAp1xZAjuQS8CtdObGB9b1Ga5NQ9w"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/K01hLNDdqg4/hqdefault_266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCo0DG0PTSy9hpGzicDhzNsGm70Tw",
+          "time_start": 0
+        },
+        {
+          "title": "Chapter 1 - Types",
+          "thumbnail": "https://i.ytimg.com/vi/K01hLNDdqg4/hqdefault_214866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_wqZFQcvcr305YgQQ6luq7LpVsQ",
+          "time_start": 211
+        },
+        {
+          "title": "Chapter 2 - Functions",
+          "thumbnail": "https://i.ytimg.com/vi/K01hLNDdqg4/hqdefault_939100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8-WS7ssAfNa21FF6GN8ZUenE7Mg",
+          "time_start": 917
+        },
+        {
+          "title": "Chapter 3 - Unions",
+          "thumbnail": "https://i.ytimg.com/vi/K01hLNDdqg4/hqdefault_1827700.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA02euORJY72LLqT02iz2vDW8ceBg",
+          "time_start": 1798
+        },
+        {
+          "title": "Chapter 4 - Arrays",
+          "thumbnail": "https://i.ytimg.com/vi/K01hLNDdqg4/hqdefault_3343233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8CPYauaPWmQYQGfP5XB9886vOlQ",
+          "time_start": 3315
+        },
+        {
+          "title": "Chapter 5 - Objects",
+          "thumbnail": "https://i.ytimg.com/vi/K01hLNDdqg4/hqdefault_3965733.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCko7mu95gZlrGquOBb1sP9A8mtWA",
+          "time_start": 3957
+        },
+        {
+          "title": "Chapter 6 - Tuples",
+          "thumbnail": "https://i.ytimg.com/vi/K01hLNDdqg4/hqdefault_5944066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBF_5zT5FsiA1WIWaB98TsawWQBDQ",
+          "time_start": 5935
+        },
+        {
+          "title": "Chapter 7 - Intersections",
+          "thumbnail": "https://i.ytimg.com/vi/K01hLNDdqg4/hqdefault_6701000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXeZ_njWvYT7MeFXu57UUMnKPfSA",
+          "time_start": 6689
+        },
+        {
+          "title": "Chapter 8 - Interfaces",
+          "thumbnail": "https://i.ytimg.com/vi/K01hLNDdqg4/hqdefault_7349033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcaH_PmbbUPeptuAeoX5c9zLNHsg",
+          "time_start": 7322
+        },
+        {
+          "title": "Chapter 9 - Enums",
+          "thumbnail": "https://i.ytimg.com/vi/K01hLNDdqg4/hqdefault_8188966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-UIUPZKw2x2Xz5rhcsUJncjFEuA",
+          "time_start": 8163
+        },
+        {
+          "title": "Chapter 10 - Type Narrowing",
+          "thumbnail": "https://i.ytimg.com/vi/K01hLNDdqg4/hqdefault_8929166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA527WiXe70iLwyev8PE7zo6WrnZg",
+          "time_start": 8926
+        },
+        {
+          "title": "Chapter 11 - Classes",
+          "thumbnail": "https://i.ytimg.com/vi/K01hLNDdqg4/hqdefault_10691133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOrRZjcsx5XQzeYJvRx9edpJCSLA",
+          "time_start": 10686
+        },
+        {
+          "title": "Chapter 12 - Utility Types",
+          "thumbnail": "https://i.ytimg.com/vi/K01hLNDdqg4/hqdefault_11551966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJYAY9gf4AQsPOb4Nxdy1IcTfeoQ",
+          "time_start": 11546
+        },
+        {
+          "title": "Chapter 13 - Generics",
+          "thumbnail": "https://i.ytimg.com/vi/K01hLNDdqg4/hqdefault_12110166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8a86lmKVf_OZkMcXcAmKFtan6-A",
+          "time_start": 12097
+        },
+        {
+          "title": "Chapter 14 - Conditional Types",
+          "thumbnail": "https://i.ytimg.com/vi/K01hLNDdqg4/hqdefault_13188900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHYEi2ceDPjgZqQtONw4ryy4VzYA",
+          "time_start": 13161
+        },
+        {
+          "title": "Chapter 15 - Local Development",
+          "thumbnail": "https://i.ytimg.com/vi/K01hLNDdqg4/hqdefault_14452900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPqMnQPdZCWwG9u04SFRELY6mpBg",
+          "time_start": 14438
+        },
+        {
+          "title": "Outro",
+          "thumbnail": "https://i.ytimg.com/vi/K01hLNDdqg4/hqdefault_15826133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkfYDfY46Hi9K7r32ynox03rgsyw",
+          "time_start": 15799
+        }
+      ]
+    }
+  ],
+  "playlist_results": [
+    {
+      "position_on_page": 3,
+      "title": "TypeScript Tutorial",
+      "link": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI",
+      "channel": {
+        "name": "Net Ninja",
+        "channel_id": "UCW5YeuERMmlnqo4oq8vwUpg",
+        "link": "https://www.youtube.com/@NetNinja"
+      },
+      "videos": [
+        {
+          "title": "TypeScript Tutorial #1 - Introduction & Setup",
+          "length": "6:46",
+          "link": "https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI"
+        },
+        {
+          "title": "TypeScript Tutorial #2 - Compiling TypeScript",
+          "length": "10:31",
+          "link": "https://www.youtube.com/watch?v=iTZ1-85I77c&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI"
+        }
+      ],
+      "video_count": 21,
+      "thumbnail": "https://i.ytimg.com/vi/2pZmKW9-I_k/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBTFPR5k4QCbBm8_33RztkOfZkDUQ"
+    },
+    {
+      "position_on_page": 8,
+      "title": "Learn TypeScript: The Modern Way to Write JavaScript",
+      "link": "https://www.youtube.com/playlist?list=PL1BztTYDF-QNrddrcvejiw5vxSZSPIRfn",
+      "channel": {
+        "name": "procademy",
+        "channel_id": "UC5qYq6IWRqM2SYpIM_9Xp8A",
+        "link": "https://www.youtube.com/@procademy"
+      },
+      "videos": [
+        {
+          "title": "#01 Introduction to TypeScript | TypeScript Basics & Data Types | A Complete TypeScript Course",
+          "length": "11:18",
+          "link": "https://www.youtube.com/watch?v=yba10v2F5TI&list=PL1BztTYDF-QNrddrcvejiw5vxSZSPIRfn&pp=0gcJCRYF0aJEHMZM"
+        },
+        {
+          "title": "#02 Installing & Using TypeScript | TypeScript Basics & Data Types | A Complete TypeScript Course",
+          "length": "11:32",
+          "link": "https://www.youtube.com/watch?v=crH6557lVlI&list=PL1BztTYDF-QNrddrcvejiw5vxSZSPIRfn"
+        }
+      ],
+      "video_count": 93,
+      "thumbnail": "https://i.ytimg.com/vi/yba10v2F5TI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD4mdV0nOqOuttiKb8gSX5qapkB-A"
+    },
+    {
+      "position_on_page": 11,
+      "title": "TypeScript: Zero to Advanced - A Complete TypeScript Course",
+      "link": "https://www.youtube.com/playlist?list=PLLmNz6WNawqw",
+      "channel": {
+        "name": "tapaScript by Tapas Adhikary",
+        "channel_id": "UCaYr5yxgOyk599Mnb3TGh-g",
+        "link": "https://www.youtube.com/@tapasadhikary"
+      },
+      "videos": [
+        {
+          "title": "What Is TypeScript? + Complete Setup | Zero to Advanced #01",
+          "length": "30:34",
+          "link": "https://www.youtube.com/watch?v=uuEOz4NWTsY&list=PLLmNz6WNawqw"
+        },
+        {
+          "title": "Why You’re Writing Too Much TypeScript 🤯",
+          "length": "18:24",
+          "link": "https://www.youtube.com/watch?v=Iyfvii1qQ0o&list=PLLmNz6WNawqw"
+        }
+      ],
+      "video_count": 10,
+      "thumbnail": "https://i.ytimg.com/vi/uuEOz4NWTsY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCOkwagBgFK7Kun9iw6axpo7W6NcQ"
+    },
+    {
+      "position_on_page": 14,
+      "title": "TypeScript Full Course 2026 | Zero to Hero in Hindi (Beginner to Advanced)",
+      "link": "https://www.youtube.com/playlist?list=PLsjpRo2EZP1LwcaukAGmRlYsllX_0WLXF",
+      "channel": {
+        "name": "Mohit Decodes",
+        "channel_id": "UC00Ni0CJFFLpaPf3lyHx5NA",
+        "link": "https://www.youtube.com/@MohitDecodes"
+      },
+      "videos": [
+        {
+          "title": "TypeScript Tutorial #1 - Introduction | Why Learn TypeScript in 2026?",
+          "length": "8:58",
+          "link": "https://www.youtube.com/watch?v=NxV6OTZRaVM&list=PLsjpRo2EZP1LwcaukAGmRlYsllX_0WLXF"
+        },
+        {
+          "title": "TypeScript Tutorial #2 - TypeScript vs JavaScript | Dynamic vs Static Typing",
+          "length": "5:40",
+          "link": "https://www.youtube.com/watch?v=UkDcI3WGe8g&list=PLsjpRo2EZP1LwcaukAGmRlYsllX_0WLXF"
+        }
+      ],
+      "video_count": 57,
+      "thumbnail": "https://i.ytimg.com/vi/NxV6OTZRaVM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDma2AqRYG19ucCxkQDrRpgVP13ww"
+    },
+    {
+      "position_on_page": 17,
+      "title": "React TypeScript Tutorial for Beginners",
+      "link": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK",
+      "channel": {
+        "name": "Codevolution",
+        "channel_id": "UC80PWRj_ZU8Zu0HSMNVwKWw",
+        "link": "https://www.youtube.com/@Codevolution"
+      },
+      "videos": [
+        {
+          "title": "React TypeScript Tutorial - 1 - Introduction",
+          "length": "3:25",
+          "link": "https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK"
+        },
+        {
+          "title": "React TypeScript Tutorial - 2 - Getting Started",
+          "length": "4:41",
+          "link": "https://www.youtube.com/watch?v=Kt4PQlcLHco&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK"
+        }
+      ],
+      "video_count": 26,
+      "thumbnail": "https://i.ytimg.com/vi/TiSGujM22OI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBw-uPeLywto8qcUuIYd_C3pwLOhw"
+    },
+    {
+      "position_on_page": 21,
+      "title": "Typescript Tutorials for Beginners",
+      "link": "https://www.youtube.com/playlist?list=PL0Zuz27SZ-6NS8GXt5nPrcYpust89zq_b",
+      "channel": {
+        "name": "Dave Gray",
+        "channel_id": "UCY38RvRIxYODO4penyxUwTg",
+        "link": "https://www.youtube.com/@DaveGrayTeachesCode"
+      },
+      "videos": [
+        {
+          "title": "Typescript for Beginners - Starter Lesson",
+          "length": "25:30",
+          "link": "https://www.youtube.com/watch?v=MOO5vrtTUTE&list=PL0Zuz27SZ-6NS8GXt5nPrcYpust89zq_b"
+        },
+        {
+          "title": "Typescript Basic Types - Beginners Lesson",
+          "length": "16:16",
+          "link": "https://www.youtube.com/watch?v=bDCPYSanB7A&list=PL0Zuz27SZ-6NS8GXt5nPrcYpust89zq_b&pp=0gcJCRYF0aJEHMZM"
+        }
+      ],
+      "video_count": 26,
+      "thumbnail": "https://i.ytimg.com/vi/MOO5vrtTUTE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBZkAckj9ssxiLRgLg680sgxdRiFQ"
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=TypeScript+full+course+tutorial+for+Frontend+Developer&gl=in&hl=en",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=TypeScript%20full%20course%20tutorial%20for%20Frontend%20Developer&sp=SBSCAQtkNTZtRzdEZXpHc4IBIlBMNGNVeGVHa2NDOWdVZ3IzOVFfeUQ2di1iU3lNd0tQVUmCAQszMExXamhaemc1MIIBC2FKUDFBYlpTcXo4ggEiUEwxQnp0VFlERi1RTnJkZHJjdmVqaXc1dnhTWlNQSVJmboIBC2lKa2FBSlV6ZVdRggELeWRrUWxKaG9kaW-CAQ1QTExtTno2V05hd3F3ggELRFRSMnA3RDZ0amuCAQtUUEFDQUJRVEh2TYIBIlBMc2pwUm8yRVpQMUx3Y2F1a0FHbVJsWXNsbFhfMFdMWEaCAQt6UW5CUTR0QjNaQYIBC1Nwd3pSRFVRMUdJggEiUExDM3k4LXJGSHZ3aTFBWGlqR1RLTTBCS3RIelZDLUxTS4IBC2dpZUVRRklmZ1ljggELT2tUOC0ySU5vV0GCASJQTDBadXoyN1NaLTZOUzhHWHQ1blByY1lwdXN0ODl6cV9iggELRkpEVktlaDdSSkmCAQszbURueTlYQWdpY4IBC0swMWhMTkRkcWc0sgEGCgQIGRAC",
+    "next_page_token": "SBSCAQtkNTZtRzdEZXpHc4IBIlBMNGNVeGVHa2NDOWdVZ3IzOVFfeUQ2di1iU3lNd0tQVUmCAQszMExXamhaemc1MIIBC2FKUDFBYlpTcXo4ggEiUEwxQnp0VFlERi1RTnJkZHJjdmVqaXc1dnhTWlNQSVJmboIBC2lKa2FBSlV6ZVdRggELeWRrUWxKaG9kaW-CAQ1QTExtTno2V05hd3F3ggELRFRSMnA3RDZ0amuCAQtUUEFDQUJRVEh2TYIBIlBMc2pwUm8yRVpQMUx3Y2F1a0FHbVJsWXNsbFhfMFdMWEaCAQt6UW5CUTR0QjNaQYIBC1Nwd3pSRFVRMUdJggEiUExDM3k4LXJGSHZ3aTFBWGlqR1RLTTBCS3RIelZDLUxTS4IBC2dpZUVRRklmZ1ljggELT2tUOC0ySU5vV0GCASJQTDBadXoyN1NaLTZOUzhHWHQ1blByY1lwdXN0ODl6cV9iggELRkpEVktlaDdSSkmCAQszbURueTlYQWdpY4IBC0swMWhMTkRkcWc0sgEGCgQIGRAC"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=TypeScript+full+course+tutorial+for+Frontend+Developer",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=TypeScript+full+course+tutorial+for+Frontend+Developer&sp=SBSCAQtkNTZtRzdEZXpHc4IBIlBMNGNVeGVHa2NDOWdVZ3IzOVFfeUQ2di1iU3lNd0tQVUmCAQszMExXamhaemc1MIIBC2FKUDFBYlpTcXo4ggEiUEwxQnp0VFlERi1RTnJkZHJjdmVqaXc1dnhTWlNQSVJmboIBC2lKa2FBSlV6ZVdRggELeWRrUWxKaG9kaW-CAQ1QTExtTno2V05hd3F3ggELRFRSMnA3RDZ0amuCAQtUUEFDQUJRVEh2TYIBIlBMc2pwUm8yRVpQMUx3Y2F1a0FHbVJsWXNsbFhfMFdMWEaCAQt6UW5CUTR0QjNaQYIBC1Nwd3pSRFVRMUdJggEiUExDM3k4LXJGSHZ3aTFBWGlqR1RLTTBCS3RIelZDLUxTS4IBC2dpZUVRRklmZ1ljggELT2tUOC0ySU5vV0GCASJQTDBadXoyN1NaLTZOUzhHWHQ1blByY1lwdXN0ODl6cV9iggELRkpEVktlaDdSSkmCAQszbURueTlYQWdpY4IBC0swMWhMTkRkcWc0sgEGCgQIGRAC",
+    "next_page_token": "SBSCAQtkNTZtRzdEZXpHc4IBIlBMNGNVeGVHa2NDOWdVZ3IzOVFfeUQ2di1iU3lNd0tQVUmCAQszMExXamhaemc1MIIBC2FKUDFBYlpTcXo4ggEiUEwxQnp0VFlERi1RTnJkZHJjdmVqaXc1dnhTWlNQSVJmboIBC2lKa2FBSlV6ZVdRggELeWRrUWxKaG9kaW-CAQ1QTExtTno2V05hd3F3ggELRFRSMnA3RDZ0amuCAQtUUEFDQUJRVEh2TYIBIlBMc2pwUm8yRVpQMUx3Y2F1a0FHbVJsWXNsbFhfMFdMWEaCAQt6UW5CUTR0QjNaQYIBC1Nwd3pSRFVRMUdJggEiUExDM3k4LXJGSHZ3aTFBWGlqR1RLTTBCS3RIelZDLUxTS4IBC2dpZUVRRklmZ1ljggELT2tUOC0ySU5vV0GCASJQTDBadXoyN1NaLTZOUzhHWHQ1blByY1lwdXN0ODl6cV9iggELRkpEVktlaDdSSkmCAQszbURueTlYQWdpY4IBC0swMWhMTkRkcWc0sgEGCgQIGRAC"
+  }
+}

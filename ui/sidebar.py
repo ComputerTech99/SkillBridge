@@ -13,6 +13,7 @@ from ui.state import (
     load_sample_resumes,
     run_market_analysis,
     run_offline_demo_snapshot,
+    run_quick_demo,
 )
 from ui.styles import render_skill_pills_html
 
@@ -63,13 +64,51 @@ def _execute_analysis(
         st.session_state["last_error"] = str(exc)
 
 
+def _activate_quick_preset(preset: dict[str, str]) -> None:
+    """Sync sidebar state to the chosen preset and execute 1-click analysis."""
+    st.session_state["last_error"] = None
+    st.session_state["resume_input_mode"] = _INPUT_MODE_PRESET
+    st.session_state["demo_persona_select"] = preset["label"]
+    st.session_state["_last_preset"] = preset["label"]
+    st.session_state["target_role_input"] = preset["role"]
+    city = preset["city"] if preset["city"] in CITY_OPTIONS else CITY_OPTIONS[0]
+    st.session_state["selected_city_input"] = city
+    try:
+        with st.spinner(f"Running 1-click demo for {preset['role']}..."):
+            run_quick_demo(preset["text"], preset["role"], city)
+    except Exception as exc:
+        st.session_state["last_error"] = str(exc)
+
+
 def render_sidebar() -> None:
     """Render the SkillBridge sidebar controls and extracted resume skills summary."""
     with st.sidebar:
-        st.header("Your Profile & Target Market")
-
         presets = load_sample_resumes()
         preset_map = {item["label"]: item for item in presets}
+
+        st.subheader("1-Click Sample Resumes")
+        student_preset = presets[0]
+        backend_preset = presets[1] if len(presets) > 1 else presets[0]
+        q_col1, q_col2 = st.columns(2)
+        with q_col1:
+            if st.button(
+                "CS Final-Year Student",
+                key="quick_demo_student_btn",
+                width="stretch",
+                help="1-click demo using the CS Final-Year Student resume",
+            ):
+                _activate_quick_preset(student_preset)
+        with q_col2:
+            if st.button(
+                "Junior Backend Dev",
+                key="quick_demo_backend_btn",
+                width="stretch",
+                help="1-click demo using the Junior Backend Python Dev resume",
+            ):
+                _activate_quick_preset(backend_preset)
+
+        st.divider()
+        st.header("Your Profile & Target Market")
 
         input_mode = st.radio(
             "Resume Input",
